@@ -1,5 +1,5 @@
-Topic: Core - Web UI meeting
-Date: Aug 28, 2018 12:29 PM Eastern Time (US and Canada)
+Topic: Core -  Web UI meeting
+Start Time : Aug 28, 2018 09:59
 
-Share recording with viewers:
-https://zoom.us/recording/share/WC4MVwmQy9ohVfhLRIVyJ64H7heEawZVsd2HHBwwwbGwIumekTziMw 
+Meeting Recording:
+https://zoom.us/recording/share/rdBcSbLTXu6tkuM5yKok4mce0YrArnC0Y8Dszur1ykywIumekTziMw
