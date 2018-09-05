@@ -1,2 +1,2 @@
-# Meeting Minutes
+# Meeting Minutes for CI/CD
 
