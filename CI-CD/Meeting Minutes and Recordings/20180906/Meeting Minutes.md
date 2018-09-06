@@ -9,5 +9,7 @@ Current Goals/Milestones:
 3.	Complete CI/CD pipeline with automated testing along with improved install testing
 4.	Conversion to OMP as host of build
 
+Agenda Items:
+
 Roundtable
 
