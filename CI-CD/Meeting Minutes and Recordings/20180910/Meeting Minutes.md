@@ -16,5 +16,3 @@ Agenda Items
 Roundtable
 
 Meeting Minutes/Recording
-
-https://zoom.us/recording/share/BSLdizlpfIgwjkzc-_VcVS94Mgm8Is03nX2y5wGsq1KwIumekTziMw?startTime=1536246279000
