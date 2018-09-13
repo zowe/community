@@ -11,6 +11,8 @@ Current Goals/Milestones
 Agenda Items
 
 - Waffle Board Cleanup
+- Playback topics
+- Repo Migration
 
 Roundtable
 
