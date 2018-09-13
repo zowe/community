@@ -16,5 +16,21 @@ Agenda Items
 
 Roundtable
 
+Mark:
+- Cleaned up waffle Items
+- Finalized next set of Repos to migrate to Open Source
+- Will transfer Imperative build to the OMP next week since it has no dependencies
+
+Bruce:
+- OMP requires sizing of box that we use to build. Matt sent this to the OMP
+
+Nick:
+- Repo migration. Code Scan will be initiated by Steve W
+- Playback setup for Sept 17
+
+Jack:
+- Added additional testcases to build
+- Continued work on updated download process (Chunking)
+
 Meeting Minutes/Recording
 N/A
