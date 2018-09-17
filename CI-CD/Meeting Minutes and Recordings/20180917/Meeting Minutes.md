@@ -10,8 +10,8 @@ Current Goals/Milestones
 
 Agenda Items
 
-- Waffle Board Cleanup
-- 
+- Build Status
+- Waffle Board Review
 
 Roundtable
 
