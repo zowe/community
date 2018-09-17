@@ -1,4 +1,4 @@
-# Zowe Sprint Playback Meeting Minutes
+# Zowe Sprint Playback Agenda and Meeting Minutes
 
 Introduction
 
