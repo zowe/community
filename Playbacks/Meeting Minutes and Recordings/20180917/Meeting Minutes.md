@@ -15,4 +15,4 @@ Core (CLI) - Zowe Visual Studio Code Extensions (https://marketplace.visualstudi
 Onboarding
 
 Meeting Minutes/Recording
-N/A
+https://zoom.us/recording/share/zpGaO4IoeZ835GT9cvpSxSny7cfc4O7T7gvWBfctzXWwIumekTziMw?startTime=1537191100000
