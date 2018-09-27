@@ -21,12 +21,17 @@ Agenda Items
   - Discuss what is expected to be delivered in the Playback
   - Discuss delivering the PAX file
   - Dry run for new build process
-  - What version number ? 0.9.1 or 0.9.2
-  - Date. RC is Monday
+  - What version number ? 0.9.1
+  - Date. RC is 09/28. Official candidate 10/01. Publish Release 10/03
+  - Confirm with Release Management/Leads if any new Legal is required
   - Automation improvements
-  - What is our plan/schedule for validating a release candidate?
+    - Will add static/dynamic code analysis to builds
+    - What are the manual steps today ? Contact Leads to get a list.
+  - What is our plan/schedule for validating a release candidate? Target Monday to deliver.
+    - MVD needs in house validation process. MikeV to confirm
   - Moving fwd - how do we reduce the manual testing 
   - All squads to participate
+  - Jack to use new build process. Will work with Matt to get signed builds
 
 Roundtable
 
@@ -34,7 +39,7 @@ John
 -
 
 Jack
--
+- Test Fossology for license scans.
 
 Steve
 -
@@ -42,8 +47,8 @@ Steve
 Mark
 -
 
-Mike
--
+Nick
+- Provide Jax with information.
 
 Fernanado
 -
