@@ -4,6 +4,9 @@ Introduction
 
 The Zowe Squads will meet on at the end of each Sprint to demonstrate what they have developed.
 
+Meeting Recording:
+https://zoom.us/recording/share/eFW7hrs40XDgGiPUVvFflggGXzl_1s0asI3aglqHqFmwIumekTziMw
+
 Agenda Items
 
 Summary of Changes
@@ -55,6 +58,3 @@ CLI Squad
 - Delivering Zowe CLI CICS plugin
 - Delivering additional Zowe CLI commands and new features
 - Prepared to migrate Zowe CLI related repositories/documentation to the Zowe public space. We intend to complete the migration in the upcoming iteration.
-
-Meeting Recording:
-https://zoom.us/recording/share/eFW7hrs40XDgGiPUVvFflggGXzl_1s0asI3aglqHqFmwIumekTziMw
