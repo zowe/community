@@ -56,10 +56,5 @@ CLI Squad
 - Delivering additional Zowe CLI commands and new features
 - Prepared to migrate Zowe CLI related repositories/documentation to the Zowe public space. We intend to complete the migration in the upcoming iteration.
 
-
-Meeting Minutes/Recording
-Topic: CI/CD Scrum
-Start Time : Oct 01, 2018 08:49
-
 Meeting Recording:
 https://zoom.us/recording/share/eFW7hrs40XDgGiPUVvFflggGXzl_1s0asI3aglqHqFmwIumekTziMw
