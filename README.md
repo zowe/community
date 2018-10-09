@@ -1,2 +1,2 @@
 # community
-Community Engagement - Contribution Guidelines, Meeting Minutes, and more
+Community Engagement - For contribution guidelines, meeting minutes, and more, see the [Contribute page](https://zowe.org/contribute).
