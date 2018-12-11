@@ -17,7 +17,7 @@ Configurable address binding is being worked on
 Conversation topics:
 A proposed roadmap for the first half on 2019 was presented. See below for details.
 Theia was discussed as a candidate application for porting to Zowe.
-
+Survey results for prefered meeting times and topics were reviewed. Meeting will move to Friday morning next year.
 
 
 Tentative Zowe Virtual Desktop RoadMap - first half 2019
