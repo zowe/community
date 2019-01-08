@@ -31,7 +31,7 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
-    - Core/Web/Editor (JPL/Natasha)
+    - Core/Web/Editor (JPL/Reet)
       -
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
