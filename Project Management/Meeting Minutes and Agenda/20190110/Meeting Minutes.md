@@ -1,4 +1,4 @@
-# Meeting Minutes for Development Checkpoint
+# Development Checkpoint
 
 Introduction
 ------------
