@@ -48,7 +48,7 @@ Agenda Items
     - Documentation (Brandon/Ashley/Jim/Julie)
       -
 6. Legal Requirements
-    -
+    - Tim is discussing Licensing with OMP (SteveW). Do we need a one click license for v1.0.0
 
 7. Community Backlog
     - v0.9.6
