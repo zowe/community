@@ -23,7 +23,7 @@ Agenda Items
 ------------
 1. Start Recording
 2. ZLC Updates
-3. Current Release and Build Status (Jack/Mark). Jack will present build status and Mark will present the v1.0.0 timeline
+3. Current Release and Build Status (Jack/Mark). Jack will present build status and Mark will present the v1.0.0 release tracking (https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql)
 4. Planning:
     - SSO (Petr)
     - ZSS (JP)
