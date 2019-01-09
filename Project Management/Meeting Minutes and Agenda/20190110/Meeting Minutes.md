@@ -8,16 +8,16 @@ Schedule
 --------
 Zowe (Open Source) (November 13, 2018 - January 22, 2019)
 Sprint (v0.9.5) (November 27, 2018 - December 17, 2018)
-Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (December 17, 2018)
-Release Candidate (December 18, 2018)
+- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (December 17, 2018)
+- Release Candidate (December 18, 2018)
 
 Sprint (v0.9.6) (December 18, 2018 - January 7, 2019)
-Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 7, 2019)
-Release Candidate (January 8, 2019)
+- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 7, 2019)
+- Release Candidate (January 8, 2019)
 
 Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
-Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 21, 2019)
-Zowe 1.0.0 GA (January 22, 2019)
+- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 21, 2019)
+- Zowe 1.0.0 GA (January 22, 2019)
 
 Agenda Items
 ------------
