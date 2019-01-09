@@ -22,8 +22,8 @@ Zowe 1.0.0 GA (January 22, 2019)
 Agenda Items
 ------------
 1. Start Recording
-2. Discuss v0.9.6
-3. ZLC Updates
+2. ZLC Updates
+3. Current Release and Build Status (Jack/Mark). Jack will present build status and Mark will present the v1.0.0 timeline
 4. Planning:
     - Booked a call on 1/14 to discuss how the squads will integrate the Single Sign-On solution into Zowe. Petr will provide material.
     -
