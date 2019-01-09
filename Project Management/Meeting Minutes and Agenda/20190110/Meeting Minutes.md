@@ -32,7 +32,21 @@ Agenda Items
     - Automation to test all new code. What needs to be done so that we can declare v1.0.0 is ready to ship ?
 5. Squad Status:
     - Onboarding (JoeW/TimB)
-      -
+      - Supporting move to springboot and API mediation 
+      - Client support
+      - 1.0.0 Messaging PLZ REVIEW (https://ibm.box.com/s/eh5pxhodvp38cwb9uvnnu9i5vjja9468)
+      - Zowe 1.0.0 OMP Marketing
+       - Webinar (week of Jan 22nd)
+        - Planning Docs: https://ibm.box.com/s/anwc55w1btb3p79yskkt3ryannixt299
+       - Analyst update by document
+       - Social Promotion
+       - Podcast (Matt H or ZLC volunteer?)
+       - Systems magazine update
+      - Open MeetUp planning doc: https://ibm.box.com/s/tvobjzbn4xes4t6p9cebyhivq7e79v37
+      - Developing 2019 blogging and article plan
+      - Developing 2019 activities plan with the OMP
+      - Zowe.org homepage refresh based on client feedback
+      
     - Core/Web/Editor (JPL/Reet)
       - Multi window support is in progress
       - File upload features are in QA for the Zowe File Transfer Application
