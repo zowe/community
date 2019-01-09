@@ -7,6 +7,7 @@ To provide overall project status and to have a place to identify all critical i
 Schedule
 --------
 Zowe (Open Source) (November 13, 2018 - January 22, 2019)
+
 Sprint (v0.9.5) (November 27, 2018 - December 17, 2018)
 - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (December 17, 2018)
 - Release Candidate (December 18, 2018)
