@@ -24,7 +24,7 @@ Agenda Items
 ------------
 1. Start Recording
 2. ZLC Updates
-3. Current Release and Build Status (Jack/Mark). Jack will present build status and Mark will present the v1.0.0 release tracking (https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql)
+3. Current Release and Build Status (Jack/Mark)
 4. Planning:
     - SSO (Petr)
     - ZSS (JP)
@@ -42,7 +42,9 @@ Agenda Items
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      -
+      - Delivered v0.9.5 (1/9)
+      - v0.9.6 in progress but this release will not be published and instead the squads will focus on v1.0.0
+      - Release Tracking for v1.0.0 (https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql)
     - Documentation (Brandon/Ashley/Jim/Julie)
       -
 6. Legal Requirements
