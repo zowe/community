@@ -25,8 +25,10 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark). Jack will present build status and Mark will present the v1.0.0 timeline
 4. Planning:
-    - Booked a call on 1/14 to discuss how the squads will integrate the Single Sign-On solution into Zowe. Petr will provide material.
-    -
+    - SSO (Petr)
+    - ZSS (JP)
+    - Tomcat (Joe/Steve)
+    - Automation to test all new code. What needs to be done so that we can declare v1.0.0 is ready to ship ?
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
