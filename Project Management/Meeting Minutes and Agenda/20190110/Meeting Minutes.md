@@ -32,7 +32,7 @@ Agenda Items
     - Automation to test all new code. What needs to be done so that we can declare v1.0.0 is ready to ship ?
 5. Squad Status:
     - Onboarding (JoeW/TimB)
-      - Supporting move to springboot and API mediation 
+      - Supporting move to springboot and API mediation
       - Client support
       - 1.0.0 Messaging PLZ REVIEW (https://ibm.box.com/s/eh5pxhodvp38cwb9uvnnu9i5vjja9468)
       - Zowe 1.0.0 OMP Marketing
@@ -46,23 +46,27 @@ Agenda Items
       - Developing 2019 blogging and article plan
       - Developing 2019 activities plan with the OMP
       - Zowe.org homepage refresh based on client feedback
-      
+
     - Core/Web/Editor (JPL/Reet)
       - Multi window support is in progress
       - File upload features are in QA for the Zowe File Transfer Application
       - ZSS Server is being open sourced and the code review for the open sourcing is underway
     - Core/CLI  (Mike B/Jessica T or Kyle?)
-      -
+      - updating build scripts/guidelines for new version scheme for 1.0.0
+      - IMS application education
+      - Plugins
+      - MikeB: Can we change/break components as we move forward ?
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
-      -
+      - Previous
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Delivered v0.9.5 (1/9)
       - v0.9.6 in progress but this release will not be published and instead the squads will focus on v1.0.0
       - Release Tracking for v1.0.0 (https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql)
     - Documentation (Brandon/Ashley/Jim/Julie)
-      -
+      - None
 6. Legal Requirements
     - Tim is discussing Licensing with OMP (SteveW). Do we need a one click license for v1.0.0
+    - Legal setup for next week for strategy session
 
 7. Community Backlog
     - v0.9.6
@@ -70,9 +74,14 @@ Agenda Items
     - v1.0.0
       - https://waffle.io/zowe/community?milestone=22-01-19%20-%201.0.0,19-01-22%20-%201.0.0,22-01-19%201.0.0,19-01-22%201.0.0
 8. Roundtable
-    -
+    - None
+
+Action Items
+------------
+- We need documention/samples/website to describe move from Liberty to Tomcat
+- Need to raise issue with the ZlC about code changes that would break components, ie. APIs
 
 
-Meeting Minutes/Recording
+Recording
 -------------------------
-N/A
+https://zoom.us/recording/share/BwXH3za3rzx8HSXaOJcKxrXHllpTuu16OxFqF6nUugSwIumekTziMw
