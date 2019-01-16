@@ -18,7 +18,7 @@ Sprint (v0.9.6) (December 18, 2018 - January 7, 2019)
 
 Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
 - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 21, 2019)
-- Zowe 1.0.0 GA (January 22, 2019)
+- Zowe 1.0.0 GA (February 5, 2019)
 
 Agenda Items
 ------------
