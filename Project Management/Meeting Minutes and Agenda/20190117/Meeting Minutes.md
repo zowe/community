@@ -28,14 +28,24 @@ Agenda Items
 4. Planning:
     - SSO Integration Status
     - ZSS (JP)
+        - Source code ready, pending IBM review and LF scan
+        - IBM provided all necessary module identifiers
     - Tomcat (Joe/Steve)
     -
 5. Squad Status:
     - Onboarding (JoeW/TimB)
-      -
+      - 
 
     - Core/Web/Editor (JPL/Reet)
-      -
+      - Enhancement for headers caching for Plugins completed
+      - Enhancement to allow configurable address binding completed
+      - Enhancement to make Zowe such that plugin window sizes and locations are saved
+      - Created an error reporting API for node server modules
+      - Added Node server tracing
+      - Fixed an issue with duplicated plugin load
+      - Corrected plugins API issue
+      - A dataservice versioning issue is being worked on
+      - The team is investigating how to make task bar icons accessible for visually impaired virtual desktop users
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
