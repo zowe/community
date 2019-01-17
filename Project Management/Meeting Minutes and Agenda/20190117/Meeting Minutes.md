@@ -56,7 +56,23 @@ Agenda Items
       -
 
     - Documentation (Brandon/Ashley/Jim/Julie)
-      -
+      - Adding Zowe 1.0 release notes: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md. All squads, please work with us to ensure all details are captured.
+      - Doc readiness for 1.0. Please add any items that have doc impact. 
+        - CLI:
+           - Versioning scheme change: done
+           - Bug fixes, TPSR changes
+        - WebUI: 
+           - Editor and workflow app, potential work. - done
+           - Renamed zlux-example-server and zlux-proxy-server - PR open
+           - Node tracing 
+        - APIML:
+          - Improve the documentation about the security requirements for the import of z/OSMF public certificate to the APIML truststore- working 
+          - Strip off Ca, Mfaas, eureka references https://github.com/zowe/docs-site/pull/321 - PR open
+          - White codeblock and missing TOC: https://github.com/zowe/docs-site/issues/322 - PR open
+        - API/Explorer server 
+          - Remove references to Liberty - working 
+          - Install changes, reorganization remaining work - working          
+          
 6. Legal Requirements
     -
 
