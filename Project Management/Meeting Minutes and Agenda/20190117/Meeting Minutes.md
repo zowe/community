@@ -84,6 +84,8 @@ Agenda Items
 
 6. Legal Requirements
     - The OMP wants to move away from hosting any binaries and does not want to offer support. The problem is that without the open CI/CD pipe and infrastructure, without the convenience (binary) download Zowe mat not be able to be consumed by end users.
+    - OMP only want to publish the source and not the binaries. We need to understand what this means.
+    - Will meet with Legal to go over this.
 
 7. Community Backlog
     - v1.0.0
