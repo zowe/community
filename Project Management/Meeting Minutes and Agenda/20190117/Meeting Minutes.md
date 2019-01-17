@@ -17,7 +17,7 @@ Sprint (v0.9.6) (December 18, 2018 - January 7, 2019)
 - Release Candidate (January 8, 2019)
 
 Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
-- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 21, 2019)
+- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (February 4, 2019)
 - Zowe 1.0.0 GA (February 5, 2019)
 
 Agenda Items
@@ -34,7 +34,7 @@ Agenda Items
     -
 5. Squad Status:
     - Onboarding (JoeW/TimB)
-      - 
+      -
 
     - Core/Web/Editor (JPL/Reet)
       - Enhancement for headers caching for Plugins completed
@@ -48,7 +48,7 @@ Agenda Items
       - The team is investigating how to make task bar icons accessible for visually impaired virtual desktop users
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
-      - 
+      -
 
       - Updating deployment scripts to accomodate improved versioning scheme
       - Zowe CLI IMS Plugin development
@@ -58,12 +58,13 @@ Agenda Items
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      -
+      - Preparing to build v1.0.0. Going over all license files and headers.
+      - Release tracking has the new dates https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql
 
     - Documentation (Brandon/Ashley/Jim/Julie)
-    
+
       - Adding Zowe 1.0 release notes: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md. All squads, please work with us to ensure all details are captured.
-      - Doc readiness for 1.0. Please add any items that have doc impact. 
+      - Doc readiness for 1.0. Please add any items that have doc impact.
         - CLI:
            - Versioning scheme change: done
            - Bug fixes, TPSR changes
@@ -79,9 +80,9 @@ Agenda Items
           - Remove references to Liberty - working 
           - Install changes, reorganization remaining work - working          
       - Open the doc squad meeting to the community
-      
+
 6. Legal Requirements
-    -
+    - The OMP wants to move away from hosting any binaries and does not want to offer support. The problem is that without the open CI/CD pipe and infrastructure, without the convenience (binary) download Zowe mat not be able to be consumed by end users.
 
 7. Community Backlog
     - v1.0.0
