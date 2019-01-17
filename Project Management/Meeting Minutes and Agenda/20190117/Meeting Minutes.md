@@ -31,7 +31,8 @@ Agenda Items
         - Source code ready, pending IBM review and LF scan
         - IBM provided all necessary module identifiers
     - Tomcat (Joe/Steve)
-    -
+    - Review Scan results from the OMP
+    - Playback for February 4
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
