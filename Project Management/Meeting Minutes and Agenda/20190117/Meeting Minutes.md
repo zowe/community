@@ -48,6 +48,8 @@ Agenda Items
       - The team is investigating how to make task bar icons accessible for visually impaired virtual desktop users
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
+      - 
+
       - Updating deployment scripts to accomodate improved versioning scheme
       - Zowe CLI IMS Plugin development
         - Developing IMS Start Region Command
