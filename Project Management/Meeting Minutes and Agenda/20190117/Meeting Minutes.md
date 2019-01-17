@@ -56,6 +56,7 @@ Agenda Items
       -
 
     - Documentation (Brandon/Ashley/Jim/Julie)
+    
       - Adding Zowe 1.0 release notes: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md. All squads, please work with us to ensure all details are captured.
       - Doc readiness for 1.0. Please add any items that have doc impact. 
         - CLI:
@@ -72,7 +73,8 @@ Agenda Items
         - API/Explorer server 
           - Remove references to Liberty - working 
           - Install changes, reorganization remaining work - working          
-          
+      - Open the doc squad meeting to the community
+      
 6. Legal Requirements
     -
 
