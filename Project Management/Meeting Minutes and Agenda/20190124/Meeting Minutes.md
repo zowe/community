@@ -48,7 +48,8 @@ Agenda Items
 
     - Documentation (Brandon/Ashley/Jim/Julie)
       - Preparing docs-staging branch for publishing 1.0, archiving 0.9.5
-      - Adding TPSR legal docs for CLI and APIML. Waiting for update/instruction on the other components by end of week. 
+      - Adding TPSR legal docs for CLI and APIML. Waiting for update/instruction on the other components by end of week.
+      - Doc squad calls are now open to the community via Zoom. Wednesdays @ 9:30AM Eastern 
 
 6. Legal Requirements
     - The OMP working on LLC/EULA
