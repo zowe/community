@@ -27,7 +27,7 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Planning:
     - ZSS (JP)
-        -
+        - Code review underway, waiting for IBM's approval re Intellectual Property
     - Tomcat (Joe/Steve)
         -
 5. Squad Status:
