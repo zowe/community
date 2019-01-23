@@ -47,7 +47,8 @@ Agenda Items
       - Release tracking has the new dates https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql
 
     - Documentation (Brandon/Ashley/Jim/Julie)
-      -
+      - Preparing docs-staging branch for publishing 1.0, archiving 0.9.5
+      - Adding TPSR legal docs for CLI and APIML. Waiting for update/instruction on the other components by end of week. 
 
 6. Legal Requirements
     - The OMP working on LLC/EULA
