@@ -35,7 +35,7 @@ Agenda Items
       -
 
     - Core/Web/Editor (JPL/Reet)
-      -
+      - Adding alerts for session expiry
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       - Updating deployment scripts to accommodate new versioning scheme
