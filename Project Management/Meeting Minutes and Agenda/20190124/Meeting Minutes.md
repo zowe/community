@@ -49,7 +49,7 @@ Agenda Items
     - Documentation (Brandon/Ashley/Jim/Julie)
       - Preparing docs-staging branch for publishing 1.0, archiving 0.9.5
       - Adding TPSR legal docs for CLI and APIML. Waiting for update/instruction on the other components by end of week.
-      - Doc squad calls are now open to the community via Zoom. Wednesdays @ 9:30AM Eastern 
+      - Doc squad calls are now open to the community via Zoom. Wednesdays @ 9:30AM Eastern Meeting minutes: https://github.com/zowe/community/tree/master/Docs/Meeting%20Minutes%20and%20Recordings
 
 6. Legal Requirements
     - The OMP working on LLC/EULA
