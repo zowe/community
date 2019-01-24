@@ -36,6 +36,9 @@ Agenda Items
 
     - Core/Web/Editor (JPL/Reet)
       - Adding alerts for session expiry
+      - ZIS install script is being tested
+      - Researching TopSecret and ACF2 integrations
+      - QA testing file transfer app upload feature
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       - Updating deployment scripts to accommodate new versioning scheme
