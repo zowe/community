@@ -42,7 +42,9 @@ Agenda Items
       - Updating Zowe CLI and Imperative to most current version of typescript. This is part of the effort to implement a performance testing suite to identify areas where performance can be most improved.
 
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
-      -
+      - Preparing for 1.0.0 - testing latest releases of APIML in Zowe PAX file
+      - Fixed defects that have been reported (https://github.com/zowe/api-layer/issues/201, https://github.com/zowe/api-layer/issues/199)
+      
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Preparing to build v1.0.0. Going over all license files and headers.
       - Release tracking has the new dates https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql
