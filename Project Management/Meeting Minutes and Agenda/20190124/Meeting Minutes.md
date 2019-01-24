@@ -38,7 +38,8 @@ Agenda Items
       -
 
     - Core/CLI  (Mike B/Jessica T or Kyle?)
-      -
+      - Updating deployment scripts to accommodate new versioning scheme
+      - Updating Zowe CLI and Imperative to most current version of typescript. This is part of the effort to implement a performance testing suite to identify areas where performance can be most improved.
 
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
