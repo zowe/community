@@ -20,11 +20,22 @@ Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
 ## Agenda items
 
 - TPSR issue?
+  Mark is working on the list. 
+  
+  2 things about dependency needed on doc squad side:  
+  - proper component names
+  - how to present this information in the documentation. Put the files 
+
+  build materials 
+  - list out every component within those deliverables
 
 - Content for 1.0 done? 
   - APIML
+    - Content complete, review to start. On track.
   - Zowe CLI
+    - TPSR ongoing. Need review.
   - Zowe Web UI
+    - Logging, traces. PR to open.
   - CI/CD, z/OS Services 
     - Liberty to Tomcat migration - DONE
     - Repo information on Zowe.org - In progress
