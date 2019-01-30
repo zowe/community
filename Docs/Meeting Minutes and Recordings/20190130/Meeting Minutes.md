@@ -20,7 +20,7 @@ Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
 ## Agenda items
 
 - TPSR issue?
-  - 
+
 - Content for 1.0 done? 
   - APIML
   - Zowe CLI
