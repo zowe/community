@@ -36,7 +36,11 @@ Agenda Items
     - Onboarding (JoeW/TimB)
       -
     - Core/Web/Editor (JPL/Reet)
-      -
+      - Code inspection and testing is ongoing for the ZIS install script
+      - Implementing JWT security for ZSS
+      - Continuing research on ACF2 and TopSecret integration
+      - Begun transitioning the proxy server from Javascript to Typescript
+      - Fixing QA issues with FTA upload and download features
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
 
