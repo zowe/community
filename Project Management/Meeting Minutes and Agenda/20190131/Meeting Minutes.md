@@ -25,17 +25,14 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
-4. Planning:
+4. Remaining Items for v1.0.0:
     - ZSS (JP)
-        -
-    - Tomcat (Joe/Steve)
-        -
-    - License (EULA)
-
-    - Artifactory Migration to Nexus
-        - Can we get OMP to provide Artifactory instead ?
-        - Is Nexus equivalent to Artifactory
-        - How long will the migration take
+      -
+    - Scans and License (Mark)
+      -
+    - Website updates to support new flow and EULA
+    - Build Plans for RC
+    - Documentation
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
@@ -49,14 +46,13 @@ Agenda Items
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      - Preparing to build v1.0.0. Going over all license files and headers.
-      - Release tracking has the new dates https://ibm.ent.box.com/notes/376929513334?s=83hcarktgvykbb95jit4uc40xoq9d8ql
+      -
 
     - Documentation (Brandon/Ashley/Jim/Julie)
       -
 
 6. Legal Requirements
-    - The OMP working on LLC/EULA
+    -
 
 7. Community Backlog
     - v1.0.0
