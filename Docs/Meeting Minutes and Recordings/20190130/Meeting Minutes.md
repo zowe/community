@@ -19,29 +19,26 @@ Sprint (v1.0.0) (January 8, 2019 - January 21, 2019)
 
 ## Agenda items
 
-- TPSR issue ?
+- TPSR issue?
+  - 
 - Content for 1.0 done? 
+  - APIML
+  - Zowe CLI
+  - Zowe Web UI
+  - CI/CD, z/OS Services 
+    - Liberty to Tomcat migration - DONE
+    - Repo information on Zowe.org - In progress
+    - Install on z/OS issues/comments - DONE
 - Release notes updated? 
+  - Sent a note to all squad lead to review current content
 - Broken link fixed
-- 0.9.5 doc archived
+  - Check and fix broken anchors in the Jenkins build/report 
+- 0.9.5 doc archived? 
+  - Still need to run the build. Check with Jack.
+- Any other work? 
 
 
-
-
-### 2. Doc readiness for 1.0.0
-
+## 1.0.0 delivery
 - **Branch**: Docs-staging
 - **1.0 release notes**: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
-- **Pull Reuquest**: https://github.com/zowe/docs-site/pull/338  - Merge to master. Leave this open until 1.0 publish date. 
-
-**Checklist**
-
-- Complete conent for new features
-- Update release notes
-- Fix broken links
-- Create a branch to archive 0.9.5 doc
-
-
-
-
-
+- **Pull Reuquest**: https://github.com/zowe/docs-site/pull/338  - Merge to master. Leave this open until 1.0 publish date.
