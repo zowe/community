@@ -27,19 +27,16 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Remaining Items for v1.0.0:
     - ZSS (JP)
-      -
     - Scans and License (Mark)
-      -
     - Website updates to support new flow and EULA
     - Build Plans for RC
     - Documentation
+    - Playback (Nick)
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
-
     - Core/Web/Editor (JPL/Reet)
       -
-
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
 
@@ -47,7 +44,6 @@ Agenda Items
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       -
-
     - Documentation (Brandon/Ashley/Jim/Julie)
       -
 
