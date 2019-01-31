@@ -48,10 +48,12 @@ Agenda Items
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      -
+      - Working on incorporating ZSS into v1.0.0. Helping to test install scripts
+      - Working on License for v1.0.0. Could each squad please review and update this document as soon as possible: https://ibm.box.com/s/2ap56ewxzpcax56uugs49zfs81vel61y
+      - Will produce RC Candidate
     - Documentation (Brandon/Ashley/Jim/Julie)
-      - Working with Mark on TPSR and Bill of Materials. New topics on doc site. 
-      - Working with Joe on ZSS install changes. 
+      - Working with Mark on TPSR and Bill of Materials. New topics on doc site.
+      - Working with Joe on ZSS install changes.
       - 1.0.0 Release notes under review. Provide comment/update by Feb 1. See https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
 
 6. Legal Requirements
