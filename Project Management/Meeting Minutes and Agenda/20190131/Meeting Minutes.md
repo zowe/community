@@ -49,7 +49,9 @@ Agenda Items
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       -
     - Documentation (Brandon/Ashley/Jim/Julie)
-      -
+      - Working with Mark on TPSR and Bill of Materials. New topics on doc site. 
+      - Working with Joe on ZSS install changes. 
+      - 1.0.0 Release notes under review. Provide comment/update by Feb 1. See https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
 
 6. Legal Requirements
     -
