@@ -42,7 +42,8 @@ Agenda Items
       - Begun transitioning the proxy server from Javascript to Typescript
       - Fixing QA issues with FTA upload and download features
     - Core/CLI  (Mike B/Jessica T or Kyle?)
-      -
+      - Preparing bundled package for Zowe 1.0.0
+      - Updating deployment scripts to accommodate new versioning scheme
 
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
       -
