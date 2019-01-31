@@ -27,13 +27,15 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Remaining Items for v1.0.0:
     - ZSS (JP)
-    - Scans and License (Mark)
-    - Website updates to support new flow and EULA
-    - Build Plans for RC
+    - Scans and License (Mark). Will provide BOM and wrapping up dependency file
+    - Website updates to support new flow and EULA. Will get JohnM to review
+    - Build Plans for RC. Sean, Michael, Dan.
     - Documentation
-    - Playback (Nick)
+    - Playback (Nick). Move out by 1 week.
+    - Webinar wil be worked on post-v1.0.0
 5. Squad Status:
     - Onboarding (JoeW/TimB)
+      - CICS is looking to extend the CLI.
     - Core/Web/Editor (JPL/Reet)
       - Code inspection and testing is ongoing for the ZIS install script
       - Implementing JWT security for ZSS
@@ -43,8 +45,9 @@ Agenda Items
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       - Preparing bundled package for Zowe 1.0.0
       - Updating deployment scripts to accommodate new versioning scheme
-
-    - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
+    - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
+      - RC candidate for v1.0.0.
+      - past 2 weeks spent stabilizing and bug fixes
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Working on incorporating ZSS into v1.0.0. Helping to test install scripts
       - Working on License for v1.0.0. Could each squad please review and update this document as soon as possible: https://ibm.box.com/s/2ap56ewxzpcax56uugs49zfs81vel61y
@@ -65,8 +68,9 @@ Agenda Items
 
 Action Items
 ------------
--
+- Leads will report if there is a reason not to build RC1 on 2/1 EOD
 
 
 Recording
 -------------------------
+https://zoom.us/recording/share/SJ6DyZF2Ls5fVME7JcRtA67miJviQ4zjPhbYGyjMbeA
