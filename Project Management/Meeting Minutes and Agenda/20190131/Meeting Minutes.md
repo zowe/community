@@ -34,7 +34,6 @@ Agenda Items
     - Playback (Nick)
 5. Squad Status:
     - Onboarding (JoeW/TimB)
-      -
     - Core/Web/Editor (JPL/Reet)
       - Code inspection and testing is ongoing for the ZIS install script
       - Implementing JWT security for ZSS
@@ -46,7 +45,6 @@ Agenda Items
       - Updating deployment scripts to accommodate new versioning scheme
 
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle?)
-      -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Working on incorporating ZSS into v1.0.0. Helping to test install scripts
       - Working on License for v1.0.0. Could each squad please review and update this document as soon as possible: https://ibm.box.com/s/2ap56ewxzpcax56uugs49zfs81vel61y
@@ -57,7 +55,7 @@ Agenda Items
       - 1.0.0 Release notes under review. Provide comment/update by Feb 1. See https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
 
 6. Legal Requirements
-    -
+    - OMP provided EULA. CI/CD squad working to integrate changes on the website.
 
 7. Community Backlog
     - v1.0.0
