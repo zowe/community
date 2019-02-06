@@ -27,8 +27,11 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
-    - Core/Web/Editor (JPL/Reet)
-      -
+    - Core/Web/Editor (JPL/Reet/Nolan)
+      - Implementing JSON Web Token security for ZSS
+      - Bringing back removed discovery functionality as a plugin
+      - Continuing to convert Zowe App Server to Typescript
+      - Implementing starting a Java "side-car" from Node      
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
