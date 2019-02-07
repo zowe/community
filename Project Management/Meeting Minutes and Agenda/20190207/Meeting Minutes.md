@@ -7,12 +7,17 @@ To provide overall project status and to have a place to identify all critical i
 Schedule
 --------
 Zowe (1.0.1) (February 5, 2019 -	March 5, 2019)
-  Sprint 1		February 5, 2019	February 18, 2019
+
+  Sprint 1 (February 5, 2019	- February 18, 2019)
     - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (February 18, 2019)
+
     - Release (February 19, 2019)
-  Sprint 2		February 19, 2019	March 4, 2019
+
+  Sprint 2 (February 19, 2019 - March 4, 2019)
     - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (March 4, 2019)
+
     - Release (March 5, 2019)
+
 1.0.1 GA (March 5, 2019)
 
 Agenda Items
@@ -21,8 +26,8 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    -
-    - 
+    - Schedule
+    - Github Branching
     - Playback (Nick). February 11. All squads to prepare.
 5. Squad Status:
     - Onboarding (JoeW/TimB)
@@ -39,7 +44,7 @@ Agenda Items
       -
 
 6. Legal Requirements
-    -
+    - None
 
 7. Community Backlog
     - TBD
