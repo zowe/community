@@ -9,11 +9,13 @@ Schedule
 Zowe (1.0.1) (February 5, 2019 -	March 5, 2019)
 
   Sprint 1 (February 5, 2019	- February 18, 2019)
+
     - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (February 18, 2019)
 
     - Release (February 19, 2019)
 
   Sprint 2 (February 19, 2019 - March 4, 2019)
+
     - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (March 4, 2019)
 
     - Release (March 5, 2019)
