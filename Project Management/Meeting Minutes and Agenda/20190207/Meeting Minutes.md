@@ -29,7 +29,8 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     - Schedule
-    - Github Branching
+    - Github Branching and cleanup
+    - Migration
     - Playback (Nick). February 11. All squads to prepare.
 5. Squad Status:
     - Onboarding (JoeW/TimB)
@@ -41,7 +42,10 @@ Agenda Items
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      -
+      - Prototype migration to Nexus
+      - Branching Strategies
+      - Working on ACF2/TSS Installs
+
     - Documentation (Brandon/Ashley/Jim/Julie)
       -
 
