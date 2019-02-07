@@ -29,7 +29,7 @@ Agenda Items
       -
     - Core/Web/Editor (JPL/Reet/Nolan)
       - Implementing JSON Web Token security for ZSS
-      - Bringing back removed discovery functionality as a plugin
+      - Adding support for ACF2 and TopSecret in ZSS
       - Continuing to convert Zowe App Server to Typescript
       - Implementing starting a Java "side-car" from Node      
     - Core/CLI  (Mike B/Jessica T or Kyle?)
