@@ -28,7 +28,7 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - Schedule
+    - Schedule (https://ibm.ent.box.com/file/364084771864) and next release content
     - Github Branching and cleanup
     - Migration
     - Playback (Nick). February 11. All squads to prepare.
@@ -37,8 +37,12 @@ Agenda Items
       -
     - Core/Web/Editor (JPL/Reet)
       -
-    - Core/CLI  (Mike B/Jessica T or Kyle?)
-      -
+    - Core/CLI  (Mike B/Jessica T or Kyle)
+      - Prepared bundle package for Zowe 1.0.0
+      - Continued development on IMS plugin
+      - Zowe IMS Start and Stop Region
+      - Zowe IMS Query Program and Transaction
+      - Automated CI pipeline for all versions. Continued development on CD pipelines for versioning update.
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
