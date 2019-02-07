@@ -28,10 +28,10 @@ Agenda Items
     - Onboarding (JoeW/TimB)
       -
     - Core/Web/Editor (JPL/Reet/Nolan)
-      - Implementing JSON Web Token security for ZSS
-      - Adding support for ACF2 and TopSecret in ZSS
-      - Continuing to convert Zowe App Server to Typescript
-      - Implementing starting a Java "side-car" from Node      
+      - Implementing JSON Web Token security for ZSS.
+      - Adding support for ACF2 and TopSecret in ZSS.
+      - Continuing to convert Zowe App Server to Typescript.
+      - Implementing starting a Java "side-car" from Node.      
     - Core/CLI  (Mike B/Jessica T or Kyle?)
       -
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
