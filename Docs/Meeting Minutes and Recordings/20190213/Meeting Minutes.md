@@ -42,9 +42,9 @@ v1.0.1 on March 5
       
   **Broadcom:**
   - Use case articles
-  
-  
-  
+  - IMS Plug-in ????
+  - API ML ????
+ 
   **IBM:**
   - 2019Q1: zTrial guided tour
   - 2019Q1: More interactive doc format (GIFs, videos, etc). Including: How to download and prepare the Zowe package; How to install Node for Zowe; How to install Zowe on z/OS
