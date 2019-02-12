@@ -36,7 +36,10 @@ Agenda Items
     - Onboarding (JoeW/TimB)
       -
     - Core/Web/Editor (JPL/Reet)
-      -
+      - Converting proxy server to typescript
+      - Implementing JSON Web Token security for ZSS
+      - Adding support for ACF2 and TopSecret
+      - Implementing starting a Java side car from node
     - Core/CLI  (Mike B/Jessica T or Kyle)
       - Prepared bundle package for Zowe 1.0.0
       - Continued development on IMS plugin
