@@ -41,9 +41,12 @@ v1.0.1 on March 5
 - Add your specific short term and long term planning (if any) here. We'll make a roadmap based on this.
       
   **Broadcom:**
-  - Use case articles
-  - IMS Plug-in ????
   - API ML ????
+   - Quick start guide/Use case articles. Adding a lightweight "Zowe CLI quick start" section to quickly walk advanced users through installation, issuing first commands, using profiles, and writing scripts. 
+  	- More advanced topics will be added as time allows - Interacting with IMS/CICS/Db2, using Jenkins to run mainframe automation, etc... 
+  - Complete and publish Zowe CLI Plug-in for IBM IMS doc and publish (In Progress) 
+  - Improve usage documentation for how to to define CLI connection details (via CLI, profiles, or environment variables). Currently missing information and lacking examples for issuing commands.    	
+	
  
   **IBM:**
   - 2019Q1: zTrial guided tour
