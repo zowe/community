@@ -44,7 +44,8 @@ Agenda Items
       - Zowe IMS Query Program and Transaction
       - Automated CI pipeline for all versions. Continued development on CD pipelines for versioning update.
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
-      -
+      - Main focus is testing of RCs
+      - Defects resolution
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Prototype migration to Nexus
       - Branching Strategies
