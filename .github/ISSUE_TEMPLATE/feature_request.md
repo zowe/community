@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an idea for Zowe
 title: ''
 labels: enhancement
-assignees: markackert, tbr00ksy, joe-winchester, mikebauerca, jplinardon
+assignees: Joe-Winchester, jplinardon, MarkAckert, MikeBauerCA, Tbr00ksy
 
 ---
 

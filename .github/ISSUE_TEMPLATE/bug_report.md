@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a Zowe bug report
 title: ''
 labels: bug
-assignees: markackert, tbr00ksy, joe-winchester, mikebauerca, jplinardon
+assignees: Joe-Winchester, jplinardon, MarkAckert, MikeBauerCA, Tbr00ksy
 
 ---
 
