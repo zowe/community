@@ -1,12 +1,13 @@
 # Meeting Minutes for Doc Squad
 
 ## Attendees
-- [ ] Alyson (Rocket)
-- [ ] Andrew (Broadcom)
-- [x] Ashley (IBM)
+
+- [x] Andrew (Broadcom)
 - [x] Brandon (Broadcom)
-- [ ] Jason (Rocket)
 - [x] Jim (Broadcom)
+- [x] Ashley (IBM)
+- [x] Alyson (Rocket)
+- [x] Jason (Rocket)
 - [x] Julie (Rocket)
 - [ ] Sign our name here
 
@@ -14,7 +15,7 @@
 ## Agenda 
 
 ### Welcome and thank you!
-- Welcome Alyson and Jason! Brief introduction. 
+- Welcome Alyson and Jason!
 - Thank you all for the great work in getting 1.0.0 out!
 
 ### Next checkpoint 
@@ -22,18 +23,19 @@ v1.0.1 on March 5
 
 - **Branch**: docs-staging
 - **1.0.1 release notes**: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
+- Go through Waffle issues and add the milestone `19-03-05 1.0.1` as needed. Link to doc squad Waffle board: https://waffle.io/zowe/docs-site
 
 ### Tips, sharing, discussion
 - Doc version: v0.9.x uses the same process as latest. 
-- Consider creating a doc wiki to store all best practices and doc planning information. 
+- Consider creating a doc wiki to store all best practices and doc planning information: https://github.com/zowe/docs-site/wiki
 
 ### Doc planning session:
 
-- What do we need to focus on during 2018? Short term (quaterly) and long terms Fr example:
+- What do we need to focus on during 2018? Short term (quaterly) and long terms. For example:
     - More tutorials, use cases etc
 	- Site analytics, SEO audits, user feedback/survey to measure docs success
 	- Doc site UX
-	- Better onboarding for new users: Better prereq doc, better and tested install info, 
+	- Better onboarding for new users: Better prereq doc, better and tested install info
 	- Migration of zowe.org
 	- Install experience improvement (onboarding squad)
 	- Embedded assistance for users without Internet access
@@ -41,7 +43,9 @@ v1.0.1 on March 5
 - Add your specific short term and long term planning (if any) here. We'll make a roadmap based on this.
       
   **Broadcom:**
-  - API ML ????
+  - API ML
+     - Troubleshooting,
+     - AZ and AU docs refactoring
   - Quick start guide/Use case articles. Adding a lightweight "Zowe CLI quick start" section to quickly walk advanced users through installation, issuing first commands, using profiles, and writing scripts.  https://github.com/zowe/docs-site/issues/374
   	- More advanced topics will be added as time allows - Interacting with IMS/CICS/Db2, using Jenkins to run mainframe automation, etc... 
   - Complete and publish Zowe CLI Plug-in for IBM IMS doc and publish (In Progress) 
