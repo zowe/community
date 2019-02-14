@@ -47,8 +47,12 @@ Agenda Items
       - Validating Zowe IMS Query Program and Transaction
       - Integrating Performance Test Library into Zowe-CLI and Imperative
       - Continuing to address feedback from the community on Slack
-    - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
-      -
+    - API Mediation Layer & Security (Petr G./Radek K./Petr P. or Kyle)
+      - Defect Resolution
+        - Superfluous gateway endpoints
+        - Catalog-UI: Sign In button is disabled when login are pre-filled in Chrome
+        - Catalog-UI: /ui/v1/apicatalog should re-route to dashboard
+        - Document Eureka Thresholds functionality
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
       - Branching Strategies
