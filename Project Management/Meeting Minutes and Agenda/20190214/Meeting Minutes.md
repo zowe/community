@@ -28,15 +28,15 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - Github Branching Strategy Meeting booked
-    - Nexus Migration
+    - Github Branching Strategy Meeting booked (https://ibm.ent.box.com/file/400482032856)
+    - Nexus Protoyping
     -
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       - PI Planning Kick-off next week: https://github.com/zowe/community/wiki/Zowe-On-boarding-PI-Short-Medium-Term-Goals
       - OMP/Zowe 1.0 Webinar scheduled for Feb 22nd at 9 am PT (Noon ET). Sean (Rocket), Sujay (Broadcom) and Alex Kim (Vicom) asked to present. Webinar hosted by OMP Marketing Steven Dickens. Registration page and promotion to start end of this week, early next.
-      
-    
+
+
     - Core/Web/Editor (JPL/Reet/Nolan)
       - Adding Github checks to test pull requests for buildability
       - Implementing JSON Web Token security for ZSS, blocked for the moment
@@ -54,7 +54,7 @@ Agenda Items
       - Working on ACF2/TSS Installs
 
     - Documentation (Brandon/Ashley/Jim/Julie)
-      - New members joining: Alyson and Jason from Rocket. 
+      - New members joining: Alyson and Jason from Rocket.
       - Making doc plan
       - Continue to work on GitHub issues
 
