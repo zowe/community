@@ -47,7 +47,9 @@ Agenda Items
       - Working on ACF2/TSS Installs
 
     - Documentation (Brandon/Ashley/Jim/Julie)
-      -
+      - New members joining: Alyson and Jason from Rocket. 
+      - Making doc plan
+      - Continue to work on GitHub issues
 
 6. Legal Requirements
     - None
