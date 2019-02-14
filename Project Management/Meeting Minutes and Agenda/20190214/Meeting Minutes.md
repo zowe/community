@@ -42,6 +42,10 @@ Agenda Items
       - Implementing JSON Web Token security for ZSS, blocked for the moment
       - Still adding support for TopSecret
     - Core/CLI  (Mike B/Jessica T or Kyle)
+      - Validating Zowe IMS Start and Stop Region
+      - Validating Zowe IMS Query Program and Transaction
+      - Integrating Performance Test Library into Zowe-CLI and Imperative
+      - Continuing to address feedback from the community on Slack
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
       -
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
