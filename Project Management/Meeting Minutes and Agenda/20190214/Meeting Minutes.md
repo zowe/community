@@ -34,8 +34,10 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/TimB)
       -
-    - Core/Web/Editor (JPL/Reet)
-      -
+    - Core/Web/Editor (JPL/Reet/Nolan)
+      - Adding Github checks to test pull requests for buildability
+      - Implementing JSON Web Token security for ZSS, blocked for the moment
+      - Still adding support for TopSecret
     - Core/CLI  (Mike B/Jessica T or Kyle)
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
       -
