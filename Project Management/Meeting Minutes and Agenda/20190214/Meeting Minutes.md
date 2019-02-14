@@ -28,8 +28,9 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
+    - Squad Planning and backlog review
     - Github Branching Strategy Meeting booked (https://ibm.ent.box.com/file/400482032856)
-    - Nexus Protoyping
+    - Nexus Prototyping
     -
 5. Squad Status:
     - Onboarding (JoeW/TimB)
