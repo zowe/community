@@ -32,7 +32,7 @@ Agenda Items
     - Github Branching Strategy (Part 2) Meeting booked (https://ibm.ent.box.com/file/400482032856). This will cover a review of Part 1 and answers to any questions
     - Nexus Prototyping Status
     - Installation. Meeting will be setup, scope determined and sized. Then staffing will be planned.
-    - Discuss the need for Architecture squad  (Joe/Sean)
+    - Discuss the need for Architecture squad.  (Joe/Sean)
 5. Squad Status:
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
