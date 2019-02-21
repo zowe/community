@@ -29,6 +29,8 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     - Squad Planning and backlog review
+    - Milestone creation
+    - Playback
     - Github Branching Strategy (Part 2) Meeting booked (https://ibm.ent.box.com/file/400482032856). This will cover a review of Part 1 and answers to any questions
     - Nexus Prototyping Status
     - Installation. Meeting will be setup, scope determined and sized. Then staffing will be planned.
@@ -50,10 +52,10 @@ Agenda Items
       - Migration to Nexus. Installed Nexus server and testing
       - Branching Strategies
     - Documentation (Brandon/Ashley/Jim/Julie)
-      - Discussed the migration of Zowe.org to GitHub pages and merge with doc site. Jack will first look into migrating zowe.org to GitHub pages. 
+      - Discussed the migration of Zowe.org to GitHub pages and merge with doc site. Jack will first look into migrating zowe.org to GitHub pages.
       - Made Zowe doc plan
       - Working on GitHub issues
-      
+
 6. Legal Requirements
     - None
 
