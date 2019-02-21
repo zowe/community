@@ -42,7 +42,10 @@ Agenda Items
       - Migration to Nexus. Installed Nexus server and testing
       - Branching Strategies
     - Documentation (Brandon/Ashley/Jim/Julie)
-
+      - Discussed the migration of Zowe.org to GitHub pages and merge with doc site. Jack will first look into migrating zowe.org to GitHub pages. 
+      - Made Zowe doc plan
+      - Working on GitHub issues
+      
 6. Legal Requirements
     - None
 
