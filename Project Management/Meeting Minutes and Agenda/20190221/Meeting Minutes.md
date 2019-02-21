@@ -38,6 +38,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Adding unit tests for PRs on Github
+      - Implementing user profiles for TopSecret
+      - Testing zlux behind API mediation layer
     - Core/CLI  (Mike B/Jessica T or Kyle)
       - Integrating Performance Test Library into Zowe-CLI and Imperative
       - Continuing to address feedback from the community on Slack
