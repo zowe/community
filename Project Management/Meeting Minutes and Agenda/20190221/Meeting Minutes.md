@@ -39,7 +39,13 @@ Agenda Items
     - Core/CLI  (Mike B/Jessica T or Kyle)
       - Integrating Performance Test Library into Zowe-CLI and Imperative
       - Continuing to address feedback from the community on Slack
-    - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
+    - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Groomed item "198 - Add JWT signature algorithm and secret to the configuration options" with Rocket and IBM
+        - Scheduled with high priority for iteration 1 of 19PI2
+      - Defect Resolution
+        - Login to API Catalog is required even if a valid authentication token is in browser        
+        - Fix for page not found log message        
+        - Page for contributors points to old gizafoundation repository
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
       - Branching Strategies
