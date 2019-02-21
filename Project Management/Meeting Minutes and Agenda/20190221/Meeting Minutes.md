@@ -37,6 +37,8 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI  (Mike B/Jessica T or Kyle)
+      - Integrating Performance Test Library into Zowe-CLI and Imperative
+      - Continuing to address feedback from the community on Slack
     - API Mediation Layer & Security (Michael S/Marcel V or Kyle)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
