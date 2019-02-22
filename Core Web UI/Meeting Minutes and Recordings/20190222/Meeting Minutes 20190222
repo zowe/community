@@ -1,0 +1,29 @@
+Meeting Minutes - 2/22/2019
+Meeting was not recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI
+- Adding unit tests for PRs on Github
+- Implementing user profiles for TopSecret
+- Testing zlux behind API mediation layer
+- Code editor clean up and start to plan for features
+- Gateway still being worked on
+	Demos:
+- At the end of every second sprint squad will provide a demo of new coode
+
+Micro Services
+- May bring in TomCat libraries for stand alone micro services
+
+Waffle Issue
+- zlux issue were put into waffle but not properly tagged or moved yet
+
+Tutorials
+-  base materials are created and worked on             
+
+
+Attendees 
+JP 
+Sean
+Nolan
+Jordan 
