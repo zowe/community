@@ -29,17 +29,18 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     - Backlog review for shutdown
+    - Discuss Plan to build RC
+    - Discuss Plan to test RC
     - Playback
-    - Github Branching Strategy (Part 3) Meeting
-    - Installation Meeting
 5. Squad Status:
+    - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI  (Mike B/Jessica T or Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
-      - Branching Strategies
+      - Github Branching Strategy (Part 3) Meeting
     - Documentation (Brandon/Ashley/Jim/Julie)
 
 6. Legal Requirements
