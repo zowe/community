@@ -36,6 +36,10 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Unit tests for PRs on github is being tech reviewed
+      - porting plugin system to ZIS server
+      - Adding TopSecret support
+      - Adding file explorer to editor     
     - Core/CLI  (Mike B/Jessica T or Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
