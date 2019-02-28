@@ -45,7 +45,17 @@ Agenda Items
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
       - Github Branching Strategy (Part 3) Meeting
-    - Documentation (Brandon/Ashley/Jim/Julie)
+    - Documentation (Brandon/Ashley/Jim/Alyson/Jason)
+      1.0.1 work: 
+      - Zowe CLI QSG - done
+      - APIML FAQ and troubleshooting updates - done
+      - ZWES.IS doc changes - PR #400 opened and under review by Ashley. On track
+      - Restructured troubleshooting section to be component-based - under review, on track
+      - Add Zowe Overview deck PDF to doc site - in progress, ETA by Friday
+      
+      Other work:
+      - Guide for AT-TLS setup of servers - in progress, not targeted for 1.0.1
+      - Addressing GitHub issues and user feedback
 
 6. Legal Requirements
     - None
