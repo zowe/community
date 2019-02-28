@@ -28,7 +28,9 @@ Doc freeze date: March 4
 
 - Release notes: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md   
 
-  Plan: Remind all squad leads to review and provide input for release notes on Feb 28.
+ Action: 
+   - Remind all squad leads to review and provide input for release notes on Feb 28.
+   - Brandon to add RN item about Getting Started with CLI
 
 - Waffle board for 1.0.1: https://waffle.io/zowe/docs-site?milestone=19-03-05%201.0.1
 
@@ -47,6 +49,8 @@ Doc freeze date: March 4
      - Add UI guidelines to doc site - on track
      - Add overview deck to doc site homepage - on track
        
+- Brandon - I want to provide a doc update during the Broadcom PI planning session (very short, 2-3 minutes). What are the key items to mention from Rocket, IBM, and doc-squad? 
+
 ### 1H2019 Doc planning
 
 **Link:** https://github.com/zowe/docs-site/wiki/Zowe-doc-planning-1H2019
