@@ -41,6 +41,8 @@ Agenda Items
       - Adding TopSecret support
       - Adding file explorer to editor     
     - Core/CLI  (Mike B/Jessica T or Kyle)
+      - Integrated performance test suite with Zowe core CLI and Imperative
+      - Preparing for PI Planning
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
