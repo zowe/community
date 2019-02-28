@@ -46,6 +46,7 @@ Agenda Items
       - Migration to Nexus. Installed Nexus server and testing
       - Github Branching Strategy (Part 3) Meeting
     - Documentation (Brandon/Ashley/Jim/Alyson/Jason)
+    
       1.0.1 work: 
       - Zowe CLI QSG - done
       - APIML FAQ and troubleshooting updates - done
