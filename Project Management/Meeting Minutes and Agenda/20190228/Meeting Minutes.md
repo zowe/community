@@ -36,12 +36,29 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Unit tests for PRs on github is being tech reviewed
+      - porting plugin system to ZIS server
+      - Adding TopSecret support
+      - Adding file explorer to editor     
     - Core/CLI  (Mike B/Jessica T or Kyle)
+      - Integrated performance test suite with Zowe core CLI and Imperative
+      - Preparing for PI Planning
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
       - Github Branching Strategy (Part 3) Meeting
-    - Documentation (Brandon/Ashley/Jim/Julie)
+    - Documentation (Brandon/Ashley/Jim/Alyson/Jason)
+    
+      1.0.1 work: 
+      - Zowe CLI QSG - done
+      - APIML FAQ and troubleshooting updates - done
+      - ZWES.IS doc changes - PR #400 opened and under review by Ashley. On track
+      - Restructured troubleshooting section to be component-based - under review, on track
+      - Add Zowe Overview deck PDF to doc site - in progress, ETA by Friday
+      
+      Other work:
+      - Guide for AT-TLS setup of servers - in progress, not targeted for 1.0.1
+      - Addressing GitHub issues and user feedback
 
 6. Legal Requirements
     - None
