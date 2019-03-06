@@ -34,6 +34,11 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - In process of setting up the API mediation layer for development with Zowe
+      - Implementing /user-profiles endpoint for TopSecret
+      - Creating a "Hello World!" Java services that zlux recognizes
+      - Altering capstone to move release configuration to install repo
+      - Working on a bug to fix zlux-grid so that scrollableVertical
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
