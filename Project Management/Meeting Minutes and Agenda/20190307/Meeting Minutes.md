@@ -44,7 +44,9 @@ Agenda Items
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Migration to Nexus. Installed Nexus server and testing
       - Github Branching Strategy Compeleted. This will be brought to the ZLC and voted on and then implemented
-    - Documentation (Brandon/Ashley/Jim/Julie)
+    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - Doc for AT-TLS setup being worked
+      - Other 1.0.1 doc ready to be published
 
 6. Legal Requirements
     - None
