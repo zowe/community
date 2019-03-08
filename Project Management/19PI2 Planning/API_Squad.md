@@ -4,7 +4,7 @@
 * [Move security endpoints from API catalog to API gateway](https://github.com/zowe/api-layer/issues/257)
 * [Add JWT signature algorithm and secret to the configuration options](https://github.com/zowe/api-layer/issues/198)
 * [API Catalog API accepts Basic Authentication](https://github.com/zowe/api-layer/issues/259)
-* [Zowe - APIML - Web UI of Discovery Service (Eureka) is protected by MF authentication](https://github.com/zowe/api-layer/issues/81)
+* [Web UI of Discovery Service (Eureka) is protected by MF authentication](https://github.com/zowe/api-layer/issues/81)
 
 ## Onboard Zowe services with API ML 
 * [Integrate zLUX with API ML](https://github.com/zowe/api-layer/issues/8)
