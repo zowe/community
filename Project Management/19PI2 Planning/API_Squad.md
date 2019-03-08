@@ -1,5 +1,8 @@
 # API Squad - 19PI2 Objectives (March to May, 2019)
 
+## Define Zowe API conformance criteria
+* [Zowe conformance definition for API ML](https://github.com/zowe/api-layer/issues/248)
+
 ## Extend API ML authentication service for additional Zowe SSO requirements
 * [Move security endpoints from API catalog to API gateway](https://github.com/zowe/api-layer/issues/257)
 * [Add JWT signature algorithm and secret to the configuration options](https://github.com/zowe/api-layer/issues/198)
@@ -14,9 +17,6 @@
 * [Integrate zowe SSO into data-sets-api-server](https://github.com/zowe/data-sets/issues/18)
 * [Integrate zowe SSO into jobs-api-server](https://github.com/zowe/jobs/issues/21)
 * [Integrate zLUX with Zowe SSO for authentication](https://github.com/zowe/api-layer/issues/55)
-
-## Define Zowe API conformance criteria
-* [Zowe conformance definition for API ML](https://github.com/zowe/api-layer/issues/248)
 
 ## Extend APIs as requested by Zowe
 * [Pagination for Datasets and Members Fetch](https://github.com/zowe/data-sets/issues/49)
