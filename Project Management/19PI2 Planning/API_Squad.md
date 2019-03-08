@@ -8,7 +8,7 @@
 
 ## Onboard Zowe services with API ML 
 * [Integrate zLUX with API ML](https://github.com/zowe/api-layer/issues/8)
-* [Zowe - APIML - Zowe Desktop UI on-boarding](https://github.com/zowe/api-layer/issues/242)
+* [Make Desktop UI available through APIML](https://github.com/zowe/api-layer/issues/242)
 
 ## Integrate Zowe services with SSO
 * [Integrate zowe SSO into data-sets-api-server](https://github.com/zowe/data-sets/issues/18)
