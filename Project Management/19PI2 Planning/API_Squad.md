@@ -21,3 +21,6 @@
 ## Extend APIs as requested by Zowe
 * [Pagination for Datasets and Members Fetch](https://github.com/zowe/data-sets/issues/49)
 * [Refactor shared/duplicate code in jobs/datasets into explorer-api-common](https://github.com/zowe/explorer-api-common/issues/11)
+* [Lightweight dataset list](https://github.com/zowe/data-sets/issues/58)
+* [Update data sets to use the shared zowe setting from whether SSL certificates are validated](https://github.com/zowe/data-sets/issues/15)
+* [Update jobs to use the shared zowe setting from whether SSL certificates are validated](https://github.com/zowe/jobs/issues/16)
