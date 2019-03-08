@@ -20,4 +20,4 @@
 
 ## Extend APIs as requested by Zowe
 * [Pagination for Datasets and Members Fetch](https://github.com/zowe/data-sets/issues/49)
-* [Refactor shared/duplicate code in jobs/datasets into explorer-api-common](https://github.com/zowe/explorer-api-common/issues/11
+* [Refactor shared/duplicate code in jobs/datasets into explorer-api-common](https://github.com/zowe/explorer-api-common/issues/11)
