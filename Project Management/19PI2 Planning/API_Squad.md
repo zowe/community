@@ -7,7 +7,7 @@
 * [Zowe - APIML - Web UI of Discovery Service (Eureka) is protected by MF authentication](https://github.com/zowe/api-layer/issues/81)
 
 ## Onboard Zowe services with API ML 
-* [Integrate zLUX and ZSS with API ML](https://github.com/zowe/api-layer/issues/8)
+* [Integrate zLUX with API ML](https://github.com/zowe/api-layer/issues/8)
 
 ## Integrate Zowe services with SSO
 * [Integrate zowe SSO into data-sets-api-server](https://github.com/zowe/data-sets/issues/18)
