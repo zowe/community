@@ -32,14 +32,17 @@
 
 ### Doc survey
 
-Questions: 
+**What do we want to know from our users?**
+- Is the current content helpful? 
+- How can we make the documentation better? (ideas, pain points)
+- What are you trying to do?  (Why visit documentation, the goal)
+- Contact Information (optional)  - get back to the user if possible
 
-Channels: 
+
+**Channels:** 
 - Slack 
-- Doc site
-
-
-
+- Doc site (as a Feedback button?)
+- ?
 
 ### Roundtable
   - APIML (Andrew)
