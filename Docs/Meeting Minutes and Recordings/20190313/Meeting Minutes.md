@@ -16,13 +16,19 @@
 - Ashley will be on IBM Zowe PI Planning session from 9:00-11:00 am Monday to Wednesday next week.
 
 ## Agenda 
-- Next checkpoint: April 2, 1.0.2
+- Next checkpoint: April 2, 1.0.2  
 - AT-TLS setup documentation
 - Release process
 - Doc survey
 - Roundtable
 
+### v1.0.2
+https://waffle.io/zowe/community?milestone=19-04-02%201.0.2
+
+
 ### AT-TLS setup doc
+
+Waiting for feedback. Ready to publish. 
 
 ### Release process: 
 
@@ -35,29 +41,40 @@
 **What do we want to know from our users?**
 - Is the current content helpful? 
 - How can we make the documentation better? (ideas, pain points)
-- What are you trying to do?  (Why visit documentation, the goal)
+- What are you trying to do?  (Why visit documentation, the goal) What information are you looking for? 
+- What information are missing in order to achiveve your goal? 
 - Contact Information (optional)  - get back to the user if possible
 
 
 **Channels:** 
 - Slack 
 - Doc site (as a Feedback button?)
-- ?
+- Zowe email distribution list 
+
+Idea: 
+- Add a Comment button to provide quick link to create issues. 
 
 ### Roundtable
   - APIML (Andrew)
-    - 384, address user comment
+    - Onboarding enablers, ongoing. 
+    - 384, address user comment. Created a story, will look at it in this sprint
+    - Will refactor overview of APIML
     - Update troubleshooting information on docs-staging. Need to update TOC.
     - FAQ updates
   - Web UI (Alyson, Jason)
-     - ATLs
+     - AT-TLS
+     - Tutorials update
+     - 4 issues to work for 1.0.2
+     - wiki info
   - Zowe CLI (Brandon, Jim)
      - QSG 
-     - PI planning next week. Presentation to make. 
+     - IMS plug-ins, no final date
   - Zowe z/OS install (Ashley)
      - Bug: fix remaining explorer server
      - Add UI guidelines to doc site - on track
      - Add overview deck to doc site homepage - on track
+
+
 
 
 
