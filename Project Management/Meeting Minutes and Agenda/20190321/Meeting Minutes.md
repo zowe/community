@@ -44,6 +44,11 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Merged bug fix for resizing window handles that would move the window
+      - Reviewing Alter capstone to move release configuration to install repo
+      - Reviewing Create "Hello World!" Java services that zlux recognizes
+      - Currently working on a UI for Zowe users to be able to switch languages
+      - Still making progress on setting the API mediation layer for development with Zowe
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
