@@ -1,0 +1,41 @@
+Meeting Minutes - 3/8/2019
+Meeting was not recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- In process of setting up the API mediation layer for development with Zowe
+- Implementing /user-profiles endpoint for TopSecret
+- Creating a "Hello World!" Java services that zlux recognizes
+- Altering capstone to move release configuration to install repo
+- Working on a bug to fix zlux-grid so that scrollableVertical
+
+Waffle Issue
+- Core Web UI issues are in waffle and properly tagged with 19-04-02 1.0.2 Milestone
+- Process is in place for better waffle alignment 
+
+Branching
+- Awaiting for feature / staging structure
+- 1.0.2 type releases might not be for features but rather minor patch fixes
+- Still need more definition on what warrants a release versus patch fixes
+	- Need to meet with key stakeholders to figure this out
+- All PR could go to staging?
+- UI code base uses abstraction not focused on OS - are we able to split up install scripts for things have to be on ZSS or not	
+	- Dev installer for all types separately for flexibility 
+	- Pre built releases to be posted on MPM
+	
+UX (Long-Term & Architecture for Zowe)
+- Masters of the Mainframe might be a good use to test UI and define requirements
+- MVS API to zssServer? or even API gateway?
+- API consolidation 
+
+Zowe zluz Roadmap Presentation
+- Did not get to present 
+- Will need to show next meeting 3/15 or 3/22
+
+Attendees 
+JP 
+Nolan
+Jordan +1
+Sean
+Joe W
