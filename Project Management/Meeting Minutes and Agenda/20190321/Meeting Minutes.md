@@ -53,6 +53,13 @@ Agenda Items
       - Migrated Imperative, Zowe-CLI, CICS, DB2, and IMS packages to @zowe namespace
       - VSCode Extension is being enhanced to handle USS File interaction
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Team is merging code related to API doc refactor (+ related defects) today
+      - Move security endpoints from API catalog to API gateway 
+        - /login endpoint move completed
+        - /query endpoint is being moved 
+      - Will have a call on the Desktop UI availability through APIML with Rocket Software tomorrow
+        - When completed work can start on security issue "W988 - API Catalog allows only framing from the same origin"
+      - Lightweight dataset list
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Update on Waffle Migration
       - Branching Updates
