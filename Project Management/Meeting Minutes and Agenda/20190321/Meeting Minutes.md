@@ -64,6 +64,8 @@ Agenda Items
       - Update on Waffle Migration
       - Branching Updates
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - z/OSMf Lite documentation, updates to system requirements
+      - Updated descriptions of API ML components
 
 
 6. Legal Requirements
