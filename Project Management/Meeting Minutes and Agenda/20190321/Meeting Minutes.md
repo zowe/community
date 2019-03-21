@@ -50,6 +50,8 @@ Agenda Items
       - Currently working on a UI for Zowe users to be able to switch languages
       - Still making progress on setting the API mediation layer for development with Zowe
     - Core/CLI  (Mike B/Kyle)
+      - Migrated Imperative, Zowe-CLI, CICS, DB2, and IMS packages to @zowe namespace
+      - VSCode Extension is being enhanced to handle USS File interaction
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
       - Update on Waffle Migration
