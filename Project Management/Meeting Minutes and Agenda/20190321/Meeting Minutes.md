@@ -39,7 +39,7 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     - Playback on April 1
-    -
+    - Install/Packaging Update from Architecture Team
 5. Squad Status:
     - Installation
     - Onboarding (JoeW/TimB)
