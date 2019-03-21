@@ -53,7 +53,7 @@ Agenda Items
       - Migrated Imperative, Zowe-CLI, CICS, DB2, and IMS packages to @zowe namespace
       - VSCode Extension is being enhanced to handle USS File interaction
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-      - Team is merging code related to API doc refactor (+ related defects) today
+      - Team is merging code related to API doc retrival refactor (+ related defects) today
       - Move security endpoints from API catalog to API gateway 
         - /login endpoint move completed
         - /query endpoint is being moved 
