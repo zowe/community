@@ -1,0 +1,31 @@
+Meeting Minutes - 3/22/2019
+Meeting was not recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- 1.0.2 current sprint
+	- Merged bug fix for resizing window handles that would move the window
+	- Reviewing Alter capstone to move release configuration to install repo
+	- Reviewing Create "Hello World!" Java services that zlux recognizes
+	- Currently working on a UI for Zowe users to be able to switch languages
+	- Still making progress on setting the API mediation layer for development with Zowe
+
+- Next Sprint
+	- Focus on Editor work
+
+Areas of Interest
+- Want to add more languages to zlux application
+	- Simone Gregg would like to help with German translations 
+- JP to - make the code available on GitHub and email team and Simone
+- Joe W - Install packaging (Epic 415)
+	- SMP/E , Configuring, Starting independent run times
+	- wiki /zowe/zowe-install-packagaing/    
+	- Would like Sean's input
+	- maybe by Q2/Q3 July/August ?
+
+Attendees 
+JP 
+Nolan Rogers
+Simone Gregg
+Joe Winchester
