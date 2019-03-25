@@ -39,17 +39,13 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     -
-    -
 5. Squad Status:
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-      -
     - Core/CLI  (Mike B/Kyle)
-      -
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-      - 
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
 
