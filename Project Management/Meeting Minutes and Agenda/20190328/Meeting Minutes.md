@@ -48,6 +48,7 @@ Agenda Items
       - Finished enchancement for alerting user when session expires, or keep session from expiring with user consent
       - Still making progress on setting the API mediation layer for development with Zowe
       - Making progress on adding a UI for Zowe users to be able to switch languages
+      - Reworking /user-profiles endpoint for TopSecret 
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
