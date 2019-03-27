@@ -35,7 +35,7 @@ Waffle https://waffle.io/zowe/community?milestone=19-04-02%201.0.2
 Agenda Items
 ------------
 1. Start Recording
-2. ZLC Updates (meeting cancelled)
+2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     -
