@@ -57,6 +57,9 @@ Agenda Items
         - Allow only TLSv1.2 and higher in API ML (W985)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - Doc changes for 1.0.2 on docs-staging now and in PRs
+      - A troubleshooting Zowe App Server topic under review
+      - Working on release notes: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md#version-102-april-2019. Plan to send to squad lead for review. @Leads, send comments/edits to doc squad by Mar 29.
 
 
 6. Legal Requirements
