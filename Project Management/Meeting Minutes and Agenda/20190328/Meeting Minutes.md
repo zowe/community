@@ -51,6 +51,10 @@ Agenda Items
       - Reworking /user-profiles endpoint for TopSecret 
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Local API ML conformance kick off. Skeleton with requirements created. Andrew J. is figuring out publication details. 
+      - Working on TLS 1.2 with API Gateway related items
+        - TLSv1.2 only is blocked by API Gateway
+        - Allow only TLSv1.2 and higher in API ML (W985)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
