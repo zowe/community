@@ -50,6 +50,8 @@ Agenda Items
       - Making progress on adding a UI for Zowe users to be able to switch languages
       - Reworking /user-profiles endpoint for TopSecret 
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File interaction
+      - Enhance CLI to allow for users to request prompting for fields so that their input (E.g, password) can be hidden for security purposes.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Local API ML conformance kick off. Skeleton with requirements created. Andrew J. is figuring out publication details. 
       - Working on TLS 1.2 with API Gateway related items
