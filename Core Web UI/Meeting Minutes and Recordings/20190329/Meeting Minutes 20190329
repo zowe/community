@@ -1,0 +1,36 @@
+Meeting Minutes - 3/29/2019
+Meeting was not recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- 1.0.2 current sprint Status
+	- "Hello World" that Sean was working on was moved out of release
+	- Working on Create a UI for Zowe users to be able to switch languages (hoping it will be ready for 1.0.2 if not will be 1.0.03)
+		- Finished 
+			- Test and possibly fix root redirect of ZLUX when behind APIML
+			- Alert user when session expires, or keep session from expiring with user consent
+			- Alter capstone to move release configuration to install repo
+			- BUG: Resize window handles shouldn't move the window
+			- BUG: ZIS status check should not produce RACF log records
+
+- Next Sprint
+	- Not as much Editor as we though last week.
+	- Team will have more planning to do and will have more updates later
+
+Areas of Interest
+	- Create a UI for Zowe users to be able to switch languages (zowe/zlux 116)
+		- Hoping for this to be finished for 1.0.2 may move over to 1.0.3
+		- JP to add wiki page for this 
+			- post in zowe / community
+			- will be in a mark down table for the internal Excel 
+			
+		- Jordan Cain host 2 hr session for c dataset APIs for community  
+				
+Attendees 
+JP 
+Nolan Rogers
+Simone Gregg
+Jordan Cain
+Joe Winchester
+Nakul Manchanda
