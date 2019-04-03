@@ -8,35 +8,25 @@
 - [x] Ashley (IBM)
 - [x] Alyson (Rocket)
 - [x] Jason (Rocket)
-- [x] Julie (Rocket)
 - [ ] Sign our name here
 
 
 ## Agenda 
-- Next release: April 2, 1.0.2  
-- Doc readiness
-- Roundtable
+- Doc versioning 
+- NPS comments
 
-### v1.0.2
-https://waffle.io/zowe/community?milestone=19-04-02%201.0.2
+### Doc versioning
 
-Waffle will be sunset. ZenHub under consideration. 
+- Continue 1.0.x, 1.1.x, 1.2.x
+- Use 1.x
 
-### Doc readiness
+major.minor.patch
 
-- Soft freeze: 
-   - All doc input should be in a PR by Mar 28. 
-   - Collect release notes content. https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
-   - CLI doc changes all on docs-staging now. 
-   - AT-TLS done. Java Data Services ongoing in review. 
-   - #384 addressed. All doc changes on docs-staging now.
-- PR to merge to docs-staging to master to be opened on Mar 28. 
-- Hard freeze: All PRs merge to docs-staging by April 1. 
+### NPS comments
 
-
-### A question
-New commercial CLI plug-in from IBM. How do you handle other CLI plug-ins? 
-Base Zowe docs do not include commercial plug-in information or plug-ins developed by ISVs etc.
+- There is little information about component reconfiguration.  
+- It would be highly helpful if someone can create an educational video on installing Zowe. Personal would like video for Installing Zowe CLI.
+- There is very little information on how the apps in the ZOWE desktop work.
 
 ### Roundtable
 
@@ -47,7 +37,7 @@ Base Zowe docs do not include commercial plug-in information or plug-ins develop
   - Zowe CLI (Brandon, Jim)
     - 
   - Zowe z/OS install, z/OS Services (Ashley)
-    - 
+    - zTrial
 
 
 
