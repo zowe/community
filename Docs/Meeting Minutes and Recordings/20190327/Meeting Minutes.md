@@ -26,16 +26,22 @@ major.minor.patch
 
 - There is little information about component reconfiguration.  
 - It would be highly helpful if someone can create an educational video on installing Zowe. Personal would like video for Installing Zowe CLI.
+  Action: Jim will investigate existing videos. Discuss with the CLI team. 
 - There is very little information on how the apps in the ZOWE desktop work.
+  - workflow app is in plan
+  - Open an issue to track this. 
 
 ### Roundtable
 
   - APIML (Andrew)
-    - 
+    - defects
+    - overview page needs to be shortened. Needs an issue to track this. 
   - Web UI (Alyson, Jason)
-    -  
+    -  next release doc changes
+    - Java dataservices
+    - making desktop available through APIML
   - Zowe CLI (Brandon, Jim)
-    - 
+    - release notes
   - Zowe z/OS install, z/OS Services (Ashley)
     - zTrial
 
