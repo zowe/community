@@ -6,27 +6,19 @@ To provide overall project status and to have a place to identify all critical i
 
 Schedule
 --------
-Zowe 1.0.2 (March 5, 2019 - April 2, 2019)
+Zowe 1.1.x (April 2, 2019 -	April 30, 2019)
+- Sprint 1 (April 2, 2019	- April 15, 2019)
+  - Playback Preparation/Backlog Grooming/Sprint Goals (April 11, 2019 - April 15, 2019)
+  - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (April 15, 2019)
+  - Sprint Planning (n+1) (April 16, 2019 - April 19, 2019)
+- Sprint 2 (April 16, 2019 - April 29, 2019)
+  - Playback Preparation/Backlog Grooming/Sprint Goals (April 25, 2019 - April 29, 2019)
+  - Code Complete/RC Candidate Build/Start Testing (April 26, 2019 - April 30, 2019)
+  - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (April 29, 2019)
+  - Sprint Planning (n+1) (April 30, 2019	- May 3, 2019)
+- 1.0.x GA (April 30, 2019)
 
-  https://github.ibm.com/Zowe-Commercial/zowe-coreSprint 1        (March 5, 2019 - March 18, 2019)
 
-    Playback Preparation/Backlog Grooming/Sprint Goals (March 14, 2019 - March 18, 2019)
-
-    Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (March 18, 2019)
-
-    Sprint Planning (n+1) (March 19, 2019 - March 22, 2019)
-
-  Sprint 2                March 19, 2019        April 1, 2019
-
-    Playback Preparation/Backlog Grooming/Sprint Goals (March 28, 2019 - April 1, 2019)
-
-    Code Complete/RC Candidate Build/Start Testing (March 29, 2019 - April 2, 2019)
-
-    Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (April 1, 2019)
-
-    Sprint Planning (n+1) (April 2, 2019 - April 5, 2019)
-
-1.0.2 Release (April 2, 2019)
 
 Current Release Backlog
 -----------------------
@@ -38,9 +30,9 @@ Agenda Items
 2. ZLC Updates (meeting cancelled)
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - Security Scans require Port Information
-    - What is the next release version
-    - 
+    - Security Scans require Port Information Documentation
+    - What is the next release version ?
+    -
 5. Squad Status:
     - Installation
     - Onboarding (JoeW/TimB)
