@@ -38,6 +38,8 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File interaction
+      - Enhance CLI to allow for users to request prompting for fields so that their input (E.g, password) can be hidden for security purposes.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
