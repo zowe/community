@@ -44,8 +44,8 @@ Agenda Items
       - TLS 1.2 implemented and reviewed; not yet commited to master
       - Doc retrival refactoring complete
       - Fixed defects:
-       - API Catalog - Service homepage link does not work correctly
-       - API Catalog - Tile change not visible
+        - API Catalog - Service homepage link does not work correctly
+        - API Catalog - Tile change not visible
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
