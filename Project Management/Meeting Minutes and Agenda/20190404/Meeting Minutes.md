@@ -41,6 +41,7 @@ Agenda Items
       - VSCode Extension is being enhanced to handle USS File interaction
       - Enhance CLI to allow for users to request prompting for fields so that their input (E.g, password) can be hidden for security purposes.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - TLS 1.2 implemented and reviewed; not yet commited to master
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
