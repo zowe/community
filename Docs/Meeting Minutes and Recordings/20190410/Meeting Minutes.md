@@ -15,7 +15,8 @@
 ## Agenda 
 - Release plan
 - Document Zowe ports/URLs
-- Any topics? 
+- PRs
+- APIML Conformance criteria
 - Status updates / Action items
 
 ### Release plan
@@ -29,6 +30,16 @@ GitHub issues: https://github.com/zowe/docs-site/issues
 
 https://github.com/zowe/docs-site/issues/470
 
+### APIML Conformance criteria
+
+API services onboard
+https://github.com/zowe/api-layer/blob/conformance/docs/conformance.md
+
+CLI criteria. 
+
+Need to follow up with OM on timeline.
+
+
 ### Roundtable
 
   - APIML (Andrew)
@@ -38,8 +49,11 @@ https://github.com/zowe/docs-site/issues/470
     -  next release doc changes
     - Java dataservices
     - making desktop available through APIML
+
+    Alyson will be on maternity leave for three months. 
   - Zowe CLI (Brandon, Jim)
     - release notes
+    - internal work. 
   - Zowe z/OS install, z/OS Services (Ashley)
     - zTrial
     - #454 Update architecture section
