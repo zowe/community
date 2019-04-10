@@ -38,6 +38,9 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction
+      - Create Rest Client methods that allow streaming of response and request data to handle download/upload of large files
+      - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
