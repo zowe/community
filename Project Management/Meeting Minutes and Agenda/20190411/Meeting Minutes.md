@@ -37,7 +37,7 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-      - Finished UI to switch languages
+      - Finished UI to switch languages, including German and some small bugs
       - Integrated OWASP dependency checker
       - Making the Desktop UI available through APIML is in the process of being reviewed
       - Making progress on Adding "mode=base64" option to unixfile API
