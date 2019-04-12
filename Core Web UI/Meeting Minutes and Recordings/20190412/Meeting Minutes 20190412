@@ -1,0 +1,28 @@
+Meeting Minutes - 4/12/2019
+Meeting was  recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- Created a UI for Zowe users to be able to switch languages
+- Created /user-profiles endpoint for TopSecret
+- Integrated OWASP dependency checker
+- Working on adding German to UI Switch Languages 
+- Still working on API mediation layer for development with Zowe
+
+
+- Next Sprint
+	- Add "mode=base64" option to unixfile API
+	- Create Java services that zlux recognizes
+	- Some Editor work
+
+Areas of Interest
+	- API discussion has a rough target for Wednesday 4/17 11-Noon
+	- Intro to ZSS Dev call has not yet been rescheduled 
+	- Joe W to reach out to Reet about playback demo questions (APIML & Zlux)
+				
+Attendees 
+Nolan Rogers
+Jordan Cain
+Joe Winchester
+Nakul Manchanda
