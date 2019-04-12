@@ -37,8 +37,17 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Finished UI to switch languages, including German and some small bugs
+      - Integrated OWASP dependency checker
+      - Making the Desktop UI available through APIML is in the process of being reviewed
+      - Making progress on Adding "mode=base64" option to unixfile API
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction
+      - Create Rest Client methods that allow streaming of response and request data to handle download/upload of large files
+      - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Move of security SSO endpoints is code complete. Unit tests are done. Close to complete integration tests.
+      - Once the item above is done squad will start to work on the addition of the 2 SSO config parameters (JWT signature algorithm and secret string).       
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
