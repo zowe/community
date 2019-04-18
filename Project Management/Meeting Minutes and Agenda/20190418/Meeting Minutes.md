@@ -32,10 +32,10 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-      - Working on java services for zlux
+      - Testing on java services for zlux
       - Working on preventing code editor from loading all files at once
       - Reviewing the setup the API mediation layer for development with Zowe
-      - Revieing TopSecret adding /groups endpoint extraction
+      - Finished TopSecret adding /groups endpoint extraction
       - Haven't had the chance to work on Adding "mode=base64" option to unixfile API, yet
     - Core/CLI  (Mike B/Kyle)
       - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction.
