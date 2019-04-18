@@ -42,6 +42,9 @@ Agenda Items
       - Working on Conformance requirements
       - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Continue working on Move security endpoints from API catalog to API gateway
+      - Started working on Add JWT signature algorithm and secret to the configuration options
+      - Researching Catalog uses TLS 1.0 instead 1.2 on MF when  verifySslCertificatesOfServices is false
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson/Igor)
       - Zowe v1.1.1 release notes open for input: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
