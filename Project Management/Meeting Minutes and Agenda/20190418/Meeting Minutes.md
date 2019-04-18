@@ -27,7 +27,7 @@ Agenda Items
 4. Plan:
     - Playback April 29. Leads or Scrum masters should update agenda https://ibm.ent.box.com/notes/284332824321
     - Reminder for all teams to monitor Zowe Slack Channels
-    -
+    - TLS 1.2 Breaking the build
 5. Squad Status:
     - Installation
     - Onboarding (JoeW/TimB)
