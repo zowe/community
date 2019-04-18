@@ -40,8 +40,10 @@ Agenda Items
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
-
+    - Documentation (Brandon/Ashley/Jim/Jason/Alyson/Igor)
+      - Zowe v1.1.1 release notes open for input: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
+      - Working on Conformance Program information
+      - Working on GitHub issues
 
 6. Legal Requirements
     - None
