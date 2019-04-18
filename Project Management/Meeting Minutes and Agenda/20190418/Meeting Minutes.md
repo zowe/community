@@ -38,6 +38,9 @@ Agenda Items
       - Revieing TopSecret adding /groups endpoint extraction
       - Haven't had the chance to work on Adding "mode=base64" option to unixfile API, yet
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction.
+      - Working on Conformance requirements
+      - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson/Igor)
