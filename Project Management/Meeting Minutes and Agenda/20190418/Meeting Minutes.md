@@ -27,16 +27,29 @@ Agenda Items
 4. Plan:
     - Playback April 29. Leads or Scrum masters should update agenda https://ibm.ent.box.com/notes/284332824321
     - Reminder for all teams to monitor Zowe Slack Channels
-    -
+    - TLS 1.2 Breaking the build
 5. Squad Status:
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Testing on java services for zlux
+      - Working on preventing code editor from loading all files at once
+      - Reviewing the setup the API mediation layer for development with Zowe
+      - Finished TopSecret adding /groups endpoint extraction
+      - Haven't had the chance to work on Adding "mode=base64" option to unixfile API, yet
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction.
+      - Working on Conformance requirements
+      - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Continue working on Move security endpoints from API catalog to API gateway
+      - Started working on Add JWT signature algorithm and secret to the configuration options
+      - David J. prepared fix "Catalog uses TLS 1.0 instead 1.2 on MF" defect and send test JARs to Jack J.
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
-
+    - Documentation (Brandon/Ashley/Jim/Jason/Alyson/Igor)
+      - Zowe v1.1.1 release notes open for input: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md
+      - Working on Conformance Program information
+      - Working on GitHub issues
 
 6. Legal Requirements
     - None
