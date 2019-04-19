@@ -1,0 +1,24 @@
+Meeting Minutes - 4/19/2019
+Meeting was recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- Working on preventing code editor from loading all files at once
+- Working on adding "mode=base64" option to unixfile API
+- Testing java services for zlux
+- Testing TopSecret adding /groups endpoint extraction 
+- Testing on API mediation layer for development with Zowe
+
+
+- Next Sprint
+	- Some more Editor work
+	- few bugs
+
+Areas of Interest
+	- Intro to ZSS Dev call has not yet been rescheduled 
+	
+				
+Attendees 
+Nolan Rogers
+Sean Grady
