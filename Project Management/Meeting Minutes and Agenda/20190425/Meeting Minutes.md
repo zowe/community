@@ -32,6 +32,10 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Still Testing on java services for zlux
+      - Made a PR Working on preventing code editor from loading all files at once
+      - Reviewing the setup the API mediation layer for development with Zowe
+      - The Adding "mode=base64" option to unixfile API story will most likely spill to next sprint
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
