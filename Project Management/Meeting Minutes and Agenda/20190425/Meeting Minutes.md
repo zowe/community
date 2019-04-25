@@ -38,6 +38,10 @@ Agenda Items
       - The Adding "mode=base64" option to unixfile API story will most likely spill to next sprint
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Fixed and merged: 
+        - Catalog uses TLS 1.0 instead 1.2 on MF defect  
+        - TransformService defect
+      - Move security endpoints from API catalog to API gateway PR is ready for merge             
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
