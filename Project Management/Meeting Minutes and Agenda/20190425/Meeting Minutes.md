@@ -37,6 +37,9 @@ Agenda Items
       - Reviewing the setup the API mediation layer for development with Zowe
       - The Adding "mode=base64" option to unixfile API story will most likely spill to next sprint
     - Core/CLI  (Mike B/Kyle)
+      - VSCode Extension is being enhanced to handle USS File and z/OS Jobs interaction.
+      - Conformance requirements
+      - Automate bumping versions in the CLI (Major/Minor/Patch)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Fixed and merged: 
         - Catalog uses TLS 1.0 instead 1.2 on MF defect  
