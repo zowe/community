@@ -43,7 +43,7 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Fixed and merged: 
         - Catalog uses TLS 1.0 instead 1.2 on MF defect  
-        - TransformService defect
+        - TransformService defects
       - Move security endpoints from API catalog to API gateway PR is ready for merge             
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
