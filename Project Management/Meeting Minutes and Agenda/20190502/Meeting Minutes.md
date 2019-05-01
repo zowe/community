@@ -32,6 +32,12 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    - Finished story to prevent code editor from loading all files at once
+      - Finished TopSecret /groups endpoint administration
+      - Back to testing the story to add "mode=base64" option to unixfile API
+      - Working on adding internationalization to the Sample App
+      - Working on building a menu structure for programming language-specific actions
+      - Working on creating a side file for zss version 1.1.0
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
