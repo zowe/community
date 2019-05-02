@@ -39,6 +39,7 @@ Agenda Items
       - Working on creating a side file for zss version 1.1.0
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Reviewing Move security endpoints from API catalog to API gateway
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
