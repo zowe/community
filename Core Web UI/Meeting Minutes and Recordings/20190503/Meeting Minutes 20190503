@@ -1,0 +1,33 @@
+Meeting Minutes - 5/3/2019
+Meeting was recorded 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- Finished preventing code editor from loading all files at once
+- Finished "mode=base64" option to unixfile API 
+- Finished TopSecret adding /groups endpoint extraction 
+- Finished API mediation layer for development with Zowe
+- Adding internalization to sample App
+- Working on building a menu structure for programming language-specific actions
+ 
+- Next Sprint
+	- Working on Code Editor to work well with JCL
+	- Other general editor efforts
+	- Tackle some defects
+	
+Terminal Emulation update
+	- TN3270 is not working for Richard
+		- Sean to help offline	
+
+Nakul has been testing the editor	
+				
+Attendees 
+Nolan Rogers
+JP
+Nakul
+Dan Jast
+Kimberly A
+Simone Gregg
+Richard Jackson
+Michael Karagines
