@@ -23,7 +23,7 @@ Sprint 2 (June 11, 2019 - June 24, 2019)
 Agenda Items
 ------------
 1. Start Recording
-2. ZLC Updates (meeting cancelled)
+2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
     - 
