@@ -50,7 +50,3 @@ Agenda Items
 Action Items
 ------------
 - None
-
-
-Recording
--------------------------
