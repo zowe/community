@@ -26,7 +26,7 @@ Agenda Items
 2. ZLC Updates (meeting cancelled)
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    -
+    - 
     -
     -
 5. Squad Status:
