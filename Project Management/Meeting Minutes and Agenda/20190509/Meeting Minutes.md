@@ -33,6 +33,9 @@ Agenda Items
     - Installation
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Working on syntax highlighting when editing JCL dataset on the Code Editor
+      - Testing the story on building a menu structure for programming language-specific actions
+      - Testing the internationalization of the Sample App
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
