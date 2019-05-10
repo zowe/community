@@ -1,0 +1,32 @@
+Meeting Minutes - 5/10/2019
+Meeting was recorded - https://zoom.us/recording/detail?meeting_id=icTvmBaJQYORv1TxHW47%2Fw%3D%3D
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+- Finished preventing code editor from loading all files at once
+- Finished adding "mode=base64" option to unixfile API
+- Finished building a menu structure for programming language-specific actions
+- Finished adding TopSecret adding /groups endpoint extraction
+- Testing the story to remove expiration attribute from zlux session cookie
+- Working on adding internationalization to the Sample App 
+	- JP demo'ed this towards the beginning on the recording linked at top
+- Working on syntax highlighting when editing a JCL dataset 
+	- This may spill to next sprint
+
+- Next Sprint
+	- Some more Editor work
+	- Bugs fixes
+	- Doc issue for internationalization
+
+Areas of Interest
+	- Intro to ZSS Dev call has not yet been rescheduled 
+	
+				
+Attendees 
+Nolan Rogers
+Sean Grady
+JP
+Nakul
+Jordan C
+Joe W
