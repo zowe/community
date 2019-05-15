@@ -50,6 +50,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Making progress on Code Editor Stories
+      - Working on some Code Editor bugs
+      - Have a stretch goal of finishing up some Swagger work
+      - ZenHub link for specific stories and bugs in the 1.3.0 release: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.3.0%232019-05-24&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
