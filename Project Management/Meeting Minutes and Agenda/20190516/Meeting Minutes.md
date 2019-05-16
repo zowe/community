@@ -43,8 +43,8 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    -
-    -
+    - Playback
+    - Jenkings Library Update (Jack) https://ibm.box.com/s/31z0v0ukz19xah44z5d69jcekrdrrscs
     -
 5. Squad Status:
     - Installation (Joe)
