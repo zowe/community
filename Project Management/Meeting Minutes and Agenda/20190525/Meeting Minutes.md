@@ -49,6 +49,11 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - fixed a bug so the Editor will notify users if it cannot open a file/dataset
+      - fixed a bug where ZSS consumed ~50% of CPU during file download
+      - testing once a job is submitted we want to see it in the JES eplorer
+      - working on three more Editor stories 
+      - & more, Full Link to 1.3.0 for Web UI: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.3.0%232019-05-24&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
