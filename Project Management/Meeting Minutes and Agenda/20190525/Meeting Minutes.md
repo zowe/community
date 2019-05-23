@@ -61,8 +61,8 @@ Agenda Items
         - API ML debugging
         - developing Java REST APIs with Spring Boot  
       - Close to complete the: 
-       - SSO JWT secret related story
-       - Service still displayed as UP and API doc available in the catalog even if stopped defect
+        - SSO JWT secret related story
+        - Service still displayed as UP and API doc available in the catalog even if stopped defect
       - Work in progress on the high CPU consumption of discovery service and gateway defect
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
