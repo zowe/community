@@ -56,6 +56,14 @@ Agenda Items
       - & more, Full Link to 1.3.0 for Web UI: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.3.0%232019-05-24&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Added Swagger documentation for the authentication endpoints 
+      - Updated documentation on: 
+        - API ML debugging
+        - developing Java REST APIs with Spring Boot  
+      - Close to complete the: 
+       - SSO JWT secret related story
+       - Service still displayed as UP and API doc available in the catalog even if stopped defect
+      - Work in progress on the high CPU consumption of discovery service and gateway defect
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
