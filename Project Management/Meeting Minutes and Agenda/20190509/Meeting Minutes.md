@@ -35,6 +35,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI  (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Working on the addition JWT signature algorithm and secret to the configuration options
+      - Improving Gradle build script speed
+      - Support mixed case service ID
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
