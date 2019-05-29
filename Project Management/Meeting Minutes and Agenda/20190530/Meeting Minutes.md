@@ -48,6 +48,12 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Working on submitting a JCL card from the code editor
+      - Need to test once a job is submitted we want to see it in the JES explorer
+      - Fixing some smaple app bugs
+      - Fixed a Code Editor bug 
+      - Finished sanitizing input against html script tags
+      - Zenhub for 1.4.0: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.4.0%23&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
