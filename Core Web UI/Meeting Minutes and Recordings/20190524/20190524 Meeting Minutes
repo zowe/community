@@ -1,0 +1,37 @@
+Meeting Minutes - 5/24/2019
+Meeting was recorded - https://zoom.us/recording/share/es6d9x8WFNwSCvoOK10Sz5MP8PNiRoUT4e3QXikCi0awIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+	- Testing on sanitizing input against html script tags
+	- Testing on syntax highlighting when editing a JCL dataset
+	- Finished on a bug for file browser in code editor doesn't show correct sort order
+	- Reviewing Feature/host swagger docs from plugins
+	- & more please see: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.3.0%232019-05-24&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
+	
+Next Sprint
+	- Tackling some Editor Bugs
+
+Areas of Interest
+	- Intro to ZSS Dev call has been rescheduled for 5/29
+	- Nakul has ZenHub permission issues from Sean
+		- Jordan C will follow up and grant permissions 
+	- Sean's API working document link 
+		- https://docs.google.com/spreadsheets/d/1tOT5yZVX2THhFBAaVzJLb_x-duhJljLXocyuZxRjJPk/edit?usp=sharing
+	- Eric Interested in all aspects of Zowe and how to integrate API 
+	- Nolan to talk to Sean about Code editor and if it is Roadmap'ed to take over MVS Explorer
+	- Zowe Web UI to start commercial support 
+	- Open issue for reset password functionality from Web UI
+	
+	
+Demos
+	- The Editor
+				
+Attendees 
+Nolan Rogers
+JP
+Jordan C
+Eric Chevalier
+Nakul
+Paul Newton
