@@ -10,6 +10,3 @@
 
 ## Integrate Zowe services with SSO
 * [Integrate zLUX with Zowe SSO for authentication](https://github.com/zowe/api-layer/issues/55)
-
-## Extend APIs as requested by Zowe
-* [Pagination for Datasets and Members Fetch](https://github.com/zowe/data-sets/issues/49)
