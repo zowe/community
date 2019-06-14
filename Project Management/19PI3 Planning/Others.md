@@ -4,5 +4,5 @@
 * Zowe Support - Measure CPU, Memory consumption, IO for API ML
 * Zowe Support - Measure CPU, Memory consumption, IO for z/OS Services
 * Zowe Support - Measure CPU, Memory consumption, IO for ZLUX
-## Introduce a stable version (1.0) of the Zowe VSCode Extension
+
 
