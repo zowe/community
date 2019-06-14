@@ -1,4 +1,4 @@
-# API Squad - 19PI3 Objectives (June to August, 2019)
+# API & Security Squad - 19PI3 Objectives (June to August, 2019)
 
 ## Extend API ML authentication service for additional Zowe SSO requirements
 * [API Catalog API accepts Basic Authentication](https://github.com/zowe/api-layer/issues/259)
