@@ -5,4 +5,4 @@
 * __REST API Sample - Calling native code via JNI, so developers can build REST API services that utilize the existing non-Java code__
 * __Stretch - complete backlog for REST API Sample, so product teams can create conformance Zowe Rest services__
   * https://github.com/zowe/sample-spring-boot-api-service/projects/1
-* __Improve usability of API ML spring enablers and related documentation provided to product teams, so they experience flawless integration of their product into API ML__
+* __Improve usability of API ML spring enablers and related documentation__
