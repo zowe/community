@@ -43,32 +43,19 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - Update Playback Agenda (https://ibm.ent.box.com/notes/284332824321)
     - Discuss the plan to ship release
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-      - fixed a bug so the Editor will notify users if it cannot open a file/dataset
-      - fixed a bug where ZSS consumed ~50% of CPU during file download
-      - testing once a job is submitted we want to see it in the JES eplorer
-      - working on three more Editor stories 
-      - & more, Full Link to 1.3.0 for Web UI: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.3.0%232019-05-24&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
+      - Working on submitting a JCL card from the code editor
+      - Need to test once a job is submitted we want to see it in the JES explorer
+      - Fixing some sample app bugs
+      - Fixed a Code Editor bug 
+      - Finished sanitizing input against html script tags
+      - Zenhub for 1.4.0: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.4.0%23&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
-      - Stories in progress:
-          - Define stories to automate enforcement of rules and regulations
-          - VSCode USS File extension- Favorites
-          - New Article - CLI - Working with z/OSMF Certificates
-          - VSCode USS File extension- Favorites
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-      - Added Swagger documentation for the authentication endpoints 
-      - Updated documentation on: 
-        - API ML debugging
-        - developing Java REST APIs with Spring Boot  
-      - Close to complete the: 
-        - SSO JWT secret related story
-        - Service still displayed as UP and API doc available in the catalog even if stopped defect
-      - Work in progress on the high CPU consumption of discovery service and gateway defect
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
