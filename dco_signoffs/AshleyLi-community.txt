@@ -1,0 +1,18 @@
+I, AshleyLi hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: nannanli@cn.ibm.com
+
+a50612d84d4a0f51d42f9ed67f5fd49f70923b17 Update Meeting Minutes.md
+cf2331f385fed06e4eab8980714b8b39313f48c2 Create Meeting Minutes.md
+2ff5e54b601e22af08ba2de117d2fce366e74477 Create Meeting Minutes.md
+3a7ed7470623acbed7d17f0bc8053d32fab77e39 Update Meeting Minutes.md
+95958880ff39cf1c0fd699deff6cccff90ce9681 Create Meeting Minutes.md
+c4471fbec0a6ff4efaf0972bdad3d3def014229a Update Meeting Minutes.md
+d11e3cead26c1b9891a2da207de937e5f64332ce Update Meeting Minutes.md
+565c25c9a5704b0e7c1bc00f2c23906f2480e975 Create Meeting Minutes.md
+821be98ba9575980ee83f8142e5e5e74a2ab361f Update Meeting Minutes.md
+a0e684cac14592e937e09a0917e05331b005937e Update Meeting Minutes.md
+1f71c44ffebc2e1f51e2e3be1ef98bb25e0bd74d Create Meeting Minutes.md
+f6bfc4bbdbaa3ece39b65986ac06b279a8a0ccaf Update Meeting Minutes.md
+592c90b4f66f5e74db25c101bee15b310ed70659 Tentative agenda
+9050061504ccbc45e5086b0d9e17a609b7c0c5cb Update Meeting Minutes.md
+840bf93996850e624bc572b4f6e97a3ef1125ff5 Update Meeting Minutes.md
+34ee6e1f3e8e056f73a6a52b9864167f8fbc23ad Create Meeting Minutes.md
