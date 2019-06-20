@@ -53,9 +53,8 @@ Agenda Items
         - Add JWT signature algorithm and secret to the configuration options (#198)
         - Make Desktop UI available through APIML (#242)
         - Integrate zLUX with API ML (#8)
-        - Add JWT signature algorithm and secret to the configuration options
         - Custom Logback layout (#360)
-      - In progress on:
+      - In progress:
         - Spring authentication security client (#323)      
         - Integrate zLUX with Zowe SSO for authentication (#55) 
         - Change default Max-Age for cookies to 0 (#290)
