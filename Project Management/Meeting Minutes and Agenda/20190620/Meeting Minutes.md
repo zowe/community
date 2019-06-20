@@ -47,9 +47,9 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-    	- Testing Java sidecar services that zlux recognizes 
-	- Finished a font bug for non latin chars
-	- Finished updating the repos with package lock files	
+    	- Testing Java sidecar services that zlux recognizes. 
+	- Finished a font bug for non latin chars.
+	- Finished updating the repos with package lock files.	
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Competed: 
