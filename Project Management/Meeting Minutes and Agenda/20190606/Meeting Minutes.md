@@ -48,6 +48,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+      - Finished functionality to submit a JCL card from the Code Editor 
+      - Added ability that once a job is submitted that you can see it in the JES Explorer
+      - Working on going through the repos and updating the package lock files 
+      - Zenhub link for 1.4.0: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.4.0%232019-06-21&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
