@@ -47,9 +47,8 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-    	- Testing Java sidecar services that zlux recognizes. 
-	- Finished a font bug for non latin chars.
-	- Finished updating the repos with package lock files.	
+    	- Finished a font bug for non latin chars. Also, Finished updating the repos with package lock files.	
+    	- Testing Java sidecar services that zlux recognizes.                                                                                   - LINK for ZenHub: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.4.0%232019-06-21&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Competed: 
