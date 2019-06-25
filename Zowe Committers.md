@@ -27,7 +27,7 @@ John Gellin
 Adam Battenburg
 Jason Enzi
 Sean Grady
-Colin Stone
+Colin Stone: No longer a committer
 Tim Gerstel
 Suneeth Keerthy
 Leanid Astrakou
@@ -88,3 +88,4 @@ Jason Englishh
 Ashley Anderson
 Brandon Jenkins
 James Bauman
+Alyson Andresen: Added
