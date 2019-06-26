@@ -20,7 +20,7 @@ On-boarding:(Verified)
 - Tim Brooks - Tbr00ksy
 
 
-Web-UI:
+Web-UI:(Verified)
 - JP Linardon (Lead) - @jplinardon
 - Jordain Cain - @jordanCain
 - John Gellin - @jgellin
