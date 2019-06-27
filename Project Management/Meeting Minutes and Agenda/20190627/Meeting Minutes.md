@@ -49,6 +49,16 @@ Agenda Items
     	- Finished bug to have zlux app windows have cascading positioning when maximized 
     	- Working on TopSecret support
     - Core/CLI (Mike B/Kyle)
+    	- Reviewing Zowe CLI MQ plugin that is being contributed to Zowe!
+    	- Improved web help published to Zowe site: https://zowe.github.io/docs-site/latest/web_help/index.html
+    	- Progressing toward Zowe VSCode Extension 1.0 - 973 unique installs, 4,026 downloads!
+	    	- (In Review) Issue #13 - Implement CI/CD pipeline
+	    	- (In Review) Issue #57 - USS files are downloaded without taking into account the file encoding tag extended attribute in zFS
+	    	- (In Review) Issue #49 - Provide a refresh option for USS files
+	    	- (In Progress) Issue #114 - Spike: Define Menu strategy for VSCode
+	    	- (In Progress) Issue #97 - Setting for temporary "Resources" folder location
+	    	- (In Progress) Issue #90 - Add support for localization
+	    	- (In Progress) Issue #70 - VSCode exploitation of new API for Add function for checking USS file tagging
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Fixed "W1111 - Change default Max-Age for cookies to 0" defect
         - Completed messaging and error handling for the Spring authentication client
