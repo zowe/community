@@ -51,7 +51,7 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Fixed "W1111 - Change default Max-Age for cookies to 0" defect
-	- Completed messaging and error handling for the Spring authentication client
+        - Completed messaging and error handling for the Spring authentication client
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
