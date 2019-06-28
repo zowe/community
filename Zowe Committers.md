@@ -89,3 +89,6 @@ Doc:
 - Brandon Jenkins - @BrandonJenkins14
 - James Bauman - @JamesBauman
 - Alyson Andresen - @AlysonAndresen
+- Andrew Jandacek - @janan07
+- Ting Chen (Cathy) - @chentingcathy
+- Neng Zhang (Pluto) - @PlutoZhang
