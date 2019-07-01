@@ -1,94 +1,94 @@
-The following is a list of all the Zowe Committers on the project organized by squad.
+The following is a list of all the Zowe Committers on the project organized by squad. It is the responsibility of the committers to update their name, gitID and email they would like to have associated with official (binding) community votes. 
 
 ZLC: (Verfified)
-- Matt Hogstrom (Lead) - @hogstrom
-- Bruce Armstrong - @armstro
-- Jean-Louis Vignaud - @jlvignaudCA
-- Mark Ackert - @MarkAckert
-- JP Linardon - @jplinardon
-- Sean Grady - @1000TurquoisePogs
+- Matt Hogstrom (Lead) - @hogstrom (email?)
+- Bruce Armstrong - @armstro (email?)
+- Jean-Louis Vignaud - @jlvignaudCA (email?)
+- Mark Ackert - @MarkAckert (email?)
+- JP Linardon - @jplinardon (email?)
+- Sean Grady - @1000TurquoisePogs (email?)
 
 
 On-boarding:(Verified)
-- Joe Winchester (Lead) - @Joe-Winchester
-- Sujay Solomon - @solsu01
-- Rose Sakach - @RASakach
-- Daniel Kelosky - @dkelosky
-- Robert Penny - @rpenny125
-- Nolan Rogers - @NolanRogers
-- Daniel Jast - 
-- Tim Brooks - Tbr00ksy
+- Joe Winchester (Lead) - @Joe-Winchester (email?)
+- Sujay Solomon - @solsu01 (email?)
+- Rose Sakach - @RASakach (email?)
+- Daniel Kelosky - @dkelosky (email?)
+- Robert Penny - @rpenny125 (email?)
+- Nolan Rogers - @NolanRogers (email?)
+- Daniel Jast - ???? (email?)
+- Tim Brooks - Tbr00ksy (email?)
 
 
 Web-UI:(Verified)
-- JP Linardon (Lead) - @jplinardon
-- Jordain Cain - @jordanCain
-- John Gellin - @jgellin
-- Adam Battenburg - @adambattenburg
-- Jason Enzi - @jayenzi
-- Sean Grady - @1000TurquoisePogs
-- Tim Gerstel - @timgerstel
-- Suneeth Keerthy - @sakeerthy
-- Leanid Astrakou - @DivergentEuropeans
-- Leonty Chudinov - @lchudinov
-- Dmitry Prizentsov - @dprizentsov
-- Jason English - @jasonenglish2039
-- Reet Chowdhary - @reetchow
+- JP Linardon (Lead) - @jplinardon (email?)
+- Jordain Cain - @jordanCain (email?)
+- John Gellin - @jgellin (email?)
+- Adam Battenburg - @adambattenburg (email?)
+- Jason Enzi - @jayenzi (email?)
+- Sean Grady - @1000TurquoisePogs (email?)
+- Tim Gerstel - @timgerstel (email?)
+- Suneeth Keerthy - @sakeerthy (email?)
+- Leanid Astrakou - @DivergentEuropeans (email?)
+- Leonty Chudinov - @lchudinov (email?)
+- Dmitry Prizentsov - @dprizentsov (email?)
+- Jason English - @jasonenglish2039 (email?)
+- Reet Chowdhary - @reetchow (email?)
 
 
 CLI (verified):
-- Mike Bauer (Lead) - @MikeBauerCA
-- Fernando Rijo Cedeno - @zFernando0
-- Eugene Johnston - @gejohnston
-- Pete Swauger - @PeteSwauger
-- Jason Tucker - @tucker01
-- Timothy Johnson - @tjohnsonBCM
-- Colin Stone - @Colin-Stone
-- Jessica Tonda - @JTonda
-- John LaPlante - @jelaplan
-- Brandon Jenkins - @BrandonJenkins14
-- James Bauman - @JamesBauman
-- Lauren Li - @lauren-li
-- Rodney Wilson - @rodnet-wilson
-- Kristina Mayo - @kristinochka
+- Mike Bauer (Lead) - @MikeBauerCA (email?)
+- Fernando Rijo Cedeno - @zFernando0 (email?)
+- Eugene Johnston - @gejohnston (email?)
+- Pete Swauger - @PeteSwauger (email?)
+- Jason Tucker - @tucker01 (email?)
+- Timothy Johnson - @tjohnsonBCM (email?)
+- Colin Stone - @Colin-Stone (email?)
+- Jessica Tonda - @JTonda (email?)
+- John LaPlante - @jelaplan (email?)
+- Brandon Jenkins - @BrandonJenkins14 (email?)
+- James Bauman - @JamesBauman (email?)
+- Lauren Li - @lauren-li (email?)
+- Rodney Wilson - @rodnet-wilson (email?)
+- Kristina Mayo - @kristinochka (email?)
 
 
 API ML:
-- Michal Supak (Lead) - @supmi01
-- Petr Galik (Lead) - @petr-galik
-- Andrea Tabone - @taban03
-- Christos Zikos - @cZikos
-- Fyodor Kovin - @fkovinAtRocket
-- Vsevolod Khanin - @vsev0lod
-- Jiri Aichler - ????
-- Ilkin Abdullayev - @ilkinabdullayev
-- David Janda - @janan07
-- Elena Kubantseva - @arxioly
-- Pavlin Zahariev - ????
-- Irek Fakhrutdinov - @ifakhrutdinov
-- Radek Krejcirik - @krera03
-- Andrew Jandacek - @janan07
-- Petr Plavjanik - @plavjanik
+- Michal Supak (Lead) - @supmi01 (email?)
+- Petr Galik (Lead) - @petr-galik (email?)
+- Andrea Tabone - @taban03 (email?)
+- Christos Zikos - @cZikos (email?)
+- Fyodor Kovin - @fkovinAtRocket (email?)
+- Vsevolod Khanin - @vsev0lod (email?)
+- Jiri Aichler - ???? (email?)
+- Ilkin Abdullayev - @ilkinabdullayev (email?)
+- David Janda - @jandadav (email?)
+- Elena Kubantseva - @arxioly (email?)
+- Pavlin Zahariev - ???? (email?)
+- Irek Fakhrutdinov - @ifakhrutdinov (email?)
+- Radek Krejcirik - @krera03 (email?)
+- Andrew Jandacek - @janan07 (email?)
+- Petr Plavjanik - @plavjanik (email?)
 
 
 CI/CD:
-- Mark Ackert (Lead) - @MarkAckert
-- Michal Maliska (Lead) - @mike-maliska
-- Jack-Tiefeng Jia - @jackjia-ibm
-- John Davies - @John-A-Davies
-- Eamon Dawes - @eamondawes
-- Dmitry Nikolaev - @dmitrynikolaev
-- Alvin Tan - @alvin-tan
-- Nick Kocsis - @nkocsis
-- Nan Nan Li (Ashley) - @nannanli
+- Mark Ackert (Lead) - @MarkAckert (email?)
+- Michal Maliska (Lead) - @mike-maliska (email?)
+- Jack-Tiefeng Jia - @jackjia-ibm (email?)
+- John Davies - @John-A-Davies (email?)
+- Eamon Dawes - @eamondawes (email?)
+- Dmitry Nikolaev - @dmitrynikolaev (email?)
+- Alvin Tan - @alvin-tan (email?)
+- Nick Kocsis - @nkocsis (email?)
+- Nan Nan Li (Ashley) - @nannanli (email?)
 
 
 Doc:
-- Nan Nan Li (Ashley) - @nannanli
-- Jason English - @jasonenglish2039
-- Brandon Jenkins - @BrandonJenkins14
-- James Bauman - @JamesBauman
-- Alyson Andresen - @AlysonAndresen
-- Andrew Jandacek - @janan07
-- Ting Chen (Cathy) - @chentingcathy
-- Neng Zhang (Pluto) - @PlutoZhang
+- Nan Nan Li (Ashley) - @nannanli (email?)
+- Jason English - @jasonenglish2039 (email?)
+- Brandon Jenkins - @BrandonJenkins14 (email?)
+- James Bauman - @JamesBauman (email?)
+- Alyson Andresen - @AlysonAndresen (email?)
+- Andrew Jandacek - @janan07 (email?)
+- Ting Chen (Cathy) - @chentingcathy (email?)
+- Neng Zhang (Pluto) - @PlutoZhang (email?)
