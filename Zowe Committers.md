@@ -1,4 +1,4 @@
-The following is a list of all the Zowe Committers on the project organized by squad. It is the responsibility of the committers to update their name, gitID and email they would like to have associated with official (binding) community votes. 
+The following is a list of all the Zowe Committers on the project organized by squad. It is the responsibility of the committers to update their name, gitID and email they would like to have associated with official (binding) community votes. Each committer/individual is only allowed to have one (1) gitID and email with read/write access.
 
 ZLC: (Verfified)
 - Matt Hogstrom (Lead) - @hogstrom (email?)
@@ -17,7 +17,7 @@ On-boarding:(Verified)
 - Robert Penny - @rpenny125 (email?)
 - Nolan Rogers - @NolanRogers (email?)
 - Daniel Jast - ???? (email?)
-- Tim Brooks - Tbr00ksy (email?)
+- Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 
 
 Web-UI:(Verified)
