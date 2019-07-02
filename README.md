@@ -2,6 +2,22 @@
 
 This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback.
 
+- [Zowe Sub-projects](#zowe-sub-projects)
+    - [Zowe API Mediation layer](#zowe-api-mediation-layer)
+    - [Zowe CLI](#zowe-cli)
+    - [Zowe App Framework](#zowe-app-framework)
+  - [Zowe Community Teams](#zowe-community-teams)
+    - [Documentation and Onboarding](#documentation-and-onboarding)
+    - [Zowe Foundation](#zowe-foundation)
+  - [Communication Channels](#communication-channels)
+    - [Slack](#slack)
+    - [Mailing Lists](#mailing-lists)
+    - [Community Forums](#community-forums)
+  - [Contribute](#contribute)
+    - [Submit an issue](#submit-an-issue)
+      - [Pull Request Guidelines](#pull-request-guidelines)
+    - [Reporting Security Issues](#reporting-security-issues)
+
 ## Zowe Sub-projects
 
 The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has it's own governance structure and release process that aligns with the primary framework guidelines.
