@@ -16,7 +16,7 @@ On-boarding:(Verified)
 - Daniel Kelosky - @dkelosky (email?)
 - Robert Penny - @rpenny125 (email?)
 - Nolan Rogers - @NolanRogers (email?)
-- Daniel Jast - ???? (email?)
+- Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 
 
