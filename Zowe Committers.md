@@ -75,7 +75,7 @@ CI/CD:
 - Mark Ackert (Lead) - @MarkAckert (email?)
 - Michal Maliska (Lead) - @mike-maliska (email?)
 - Jack-Tiefeng Jia - @jackjia-ibm (email?)
-- John Davies - @John-A-Davies (email?)
+- John Davies - @John-A-Davies (daviesja@uk.ibm.com)
 - Eamon Dawes - @eamondawes (email?)
 - Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
 - Alvin Tan - @alvin-tan (email?)
