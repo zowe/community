@@ -15,7 +15,7 @@ On-boarding:(Verified)
 - Rose Sakach - @RASakach (email?)
 - Daniel Kelosky - @dkelosky (email?)
 - Robert Penny - @rpenny125 (email?)
-- Nolan Rogers - @NolanRogers (email?)
+- Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 - Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 
@@ -34,6 +34,7 @@ Web-UI:(Verified)
 - Dmitry Prizentsov - @dprizentsov (email?)
 - Jason English - @jasonenglish2039 (email?)
 - Reet Chowdhary - @reetchow (email?)
+- Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 
 
 CLI (verified):
