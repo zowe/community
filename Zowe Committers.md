@@ -77,7 +77,7 @@ CI/CD:
 - Jack-Tiefeng Jia - @jackjia-ibm (email?)
 - John Davies - @John-A-Davies (email?)
 - Eamon Dawes - @eamondawes (email?)
-- Dmitry Nikolaev - @dmitrynikolaev (email?)
+- Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
 - Alvin Tan - @alvin-tan (email?)
 - Nick Kocsis - @nkocsis (email?)
 - Nan Nan Li (Ashley) - @nannanli (email?)
