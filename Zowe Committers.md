@@ -75,7 +75,7 @@ API ML:
 CI/CD:
 - Mark Ackert (Lead) - @MarkAckert (email?)
 - Michal Maliska (Lead) - @mike-maliska (email?)
-- Jack-Tiefeng Jia - @jackjia-ibm (email?)
+- Jack (Tiefeng) Jia - @jackjia-ibm (jack-tiefeng.jia@ibm.com)
 - John Davies - @John-A-Davies (daviesja@uk.ibm.com)
 - Eamon Dawes - @eamondawes (email?)
 - Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
