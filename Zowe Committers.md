@@ -2,7 +2,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 
 ZLC: (Verfified)
 - Matt Hogstrom (Lead) - @hogstrom (email?)
-- Bruce Armstrong - @armstro (email?)
+- Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
 - Jean-Louis Vignaud - @jlvignaudCA (email?)
 - Mark Ackert - @MarkAckert (email?)
 - JP Linardon - @jplinardon (email?)
