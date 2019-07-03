@@ -93,3 +93,7 @@ Doc:
 - Andrew Jandacek - @janan07 (email?)
 - Ting Chen (Cathy) - @chentingcathy (email?)
 - Neng Zhang (Pluto) - @PlutoZhang (email?)
+
+Cupids:
+ - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
+ - Onno Van den Troost - @OnnoVdT (email?)
