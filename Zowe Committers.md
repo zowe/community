@@ -22,7 +22,7 @@ On-boarding:(Verified)
 
 Web-UI:(Verified)
 - JP Linardon (Lead) - @jplinardon (jlinardon@rocketsoftware.com)
-- Jordain Cain - @jordanCain (email?)
+- Jordain Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 - John Gellin - @jgellin (email?)
 - Adam Battenburg - @adambattenburg (email?)
 - Jason Enzi - @jayenzi (email?)
