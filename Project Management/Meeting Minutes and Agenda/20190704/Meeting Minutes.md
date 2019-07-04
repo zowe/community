@@ -50,6 +50,9 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - Working on GitHub doc issues
+      - Redesigning doc site homepage to include more useful information
+      - v1.4.0 release notes placeholder: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md#version-140-july-2019
 
 
 6. Legal Requirements
