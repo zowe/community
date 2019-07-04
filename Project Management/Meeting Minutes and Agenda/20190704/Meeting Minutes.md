@@ -48,6 +48,11 @@ Agenda Items
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Solution for "High CPU consumption of discovery service and gateway" in review
+      - Spring authentication client
+        - Integrated with API Catalog
+        - Work in progress on tests, documentation and Artifactory publishing
+      - Researching Swagger Try it out functionality implementation for API Catalog (UI + security POV)   
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
       - Working on GitHub doc issues
