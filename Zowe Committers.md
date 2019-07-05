@@ -33,7 +33,7 @@ Web-UI:(Verified)
 - Leonty Chudinov - @lchudinov (email?)
 - Dmitry Prizentsov - @dprizentsov (email?)
 - Jason English - @jasonenglish2039 (email?)
-- Reet Chowdhary - @reetchow (email?)
+- Reet Chowdhary - @reetchow (rchowdhary@rocketsoftware.com)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 
 
