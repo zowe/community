@@ -46,6 +46,8 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Fixing a bug in the Code Editor for saving tabs when closing (#177)
+    	- Working on TopSecret support (#172, #167)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Solution for "High CPU consumption of discovery service and gateway" in review
