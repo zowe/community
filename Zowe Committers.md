@@ -48,8 +48,8 @@ CLI (verified):
 - Chris Boehm - @ChrisBoehmCA (email?)
 - Jessica Tonda - @JTonda (email?)
 - John LaPlante - @jelaplan (email?)
-- Brandon Jenkins - @BrandonJenkins14 (email?)
-- James Bauman - @JamesBauman (email?)
+- Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
+- James Bauman - @JamesBauman (james.bauman@broadcom.com)
 - Lauren Li - @lauren-li (email?)
 - Rodney Wilson - @rodnet-wilson (email?)
 - Kristina Mayo - @kristinochka (email?)
@@ -69,7 +69,7 @@ API ML:
 - Pavlin Zahariev - ???? (email?)
 - Irek Fakhrutdinov - @ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
 - Radek Krejcirik - @krera03 (email?)
-- Andrew Jandacek - @janan07 (email?)
+- Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (email?)
 
 
@@ -82,18 +82,18 @@ CI/CD:
 - Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
 - Alvin Tan - @alvin-tan (email?)
 - Nick Kocsis - @nkocsis (email?)
-- Nan Nan Li (Ashley) - @nannanli (email?)
+- Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
 
 
 Doc:
-- Nan Nan Li (Ashley) - @nannanli (email?)
-- Jason English - @jasonenglish2039 (email?)
-- Brandon Jenkins - @BrandonJenkins14 (email?)
-- James Bauman - @JamesBauman (email?)
-- Alyson Andresen - @AlysonAndresen (email?)
-- Andrew Jandacek - @janan07 (email?)
-- Ting Chen (Cathy) - @chentingcathy (email?)
-- Neng Zhang (Pluto) - @PlutoZhang (email?)
+- Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
+- Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
+- James Bauman - @JamesBauman (james.bauman@broadcom.com)
+- Alyson Andresen - @AlysonAndresen (aandresen@rocketsoftware.com)
+- Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
+- Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
+- Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
 
 Cupids:
  - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
