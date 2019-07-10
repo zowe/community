@@ -47,8 +47,19 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Finished a font bug for non latin chars. Also, Finished updating the repos with package lock files.	
+    	- Testing Java sidecar services that zlux recognizes.                                                                                   - LINK for ZenHub: https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=1.4.0%232019-06-21&filterLogic=any&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Competed: 
+        - Add JWT signature algorithm and secret to the configuration options (#198)
+        - Make Desktop UI available through APIML (#242)
+        - Integrate zLUX with API ML (#8)
+        - Custom Logback layout (#360)
+      - In progress:
+        - Spring authentication security client (#323)      
+        - Integrate zLUX with Zowe SSO for authentication (#55) 
+        - Change default Max-Age for cookies to 0 (#290)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 

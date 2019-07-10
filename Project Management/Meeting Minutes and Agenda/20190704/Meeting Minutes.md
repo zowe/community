@@ -46,10 +46,20 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Fixing a bug in the Code Editor for saving tabs when closing (#177)
+    	- Working on TopSecret support (#172, #167)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Solution for "High CPU consumption of discovery service and gateway" in review
+      - Spring authentication client
+        - Integrated with API Catalog
+        - Work in progress on tests, documentation and Artifactory publishing
+      - Researching Swagger Try it out functionality implementation for API Catalog (UI + security POV)   
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - Working on GitHub doc issues
+      - Redesigning doc site homepage to include more useful information
+      - v1.4.0 release notes placeholder: https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md#version-140-july-2019
 
 
 6. Legal Requirements
