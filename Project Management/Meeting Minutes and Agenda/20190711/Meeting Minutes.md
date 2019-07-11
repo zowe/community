@@ -29,6 +29,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Fixing a bug in Code Editor where the tabs in the Editor are not saving properly (#177)
+    	- Working on TopSecret support (#172, #167)
+    	- Working on login making the failure to login message less technical for the user (#178)
+	
     - Core/CLI (Mike B/Kyle)
     - Reviewing Zowe CLI MQ plugin that is being contributed to Zowe!
     	- Reviewing Conformance Criteria with Community
