@@ -30,7 +30,6 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
-    - Reviewing Zowe CLI MQ plugin that is being contributed to Zowe!
     	- Reviewing Conformance Criteria with Community
         - Progressing on imperative #238 - Add --help-web as global option to launch web help in context
     	- Progressing toward Zowe VSCode Extension 1.0 - 1,040 unique installs, 4,348 downloads!
