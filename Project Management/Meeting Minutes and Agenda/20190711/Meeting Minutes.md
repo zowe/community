@@ -29,6 +29,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Fixing a bug in Code Editor where the tabs in the Editor are not saving properly (#177)
+    	- Working on TopSecret support (#172, #167)
+    	- Working on login making the failure to login message less technical for the user (#178)
+	
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Migrating to AdoptOpenJDK for build and dev machines    
