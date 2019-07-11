@@ -32,8 +32,13 @@ Agenda Items
     	- Fixing a bug in Code Editor where the tabs in the Editor are not saving properly (#177)
     	- Working on TopSecret support (#172, #167)
     	- Working on login making the failure to login message less technical for the user (#178)
-	
     - Core/CLI (Mike B/Kyle)
+    	- Reviewing Conformance Criteria with Community
+        - Progressing on imperative #238 - Add --help-web as global option to launch web help in context
+    	- Progressing toward Zowe VSCode Extension 1.0 - 1,040 unique installs, 4,348 downloads!
+            - (In Review) Issue #90 - Add support for localization
+            - (In Review) Issue #114 - Spike: Define Menu strategy for VSCode
+            - (In Progress) Issue #98 - Overhaul VSCode testing process
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Migrating to AdoptOpenJDK for build and dev machines    
       - Solution for "High CPU consumption of discovery service and gateway" merged 
