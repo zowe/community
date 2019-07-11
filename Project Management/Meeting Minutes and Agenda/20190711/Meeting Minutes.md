@@ -30,6 +30,13 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
+    - Reviewing Zowe CLI MQ plugin that is being contributed to Zowe!
+    	- Reviewing Conformance Criteria with Community
+        - Progressing on imperative #238 - Add --help-web as global option to launch web help in context
+    	- Progressing toward Zowe VSCode Extension 1.0 - 1,040 unique installs, 4,348 downloads!
+            - (In Review) Issue #90 - Add support for localization
+            - (In Review) Issue #114 - Spike: Define Menu strategy for VSCode
+            - (In Progress) Issue #98 - Overhaul VSCode testing process
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Migrating to AdoptOpenJDK for build and dev machines    
       - Solution for "High CPU consumption of discovery service and gateway" merged 
