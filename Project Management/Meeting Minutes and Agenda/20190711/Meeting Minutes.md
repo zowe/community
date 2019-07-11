@@ -31,6 +31,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Migrating to AdoptOpenJDK and OpenJ JVM for build and dev machines    
+      - Solution for "High CPU consumption of discovery service and gateway" merged 
+      - WIP on Spring authentication client
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
