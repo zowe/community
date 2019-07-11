@@ -32,7 +32,6 @@ Agenda Items
     	- Fixing a bug in Code Editor where the tabs in the Editor are not saving properly (#177)
     	- Working on TopSecret support (#172, #167)
     	- Working on login making the failure to login message less technical for the user (#178)
-	
     - Core/CLI (Mike B/Kyle)
     	- Reviewing Conformance Criteria with Community
         - Progressing on imperative #238 - Add --help-web as global option to launch web help in context
