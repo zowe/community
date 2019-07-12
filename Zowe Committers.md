@@ -50,9 +50,9 @@ CLI (verified):
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
-- Lauren Li - @lauren-li (email?)
-- Rodney Wilson - @rodnet-wilson (email?)
-- Kristina Mayo - @kristinochka (email?)
+- Lauren Li - @lauren-li (lauren.li@ibm.com)
+- Rodney Wilson - @rodnet-wilson (rodney.wilson@ibm.com)
+- Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 
 
 API ML:
