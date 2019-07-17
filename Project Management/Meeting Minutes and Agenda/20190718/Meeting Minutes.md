@@ -24,8 +24,9 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - Discuss RC Candidate
     - System Demo
+    - Security Testing
+    - Discuss RC Candidate
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
