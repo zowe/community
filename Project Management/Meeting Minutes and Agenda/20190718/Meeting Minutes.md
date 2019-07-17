@@ -31,6 +31,9 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Working on Login failure message less technical #178
+    	- Testing Top Secret Support #167 #172
+    	- Testing Code Editor doesn't save state of editor tabs #177
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
