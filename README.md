@@ -63,19 +63,27 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 
 Zowe has a number of cross-functional teams to support the common functions across the subprojects.
 
-### Documentation and Onboarding
+### Documentation
 
-Maintains the Zowe documentation and spends time in the various community communication channels helping users and those looking to build on top of Zowe.
+Maintains the Zowe documentation. 
 
 * https://github.com/zowe/docs-site - Zowe documentation
+
+### Onboarding
+
+Spends time in the various community communication channels helping users and those looking to build on top of Zowe.
+
+* https://github.com/zowe/zowe-install-packaging - Packaging repository for the Zowe install scripts and files, managed by the CUPIDS effort
 
 ### Zowe Foundation
 
 Maintains the Zowe installation tools and integration of Zowe components.
 
-* https://github.com/zowe/zowe-install-packaging -Packaging repository for the Zowe install scripts and files.
 * https://github.com/zowe/zowe-install-test - Perform Zowe installation and run smoke/integration tests.
 * https://github.com/zowe/zowe-promote-publish - Promote and publish Zowe build.
+* https://github.com/zowe/ci-management - Management repository for Jenkins CI
+* https://github.com/zowe/jenkins-library - Jenkins pipeline library
+* https://github.com/zowe/release-management - Material and activities related to release management
 
 ## Communication Channels
 
