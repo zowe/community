@@ -2,6 +2,8 @@
 
 This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback.
 
+[Read more](process) on processes and policies for Zowe sub-projects and community groups.
+
 ## Zowe Sub-projects
 
 The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has it's own governance structure and release process that aligns with the primary framework guidelines.
@@ -10,7 +12,7 @@ Current Zowe Sub-projects are:
 
 ### Zowe API Mediation layer
 
-Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO). 
+Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO).
 
 https://github.com/zowe/api-layer
 A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
@@ -51,7 +53,7 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 * https://github.com/zowe/explorer-mvs - The MVS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-uss - The USS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-ui-server - A simple HTTPS server to serve Zowe Desktop Explorer plug-ins.
-* https://github.com/zowe/zlux-file-explorer 
+* https://github.com/zowe/zlux-file-explorer
 
 ## Zowe Community Teams
 
@@ -70,6 +72,10 @@ Maintains the Zowe installation tools and integration of Zowe components.
 * https://github.com/zowe/zowe-install-packaging -Packaging repository for the Zowe install scripts and files.
 * https://github.com/zowe/zowe-install-test - Perform Zowe installation and run smoke/integration tests.
 * https://github.com/zowe/zowe-promote-publish - Promote and publish Zowe build.
+
+## [Zowe Leadership Council (ZLC)](zlc)
+
+Coordinates releases of the Zowe Framework, coordinating between sub-projects and other community groups to resolve issues and establish project lifecycle guidelines.
 
 ## Communication Channels
 
