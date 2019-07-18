@@ -54,7 +54,7 @@ Agenda Items
       - Spring authentication client
         - Integrated with API Catalog
         - Work in progress on tests, documentation and Artifactory publishing
-      - Researching Swagger Try it out functionality implementation for API Catalog (UI + security POV)   
+      - Researching Swagger Try it out functionality implementation for API Catalog (UI + security POV)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
       - Working on GitHub doc issues
