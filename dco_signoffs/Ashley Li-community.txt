@@ -1,0 +1,5 @@
+I, Ashley Li hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: nannanli@cn.ibm.com
+
+2d8cd6afed9192a60803370dfd445c2b0062e94f Update Meeting Minutes.md
+6a25c6232bf8cf7ab3af2a93a442d3233c9e42fd Update Meeting Minutes.md
+25d4a0967300c66167430f1c1299c76e573bd750 Create Meeting Minutes.md
