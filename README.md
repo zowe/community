@@ -12,31 +12,21 @@ Current Zowe Sub-projects are:
 
 Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO). 
 
-https://github.com/zowe/api-layer
-A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
-https://github.com/zowe/explorer-api-common
-Common explorer API components.
-https://github.com/zowe/data-sets
-The Spring Boot based data set APIs.
-https://github.com/zowe/jobs
-The Spring Boot based Jobs APIs.
+* https://github.com/zowe/api-layer - A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
+* https://github.com/zowe/explorer-api-common - Common explorer API components.
+* https://github.com/zowe/data-sets - The Spring Boot based data set APIs.
+* https://github.com/zowe/jobs - The Spring Boot based Jobs APIs.
 
 ### Zowe CLI
 
 Command-line interface that lets you interact with the mainframe remotely and use common tools such as Integrated Development Environments (IDEs), shell commands, bash scripts, and build tools for mainframe development. It provides a set of utilities and services for application developers that want to become efficient in supporting and building z/OS applications quickly. The CLI provides a core set of commands for working with data sets, USS, JES, as well as issuing TSO and console commands.
 
-https://github.com/zowe/zowe-cli
-A command-line interface that lets application developers interact with z/OS remotely. Create an issue here for anything related to Zowe CLI.
-https://github.com/zowe/zowe-cli-cics-plugin
-A plug-in for Zowe CLI that lets you interact with IBM CICS.
-https://github.com/zowe/zowe-cli-db2-plugin
-A plug-in for Zowe CLI that lets you interact with IBM Db2.
-https://github.com/zowe/vscode-extension-for-zowe
-Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
-https://github.com/zowe/zowe-cli-sample-plugin
-A sample plug-in for Zowe CLI. Includes tutorials for extenders who want to contribute to the Zowe CLI project or build plug-ins.
-https://github.com/zowe/imperative
-The Imperative CLI Framework on which Zowe CLI is built. Use the framework when contributing to Zowe CLI or developing CLI plug-ins.
+* https://github.com/zowe/zowe-cli - A command-line interface that lets application developers interact with z/OS remotely. Create an issue here for anything related to Zowe CLI.
+* https://github.com/zowe/zowe-cli-cics-plugin - A plug-in for Zowe CLI that lets you interact with IBM CICS.
+* https://github.com/zowe/zowe-cli-db2-plugin - A plug-in for Zowe CLI that lets you interact with IBM Db2.
+* https://github.com/zowe/vscode-extension-for-zowe - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
+* https://github.com/zowe/zowe-cli-sample-plugin - A sample plug-in for Zowe CLI. Includes tutorials for extenders who want to contribute to the Zowe CLI project or build plug-ins.
+* https://github.com/zowe/imperative - The Imperative CLI Framework on which Zowe CLI is built. Use the framework when contributing to Zowe CLI or developing CLI plug-ins.
 
 ### Zowe App Framework
 
@@ -57,19 +47,27 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 
 Zowe has a number of cross-functional teams to support the common functions across the subprojects.
 
-### Documentation and Onboarding
+### Documentation
 
-Maintains the Zowe documentation and spends time in the various community communication channels helping users and those looking to build on top of Zowe.
+Maintains the Zowe documentation. 
 
 * https://github.com/zowe/docs-site - Zowe documentation
+
+### Onboarding
+
+Spends time in the various community communication channels helping users and those looking to build on top of Zowe.
+
+* https://github.com/zowe/zowe-install-packaging - Packaging repository for the Zowe install scripts and files, managed by the CUPIDS effort
 
 ### Zowe Foundation
 
 Maintains the Zowe installation tools and integration of Zowe components.
 
-* https://github.com/zowe/zowe-install-packaging -Packaging repository for the Zowe install scripts and files.
 * https://github.com/zowe/zowe-install-test - Perform Zowe installation and run smoke/integration tests.
 * https://github.com/zowe/zowe-promote-publish - Promote and publish Zowe build.
+* https://github.com/zowe/ci-management - Management repository for Jenkins CI
+* https://github.com/zowe/jenkins-library - Jenkins pipeline library
+* https://github.com/zowe/release-management - Material and activities related to release management
 
 ## Communication Channels
 
