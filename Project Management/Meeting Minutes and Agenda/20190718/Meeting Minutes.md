@@ -36,6 +36,12 @@ Agenda Items
     	- Testing Code Editor doesn't save state of editor tabs #177
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+    	- Working on last story related to the Spring authentication client
+    	  - Adding tests
+    	  - Publishing the client to Zowe artifactory
+    	  - Writing documentation 
+        - Enhancing HTTPs related documentation for Spring enabler
+        - Working on defect "Zowe API Discovery task is taking more CPU" #329     
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
