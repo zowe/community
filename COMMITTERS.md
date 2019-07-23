@@ -71,7 +71,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Onno Van den Troost - @OnnoVdT (email?)
-- Matt Hogstrom - @hogstrom (email?)
+- Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
 - Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
 
 ### Documentation
@@ -93,6 +93,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - John Davies - @John-A-Davies (daviesja@uk.ibm.com)
 - Eamon Dawes - @eamondawes (email?)
 - Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
-- Alvin Tan - @alvin-tan (email?)
-- Nick Kocsis - @nkocsis (email?)
+- Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
+- Nick Kocsis - @nkocsis (nkocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
