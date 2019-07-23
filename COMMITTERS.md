@@ -61,7 +61,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 
 ### Onboarding
 
-- Joe Winchester (Lead) - @Joe-Winchester (email?)
+- Joe Winchester (Lead) - @Joe-Winchester (winchest@uk.ibm.com)
 - Sujay Solomon - @solsu01 (sujay.salomon@broadcom.com)
 - Rose Sakach - @RASakach (Rose.Sakach@broadcom.com)
 - Daniel Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
