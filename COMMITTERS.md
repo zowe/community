@@ -94,5 +94,5 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Eamon Dawes - @eamondawes (email?)
 - Dmitry Nikolaev - @dmitrynikolaev (dnikolaev@rocketsoftware.com)
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
-- Nick Kocsis - @nkocsis (nkocsis@ca.ibm.com)
+- Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
