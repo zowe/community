@@ -28,7 +28,10 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Reet/Nolan)
+    - Core/Web/Editor (JPL/Nolan)
+    	- Still driving Top Secret support
+    	- Working on implement File Properties in File Explorer Right Click Menu in the File Explorer
+    	- Working on the ability to save existing datasets in the Editor app
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
