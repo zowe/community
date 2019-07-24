@@ -33,6 +33,9 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+    	- Review/populate release notes if you have not already [Zowe 1.4.0 Release PR](https://github.com/zowe/docs-site/pull/638)	   - Adding new Doc Site version for Zowe 2.0 feature validation. Aim to release at time of v1.5.0.
+   
+
 
 6. Legal Requirements
     - None
