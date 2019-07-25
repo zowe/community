@@ -34,7 +34,7 @@ Agenda Items
     	- Working on the ability to save existing datasets in the Editor app
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-    	- Finalized API ML conformance criteria - available on Wiki 
+    	- Finalized API ML conformance criteria - available on Zowe wiki and in API ML repository
     	- Code and tests complete for Spring authentication client; review in progress    
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
