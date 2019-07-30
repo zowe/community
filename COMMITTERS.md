@@ -1,6 +1,6 @@
 # Committers to the Zowe project
 
-The following is a list of all the Zowe Committers on the project organized by sub-project. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privledges.
+The following is a list of all the Zowe Committers on the project organized by sub-project. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privileges.
 
 ## Zowe Sub-projects
 
@@ -39,6 +39,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Lauren Li - @lauren-li (lauren.li@ibm.com)
 - Rodney Wilson - @rodnet-wilson (rodney.wilson@ibm.com)
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
+- Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
 
 ### Zowe App Framework
 
