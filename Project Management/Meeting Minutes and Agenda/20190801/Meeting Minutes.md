@@ -38,6 +38,8 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
+    	- Working on implementing File Properties in File Explorer Right Click Menu for the Editor (#180)
+    	- Testing saving existing dataset in the Code Editor (#179)
     - Core/CLI (Mike B/Kyle)
          - Imperative efforts
             - (In Progress) Issue #239 - Deliver --help-web as global option to @lts-incremental
