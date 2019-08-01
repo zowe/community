@@ -39,6 +39,13 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
+         - Imperative efforts
+            - (In Progress) Issue #239 - Deliver --help-web as global option to @lts-incremental
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
+        - Progressing toward Zowe VSCode Extension 1.0 - 1,119 unique installs, 5,101 downloads!
+            - (In Progress) Issue #102 - Add ability to filter by jobid
+            - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
