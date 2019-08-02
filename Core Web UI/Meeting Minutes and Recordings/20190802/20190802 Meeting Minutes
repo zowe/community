@@ -1,0 +1,35 @@
+Meeting Minutes - 8/2/2019
+Meeting was recorded - https://zoom.us/recording/share/EUPHM2tXxFBZKPCRa7PVK0hflcn56W9j0Co8qgVAU3-wIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	- Testing
+		- Saving existing datasets in the Code editor (#179 zlux)
+	- Finished 
+		- Keyboard navigation in the code editor, new file - alt +n (#68 Editor)
+
+What we Want to do next Sprint
+	- TopSecret support bugs
+	- Editor App bugs
+
+Areas of Interest
+	- RC 4 passed from the Web UI squad, detected no ZSS, zLUX issues that could block the release for 1.4.0
+	- Performance pipeline meeting Tuesday 
+	- SHARE next week!
+	
+Demos
+	- 	
+				
+Attendees 
+Nolan Rogers
+Guru R
+Nakul
+William P
+Vitek
+Joe W
