@@ -41,7 +41,7 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     	- Finishing work on Spring authentication client
-	- Resolved defect #321 Authentication is required to show swagger JSON document
+    	- Resolved defect #321 Authentication is required to show swagger JSON document
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
