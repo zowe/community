@@ -40,6 +40,7 @@ Agenda Items
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+    	- Finishing work on Spring authentication client
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
