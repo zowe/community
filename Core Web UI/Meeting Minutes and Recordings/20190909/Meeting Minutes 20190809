@@ -1,0 +1,43 @@
+Meeting Minutes - 8/9/2019
+Meeting was recorded - https://zoom.us/recording/share/9anDy9EaUUPkcttmB6iV2FC0Tg2dGALDmLRe9RpAu0SwIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	- Working on Editor and Top Secret Support bugs as well as Keybaord navigation 
+		- Use plugin description name for tooltip instead of duplicate of title (#122)
+		- add alt+n keyboard shortcut for new file (#68)
+		- Prevent tab from switching Zowe application (#125)
+
+What we Want to do next Sprint
+	- 
+
+Areas of Interest
+	- Menu navigate the menu, want to add keyboard arrow keys
+	- Can we group committers rights into 4 groups
+		UI Framework
+		Apps
+		ZSS
+		Server framework 
+	- 	Sean to reach out to Tim B / Alvin about opening up nominations for more reviewers 
+	- Is there a formal process for requesting translations
+		- English and Japanese are req. others are optional 
+	- Add keyboard nav also to the desktop and not just in the Apps	
+		
+	
+Demos
+	- 	Nakul: Editor Keyboard Nav, wants to add (file)menu navigation alt + arrow keys
+				
+Attendees 
+Nolan Rogers
+Sean Grady
+Jordan Cain
+Nakul Manchanda
+Jason Dodd
+JP
+klath01
