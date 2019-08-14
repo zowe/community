@@ -37,7 +37,7 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Reet/Nolan)
+    - Core/Web/Editor (JPL/Nolan)
     	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
     	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
     	- Added more keyboard navigation to the Editor, Alt +n new file
