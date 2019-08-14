@@ -9,7 +9,7 @@ Please follow this process for submitting a video, tutorial, demo to the OMP You
 2. **Add Intro and Exit Slides**
 
 - Once your content is recorded please add the following OMP Standard slide to the intro and end of your recording.
-Link to OMP Approved Slides: https://github.com/zowe/community/blob/Video-Submission/videos/Youtube%20charts%20V1(1).pptx
+Link to OMP Approved Slides: videos/Youtube charts V1(1).pptx
 (please read the instructions in the PPT Notes)
 - When inserting these slides you may insert an image file (.png, .jpeg, etc.) into your video editing tool. Please ensure the image is a high quality image.
 
