@@ -38,7 +38,9 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
-    	- Working on implementing File Properties in File Explorer Right Click Menu for the Editor (#180)
+    	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
+    	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
+    	- Added more keyboard navigation to the Editor, Alt +n new file
     	- Testing saving existing dataset in the Code Editor (#179)
     - Core/CLI (Mike B/Kyle)
          - Imperative efforts
