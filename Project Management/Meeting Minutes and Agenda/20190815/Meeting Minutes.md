@@ -40,8 +40,7 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
     	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
-    	- Added more keyboard navigation to the Editor, Alt +n new file
-    	- Testing saving existing dataset in the Code Editor (#179)
+    	- Added more keyboard navigation to the Editor, Alt +n new file (#68)
     - Core/CLI (Mike B/Kyle)
         - Core CLI efforts
             - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
