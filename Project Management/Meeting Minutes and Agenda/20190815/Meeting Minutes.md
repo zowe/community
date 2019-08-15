@@ -43,11 +43,11 @@ Agenda Items
     	- Added more keyboard navigation to the Editor, Alt +n new file
     	- Testing saving existing dataset in the Code Editor (#179)
     - Core/CLI (Mike B/Kyle)
-         - Imperative efforts
-            - (In Progress) Issue #239 - Deliver --help-web as global option to @lts-incremental
         - Core CLI efforts
             - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
-        - Progressing toward Zowe VSCode Extension 1.0 - 1,119 unique installs, 5,101 downloads!
+            - (In Progress) Issue #497 - Publish npm audit reports to advisory location
+        - Progressing toward Zowe VSCode Extension 1.0 - 1,210 unique installs, 5,340 downloads!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
             - (In Progress) Issue #102 - Add ability to filter by jobid
             - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
