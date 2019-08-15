@@ -52,7 +52,8 @@ Agenda Items
             - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Authentication client feature is complete including documentation and Artifactory publishing
-            - Client already used in the API Catalog	
+            - Client used in the API Catalog
+        - Next item we are about to work on is the integration of the sec. client into Discovery Service (#81)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
