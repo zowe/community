@@ -38,6 +38,7 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+    	- Working on keyboard navigation to the Editor, Alt + T switch tab, Alt + w to close and adding focus to the tab (#81) 
     	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
     	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
     	- Added more keyboard navigation to the Editor, Alt +n new file (#68)
