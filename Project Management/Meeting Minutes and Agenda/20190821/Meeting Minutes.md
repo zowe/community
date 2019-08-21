@@ -39,7 +39,10 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Reet/Nolan)
+    - Core/Web/Editor (JPL/Nolan/Alyson)
+        - Finished common logging format for zlux and have a PR for ZSS
+        - Working on adding the ability to control plugin and services lifecycle without restarting Node.js
+        - Able to have working MFA in Zowe Desktop using one time pass and password combination method of IBM's MFA product. Sean is requesting if anyone has aspects they'd like him to test
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
