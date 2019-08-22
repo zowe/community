@@ -44,6 +44,12 @@ Agenda Items
         - Working on adding the ability to control plugin and services lifecycle without restarting Node.js
         - Able to have working MFA in Zowe Desktop using one time pass and password combination method of IBM's MFA product. Sean is requesting if anyone has aspects they'd like him to test
     - Core/CLI (Mike B/Kyle)
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
+        - Progressing toward Zowe VSCode Extension 1.0 - 1,267 unique installs, 5,772 downloads, 2 five star reviews!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
+            - (In Progress) Issue #102 - Add ability to filter by jobid
+            - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Work in progress on the integration of the security client into Discovery Service (#81)    
     - Foundation (CI/CD) (Mark/Nick)
