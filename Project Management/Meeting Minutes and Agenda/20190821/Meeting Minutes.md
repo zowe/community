@@ -51,7 +51,9 @@ Agenda Items
             - (In Progress) Issue #102 - Add ability to filter by jobid
             - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-        - Work in progress on the integration of the security client into Discovery Service (#81)    
+        - Work in progress on:
+            - the integration of the security client into Discovery Service (#81)    
+            - zLUX SSO integration (#55)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
