@@ -45,6 +45,7 @@ Agenda Items
         - Able to have working MFA in Zowe Desktop using one time pass and password combination method of IBM's MFA product. Sean is requesting if anyone has aspects they'd like him to test
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+        - Work in progress on the integration of the security client into Discovery Service (#81)    
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
