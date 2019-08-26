@@ -37,7 +37,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
 - Lauren Li - @lauren-li (lauren.li@ibm.com)
-- Rodney Wilson - @rodnet-wilson (rodney.wilson@ibm.com)
+- Rodney Wilson - @rodney-wilson (rodney.wilson@ibm.com)
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 - Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
 
