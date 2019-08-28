@@ -39,7 +39,11 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Nolan/Alyson)
+    - Core/Web/Editor (JPL/Nolan)
+        - Working on Server REST API so that endpoints can be queried for server status 
+        - Adding I18n to logging services, logger prefixes
+        - Working on adding an admin write notification on the desktop
+        - Continued effort for keyboard navigation and shorts primarily in the Editor app
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
