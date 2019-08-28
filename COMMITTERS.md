@@ -87,6 +87,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
+- Matt Hogstrom - @hogstrom (matt@hogstrom.org)
 
 ### Zowe Foundation
 
