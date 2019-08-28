@@ -57,6 +57,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Jason English - @jasonenglish2039 (email?)
 - Reet Chowdhary - @reetchow (rchowdhary@rocketsoftware.com)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
+- Jürgen Holtz - @juergen-holtz (holtz@de.ibm.com)
 
 ## Zowe Community Teams
 
@@ -86,6 +87,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
+- Matt Hogstrom - @hogstrom (matt@hogstrom.org)
 
 ### Zowe Foundation
 
