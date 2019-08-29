@@ -46,6 +46,8 @@ Agenda Items
         - Continued effort for keyboard navigation and shorts primarily in the Editor app
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+        - Code and doc complete for Web UI of Discovery Service (Eureka) is protected by MF authentication #81
+        - Code complete for Integrate zLUX with Zowe SSO for authentication #55        
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
