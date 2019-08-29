@@ -1,0 +1,51 @@
+Meeting Minutes - 8/16/2019
+Meeting was recorded -https://zoom.us/recording/share/dimPPT24aHjMUz8Q4gp3qmmUHM3_GiB_XFlwQPu6u2awIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	- Merged more keyboard navigation to the Editor, Alt + T switch tab, Alt + w to close and adding focus to the tab (#81)
+	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
+	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
+	- Added more keyboard navigation to the Editor, Alt +n new file (#68)
+
+What we Want to do next Sprint
+	- New members to the Web UI squad for nomination 
+		- Leanid (Lenny) A.
+		- Suneeth K.
+		- Tim G.
+Areas of Interest
+	- Menu navigate the menu, want to add keyboard arrow keys
+	- Can we group committers rights into 4 groups
+		UI Framework
+		Apps
+			- if new app the group can decide if it'll join the group or start a new one
+		ZSS
+		Server framework 
+		
+	- Sean will send out a vote (email list) over the weekend for the comitters for the 4 above groups
+	- Need to do a gap analysis of Master of Mainframe with the Code Editor
+	
+Possible feature to be added to be added to the editor app (please add issues to the github Editor app repo)	
+	Editor feature find all, exclude, starts between columns, show lines, picture string on the find, mark the place you are at
+	- https://github.com/sakachin2/XE
+	- http://www.edm2.com/index.php/Hybrid_Editor_XE
+	
+Demos
+	- 	Sean: the Editor App, discussion on possible features to the Editor app
+				
+Attendees 
+Nolan Rogers
+Sean Grady
+Jordan Cain
+Nakul Manchanda
+JP
+Joe W
+Bill P
+Jason D
+Guru R
