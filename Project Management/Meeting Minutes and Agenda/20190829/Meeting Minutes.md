@@ -43,7 +43,7 @@ Agenda Items
         - Working on Server REST API so that endpoints can be queried for server status 
         - Adding I18n to logging services, logger prefixes
         - Working on adding an admin write notification on the desktop
-        - Continued effort for keyboard navigation and shorts primarily in the Editor app
+        - Continued effort for keyboard navigation and shortcuts primarily in the Editor app
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Code and doc complete for Web UI of Discovery Service (Eureka) is protected by MF authentication #81
