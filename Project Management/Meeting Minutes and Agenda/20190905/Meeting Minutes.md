@@ -41,7 +41,12 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Nolan/Alyson)
+    - Core/Web/Editor (JPL/Nolan)
+        - Working on making app run in standalone mode
+        - Testing on Server REST APIs for server info
+        - Testing I18n to logging services, logger prefixes
+        - Finishing up design work to an admin notification feature on the desktop
+        - Continued effort for keyboard navigation and shortcuts, now focusing on the desktop and less the apps
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
