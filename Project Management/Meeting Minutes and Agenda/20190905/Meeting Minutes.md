@@ -49,6 +49,7 @@ Agenda Items
         - Continued effort for keyboard navigation and shortcuts, now focusing on the desktop and less the apps
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+        - Finished story - Web UI of Discovery Service (Eureka) is protected by MF authentication #81    
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
