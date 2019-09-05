@@ -48,6 +48,14 @@ Agenda Items
         - Finishing up design work to an admin notification feature on the desktop
         - Continued effort for keyboard navigation and shortcuts, now focusing on the desktop and less the apps
     - Core/CLI (Mike B/Kyle)
+        - PI Planning next week!
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
+        - Progressing toward Zowe VSCode Extension 1.0 - 1,329 unique installs, 5,957 downloads!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
+            - (In Progress) Issue #102 - Add ability to filter by jobid
+            - (In Progress) Issue #163 - Create Favorites section for Jobs
+            - (In Progress) Issue #182 - Support "copy path" in USS explorer
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Finished story - Web UI of Discovery Service (Eureka) is protected by MF authentication #81    
     - Foundation (CI/CD) (Mark/Nick)
