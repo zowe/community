@@ -50,7 +50,11 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+    - Documentation (Brandon/Ashley/Jim/Jason/Andrew)
+       - Working on publishing the Zowe CLI active development changes
+       - Working on TPSR changes
+       - Working on a new Java dataservices section
+       - Continuing to work on GitHub issues
 
 6. Legal Requirements
     - None
