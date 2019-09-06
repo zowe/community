@@ -12,3 +12,6 @@
 ## Improved Logging - Output Only Major Messages
 * [Write major API ML messages into JESLOG](https://github.com/zowe/api-layer/issues/373)
 * [Synch up and issue APIML HAS STARTED into JESLOG](https://github.com/zowe/api-layer/issues/374)
+
+## Product onboarding enhancements
+* [Add support for OpenAPI 3.0 REST API service documentation format](https://github.com/zowe/api-layer/issues/378)
