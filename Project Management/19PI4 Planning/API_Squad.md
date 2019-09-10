@@ -13,5 +13,9 @@
 * [Write major API ML messages into JESLOG](https://github.com/zowe/api-layer/issues/373)
 * [Synch up and issue APIML HAS STARTED into JESLOG](https://github.com/zowe/api-layer/issues/374)
 
-## Product onboarding enhancements
+## Enhancements to API ML on-boarding processes
+* [New Eureka metadata definition and consumption](https://github.com/zowe/api-layer/issues/380)
+* [Clean up configuration for plain Java enabler](https://github.com/zowe/api-layer/issues/381)
+* [Use Java enabler as a base for Spring Boot enablers](https://github.com/zowe/api-layer/issues/382)
+* [Modify Catalog and Gateway to support new enabler versions](https://github.com/zowe/api-layer/issues/383)
 * [Add support for OpenAPI 3.0 REST API service documentation format](https://github.com/zowe/api-layer/issues/378)
