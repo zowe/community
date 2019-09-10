@@ -9,10 +9,6 @@
 * [Suppress interaction messaging between API ML components during START UP](https://github.com/zowe/api-layer/issues/371)
 * [Stop repetitive service status log messages](https://github.com/zowe/api-layer/issues/372)
 
-## Improved Logging - Output Only Major Messages
-* [Write major API ML messages into JESLOG](https://github.com/zowe/api-layer/issues/373)
-* [Synch up and issue APIML HAS STARTED into JESLOG](https://github.com/zowe/api-layer/issues/374)
-
 ## Enhancements to API ML on-boarding processes
 * [New Eureka metadata definition and consumption](https://github.com/zowe/api-layer/issues/380)
 * [Clean up configuration for plain Java enabler](https://github.com/zowe/api-layer/issues/381)
