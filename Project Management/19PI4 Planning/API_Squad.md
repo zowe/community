@@ -18,3 +18,4 @@
 
 ## API ML Run-time enhancements 
 * [Split API Mediation Layer from Zowe runtime](https://github.com/zowe/zowe-install-packaging/issues/623)
+* [Upgrade to latest suitable version of Netflix Eureka](https://github.com/zowe/api-layer/issues/337)
