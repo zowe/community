@@ -15,3 +15,6 @@
 * [Use Java enabler as a base for Spring Boot enablers](https://github.com/zowe/api-layer/issues/382)
 * [Modify Catalog and Gateway to support new enabler versions](https://github.com/zowe/api-layer/issues/383)
 * [Add support for OpenAPI 3.0 REST API service documentation format](https://github.com/zowe/api-layer/issues/378)
+
+## API ML Run-time enhancements 
+* [Split API Mediation Layer from Zowe runtime](https://github.com/zowe/zowe-install-packaging/issues/623)
