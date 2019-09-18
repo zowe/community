@@ -40,6 +40,9 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Finishing testing for RC2
+        - Working on adding deletion of files to the Editor
+        - Cleaning up Editor bugs
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
