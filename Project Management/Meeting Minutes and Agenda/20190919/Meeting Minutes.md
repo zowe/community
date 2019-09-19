@@ -44,6 +44,15 @@ Agenda Items
         - Working on adding deletion of files to the Editor
         - Cleaning up Editor bugs
     - Core/CLI (Mike B/Kyle)
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
+        - CICS plugin for Zowe CLI efforts
+            - (In Progress) Issue #53 - Define a CICS URIMAP
+        - Progressing toward Zowe VS Code Extension 1.0 - 1,469 unique installs, 6,137 downloads!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
+            - (In Progress) Issue #102 - Add ability to filter by jobid
+            - (In Progress) Issue #163 - Create Favorites section for Jobs
+            - (In Progress) Issue #182 - Support "copy path" in USS explorer
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
