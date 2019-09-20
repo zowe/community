@@ -1,0 +1,43 @@
+Meeting Minutes - 9/20/2019
+Meeting was recorded - 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	
+	- Sean: working on packing apps in conda, testing RCs for 1.5.0
+	- Nakul: PR might have to wait for next release 
+	- Jordan: Customer Demos
+	- Aarohi: working on accessibility test for the desktop
+
+What we Want to do next Sprint		
+	- Roadmap showing next week (pushed until 9/27 when JP is back from Vacation)
+	- Nolan to work with Sean for a singular backlog repo in Github /Zenhub - continued effort
+	- SHARE submissions due today
+	- Joe W has SMP/e task for web UI squad? an install task in the desktop (end of September?)
+		- Nolan to reach out to Joe W, see if he can join next call
+	- Auth in zlux: https://github.com/zowe/zlux/wiki/Authentication-with-ZLUX	
+	- Conformance update for routing?
+Areas of Interest
+	- Framework Server
+	- Framework UI
+	- Apps 
+		-Explorers folks will go under the Apps group. Sean is working on this 
+	- ZSS
+	
+Demos
+	- 
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Jordan Cain
+Taylor D
+Guru
+Aarohi
