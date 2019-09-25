@@ -42,7 +42,12 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-    - Foundation (CI/CD) (Mark/Nick)
+    - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Working on new repo https://github.com/zowe/zowe-dockerfiles, basing some broad structure on https://github.com/eclipse/che-dockerfiles. Testing out performance degradation based on image size so we can decide on a single common image or multiple ones.
+      - SonarCloud was also setup for CLI/API-ML and will be POC’ing imperative soon.
+      - Nightly build has been changed to also promote/test SMP/e package
+
+
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
 6. Legal Requirements
