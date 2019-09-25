@@ -112,9 +112,9 @@ Sub-project specific channels:
 
 ### Mailing Lists
 
-* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion.
-* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries.
-* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC.
+* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion. [Join](https://lists.openmainframeproject.org/g/zowe-dev) this mailing list.
+* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries. [Join](https://lists.openmainframeproject.org/g/zowe-user) this mailing list.
+* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC. [Join](https://lists.openmainframeproject.org/g/zowe-zlc) this mailing list.
 
 ### Community Forums
 
