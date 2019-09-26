@@ -43,14 +43,15 @@ Agenda Items
         - Testing for 1.5.0, still looking good for a friday vote
         - Working on RBAC app visibility
     - Core/CLI (Mike B/Kyle)
-      - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
-      - CICS plugin for Zowe CLI efforts
-      - (In Review) Issue #53 - Define a CICS URIMAP
-      - Progressing toward Zowe VS Code Extension 1.0 - 1,567 unique installs!
-      - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
-      - (In Progress) Issue #182 - Support "copy path" in USS explorer
-      - (In Progress) Issue #226 - Allow VS Code Extension Settings of Connection Information (remove strict dependency on Zowe CLI profiles)
-      - (In Progress) Issue #248 - If job node is deleted, also remove favorite
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
+        - CICS plugin for Zowe CLI efforts
+            - (In Review) Issue #53 - Define a CICS URIMAP
+        - Progressing toward Zowe VS Code Extension 1.0 - 1,567 unique installs!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
+            - (In Progress) Issue #182 - Support "copy path" in USS explorer
+            - (In Progress) Issue #226 - Allow VS Code Extension Settings of Connection Information (remove strict dependency on Zowe CLI profiles)
+            - (In Progress) Issue #248 - If job node is deleted, also remove favorite
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - WIP:
         - Create infrastructure for log messages #391
