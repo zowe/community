@@ -44,6 +44,9 @@ Agenda Items
         - Working on RBAC app visibility
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - WIP:
+        - Create infrastructure for log messages #391      
+        - New Eureka metadata definition and consumption #380
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Working on new repo https://github.com/zowe/zowe-dockerfiles, basing some broad structure on https://github.com/eclipse/che-dockerfiles. Testing out performance degradation based on image size so we can decide on a single common image or multiple ones.
       - SonarCloud was also setup for CLI/API-ML and will be POC’ing imperative soon.
