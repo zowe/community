@@ -40,6 +40,8 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Rodney Wilson - @rodnet-wilson (rodney.wilson@ibm.com)
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 - Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
+- Jessielaine Punongbayan - @jellypuno (jessielaine.punongbayan@broadcom.com)
+- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
 
 ### Zowe App Framework
 
