@@ -44,6 +44,9 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - added few new features to the jenkins library
+      - migrated zowe-promote-publish to zowe-install-packaging and will archive the repo soon
+      - try to understand the requirement of PTF build
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
 6. Legal Requirements
