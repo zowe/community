@@ -41,6 +41,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Working towards componentisation for explorer apps
+        - Adding Deletion Option into Right Click Menu in the Editor
+        - Working on RBAC App visibility and iFrame support 
+        - Researching a zowe app repo using conda
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
