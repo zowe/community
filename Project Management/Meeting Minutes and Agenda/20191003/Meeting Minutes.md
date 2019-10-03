@@ -46,6 +46,18 @@ Agenda Items
         - Working on RBAC App visibility and iFrame support 
         - Researching a zowe app repo using conda
     - Core/CLI (Mike B/Kyle)
+        - Core CLI efforts
+            - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation... awaiting ZLC approval
+        - CICS plugin for Zowe CLI efforts
+            - (Complete) Issue #53 - Define a CICS URIMAP
+            - (Next) Issue #56 - Add options to define URIMap command
+            - (Future - Help Wanted) Issue #52 - Delete a CICS URIMap
+            - (Future - Help Wanted) Issue #48 - Install a CICS URIMap
+        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 1,666 unique installs!
+            - (In Progress) Issue #182 - Support "copy path" in USS explorer
+            - (In Progress) Issue #210 - Persistence of added profiles
+            - (In Progress) Issue #226 - Allow VS Code Extension Settings of Connection Information (remove strict dependency on Zowe CLI profiles)
+            - Visual Studio Code Extension for Zowe version 0.25.0 released! This resolved six issues required for 1.0 MVP. See the milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Done:
         - Create infrastructure for log messages #391
