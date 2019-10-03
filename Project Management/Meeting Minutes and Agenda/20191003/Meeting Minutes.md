@@ -47,6 +47,12 @@ Agenda Items
         - Researching a zowe app repo using conda
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Done:
+        - Create infrastructure for log messages #391
+      - WIP:        
+        - External option to control the amount of log information #395              
+        - Clean up Discovery Service logging #368      
+        - New Eureka metadata definition and consumption #380    
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - added few new features to the jenkins library
       - migrated zowe-promote-publish to zowe-install-packaging and will archive the repo soon
