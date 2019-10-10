@@ -43,6 +43,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - WIP:        
+        - Clean up Discovery Service logging #368      
+        - New Eureka metadata definition and consumption #380        
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
