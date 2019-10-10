@@ -42,6 +42,16 @@ Agenda Items
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (Mike B/Kyle)
+        - CICS plugin for Zowe CLI efforts
+            - (Next) Issue #56 - Add options to define URIMap command
+            - (Future - Help Wanted) Issue #52 - Delete a CICS URIMap
+            - (Future - Help Wanted) Issue #48 - Install a CICS URIMap
+        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 1,762 unique installs!
+            - (In Progress) Issue #182 - Support "copy path" in USS explorer
+            - (In Progress) Issue #210 - Persistence of added profiles
+            - (In Progress) Issue #226 - Allow VS Code Extension Settings of Connection Information (remove strict dependency on Zowe CLI profiles)
+            - (In Progress) Issue #266 - Profile loader rework
+            - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
