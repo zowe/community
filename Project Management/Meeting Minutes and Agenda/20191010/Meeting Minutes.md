@@ -41,6 +41,11 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Should be all set with our LTSR tagging 
+        - Working on componentisation for explorer apps
+        - Drafting a zlux config for componentization 
+        - Testing right click delete option in Editor
+        - Closed a few issues on iFrame support (#218, #217)
     - Core/CLI (Mike B/Kyle)
         - CICS plugin for Zowe CLI efforts
             - (Next) Issue #56 - Add options to define URIMap command
