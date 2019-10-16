@@ -15,3 +15,15 @@
 [04-29-2019](https://zoom.us/recording/share/zYOnyTlOrNPvnQxJPNe4U1i0QMb0fVW_3pfFX2JsDs2wIumekTziMw)
 
 [04-08-2019](https://zoom.us/recording/share/EnvedsRT_MPzqfEWG9yOkcakXoUm7gER3NDFt2L9ApWwIumekTziMw)
+
+[02-11-2019](https://zoom.us/recording/share/BfE-uQ9bf2LNxoE0UL6hYd80qG0xVmS0hDbGVlP394uwIumekTziMw)
+
+[12-17-2018](https://zoom.us/recording/share/ohY3dUwaiZ1eQvVTPyma2T8N9Yzsew7aJFWOYFVbvTOwIumekTziMw)
+
+[10-29-2018](https://zoom.us/recording/share/ohY3dUwaiZ1eQvVTPyma2T8N9Yzsew7aJFWOYFVbvTOwIumekTziMw)
+
+[10-15-2018](https://zoom.us/recording/share/-Md1Iv6vVdlZrM4G78MvSUg1kCTQeqBdCbMeqAydNcawIumekTziMw)
+
+[10-01-2018](https://zoom.us/recording/share/eFW7hrs40XDgGiPUVvFflggGXzl_1s0asI3aglqHqFmwIumekTziMw)
+
+[09-17-2018](https://zoom.us/recording/share/zpGaO4IoeZ835GT9cvpSxSny7cfc4O7T7gvWBfctzXWwIumekTziMw?startTime=1537191100000)
