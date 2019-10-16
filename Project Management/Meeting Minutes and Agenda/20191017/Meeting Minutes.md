@@ -41,6 +41,10 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Working on Editor improvements: prevent opening of files/folders queued for deletion & right click directory creation
+        - Working on iFrame support: support windows and actions via iFrame adapter
+        - Testing some RBAC support as well as notifications in the desktop
+        - Testing RC1 for 1.6.0
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
