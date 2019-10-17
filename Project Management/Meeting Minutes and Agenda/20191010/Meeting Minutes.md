@@ -58,11 +58,9 @@ Agenda Items
             - (In Progress) Issue #266 - Profile loader rework
             - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12.
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-      - Completed
-        - Clean up Discovery Service logs originating in API ML dependencies       
-      - Close to completion
-        - Clean up Discovery Service logs originating in API ML code base             
-        - Clean up configuration for plain Java enabler        
+      - WIP:        
+        - Clean up Discovery Service logging #368      
+        - New Eureka metadata definition and consumption #380        
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
