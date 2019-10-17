@@ -47,6 +47,11 @@ Agenda Items
         - Testing RC1 for 1.6.0
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Completed
+        - Clean up Discovery Service logs originating in API ML dependencies       
+      - Close to completion
+        - Clean up Discovery Service logs originating in API ML code base             
+        - Clean up configuration for plain Java enabler          
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
