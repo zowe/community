@@ -46,7 +46,12 @@ Agenda Items
         - Several small fixes, like removing tsocmd.sh which caused job queue full and others
       - Migrating to LF Jenkins/Artifactory/SonarCloud
 
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+    - Documentation (Brandon/Ashley/Jim/Jason)
+      - Updating API Mediation layer onboarding documentation
+      - Adding docs for ZWESAUX
+      - Adding more troublehooting info
+      - TPSR updates
+      - Discussing release notes automation
 
 6. Legal Requirements
     - None
