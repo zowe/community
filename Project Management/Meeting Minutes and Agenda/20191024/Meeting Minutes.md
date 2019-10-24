@@ -39,6 +39,12 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Completed
+        - Clean up Discovery Service logs originating in API ML code base                     
+        - External option to activate DEBUG mode for APIML        
+      - Close to completion
+        - Speedup API Catalog UI build      
+        - Clean up configuration for plain Java enabler              
     - Foundation (CI/CD) (Mark/Jack/Nick)
      - Smoke Test improvements
         - Removing the datasets created during installation
