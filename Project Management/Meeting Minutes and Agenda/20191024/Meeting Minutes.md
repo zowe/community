@@ -37,13 +37,12 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
-        - 
-    - Core/CLI (Mike B/Kyle)
-    - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Completed support for notifications in the desktop
       - Testing preventing the opening of files anf folders that are qeued for deltion in the editor
       - Testing a right click directory creation in the editor
       - Still progressing on iframe adapter support
+    - Core/CLI (Mike B/Kyle)
+    - API Mediation Layer & Security (Petr G/Radek K/Petr P)     
         - Clean up Discovery Service logs originating in API ML code base                     
         - External option to activate DEBUG mode for APIML        
       - Close to completion
