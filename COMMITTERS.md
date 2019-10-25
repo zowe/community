@@ -42,6 +42,8 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
 - Jessielaine Punongbayan - @jellypuno (jessielaine.punongbayan@broadcom.com)
 - Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
+- Pranary Sodani - @Pranay154 (Pranay.Sodani@ibm.com)
+- Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
 
 ### Zowe App Framework
 
