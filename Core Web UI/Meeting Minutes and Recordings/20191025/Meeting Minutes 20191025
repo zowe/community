@@ -1,0 +1,40 @@
+Meeting Minutes - 10/25/2019
+Meeting was recorded -  https://zoom.us/recording/share/bS0mqq-EGS_zJJTHo9ty-PgqSzIhaEbxopXqDyWprUSwIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+
+What we are doing this sprint 		
+	- Sean: continue conda work/ CUPIDS. End of Nov for the Zlux componentization. Working with Aarohi and Michael R  
+	- Tim: iFrame adapter work
+	- Lenny: right click creation directory to editor 
+	- Suneeth: RBAC and Notification support
+	- Nakul: Lifecycle hooks for apps to update browser title and explorer apps componentization. Nakul to work with Lenny and 
+		and Tim for title changes in the editor and iframe apps respectively 
+	
+	Nolan: When Dmitry Open Sources Tests, Nolan to schedule meeting to help teach the community
+	JP: John Davies Community issue #336
+	
+Demos
+	- Tim: iFrame app and iFrame adapter
+	- Lenny: deletion queue and right click creation of a directory both in editor
+	- Suneeth: Notification manager updates - Most likely explorer apps, Nakul to discuss with Steve
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Suneeth
+JP
+Lenny
+Tim G
+Aarohi
+Vitek
+Jakub S
+Kimberly
