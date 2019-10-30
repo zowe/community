@@ -37,6 +37,9 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
+        - Working on iFrame support app2app communication and constructor injectibles via iFrame adapter
+        - Finished backend API for delete files in editor, working on dataset properties in File Explorer right click menu
+        - Working on extending Dataset API To Allow Deletion of PDS/E Members
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
