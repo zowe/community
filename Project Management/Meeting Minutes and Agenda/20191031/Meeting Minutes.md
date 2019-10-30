@@ -43,7 +43,7 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+    - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
     - None
