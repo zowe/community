@@ -41,6 +41,12 @@ Agenda Items
         - Finished backend API for delete files in editor, working on dataset properties in File Explorer right click menu
         - Working on extending Dataset API To Allow Deletion of PDS/E Members
     - Core/CLI (Mike B/Kyle)
+        - Add CICS Web Services Deployment Functionality
+            - View Milestone at https://github.com/zowe/zowe-cli-cics-plugin/milestone/21
+            - 7/10 issues closed
+        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 1,966 unique installs!
+            - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12.
+            - 12/36 issues closed
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Completed
         - Clean up Discovery Service logs originating in API ML dependencies         
