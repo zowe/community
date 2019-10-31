@@ -42,6 +42,11 @@ Agenda Items
         - Working on extending Dataset API To Allow Deletion of PDS/E Members
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Completed
+        - Clean up Discovery Service logs originating in API ML dependencies         
+      - Close to completion
+        - Clean up API Catalog logs originating in API ML code base
+        - Clean up API Catalog logs originating in API ML dependencies                
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
