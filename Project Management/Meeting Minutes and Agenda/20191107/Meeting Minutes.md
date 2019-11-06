@@ -37,10 +37,20 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Finished:
+            Iframe full App2App communication support #174
+            Support constructor injectibles via iframe adapter #256
+            Add lifecycle hook for apps to update browser title #242
+            Implement Dataset Properties in File Explorer Right Click Menu #255 
+            Update Back end API for delete files in editor #253
+      - Working on:      
+            JS JES Explore, user to get the JCL that was used to submit a job, edit it and resubmit it
+            Extend Dataset API To Allow Deletion of PDS/E Members #254
+            Prepping for RC1 
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
-    - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+    - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
     - None
