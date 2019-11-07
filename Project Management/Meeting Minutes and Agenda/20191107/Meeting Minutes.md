@@ -63,6 +63,10 @@ Agenda Items
         - Clean up API Catalog logs originating in API ML code base
         - Clean up API Catalog logs originating in API ML dependencies                    
     - Foundation (CI/CD) (Mark/Jack/Nick)
+        - Explorer API/plugins repos are all migrated to use SonarCloud
+        - Working on Docker build pipeline to simplify building/publishing docker images, should be ready this week.
+        - Continue testing on LF Jenkins.
+        - Exploring possibilities to migrate to LF Artifactory before migrating to LF Jenkins.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
