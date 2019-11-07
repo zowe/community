@@ -48,6 +48,12 @@ Agenda Items
             Extend Dataset API To Allow Deletion of PDS/E Members #254
             Prepping for RC1 
     - Core/CLI (Mike B/Kyle)
+        - Add CICS Web Services Deployment Functionality
+            - View Milestone at https://github.com/zowe/zowe-cli-cics-plugin/milestone/21
+            - 9/10 issues closed
+        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 2,025 unique installs!
+            - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12
+            - 14/38 issues closed
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Completed
         - Speed up API Catalog UI build #387
