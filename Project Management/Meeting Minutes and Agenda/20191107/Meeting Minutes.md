@@ -49,6 +49,13 @@ Agenda Items
             Prepping for RC1 
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Completed
+        - Speed up API Catalog UI build #387
+        - Clean up API Gateway logs originating in API ML code base
+        - Clean up API Gateway logs originating in API ML dependencies       
+      - Close to completion
+        - Clean up API Catalog logs originating in API ML code base
+        - Clean up API Catalog logs originating in API ML dependencies                    
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
