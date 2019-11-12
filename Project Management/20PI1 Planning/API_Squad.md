@@ -5,9 +5,9 @@
 * [Stop repetitive service status log messages](https://github.com/zowe/api-layer/issues/372)
 
 ## Allow services to use encoded special characters in service URLs
-* [Modify Spring Security firewall to conditionally support special characters in a service URIs](https://github.com/zowe/api-layer/issues/A)
-* [Implement Tomcat support for special characters in a service URIs](https://github.com/zowe/api-layer/issues/B)
-* [Modify onboarding enablers to conditionally allow special characters in a service URIs](https://github.com/zowe/api-layer/issues/C)
+* [Modify Gateway’s Spring Security firewall to conditionally support special characters in a service URIs](https://github.com/zowe/api-layer/issues/434)
+* [Implement support in Gateway’s Tomcat for special characters in a service URIs](https://github.com/zowe/api-layer/issues/435)
+* [Modify onboarding enablers to conditionally allow special characters in a service URIs](https://github.com/zowe/api-layer/issues/436)
 
 ## LTSR preparation
 * [Change package and config properties prefixes to org.zowe.apiml prefix](https://github.com/zowe/api-layer/issues/52)
