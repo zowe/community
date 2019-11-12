@@ -37,6 +37,14 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Testing 
+            -Dataset API to allow deletion of PDS/E members
+            -Exporers: when editing JCL to not lose content when tabbing
+        - Working on
+            -Bug: fixing alert when session is about to expire
+            -Adding features to sample iFrame app
+       - To do
+            -Explorers: Use desktop notifications when running as a zlux app            
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
