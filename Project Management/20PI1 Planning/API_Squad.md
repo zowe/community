@@ -4,6 +4,11 @@
 * [Suppress interaction messaging between API ML components during START UP](https://github.com/zowe/api-layer/issues/371)
 * [Stop repetitive service status log messages](https://github.com/zowe/api-layer/issues/372)
 
+## Allow services to use encoded special characters in service URLs
+* [Modify Spring Security firewall to conditionally support special characters in a service URIs](https://github.com/zowe/api-layer/issues/A)
+* [Implement Tomcat support for special characters in a service URIs](https://github.com/zowe/api-layer/issues/B)
+* [Modify onboarding enablers to conditionally allow special characters in a service URIs](https://github.com/zowe/api-layer/issues/C)
+
 ## LTSR preparation
 * [Change package and config properties prefixes to org.zowe.apiml prefix](https://github.com/zowe/api-layer/issues/52)
 * [Add Endpoint to show Zowe version](https://github.com/zowe/api-layer/issues/345)
