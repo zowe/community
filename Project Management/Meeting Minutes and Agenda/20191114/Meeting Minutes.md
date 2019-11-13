@@ -32,6 +32,10 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+    - There was a fix applied to v1.7.0-RC1.
+    - v1.7.0-RC2 should be already available for testing.
+    - Target on Friday to finish verification and send vote request to ZLC. Hopefully can announce before end of week.
+    - Jack will be on vacation from Nov 14th - 21st. Mark will be helping on the final announcement of v1.7.0.
 4. Plan
 5. Squad Status:
     - Installation (Joe)
@@ -48,6 +52,8 @@ Agenda Items
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+        - We have made progress on successfully run docs-site build on LF Jenkins. Some failures on LF Jenkins production had been resolved.
+        - DockerPipeline support was added (Doc: https://www.zowe.org/jenkins-library/jenkins_shared_library/pipelines/docker/DockerPipeline.html, Example pipeline https://github.com/zowe/zowe-dockerfiles/blob/users/jack/pipeline/Jenkinsfile.zowe-dev)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements

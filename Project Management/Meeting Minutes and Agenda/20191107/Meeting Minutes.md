@@ -32,10 +32,6 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
-    - There was a fix applied to v1.7.0-RC1.
-    - v1.7.0-RC2 should be already available for testing.
-    - Target on Friday to finish verification and send vote request to ZLC. Hopefully can announce before end of week.
-    - Jack will be on vacation from Nov 14th - 21st. Mark will be helping on the final announcement of v1.7.0.
 4. Plan
 5. Squad Status:
     - Installation (Joe)
