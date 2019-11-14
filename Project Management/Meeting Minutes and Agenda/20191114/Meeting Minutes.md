@@ -51,6 +51,13 @@ Agenda Items
             -Explorers: Use desktop notifications when running as a zlux app            
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+      - Completed
+        - Clean up API Catalog logs originating in API ML dependencies    
+      - Close to completion
+        - Clean up API Catalog logs originating in API ML code base
+        - Clean up configuration for plain Java onboarding enabler
+      - WIP
+        - OpenAPI 3.0 support         
     - Foundation (CI/CD) (Mark/Jack/Nick)
         - We have made progress on successfully run docs-site build on LF Jenkins. Some failures on LF Jenkins production had been resolved.
         - DockerPipeline support was added (Doc: https://www.zowe.org/jenkins-library/jenkins_shared_library/pipelines/docker/DockerPipeline.html, Example pipeline https://github.com/zowe/zowe-dockerfiles/blob/users/jack/pipeline/Jenkinsfile.zowe-dev)
