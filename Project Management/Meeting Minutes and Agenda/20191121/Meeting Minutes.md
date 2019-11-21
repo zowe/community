@@ -38,6 +38,16 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
+        - Finished 
+            -JES Explorer feature for output files ability to download a spool file and not losing content when tabbing
+            -Fixed a bug for alert session when session will expire
+        - Reviewing 
+            -Features for iFrame app (will close the Epic this sprint)
+            -Dataset API to allow deletion of datasets
+        - In progress
+            -Deletion option into right click menu for dataset members
+        - Other
+            -Need for 1.7.1 quick fix            
     - Core/CLI (MikeB/Kyle)
         - Completed CICS Web Services Deployment Functionality
             - View Milestone at https://github.com/zowe/zowe-cli-cics-plugin/milestone/21
