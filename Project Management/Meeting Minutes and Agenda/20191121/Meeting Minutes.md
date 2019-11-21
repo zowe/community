@@ -39,6 +39,12 @@ Agenda Items
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (MikeB/Kyle)
+        - Completed CICS Web Services Deployment Functionality
+            - View Milestone at https://github.com/zowe/zowe-cli-cics-plugin/milestone/21
+            - 10/10 issues closed
+        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 2,290 unique installs!
+            - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12
+            - 21/32 issues closed
     - API Mediation Layer & Security (PetrG/Radek K/PetrP)
       - Completed
         - Clean up API Catalog logs originating in API ML code base
