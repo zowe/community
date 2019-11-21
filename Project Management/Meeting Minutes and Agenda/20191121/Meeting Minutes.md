@@ -40,6 +40,11 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (MikeB/Kyle)
     - API Mediation Layer & Security (PetrG/Radek K/PetrP)
+      - Completed
+        - Clean up API Catalog logs originating in API ML code base
+      - Code complete items with documentation work in progress:
+        - OpenAPI 3.0 support            
+        - Clean up configuration for plain Java onboarding enabler
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
