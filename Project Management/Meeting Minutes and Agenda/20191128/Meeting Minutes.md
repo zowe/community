@@ -29,52 +29,13 @@ Sprint 1 (December 10, 2019 - December 23, 2019)
 - 1.9.0 GA (January 7, 2020)
 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The Current Release Ship Signoff</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Squad Name</td>
-        <td>Yes/No</td>
-    </tr>
-        <tr>
-            <td>Installation</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Onboarding</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Core/Web/Editor</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>API Mediation Layer & Security</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Foundation</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Documentation</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-
 Agenda Items
 ------------
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan
-    - Discuss v1.8.0 release. Do we need this release ? What are the important deliverables ?
+    - Zowe v1.7.1 RC Candidate created. All squads should test as needed considering only minor change went in.
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
