@@ -20,12 +20,53 @@ Zowe 1.8.0 (November 12, 2019 - December 10, 2019)
 Next
 ----
 Zowe 1.9.0 (December 10, 2019 - January 7, 2020)
-- Sprint 1 (December 10, 2019 - December 23, 2019)
-- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (December 23, 2019)
+
+Sprint 1 (December 10, 2019 - December 23, 2019)
+- Playback/Checkpoint(go-no-go)/End of Sprint Retrospective and Update (December 23, 2019)
 - Sprint 2 (December 24, 2019 - January 6, 2020)
 - Code Complete/RC Candidate Build/Start Testing (January 3, 2020 - January 7, 2020)
 - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (January 6, 2020)
 - 1.9.0 GA (January 7, 2020)
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The Current Release Ship Signoff</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Squad Name</td>
+        <td>Yes/No</td>
+    </tr>
+        <tr>
+            <td>Installation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Onboarding</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Core/Web/Editor</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>API Mediation Layer & Security</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Foundation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Documentation</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 
 Agenda Items
 ------------
@@ -36,31 +77,10 @@ Agenda Items
     - Discuss v1.8.0 release. Do we need this release ? What are the important deliverables ?
 5. Squad Status:
     - Installation (Joe)
-    - Onboarding (JoeW/Taylor)
+    - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
-        - Finished 
-            -JES Explorer feature for output files ability to download a spool file and not losing content when tabbing
-            -Fixed a bug for alert session when session will expire
-        - Reviewing 
-            -Features for iFrame app (will close the Epic this sprint)
-            -Dataset API to allow deletion of datasets
-        - In progress
-            -Deletion option into right click menu for dataset members
-        - Other
-            -Need for 1.7.1 quick fix            
-    - Core/CLI (MikeB/Kyle)
-        - Completed CICS Web Services Deployment Functionality
-            - View Milestone at https://github.com/zowe/zowe-cli-cics-plugin/milestone/21
-            - 10/10 issues closed
-        - Progressing toward Visual Studio Code Extension for Zowe 1.0 - 2,290 unique installs!
-            - See the 1.0 MVP milestone issues at https://github.com/zowe/vscode-extension-for-zowe/milestone/12
-            - 21/32 issues closed
-    - API Mediation Layer & Security (PetrG/Radek K/PetrP)
-      - Completed
-        - Clean up API Catalog logs originating in API ML code base
-      - Code complete items with documentation work in progress:
-        - OpenAPI 3.0 support            
-        - Clean up configuration for plain Java onboarding enabler
+    - Core/CLI (Mike B/Kyle)
+    - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
