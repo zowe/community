@@ -1,5 +1,11 @@
 # API & Security Squad - 20PI1 Objectives (December 2019 to February 2020)
 
+## Enhancements to API ML on-boarding processes
+* [New Eureka metadata definition and consumption](https://github.com/zowe/api-layer/issues/380)
+* [Clean up configuration for plain Java enabler](https://github.com/zowe/api-layer/issues/381)
+* [Use Java enabler as a base for Spring Boot enablers](https://github.com/zowe/api-layer/issues/382)
+* [Modify Catalog and Gateway to support new enabler versions](https://github.com/zowe/api-layer/issues/383)
+
 ## Allow services to use encoded special characters in service URLs
 * [Modify Gateway’s Spring Security firewall to conditionally support special characters in a service URIs](https://github.com/zowe/api-layer/issues/434)
 * [Implement support in Gateway’s Tomcat for special characters in a service URIs](https://github.com/zowe/api-layer/issues/435)
