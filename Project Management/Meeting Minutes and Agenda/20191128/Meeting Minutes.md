@@ -40,6 +40,7 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
+        - Testing for RC1 171 is good. Waiting for ZLC vote 
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
