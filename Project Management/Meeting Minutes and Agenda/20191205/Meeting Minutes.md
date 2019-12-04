@@ -46,6 +46,11 @@ Agenda Items
     - Installation (Joe)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
+        - 1.7.1 is ready to go, waiting for ZLC approval 
+        - Finished generating list of all messages in C code base (#341)
+        - Testing delete support for datasets in the editor (#338, #337)
+        - Working on CUPIDS componentization for zlux 
+        - UI changes for ability to write datasets in editor (#340)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
