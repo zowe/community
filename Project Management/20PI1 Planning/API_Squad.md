@@ -7,11 +7,11 @@
 
 ## Implement API ML changes that will simplify installation and supportability of the upcoming LTS release.
 * [Change package and config properties prefixes to org.zowe.apiml prefix](https://github.com/zowe/api-layer/issues/52)
-* [z/OSMF JWT token utilization](https://github.com/zowe/api-layer/issues/433)
-* [Import z/OSMF public certificate without need to access to z/OSMF keyring](https://github.com/zowe/api-layer/issues/224)
+* [Add Endpoint to show Zowe version](https://github.com/zowe/api-layer/issues/345)
 
 <!---
-* [Add Endpoint to show Zowe version](https://github.com/zowe/api-layer/issues/345)
+* [z/OSMF JWT token utilization](https://github.com/zowe/api-layer/issues/433)
+* [Import z/OSMF public certificate without need to access to z/OSMF keyring](https://github.com/zowe/api-layer/issues/224)
 * [Enable "Try it out" and "Authorize" buttons in API Catalog](https://github.com/zowe/api-layer/issues/258)
 * [Refresh static APIs functionality API Catalog UI](https://github.com/zowe/api-layer/issues/57)
 * [Add CORS Headers Support for Login Endpoint](https://github.com/zowe/api-layer/issues/384)
