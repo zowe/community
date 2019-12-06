@@ -26,5 +26,5 @@
 ## Security Related Efforts
 * [z/OSMF JWT token utilization](https://github.com/zowe/api-layer/issues/433)
 
-## Advance the integration of Zowe Desktop with API Mediation Layer
+## Advance the integration of zLUX with API Mediation Layer
 * [Integrate zLUX with Zowe SSO for authentication](https://github.com/zowe/api-layer/issues/55)
