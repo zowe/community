@@ -28,6 +28,3 @@
 
 ## Advance the integration of Zowe Desktop with API Mediation Layer
 * [Integrate zLUX with Zowe SSO for authentication](https://github.com/zowe/api-layer/issues/55)
-* [Add zLUX into API Catalog](https://github.com/zowe/api-layer/issues/21)
-* [Improve Zowe installation script to automatically integrate zLUX into APIML](https://github.com/zowe/api-layer/issues/19)
-
