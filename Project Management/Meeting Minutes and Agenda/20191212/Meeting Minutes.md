@@ -43,9 +43,16 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan
 5. Squad Status:
-    - Installation (Joe)
+    - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
+        - 1.8.0 changes
+          -  Finished epic for deleting datasets in the editor
+          -  Fixed bug on alerting user when their session will expire 
+          -  RC PR for zlux and zss is ready excluding Sean and CUPIDS team work, but whatever we decide we can adapt 
+        - 1.9.0 development
+          -  Write support for datasets in the editor
+          -  Componetization for zlux CUPIDS
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
