@@ -44,6 +44,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
 - Pranay Sodani - @Pranay154 (Pranay.Sodani@ibm.com)
 - Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
+- Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 
 ### Zowe App Framework
 
