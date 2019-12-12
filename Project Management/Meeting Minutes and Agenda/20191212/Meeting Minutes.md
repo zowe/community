@@ -54,6 +54,12 @@ Agenda Items
           -  Write support for datasets in the editor
           -  Componetization for zlux CUPIDS
     - Core/CLI (Mike B/Kyle)
+        - Zowe Explorer VS Code Extension - 2,624 unique installs!
+            - 1.0 released- 35 issues closed against our 1.0 MVP milestone: https://github.com/zowe/vscode-extension-for-zowe/milestone/12. Check out our changelog at https://github.com/zowe/vscode-extension-for-zowe/blob/master/CHANGELOG.md. 
+            - 1.1 target milestone (Jan 6) - https://github.com/zowe/vscode-extension-for-zowe/milestone/19
+            - We need your help! Prioritized backlog - https://github.com/zowe/vscode-extension-for-zowe/milestone/3. Simply pick an issue of interest, assign yourself, and select a target milestone for completion (current options are 1.1 (Jan 6), 1.2 (Feb 3), or 1.3 (Mar 2))
+        - Zowe CLI
+            - Updating Imperative yargs dependency in preparation for Zowe LTS release
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
