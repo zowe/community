@@ -48,11 +48,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
         - 1.8.0 changes
           -  Finished epic for deleting datasets in the editor
-          -  Fixed bug on alerting user when their session will expire 
-          -  RC PR for zlux and zss is ready excluding Sean and CUPIDS team work, but whatever we decide we can adapt 
-        - 1.9.0 development
-          -  Write support for datasets in the editor
-          -  Componetization for zlux CUPIDS
+          -  Fixed bug on alerting user when their session will expires
+          -  working on Write support for datasets in the editor
+          -  Componetization for zlux for CUPIDS
     - Core/CLI (Mike B/Kyle)
         - Zowe Explorer VS Code Extension - 2,624 unique installs!
             - 1.0 released- 35 issues closed against our 1.0 MVP milestone: https://github.com/zowe/vscode-extension-for-zowe/milestone/12. Check out our changelog at https://github.com/zowe/vscode-extension-for-zowe/blob/master/CHANGELOG.md. 
