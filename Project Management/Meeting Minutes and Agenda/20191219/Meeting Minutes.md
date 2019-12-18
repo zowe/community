@@ -50,6 +50,12 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+        - Done: 
+          - Added OpenAPI 3.0 support
+          - Eureka metadata revisited and consumed in API ML services
+          - New plain Java enabler version created; JAR artifact released
+        - In progress: 
+          - New versions of Spring V1 and V2 enablers          
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
