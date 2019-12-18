@@ -48,6 +48,7 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan)
+        - Working with cupids team for componentization of the app server
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Done: 
