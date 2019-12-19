@@ -50,6 +50,12 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan)
         - Working with cupids team for componentization of the app server
     - Core/CLI (Mike B/Kyle)
+        - Zowe Explorer VS Code Extension - 2,708 unique installs!
+            - 1.0.1 released- Changlog: https://marketplace.visualstudio.com/items/Zowe.vscode-extension-for-zowe/changelog. 
+            - 1.1 target milestone (Jan 6) - https://github.com/zowe/vscode-extension-for-zowe/milestone/19
+            - We need your help! Prioritized backlog - https://github.com/zowe/vscode-extension-for-zowe/milestone/3. Simply pick an issue of interest, assign yourself, and select a target milestone for completion (current options are 1.1 (Jan 6), 1.2 (Feb 3), or 1.3 (Mar 2))
+        - Zowe CLI
+            - Updating Imperative yargs dependency in preparation for Zowe LTS release
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
         - Done: 
           - Added OpenAPI 3.0 support
