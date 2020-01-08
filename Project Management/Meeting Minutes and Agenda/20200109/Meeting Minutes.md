@@ -47,7 +47,7 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
-    - Core/Web/Editor (JPL/Nolan)
+    - Core/Web/Editor (JPL/Nolan/James)
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
