@@ -48,6 +48,7 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
+          -The latest status of Zowe 1.8.0 is that Steven was encountering some problems with the explorers and Jason is writing        documantation.
     - Core/CLI (Mike B/Kyle)
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
