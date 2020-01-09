@@ -58,7 +58,12 @@ Agenda Items
             - Contributing Conformant CA Secure Credential Store Plug-in for Zowe CLI to Zowe Active Development and Zowe LTS line
             - Distributing Zowe CLI LTS line for first Zowe LTS release. Current understanding is that Zowe LTS release will be 1.10... so plan is to tag these packages as `@zowe-v1-lts`. If this is going to change to the first Zowe LTS release being 2.0 (which I support) we need to tag these packages as `@zowe-v2-lts`.
             - Updating conformance criteria for LTS release
-    - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+    - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - Done
+        - Upgraded Discovery Service's Eureka library to the latest version (transiently also Tomcat to 9.0 and Spring Boot to 2.1)      
+      - In progress:
+        - Research for conditional special characters support in API ML services
+        - Implementation of new Spring V1 and V2 onboarding enablers              
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
