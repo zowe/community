@@ -61,6 +61,7 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
       - Done
         - Upgraded Discovery Service's Eureka library to the latest version (transiently also Tomcat to 9.0 and Spring Boot to 2.1)      
+        - Fixed issue with unwanted content decompression in the API Gateway
       - In progress:
         - Research for conditional special characters support in API ML services
         - Implementation of new Spring V1 and V2 onboarding enablers              
