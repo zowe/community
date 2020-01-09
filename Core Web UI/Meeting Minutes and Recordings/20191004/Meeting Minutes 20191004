@@ -1,0 +1,46 @@
+Meeting Minutes - 10/4/2019
+Meeting was recorded - https://zoom.us/recording/share/cHDu1g_PJVctrQwQZRIr09_4Fb-dM5I_m5-EAA7vaB8 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+
+What we are doing this sprint 		
+	- Sean: continue conda work
+	- Nakul, Jordan, Lenny, Tim, & Suneeth see link below:
+			- https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=PS1%209%2F30%20-%2010%2F11%20(1.6.0)%232019-10-11&filterLogic=any&repos=144599701,144599767,144600062,144599826,144600302,144600372,144600433
+	
+	
+Areas of Interest
+	- Framework Server
+	- Framework UI
+	- Apps 
+		-Explorers folks will go under the Apps group. Sean is working on this still
+	- ZSS
+	
+	- Adding labels to LTSR to Epics (Nolan meeting with Sean Wednesday on this topic)
+	- Nolan to close Editor app and create new more targeted ones (work with Sean for LTSR on the new ones)
+	- Nolan to create epic Log messages for error codes - create standardized error codes
+	- Password Reset - LTSR Epic, might need to add the Epic or it is under MFA, either way need to make it explicit 
+	- High availability - site replication?  Or in site two servers running the same Zowe, some storage that can be shared - probably not LTSR
+	- We have C API for ACF2, Top Sercet , RACF API LTSR?  Vitek talk to product owner at Broadcomm
+	
+Demos
+	- N/a
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Jordan Cain
+Suneeth
+JP
+Peter Halsted
+Lenny
+Joe W
+Tim G
+Aarohi
