@@ -52,6 +52,12 @@ Agenda Items
      - Working on log message codes as part of LTS items
      - bug fix related to datasets in editor
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - Done
+        - Research for conditional special characters support in API ML services
+      - In progress:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs
+        - Modify Gateway’s Spring Security firewall to conditionally support special characters in a service URIs
+        - Documentation for the new Spring V1 and V2 onboarding enablers       
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
