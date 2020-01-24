@@ -39,6 +39,10 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
         -Working on Node 12 to function properly and some minor bugs.
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - In progress:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs
+        - Modify Gateway’s Spring Security firewall to conditionally support special characters in a service URIs
+        - Documentation for the new Spring V1 and V2 onboarding enablers           
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
