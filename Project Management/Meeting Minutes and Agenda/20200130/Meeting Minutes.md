@@ -44,6 +44,9 @@ Agenda Items
         - Implement support in Gateway’s Tomcat for special characters in a service URIs      
         - Documentation for the new Spring V1 and V2 onboarding enablers         
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Work with team and have v1.8.0-RC1 convenient build out. Help team on finishing the work of v1.8.0 SMP/E build.
+      - Track issues and prepare for RC2.
+      - Work on the solution to fix TPSR page Unknown license issue.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
