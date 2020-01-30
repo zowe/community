@@ -36,6 +36,9 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
+     - Zosmf session expire UX fix 
+     - combine ampil auth with zss auth 
+     - change installer to default to plugins
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
       - Done:    
         - Modify Gateway’s Spring Security firewall to conditionally support special characters in a service URIs    
