@@ -39,6 +39,7 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
+        -Working RC build and testing 
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
