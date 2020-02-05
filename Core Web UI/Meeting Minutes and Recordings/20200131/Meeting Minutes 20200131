@@ -1,0 +1,38 @@
+Meeting Minutes - 1/31/2020
+Meeting was recorded - https://zoom.us/rec/share/5fR3FrKp7nxJGqOd9xmGWfR6PIa4T6a8hyVK-6YMn0hQAnOnuFEHG8PjMuJKiaH7 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+	Good First issues & Help Wanted issues 
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+	
+
+What we are doing this sprint 		
+	- Sean: SSO work 
+	- Nakul:  help with hotkeys task
+	- Jordan: Working on SSO
+	- James: waiting for RC2, testing Node 12, help with api ml
+	- Aarohi: Meet with Sean to put some good first issues into Github - now all on github
+	
+	
+	Q1 Objectives (tentative target 1.9.0)
+	SSO
+	MFA
+	Enhanced Logging
+	Node 12 support
+	
+Demos
+		
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean G
+Jordan C
+Aarohi S
+JP
