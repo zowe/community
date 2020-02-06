@@ -41,6 +41,15 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
         -Working RC build and testing 
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - Done:    
+        - Documentation for the new Spring V1 and V2 onboarding enablers                   
+        - Change package properties prefixes to org.zowe.apiml prefix 
+        - Change config properties prefixes to org.zowe.apiml prefix        
+      - In progress:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs      
+        - Modify Catalog to support new enabler versions
+        - Modify Gateway to support new enabler versions
+        - Modify enablers to conditionally allow special characters in a service URIs        
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
