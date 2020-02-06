@@ -51,6 +51,9 @@ Agenda Items
         - Modify Gateway to support new enabler versions
         - Modify enablers to conditionally allow special characters in a service URIs        
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Migrate denpendency scan pipeline to Zowe org
+      - New docker build on LF Jenkins to build dependency scan base image
+      - License scan clearance for coming release
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
