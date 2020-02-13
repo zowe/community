@@ -1,0 +1,45 @@
+Meeting Minutes - 9/27/2019
+Meeting was recorded - 
+https://zoom.us/recording/share/oU8YCyorV4hRn2XWEx-olITzz5t8XXtrjQeF2hbg1aSwIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	
+	- Testing RC2 and now RC3
+
+What we Want to do next Sprint		
+	- Sean: continue conda work
+	- Aarohi: Accessibility in the desktop 
+	- Nakul, Jordan, Lenny, Tim, & Suneeth see link below:
+			- https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?milestones=PS1%209%2F30%20-%2010%2F11%20(1.6.0)%232019-10-11&filterLogic=any&repos=144599701,144599767,144600062,144599826,144600302,144600372,144600433
+	
+	
+Areas of Interest
+	- Framework Server
+	- Framework UI
+	- Apps 
+		-Explorers folks will go under the Apps group. Sean is working on this still
+	- ZSS
+	
+	- Nolan to send 1.5.0 playback recording to Vitek
+	
+Demos
+	- Sean - conda package manager & apps in standalone
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Jordan Cain
+Suneeth
+JP
+Peter Halsted
+Vitek
+Tim G
+Aarohi

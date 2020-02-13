@@ -1,0 +1,39 @@
+Meeting Minutes - 2/7/2020
+Meeting was recorded - https://zoom.us/rec/share/-dJfN-D99kNIXc_V607bXYs_L7Xeeaa81yAWr_dczkzd5VAFYQoAal_9iMaDuDIz 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+	Good First issues & Help Wanted issues 
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+	
+
+What we are doing this sprint 		
+	RC3 testing - looks good
+	Jordan C: SSO, working solutions for 2/3 of the explorers 
+	Joe W: might look at doc around web UI install, got desktop up on a customer site 
+
+	
+	Q1 Objectives (tentative target 1.9.0)
+	SSO
+	MFA
+	Enhanced Logging
+	Node 12 support
+	
+Demos
+		JP: Message IDs for logger
+		 
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean G
+Jordan C
+Joe W
+JP
+Peter F
+Tim G 

@@ -16,7 +16,7 @@ Zowe 1.5.0 (August 20, 2019 - September 17, 2019)
 - Sprint 2 (September 3, 2019 - September 16, 2019
 - Code Complete/RC Candidate Build/Start Testing (September 13, 2019 - September 17, 2019)
 - Playback/Checkpoint(go-no-go)/End of Sprint Retrospective (September 16, 2019)
-- 1.5.0 GA (September 17, 2019)
+- 1.5.0 GA (Current target September 27, 2019)
 
 Next
 ----
@@ -35,30 +35,33 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
 4. Plan:
-    - System Demo booked. Please update agenda -> https://ibm.ent.box.com/notes/284332824321
-    - Cancel next weeks meeting due to PI Planning
-    - Github Security Scans
+    - Discuss closure plan for v1.5.0
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Nolan)
-        - Working on making app run in standalone mode
-        - Testing on Server REST APIs for server info
-        - Testing I18n to logging services, logger prefixes
-        - Finishing up design work to an admin notification feature on the desktop
-        - Continued effort for keyboard navigation and shortcuts, now focusing on the desktop and less the apps
+        - Testing for 1.5.0, still looking good for a friday vote
+        - Working on RBAC app visibility
     - Core/CLI (Mike B/Kyle)
-        - PI Planning next week!
         - Core CLI efforts
             - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
-        - Progressing toward Zowe VSCode Extension 1.0 - 1,329 unique installs, 5,957 downloads!
+        - CICS plugin for Zowe CLI efforts
+            - (In Review) Issue #53 - Define a CICS URIMAP
+        - Progressing toward Zowe VS Code Extension 1.0 - 1,567 unique installs!
             - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
-            - (In Progress) Issue #102 - Add ability to filter by jobid
-            - (In Progress) Issue #163 - Create Favorites section for Jobs
             - (In Progress) Issue #182 - Support "copy path" in USS explorer
+            - (In Progress) Issue #226 - Allow VS Code Extension Settings of Connection Information (remove strict dependency on Zowe CLI profiles)
+            - (In Progress) Issue #248 - If job node is deleted, also remove favorite
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
-        - Finished story - Web UI of Discovery Service (Eureka) is protected by MF authentication #81    
-    - Foundation (CI/CD) (Mark/Nick)
+      - WIP:
+        - Create infrastructure for log messages #391
+        - New Eureka metadata definition and consumption #380
+    - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Working on new repo https://github.com/zowe/zowe-dockerfiles, basing some broad structure on https://github.com/eclipse/che-dockerfiles. Testing out performance degradation based on image size so we can decide on a single common image or multiple ones.
+      - SonarCloud was also setup for CLI/API-ML and will be POC’ing imperative soon.
+      - Nightly build has been changed to also promote/test SMP/e package
+
+
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
 6. Legal Requirements

@@ -1,0 +1,37 @@
+Meeting Minutes - 1/10/2020
+Meeting was recorded -  https://zoom.us/rec/share/yOFxC-Cv9EBOa5WW5Vrva-kDRIfMaaa8hiBPrvUKmElSAiUw5CclSIxZc0dbQf0z 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+
+What we are doing this sprint 		
+	- Sean: Desktop componentization/ done just fixing bugs if they come in 
+	- Nakul: CUPIDS work with Sean
+	- James: To join CICD squad calls and get familiar with Marist system
+	- Jordan: Selenium testing for the explorers 
+	
+	
+	Q1 Objectives (tentative target 1.9.0, 1.10.0)
+	SSO
+	MFA
+	Enhanced Logging
+	Node 12 support
+	
+Demos
+	Next week Sean would like to show some intern work on keyboard nav and shortcuts
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Suneeth K
+JP
+Tim G
+Sean G
+Jordan C
+Aarohi S
