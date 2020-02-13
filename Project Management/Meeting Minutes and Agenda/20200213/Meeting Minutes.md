@@ -39,6 +39,10 @@ Agenda Items
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - In progress:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs      
+        - Modify enablers to conditionally allow special characters in a service URIs            
+        - Modify Catalog to support new enabler versions
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
