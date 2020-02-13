@@ -44,7 +44,7 @@ Agenda Items
       - In progress:
         - Implement support in Gateway’s Tomcat for special characters in a service URIs      
         - Modify enablers to conditionally allow special characters in a service URIs            
-        - Modify Catalog to support new enabler versions
+        - Modify Catalog and Gateway to remove old enabler and use only Spring cloud
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
