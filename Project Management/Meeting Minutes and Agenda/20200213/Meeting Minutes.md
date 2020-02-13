@@ -38,6 +38,8 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
+      -Applied tagging to Zowe pipeline
+      -Working on making the cluster storage API
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
       - In progress:
         - Implement support in Gateway’s Tomcat for special characters in a service URIs      
