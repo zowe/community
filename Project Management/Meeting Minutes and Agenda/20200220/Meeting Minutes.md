@@ -45,6 +45,11 @@ Agenda Items
         - Zlux server framework logging
         - Node 12 support 
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - Done:
+        - Modify Catalog and Gateway to remove old enabler and use only Spring cloud          
+      - In progress:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs      
+        - Modify enablers to conditionally allow special characters in a service URIs            
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Preparing for v1.9.0 release.
       - License scan for the latest code and license file will be updated.
