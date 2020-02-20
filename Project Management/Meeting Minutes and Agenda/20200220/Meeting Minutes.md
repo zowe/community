@@ -41,6 +41,8 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
+        -Allow Symbols in RBAC URLs
+        -Zlux server framework logging
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Preparing for v1.9.0 release.
