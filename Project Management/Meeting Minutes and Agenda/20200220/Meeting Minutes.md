@@ -31,6 +31,8 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+    - Nightly build is green.
+    - Will build v1.9.0-RC1 today.
 4. Plan
      - Discuss v1.9.0 Release
      - Squads confirm that the content is confirmed for the v1.9.0 release
@@ -43,6 +45,9 @@ Agenda Items
         -Zlux server framework logging
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Preparing for v1.9.0 release.
+      - License scan for the latest code and license file will be updated.
+      - Working on new solution of zowe-install-test, will merge this repository into zowe-install-packaging soon.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
