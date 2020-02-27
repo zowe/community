@@ -48,6 +48,10 @@ Agenda Items
         - Add Endpoint to show Zowe version       
         - Increase API ML code test coverage and migrate to JUnit5                             
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Build and test RCs for v1.9.0 release
+      - Work on splitting CLI bundle
+      - Work on preview version of performance metrics server and build pipeline
+      - Alternate install test ansible playbooks to reflect changes between v1.7 and v1.9
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
