@@ -40,6 +40,13 @@ Agenda Items
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
+      - Done:
+        - Implement support in Gateway’s Tomcat for special characters in a service URIs      
+        - Modify enablers to conditionally allow special characters in a service URIs                        
+        - Onboarding documentation revised 
+      - In progress:
+        - Add Endpoint to show Zowe version       
+        - Increase API ML code test coverage and migrate to JUnit5                             
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
