@@ -95,8 +95,9 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Onno Van den Troost - @OnnoVdT (email?)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
-- Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
+- Bruce Armstrong - @armstro (armstrob@us.ibm.com) 
 - Bill Pereira - @billpereira (william.pereira@me.com) 
+- Taylor Donner - @TaylorDonner (taylor.donner@ibm.com)
 
 ### Documentation
 
