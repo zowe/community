@@ -41,6 +41,9 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+         - apply message ID to app server and app manager
+         - implementing password reset to Zowe
+         - open source app generator
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
