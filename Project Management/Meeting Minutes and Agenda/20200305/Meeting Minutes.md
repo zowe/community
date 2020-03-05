@@ -46,6 +46,8 @@ Agenda Items
          - open source app generator
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Almost closing the changes related to new install-test with Ansible, we can expect next week.
+      - Discussion of usage of PSI: https://github.com/zowe/zlc/issues/168
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
