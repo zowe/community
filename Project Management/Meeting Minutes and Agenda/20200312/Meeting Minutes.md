@@ -41,6 +41,8 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+     - Working on the password reset bugs 
+     - Added a refresh and search bar to the toolbar menu
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
