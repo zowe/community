@@ -35,6 +35,7 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+    - Nightly build is green.
 4. Plan
      - Discuss PI Planning and cancel next weeks meeting
 5. Squad Status:
@@ -45,6 +46,8 @@ Agenda Items
      - Added a refresh and search bar to the toolbar menu
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Work on the changes of using Ansible to install Zowe.
+      - Test installation on ACF2 server and work out the issues.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
