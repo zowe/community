@@ -42,6 +42,9 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+        - Varios bug fixes(security ones)
+        - Cluster storage api
+        - Log ID for browser
      - Working on the password reset bugs 
      - Added a refresh and search bar to the toolbar menu
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
