@@ -46,6 +46,8 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
 - Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 - Guilherme Cartier - @gcartier94 (gcartier@br.ibm.com)
+- Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
+- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 
 ### Zowe App Framework
 
