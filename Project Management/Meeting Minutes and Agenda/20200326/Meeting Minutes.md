@@ -43,6 +43,13 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Preparing for 1.10.0 release
+      - Final testing and troubleshooting PTF installation.
+      - Work on new Ansible playbook for PTF installation.
+      - Investigate RMF monitor III and how to export RMF VSAM data set.
+      - Had interlock meeting with Marist:
+        - We got a go-ahead for starting DB2/CICS/IMS on Marist server.
+        - Preparing requirement for v2.4 image. Marist may have the server ready around May, then we may be able to test and customize in June or July.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
