@@ -41,6 +41,9 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - RC build for 1.10.0
+      - Finalizing SSO
+      - Working on the UI for password reset
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Preparing for 1.10.0 release
