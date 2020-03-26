@@ -45,6 +45,9 @@ Agenda Items
       - Finalizing SSO
       - Working on the UI for password reset
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - Preparing for 1.10.0 release
+      - Starting 'Try Out & Authorize' feature (https://github.com/zowe/api-layer/issues/258)
+      - Setting up new Squad call cadence (x2 weekly)
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Preparing for 1.10.0 release
       - Final testing and troubleshooting PTF installation.
