@@ -1,0 +1,7 @@
+Recording link: https://zoom.us/rec/share/35BIcqmr_21JTdb_yHPQB4IkF63CT6a803MW_aUImUx7xFaRgYgl4mXBxphZ7NZA 
+
+Quick notes from standup:
+•	Progress on SSO on both the explorer and the virtual desktop. Still more work to do, looking at April or May to have the final version
+•	RC candidate is being built today, may not contain recent keyboard navigation changes, they will be picked up if we have a second RC, otherwise next release
+•	Sean showed the latest of the UI redesign with updated logos and login page.
+•	Nakul showed and discussed keyboard navigation
