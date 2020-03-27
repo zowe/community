@@ -11,12 +11,13 @@ Current
 Zowe 1.10.0 (March 3, 2020 - March 31, 2020)
 - Sprint 1 (March 3, 2020 - March 16, 2020)
 - Sprint 2 (March 17, 2020 - March 30, 2020)
-- Code Complete/RC Candidate Build (March 27, 2020)
+- Code Complete/RC Candidate Build. **PLEASE NOTIFY CI/CD SQUAD FOR THE VERSIONS YOU WANT TO RELEASE, OR CREATE PR AGAINST rc BRANCH.** (March 27, 2020)
 - Playback (March 30, 2020)
 - 1.10.0 GA (March 31 2020)
 
 Next two
 - Zowe 1.11.0 (March 31, 2020 - April 28, 2020)
+-  **PLEASE ASK YOUR TEAM VERIFY THE MINOR VERSION LEVEL OF YOUR COMPONENT DEFINED IN [manifest.json.template binaryDependencies](https://github.com/zowe/zowe-install-packaging/blob/staging/manifest.json.template#L13).**
 - Sprint 1 (March 31, 2020 - April 13, 2020)
 - Sprint 2 (April 14, 2020 - April 27, 2020)
 - Code Complete/RC Candidate Build (April 24, 2020)
