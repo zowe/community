@@ -43,6 +43,8 @@ Agenda Items
     - Installation (Joe/Rose)
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Testing Rc for 1.10
+      - (Hip srpint) Fixing bugs
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
