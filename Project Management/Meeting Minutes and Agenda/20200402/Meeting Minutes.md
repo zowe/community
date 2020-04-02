@@ -44,12 +44,14 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
       - Testing Rc for 1.10
+         - File Editor usage crashes zss: https://github.com/zowe/zlux/issues/412
       - (Hip srpint) Fixing bugs
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
       - Testing RC for 1.10.0 release
       - 'Try Out & Authorize' feature in progress #258
       - Closed 'Does API ML properly prevent the SSRF attacks?' #582
       - In progress 'Errors during static definition processing are not logged' #579
+      - APIML Cookie expires JWT token : https://github.com/zowe/api-layer/issues/583
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
