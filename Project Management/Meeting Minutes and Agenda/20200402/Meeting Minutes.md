@@ -46,6 +46,10 @@ Agenda Items
       - Testing Rc for 1.10
       - (Hip srpint) Fixing bugs
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - Testing RC for 1.10.0 release
+      - 'Try Out & Authorize' feature in progress #258
+      - Closed 'Does API ML properly prevent the SSRF attacks?' #582
+      - In progress 'Errors during static definition processing are not logged' #579
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
