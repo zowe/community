@@ -53,6 +53,8 @@ Agenda Items
       - In progress 'Errors during static definition processing are not logged' #579
       - APIML Cookie expires JWT token : https://github.com/zowe/api-layer/issues/583
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Build and run automated tests on v1.10.0 RCs
+      - Work on extended installation test cases
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
