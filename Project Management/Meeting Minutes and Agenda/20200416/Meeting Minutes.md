@@ -30,6 +30,10 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - There are several failures in the nightly builds of this week, currently the nightly build is not green.
+     - We don't have new PTF number in ptf-bucket.txt after v1.10.0 released. - This has been resolved.
+     - There were several failures were caused by network or server lag. - The issue requires more investigation and we may need help from the developers who working on workflow.
+     - The smoke tests failed on login to Desktop. - Solution is pending.
 4. Plan
      - Discuss 1.11.0 Release
      - Discuss Joint PI Planning
@@ -41,6 +45,8 @@ Agenda Items
       - Embed desktop styling changes via personalization panel
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Finished one new installation test bundle (multiple node.js versions).
+      - Work on testing automating ACF2/TS test bundle.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
