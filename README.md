@@ -26,7 +26,7 @@ Current Zowe Sub-projects are:
 
 ### Zowe API Mediation layer
 
-Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO). 
+Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO).
 
 * https://github.com/zowe/api-layer - A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
 * https://github.com/zowe/explorer-api-common - Common explorer API components.
@@ -57,7 +57,7 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 * https://github.com/zowe/explorer-mvs - The MVS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-uss - The USS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-ui-server - A simple HTTPS server to serve Zowe Desktop Explorer plug-ins.
-* https://github.com/zowe/zlux-file-explorer 
+* https://github.com/zowe/zlux-file-explorer
 
 ## Zowe Community Teams
 
@@ -65,7 +65,7 @@ Zowe has a number of cross-functional teams to support the common functions acro
 
 ### Documentation
 
-Maintains the Zowe documentation. 
+Maintains the Zowe documentation.
 
 * https://github.com/zowe/docs-site - Zowe documentation
 
@@ -84,6 +84,10 @@ Maintains the Zowe installation tools and integration of Zowe components.
 * https://github.com/zowe/ci-management - Management repository for Jenkins CI
 * https://github.com/zowe/jenkins-library - Jenkins pipeline library
 * https://github.com/zowe/release-management - Material and activities related to release management
+
+## [Zowe Leadership Council (ZLC)](zlc)
+
+Coordinates releases of the Zowe Framework, coordinating between sub-projects and other community groups to resolve issues and establish project lifecycle guidelines.
 
 ## Communication Channels
 
