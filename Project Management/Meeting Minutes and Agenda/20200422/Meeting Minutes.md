@@ -23,6 +23,8 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+    - We have trouble to get a green build recently but we do have one on Tuesday (Apr 21).
+    - Last night's build failed at build stage, so we don't have a promotion last night. Will look to have it fix before RC.
 4. Plan
      - Discuss 1.11.0 Release
      - Discuss Joint PI Planning
@@ -32,6 +34,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Fixed several issues in Zowe build to clear up the build/test failures.
+      - Made good progress on automating ACF2/TS and should be available soon.
+      - Had discussion with IBM Z Community Cloud and Marist College related to v2.4 server, we may expect it later this year.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
