@@ -6,21 +6,26 @@ The following is a list of all the Zowe Committers on the project organized by s
 
 ### Zowe API Mediation layer
 
-- Michal Supak (Lead) - @supmi01 (michal.supak@broadcom.com)
-- Petr Galik (Lead) - @petr-galik (petr.galik@broadcom.com)
+- Elliot Jalley (Lead) - @jalel01 (elliot.jalley@broadcom.com)
+- Michal Supak - @supmi01 (michal.supak@broadcom.com)
+- Anton Brezina - @anton-brezina (anton.brezina@broadcom.com)
 - Andrea Tabone - @taban03 (andrea.tabone@broadcom.com)
 - Christos Zikos - @cZikos (christos.zikos@broadcom.com)
-- Fyodor Kovin - @fkovinAtRocket (email?)
+- Fyodor Kovin - @fkovinAtRocket (fkovin@rocketsoftware.com)
 - Vsevolod Khanin - @vsev0lod (vsevolod.khanin@broadcom.com)
-- Jiri Aichler - ???? (jiri.aichler@broadcom.com)
+- Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
 - Ilkin Abdullayev - @ilkinabdullayev (ilkin.abdullayev@broadcom.com)
 - David Janda - @jandadav (david.janda@broadcom.com)
 - Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
-- Pavlin Zahariev - ???? (pavlin.zahariev@broadcom.com)
+- Pavlin Zahariev - ? (pavlin.zahariev@broadcom.com)
 - Irek Fakhrutdinov - @ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
-- Radek Krejcirik - @krera03 (radek.krejcirik@broadcom.com)
+- Jakub Balhar - @balhar-jakub (jakub.balhar@broadcom.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
+- Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
+- Leonid Baranov - ? (leonid.baranov@broadcom.com)
+- John LaPlante - @jelaplan (john.laplante@broadcom.com)
+- Pavel Jares - ? (pavel.jares@broadcom.com)
 
 ### Zowe CLI
 
@@ -46,6 +51,8 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
 - Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 - Guilherme Cartier - @gcartier94 (gcartier@br.ibm.com)
+- Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
+- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 
 ### Zowe App Framework
 
@@ -85,7 +92,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 ### Onboarding
 
 - Joe Winchester (Lead) - @Joe-Winchester (winchest@uk.ibm.com)
-- Sujay Solomon - @solsu01 (sujay.salomon@broadcom.com)
+- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
 - Rose Sakach - @RASakach (Rose.Sakach@broadcom.com)
 - Daniel Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - Robert Penny - @rpenny125 (email?)
