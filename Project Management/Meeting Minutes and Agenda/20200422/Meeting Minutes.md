@@ -31,6 +31,9 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+         - On track for RC Candidate Build
+         - Discussions ongoing with CICD on how to push API ML to zowe staging 
+         - Welcome Andrej Chmelo to API ML squad
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
