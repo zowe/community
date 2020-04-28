@@ -55,6 +55,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
+- Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
 
 ### Zowe App Framework
 
