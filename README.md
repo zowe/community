@@ -6,6 +6,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
     - [Zowe API Mediation layer](#zowe-api-mediation-layer)
     - [Zowe CLI](#zowe-cli)
     - [Zowe App Framework](#zowe-app-framework)
+    - [Zowe Explorer](#zowe-explorer)
 - [Zowe Community Teams](#zowe-community-teams)
     - [Documentation and Onboarding](#documentation-and-onboarding)
     - [Zowe Foundation](#zowe-foundation)
@@ -37,7 +38,7 @@ Gateway that acts as a reverse proxy for z/OS services, together with a catalog 
 
 Command-line interface that lets you interact with the mainframe remotely and use common tools such as Integrated Development Environments (IDEs), shell commands, bash scripts, and build tools for mainframe development. It provides a set of utilities and services for application developers that want to become efficient in supporting and building z/OS applications quickly. The CLI provides a core set of commands for working with data sets, USS, JES, as well as issuing TSO and console commands.
 
-* https://github.com/zowe/zowe-cli - A command-line interface that lets application developers interact with z/OS remotely. Create an issue here for anything related to Zowe CLI.
+* https://github.com/zowe/zowe-cli - A command-line interface that lets users interact with z/OS remotely. Create an issue here for anything related to Zowe CLI.
 * https://github.com/zowe/zowe-cli-cics-plugin - A plug-in for Zowe CLI that lets you interact with IBM CICS.
 * https://github.com/zowe/zowe-cli-db2-plugin - A plug-in for Zowe CLI that lets you interact with IBM Db2.
 * https://github.com/zowe/vscode-extension-for-zowe - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
@@ -58,6 +59,12 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 * https://github.com/zowe/explorer-uss - The USS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-ui-server - A simple HTTPS server to serve Zowe Desktop Explorer plug-ins.
 * https://github.com/zowe/zlux-file-explorer 
+
+### Zowe Explorer
+
+Visual Studio Code extension for accessing z/OS resources through the Zowe API Mediation Layer. Zowe Explorer shares connection profiles with the Zowe CLI.
+
+* https://github.com/zowe/vscode-extension-for-zowe - The Zowe Explorer Extension for VS Code. Create an issue here for anything related to Zowe Explorer.
 
 ## Zowe Community Teams
 
@@ -99,6 +106,7 @@ Register an account with Slack at https://slack.openmainframeproject.org
 
 * #zowe-user - This channel is for users to ask questions, look for help and interact with each other.
 * #zowe-dev - Zowe development discussions.
+* #zowe-ux - Zowe user experience discussions.
 * #zowe-doc - Discuss or ask questions about the documentation.
 * #zowe-onboarding - Develop the material and supporting activities for onboarding developers and users.
 * #zowe-zlc - Ask questions or discuss topics with the [Zowe Leadership Committee](https://github.com/zowe/zlc).
@@ -106,9 +114,14 @@ Register an account with Slack at https://slack.openmainframeproject.org
 Sub-project specific channels:
 
 * #zowe-api - Ask questions about the API Mediation Layer, propose new ideas, or interact with the squad.
-* #zowe-build - Discuss and review build related Issues.
 * #zowe-cli - Ask questions about Zowe CLI, propose new ideas, and interact with the Zowe CLI community.
 * #zowe-core - Expand upon the base technologies being contributed to the project.
+* #zowe-explorer - Ask questions about Zowe Explorer for VS Code, propose new ideas, and interact with the Zowe Explorer community.
+
+Operations channels:
+
+* #zowe-build - Discuss and review build related Issues.
+* #zowe-cicd - Discuss pipeline related topics.
 
 ### Mailing Lists
 
