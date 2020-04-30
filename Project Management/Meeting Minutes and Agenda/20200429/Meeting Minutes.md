@@ -23,6 +23,8 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - We have v1.11.0-RC1 in testing and may send out ZLC vote today.
+   - Nightly build is green.
 4. Plan
      - Discuss 1.11.0 Release
 5. Squad Status:
@@ -38,6 +40,10 @@ Agenda Items
       - SAF keyring validation in progress
       - In touch with CI/CD on pushing to zowe staging 
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Released and tested v1.11.0-RC1.
+      - ACF2/TopSecret automation test has been merged into staging.
+      - In the middle of moving docs-site build on LinuxFoundation jenkins.
+      - Made an improvement on Zowe Explorer integration test with Theia, reduced build time.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
