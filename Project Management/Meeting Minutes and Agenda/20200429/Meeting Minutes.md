@@ -28,6 +28,10 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Still testing RC1, looking good so far
+      - Trying to finish up SSO this sprint
+      - Trying to finish up final touches to Desktop look and feel
+      - Other work and research around Zowe Linux
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
       - RC1 tested successfully
       - Try it out functionality demonstrated at Zowe Playback and part of 1.11
