@@ -29,6 +29,10 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - RC1 tested successfully
+      - Try it out functionality demonstrated at Zowe Playback and part of 1.11
+      - SAF keyring validation in progress
+      - In touch with CI/CD on pushing to zowe staging 
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
