@@ -103,7 +103,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
-- Onno Van den Troost - @OnnoVdT (email?)
+- Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
 - Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
 - Bill Pereira - @billpereira (william.pereira@me.com) 
