@@ -41,7 +41,6 @@ Command-line interface that lets you interact with the mainframe remotely and us
 * https://github.com/zowe/zowe-cli - A command-line interface that lets users interact with z/OS remotely. Create an issue here for anything related to Zowe CLI.
 * https://github.com/zowe/zowe-cli-cics-plugin - A plug-in for Zowe CLI that lets you interact with IBM CICS.
 * https://github.com/zowe/zowe-cli-db2-plugin - A plug-in for Zowe CLI that lets you interact with IBM Db2.
-* https://github.com/zowe/vscode-extension-for-zowe - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
 * https://github.com/zowe/zowe-cli-sample-plugin - A sample plug-in for Zowe CLI. Includes tutorials for extenders who want to contribute to the Zowe CLI project or build plug-ins.
 * https://github.com/zowe/imperative - The Imperative CLI Framework on which Zowe CLI is built. Use the framework when contributing to Zowe CLI or developing CLI plug-ins.
 
