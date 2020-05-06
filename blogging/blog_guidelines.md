@@ -4,8 +4,8 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
  - [Blog preparation](#blog-preparation)
  - [Publishing steps](#publishing-steps)
-   - [When ready to write](#when-ready-to-write:)
-   - [When ready to publish:](#when-ready-to-publish:)
+   - [When ready to write](#when-ready-to-write)
+   - [When ready to publish:](#when-ready-to-publish)
  - [Content Guidelines](#content-guidelines)
    - [Core Zowe](#core-zowe)
    - [Zowe ecosystem](#zowe-ecosystem)
@@ -35,7 +35,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - Create a Medium handle.  
  - Let [zowe-blog-editors@openmainframeproject.org](email:zowe-blog-editors@openmainframeproject.org) know your handle so you can be added as a “writer” for the publication.  To see your handle select your profile picture when you log into medium.com, it will begin with an `@` symbol, e.g. `@myusername_1974.  
 
-### When ready to write: 
+### When ready to write
 
  - Go to [Medium.com](https://medium.com)
  - Click your profile (should be logged in)
@@ -45,7 +45,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - Include the following at the end of your blog: [See more Zowe blogs here](https://medium.com/zowe)
  - Include 5 tags like: “Zowe”, “Mainframe”, “DevOps”, “Open Source”, [specific technology like COBOL, vscode], [specific roles like Sysprog], etc.
 
-### When ready to publish:
+### When ready to publish
 
  - You may need to add the publication to your profile (Profile => Publication => New Publication)
  - Double check: be sure you have...
