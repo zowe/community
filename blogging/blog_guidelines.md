@@ -16,11 +16,11 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 ## Blog preparation
 
 **Blogs should:**
+
  - Be brief (generally < 1200; > 500 words)
  - Focus on a target audience
  - Be relevant
    - The title and first paragraph should compel the viewer to take the time to read the piece.  The content should be relevant and helpful for the target audience.
-
  - Leverage visuals (screenshots, GIFs, etc.), especially an eye-catching featured image  
    - See public, license-free sites like unsplash.com
 
@@ -76,7 +76,10 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - [Zowe Ecosystem](#zowe-ecosystem)
  - [Zowe Incubation](#zowe-incubation)
 
- To distinghish between three three categories blogs ...  
+ **Question ?**
+  - To distinghish between three three categories blogs
+    - Separate domains ?   Should we have medium.com/zowe,  medium.com/zowe-ecosystem and medium.com/zowe-incubation ?
+    - One domain with flagging ?  medium.com/zowe but a headline graphic to differentitate `core` vs. `ecosystem` vs. `incubation` ?  
 
 ### Core Zowe
  
@@ -108,9 +111,12 @@ Zowe provides for projects to be in incubation that may not be currently in core
  
  The Zowe community is made up of a numbmer of different personnas
 
- - **Users**.  Mainframers who are using Zowe technology, covering its components Zowe Explorer, Zowe desktop, API Mediation Layer or Command Line Interface.  
- - **Administrators**.
- - **Architects**.
+ - **Users**.  
+   - Mainframers who are using Zowe technology, covering its components Zowe Explorer, Zowe desktop, API Mediation Layer or Command Line Interface.  This includes developers, system programmers, devops pipeline engineers, ...
+ - **Administrators**.  
+   - Mainframers who are concerned with installing, configuring, tuning, managing Zowe distributions on behalf of users.
+ - **Architects**.  
+   - Software architects interested in articles that cover broad topics relates to positioning Zowe rather than end user articles.  Architectural blogs will likely have a higher content of diagrams and background, whereas a user article might have more screen shots and hands on code-snippets.
 
 ## Promotion
 
