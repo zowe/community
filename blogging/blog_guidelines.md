@@ -118,6 +118,8 @@ Zowe provides for projects to be in incubation that may not be currently in core
  - **Architects**.  
    - Software architects interested in articles that cover broad topics relates to positioning Zowe rather than end user articles.  Architectural blogs will likely have a higher content of diagrams and background, whereas a user article might have more screen shots and hands on code-snippets.
 
+To help blog readers navigate between posts for different personnas, there are specific sections titled `For Users`, `For Administrators` and `For Architects`.  The personna will be applied by the editors reviewing and accepting the blog content, although a writer may indicate when they submit a blogpost which personna they have targetted.
+
 ## Promotion
 
 Your blog will be shared on the Open Mainframe Project's [twitter](https://twitter.com/OpenMFProject) and [linkedIn](https://www.linkedin.com/company/the-open-mainframe-project/) channels.  
