@@ -5,13 +5,13 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - [Blog preparation](#blog-preparation)
  - [Publishing steps](#publishing-steps)
    - [When ready to write](#when-ready-to-write)
-   - [When ready to publish:](#when-ready-to-publish)
+   - [When ready to publish](#when-ready-to-publish)
  - [Content Guidelines](#content-guidelines)
    - [Core Zowe](#core-zowe)
-   - [Zowe ecosystem](#zowe-ecosystem)
-   - [Zowe incubation](#zowe-incubation)
+   - [Zowe Ecosystem](#zowe-ecosystem)
+   - [Zowe Incubation](#zowe-incubation)
  - [Personnas](#personnas)
- - [Promotion[](#promotion)
+ - [Promotion](#promotion)
 
 ## Blog preparation
 
