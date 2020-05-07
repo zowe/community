@@ -31,6 +31,8 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - v1.11.0 release is all finished.
+   - Nightly build is green.
 4. Plan
      - Discuss 1.12.0 Release. Review new schedule change
 5. Squad Status:
@@ -43,6 +45,8 @@ Agenda Items
       - API ML is part of the nightly build and we are now increasing test coverage (PR to come today) https://github.com/zowe/api-layer/issues/627
       - Work has started on adding a Refresh button to the API Catalog to reload static API definitions (https://github.com/zowe/api-layer/issues/57)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - After migrating docs-site archive build to LF Jenkins, we found the build randomly fail on broken link check and quite common. This blocked us from moving master branch over. A LF support ticket is created.
+      - Investigate starting CICS/DB2 on marist server.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
