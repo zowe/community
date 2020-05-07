@@ -37,6 +37,8 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - API ML is part of the nightly build and we are now increasing test coverage (PR to come today) https://github.com/zowe/api-layer/issues/627
+      - Work has started on adding a Refresh button to the API Catalog to reload static API definitions (https://github.com/zowe/api-layer/issues/57)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
