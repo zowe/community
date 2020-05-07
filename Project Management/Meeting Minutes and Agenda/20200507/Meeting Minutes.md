@@ -36,6 +36,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - SAF Keyring for app server
+      - Setting up SSo in installation 
+      - New UI changes
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
       - API ML is part of the nightly build and we are now increasing test coverage (PR to come today) https://github.com/zowe/api-layer/issues/627
       - Work has started on adding a Refresh button to the API Catalog to reload static API definitions (https://github.com/zowe/api-layer/issues/57)
