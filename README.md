@@ -61,7 +61,7 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 
 ### Zowe Explorer
 
-Text editor extension for accessing z/OS resources through the Zowe API Mediation Layer. Zowe Explorer shares connection profiles with the Zowe CLI.
+Visual Studio Code extension for accessing z/OS resources through the Zowe API Mediation Layer. Zowe Explorer shares connection profiles with the Zowe CLI.
 
 * https://github.com/zowe/vscode-extension-for-zowe - The Zowe Explorer Extension for VS Code. Create an issue here for anything related to Zowe Explorer.
 
