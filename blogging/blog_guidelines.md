@@ -76,11 +76,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - [Zowe Ecosystem](#zowe-ecosystem)
  - [Zowe Incubation](#zowe-incubation)
 
- **Question ?**
-  - To distinghish between three three categories blogs
-    - Separate domains ?   Should we have medium.com/zowe,  medium.com/zowe-ecosystem and medium.com/zowe-incubation ?
-    - One domain with flagging ?  medium.com/zowe but a headline graphic to differentitate `core` vs. `ecosystem` vs. `incubation` ?  
-
+ 
 ### Core Zowe
  
  These articles should reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe](https://github.com/zowe) repositories.  Core Zowe content is available for a user to download on [https://www.zowe.org/#download](https://www.zowe.org/#download) as well as the Visual Studio Marketplace plugin [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe).
@@ -90,6 +86,10 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  A user visiting an blog post on Core Zowe should be able to operate all of the software described in the article through open source license.
 
  Posts must be vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
+
+ Core Zowe articles are published on [https://medium.com/zowe](https://medium.com/zowe).
+
+ Blogs that meet the criteria for Core Zowe should have the word `Core` as the first word of the first sentence of the article.  This allows a reader to easily see that the content relates to core Zowe functionaliy.
 
 ### Zowe ecosystem
 
@@ -103,9 +103,13 @@ Content that discusses a vendor's commemrcial offering should be in relation to 
 
 Announcements or press releases are not accepted as Zowe blogs.
 
+Zowe ecosystem blogs should have the word `Ecosystem` as the first word of the first sentence of the article.  The featured image for the blog should include the Zowe conformance logo as part of the headline graphic.  This must be done in a way to allow a reader to easily identify that the content of the article does not relate to core Zowe functionality, but describes a Zowe conformant offering that is available under the vendor license.  
+
 ### Zowe incubation
 
-Zowe provides for projects to be in incubation that may not be currently in core Zowe, yet has value to promote and share with the community.  Articles written about technology in the incubation phase are welcome.  A core Zowe project should 
+Zowe provides for projects to be in incubation that may not be currently in core Zowe, yet has value to promote and share with the community.  Articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
+
+To allow a reader of the Zowe blogsite to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS) content, incubation content blogs should have the word `Incubation` as the first word of the first sentence in the first paragraph.  
 
 ## Personnas
  
