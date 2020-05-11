@@ -65,6 +65,8 @@ Visual Studio Code extension for accessing z/OS resources through the Zowe API M
 
 * https://github.com/zowe/vscode-extension-for-zowe - The Zowe Explorer Extension for VS Code. Create an issue here for anything related to Zowe Explorer.
 
+In addition to VS Code, the extension will work with browser-based editors such as [Theia](https://github.com/zowe/vscode-extension-for-zowe/blob/master/docs/README-Theia.md).
+
 ## Zowe Community Teams
 
 Zowe has a number of cross-functional teams to support the common functions across the subprojects.
