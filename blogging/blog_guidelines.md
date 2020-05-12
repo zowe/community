@@ -7,10 +7,10 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - [When ready to write](#when-ready-to-write)
    - [When ready to publish](#when-ready-to-publish)
  - [Content Guidelines](#content-guidelines)
-   - [Core Zowe](#core-zowe)
+   - [Zowe Core](#zowe-core)
    - [Zowe Ecosystem](#zowe-ecosystem)
    - [Zowe Incubation](#zowe-incubation)
- - [Personnas](#personnas)
+ - [Personas](#personnas)
  - [Promotion](#promotion)
 
 ## Blog preparation
@@ -33,7 +33,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 ## Publishing steps
 
  - Create a Medium handle.  
- - Let [zowe-blog-editors@openmainframeproject.org](email:zowe-blog-editors@openmainframeproject.org) know your handle so you can be added as a “writer” for the publication.  To see your handle select your profile picture when you log into medium.com, it will begin with an `@` symbol, e.g. `@myusername_1974.  
+ - Let [zowe-blog-editors@openmainframeproject.org](email:zowe-blog-editors@openmainframeproject.org) know your handle so you can be added as a “writer” for the publication.  To see your handle, select your profile picture when you log into medium.com, it will begin with an `@` symbol, e.g. `@myusername_1974.  
 
 ### When ready to write
 
@@ -50,7 +50,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - You may need to add the publication to your profile (Profile => Publication => New Publication)
  - Double check: be sure you have...
    - compelling title and opening paragraph (discoverability is critical!)
-   - featured image and visuals in place.  By default the first image will be associated with the blog post, however you can choose to use a different headline image by navigating to the image while in edit mode, select it manually, and press `Shift + F`. 
+   - featured image and visuals in place.  By default, the first image will be associated with the blog post, however you can choose to use a different headline image by navigating to the image while in edit mode, select it manually, and press `Shift + F`. 
    - appropriate links and tags
  - While editing the story, click “…”
  - Click “Add to Publication”
@@ -70,26 +70,26 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
  Other topics are welcome, but it needs to have a direct link to the Zowe community
  
- Blogs fall into one of two categories and are differentiated to avoid a user visiting a Zowe blogsite from misunderstanding the relationship between whether the content being described is free open source software included with a Long Term Support (LTS) Zowe release, a commermcial vendor Zowe offerings, or a project in its incubation phase.
+ Blogs fall into one of three categories and are differentiated to avoid a user visiting a Zowe blogsite from misunderstanding the relationship between whether the content being described is free open source software included with a Long Term Support (LTS) Zowe release, a commermcial vendor Zowe offerings, or a project in its incubation phase.
 
- - [Core Zowe](#core-zowe)
+ - [Zowe Core](#zowe-core)
  - [Zowe Ecosystem](#zowe-ecosystem)
  - [Zowe Incubation](#zowe-incubation)
 
  
-### Core Zowe
+### Zowe Core
  
  These articles should reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe](https://github.com/zowe) repositories.  Core Zowe content is available for a user to download on [https://www.zowe.org/#download](https://www.zowe.org/#download) as well as the Visual Studio Marketplace plugin [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe).
 
  Core Zowe articles may also reference other open source technologies such as [Visual Studio Code](https://code.visualstudio.com/), [Jenkins](https://www.jenkins.io/), and other products available under permissive open source licenses such as [Massachusetts Institute of Technology (MIT)](https://opensource.org/licenses/MIT), [Berkley Software Distribution (BSD)](http://www.ipglossary.com/glossary/berkeley-software-distribution-license-bsd-license/#.XEiHtlwzaUk),  [Eclipse Public License (EPL)](https://www.eclipse.org/legal/epl-2.0/faq.php), [Apache](https://www.apache.org/licenses/), [Microsoft Public License](https://resources.whitesourcesoftware.com/blog-whitesource/top-10-microsoft-public-license-ms-pl-questions-answered), [Common Development and Distribution License(CDDL)](https://resources.whitesourcesoftware.com/blog-whitesource/top-10-common-development-and-distribution-license-cddl-questions-answered).
 
- A user visiting an blog post on Core Zowe should be able to operate all of the software described in the article through open source license.
+ A user visiting a blog post on Core Zowe should be able to operate all of the software described in the article through open source license.
 
  Posts must be vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
 
  Core Zowe articles are published on [https://medium.com/zowe](https://medium.com/zowe).
 
- Blogs that meet the criteria for Core Zowe should have the word `Core` as the first word of the first sentence of the article.  This allows a reader to easily see that the content relates to core Zowe functionaliy.
+ Blogs that meet the criteria for Core Zowe should have the word `[Core]` as the first word of the first sentence of the article.  This allows a reader to easily see that the content relates to core Zowe functionality.
 
 ### Zowe ecosystem
 
@@ -97,23 +97,21 @@ Zowe is a tooling platform which includes a number of frameworks allowing it to 
 
 Articles written about the Zowe ecosystem are welcome as they show the diversity of the platform and the capabilities a mainframe user can enjoy when using Zowe alongside one or more of its conformant products.
 
-The post may mention a vendor's name as it relates to Zowe, project deployments, adoption paths, their hosting of an in-person event or speaking at an event including virtual events, indications of meaingful participation in the community, but it shouldn't feel like an advertisement for services of your company.  
+The post may mention a vendor's name as it relates to Zowe, project deployments, adoption paths, their hosting of an in-person event or speaking at an event including virtual events, indications of meaningful participation in the community, but it shouldn't feel like an advertisement for services of your company.  
 
-Content that discusses a vendor's commemrcial offering should be in relation to Zowe, although background for the commercial offering may be included as long as it does not exceed 15% of the article content and is valuable to set the scene for the technical offering and its usage in relation to how it has been exploited through use of the Zowe conformant scenarios.  Revelent descriptions of vendor technology with hyperlinks to further material hosted on other sites, including how a reader can find out more about the commmercial offering, are encouraged as long as they do not become an advertisement. It is encouraged that the linked to sites hosted by companies for readers to find out more information on the vendor offering mention Zowe with correct trademark attribution.  
+Content that discusses a vendor's commercial offering should be in relation to Zowe, although background for the commercial offering may be included as long as it does not exceed 15% of the article content. Discussion of the commercial offering should be valuable to set the scene for the technical offering and its usage in relation to being exploited through use of the Zowe conformant scenarios.  Relevant descriptions of vendor technology with hyperlinks to further material hosted on other sites, including how a reader can find out more about the commercial offering, are encouraged as long as they do not become an advertisement. It is encouraged that the linked to sites hosted by companies for readers to find out more information on the vendor offering mention Zowe with correct trademark attribution.  
 
-Announcements or press releases are not accepted as Zowe blogs.
-
-Zowe ecosystem blogs should have the word `Ecosystem` as the first word of the first sentence of the article.  The featured image for the blog should include the Zowe conformance logo as part of the headline graphic.  This must be done in a way to allow a reader to easily identify that the content of the article does not relate to core Zowe functionality, but describes a Zowe conformant offering that is available under the vendor license.  
+Zowe ecosystem blogs should have the word `[Ecosystem]` as the first word of the first sentence of the article.  The featured image for the blog should include the Zowe conformance logo as part of the headline graphic.  This must be done in a way to allow a reader to easily identify that the content of the article does not relate to core Zowe functionality but describes a Zowe conformant offering that is available under the vendor license.  
 
 ### Zowe incubation
 
-Zowe provides for projects to be in incubation that may not be currently in core Zowe, yet has value to promote and share with the community.  Articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
+Zowe provides for projects to be in incubation that may not be currently in core Zowe.  There is value in promoting and sharing these projects with the Zowe communityand articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
 
-To allow a reader of the Zowe blogsite to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS) content, incubation content blogs should have the word `Incubation` as the first word of the first sentence in the first paragraph.  
+To allow a reader of the Zowe blogsite to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS) content, incubation content blogs should have the word `[Incubation]` as the first word of the first sentence in the first paragraph.
 
-## Personnas
+## Personas
  
- The Zowe community is made up of a numbmer of different personnas
+ The Zowe community is made up of a number of different personas
 
  - **Users**.  
    - Mainframers who are using Zowe technology, covering its components Zowe Explorer, Zowe desktop, API Mediation Layer or Command Line Interface.  This includes developers, system programmers, devops pipeline engineers, ...
@@ -122,7 +120,7 @@ To allow a reader of the Zowe blogsite to recognize that the content relates to 
  - **Architects**.  
    - Software architects interested in articles that cover broad topics relates to positioning Zowe rather than end user articles.  Architectural blogs will likely have a higher content of diagrams and background, whereas a user article might have more screen shots and hands on code-snippets.
 
-To help blog readers navigate between posts for different personnas, there are specific sections titled `For Users`, `For Administrators` and `For Architects`.  The personna will be applied by the editors reviewing and accepting the blog content, although a writer may indicate when they submit a blogpost which personna they have targetted.
+To help blog readers navigate between posts for different personas, there are specific sections titled `For Users`, `For Administrators` and `For Architects`.  The persona will be applied by the editors reviewing and accepting the blog content, although a writer may indicate when they submit a blogpost which persona they have in mind their audience.
 
 ## Promotion
 
