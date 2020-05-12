@@ -101,15 +101,13 @@ The post may mention a vendor's name as it relates to Zowe, project deployments,
 
 Content that discusses a vendor's commemrcial offering should be in relation to Zowe, although background for the commercial offering may be included as long as it does not exceed 15% of the article content and is valuable to set the scene for the technical offering and its usage in relation to how it has been exploited through use of the Zowe conformant scenarios.  Revelent descriptions of vendor technology with hyperlinks to further material hosted on other sites, including how a reader can find out more about the commmercial offering, are encouraged as long as they do not become an advertisement. It is encouraged that the linked to sites hosted by companies for readers to find out more information on the vendor offering mention Zowe with correct trademark attribution.  
 
-Announcements or press releases are not accepted as Zowe blogs.
-
 Zowe ecosystem blogs should have the word `Ecosystem` as the first word of the first sentence of the article.  The featured image for the blog should include the Zowe conformance logo as part of the headline graphic.  This must be done in a way to allow a reader to easily identify that the content of the article does not relate to core Zowe functionality, but describes a Zowe conformant offering that is available under the vendor license.  
 
 ### Zowe incubation
 
 Zowe provides for projects to be in incubation that may not be currently in core Zowe, yet has value to promote and share with the community.  Articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
 
-To allow a reader of the Zowe blogsite to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS) content, incubation content blogs should have the word `Incubation` as the first word of the first sentence in the first paragraph.  
+To allow a reader of the Zowe blogsite to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS) content, incubation content blogs should have the word `Incubation` as the first word of the first sentence in the first paragraph.
 
 ## Personnas
  
