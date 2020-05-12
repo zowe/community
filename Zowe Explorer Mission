@@ -1,0 +1,8 @@
+As the mission statement got lost in the formation of the squad process, I'm taking a stab at defining the mission/charter for consideration by the newly formed squad. 
+
+The primary goal of Zowe Explorer squad would include (but not limited to):
+
+• Maintain and enhance Zowe Explorer extension as a common component for VSCode and hosted IDE's like Theia, Eclipse Che etc. 
+• Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI
+• Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
+• Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
