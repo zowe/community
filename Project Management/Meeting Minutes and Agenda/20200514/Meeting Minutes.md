@@ -31,6 +31,9 @@ Agenda Items
       - Adding message ID's to zowe-common-c
       - Updating Zowe Docker Image 
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - Clarifying Conformance Criteria around Service ID requirements #TBD
+      - Added Swagger Doc for /logout #632
+      - Moving ML E2E tests to run on Zowe Jenkins #641
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Investigating CICS service on Marist server.
       - Updated base image to support Chrome headless.
