@@ -31,13 +31,20 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - Nightly build passed test on Marist, but we see issues on other servers.
 4. Plan
      - Discuss 1.13.0 Release.
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Adding message ID's to zowe-common-c
+      - Updating Zowe Docker Image 
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Investigating CICS service on Marist server.
+      - Updated base image to support Chrome headless.
+      - Re-enabled SonarCloud code scan for zlux.
+      - Will test keyring support on Marist.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
