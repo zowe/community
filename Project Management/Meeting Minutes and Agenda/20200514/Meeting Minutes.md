@@ -27,6 +27,8 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Adding message ID's to zowe-common-c
+      - Updating Zowe Docker Image 
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
