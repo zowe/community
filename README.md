@@ -3,13 +3,14 @@
 This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback.
 
 - [Zowe Sub-projects](#zowe-sub-projects)
-    - [Zowe API Mediation layer](#zowe-api-mediation-layer)
+    - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
     - [Zowe CLI](#zowe-cli)
     - [Zowe App Framework](#zowe-app-framework)
     - [Zowe Explorer](#zowe-explorer)
 - [Zowe Community Teams](#zowe-community-teams)
     - [Documentation and Onboarding](#documentation-and-onboarding)
     - [Zowe Foundation](#zowe-foundation)
+    - [Zowe Explorer](#zowe-explorer-1)
 - [Communication Channels](#communication-channels)
     - [Slack](#slack)
     - [Mailing Lists](#mailing-lists)
@@ -25,9 +26,9 @@ The Zowe community consists of several sub-projects that focus on specific areas
 
 Current Zowe Sub-projects are:
 
-### Zowe API Mediation layer
+### Zowe API Mediation Layer
 
-Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO). 
+Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO).
 
 * https://github.com/zowe/api-layer - A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
 * https://github.com/zowe/explorer-api-common - Common explorer API components.
@@ -57,7 +58,7 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 * https://github.com/zowe/explorer-mvs - The MVS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-uss - The USS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-ui-server - A simple HTTPS server to serve Zowe Desktop Explorer plug-ins.
-* https://github.com/zowe/zlux-file-explorer 
+* https://github.com/zowe/zlux-file-explorer
 
 ### Zowe Explorer
 
@@ -73,7 +74,7 @@ Zowe has a number of cross-functional teams to support the common functions acro
 
 ### Documentation
 
-Maintains the Zowe documentation. 
+Maintains the Zowe documentation.
 
 * https://github.com/zowe/docs-site - Zowe documentation
 
@@ -92,6 +93,20 @@ Maintains the Zowe installation tools and integration of Zowe components.
 * https://github.com/zowe/ci-management - Management repository for Jenkins CI
 * https://github.com/zowe/jenkins-library - Jenkins pipeline library
 * https://github.com/zowe/release-management - Material and activities related to release management
+
+### Zowe Explorer
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and enhance Zowe Explorer extension as a common component for VSCode and hosted IDE's like Theia, Eclipse Che etc.
+* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI
+* Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad repositories:
+
+* https://github.com/zowe/vscode-extension-for-zowe/ - The Zowe Explorer Extension for VS Code
+
 
 ## Communication Channels
 
