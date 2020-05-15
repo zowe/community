@@ -55,6 +55,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 
 ### Zowe Explorer
+
 - Mike Bauer (Interim Lead) - @MikeBauerCA (Michael.Bauer2@broadcom.com)
 - Fernando Rijo Cedeno - @zFernand0 (fernando.rijocedeno@broadcom.com)
 - Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
@@ -74,7 +75,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Andrew Harn - @awharn (andrew.harn@broadcom.com)
 - Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
 
 ### Zowe App Framework
@@ -109,7 +109,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - daveyc (dcrayford@rocketsoftware.com)
 - James Struga (jstruga@rocketsoftware.com)
 
-
 ## Zowe Community Teams
 
 ### Onboarding
@@ -126,7 +125,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
 - Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
-- Bill Pereira - @billpereira (william.pereira@me.com) 
+- Bill Pereira - @billpereira (william.pereira@me.com)
 
 ### Documentation
 
