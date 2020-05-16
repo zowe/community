@@ -53,7 +53,7 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
       - Competed: 
         - Add JWT signature algorithm and secret to the configuration options (#198)
-        - Make Desktop UI available through APIML (#242)
+        - Make Desktop UI available through APIML  (#242)
         - Integrate zLUX with API ML (#8)
         - Custom Logback layout (#360)
       - In progress:

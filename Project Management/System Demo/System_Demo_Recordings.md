@@ -1,5 +1,13 @@
 # System Demo Recordings
 
+[05-11-2020](https://zoom.us/rec/share/wudlBLX1zmpLWIXp2Wf-Xv48XY3uX6a81iEb_6IMyUnMXUYd9fo1FOLb7jYTbOhJ?startTime=1589202135000) Zowe Presentation and Discussion on Pipeline, Builds and Testing using Jenkins
+
+[04-27-2020](https://zoom.us/rec/share/9MZwcL_Mq01Ofp3H90LwepUlRJbLT6a81nUZ_fALyBnAS93xSOfrRTVaD2wpruIt?startTime=1587992556000)
+
+[Joint PI Planning Part 2](https://zoom.us/rec/share/5fVkPar2x2RJXon9yUvTXqUgEpjpX6a80SdMqfNexU9l0MYWaGn0yLkF8dldlffU?startTime=1587130476000)
+
+[03-30-2020](https://zoom.us/rec/share/puNrJPLSqEhJcpHg7ESDZ4cmAomiT6a80SAYqaUNzEvJgvyAumRQ0aPSxO0Luywn?startTime=1585573528000)
+
 [01-23-2020](https://zoom.us/rec/share/tdNZFrOuq2RJQoXSynngB_E_QK_8aaa823QbqfYFyR4mgMSHptcE9yRY0cLJjtGK)
 
 [11-11-2019](https://zoom.us/recording/share/pCUguECrXdlnFJtwVDklmDkmUu2rKZu9VxRqE-WgGxOwIumekTziMw?startTime=1573480842000)
