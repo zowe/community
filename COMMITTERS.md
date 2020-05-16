@@ -4,7 +4,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 
 ## Zowe Sub-Project Squads
 
-### Zowe API Mediation layer Squad
+### Zowe API Squad
 
 - Elliot Jalley (Lead) - @jalel01 (elliot.jalley@broadcom.com)
 - Anton Brezina (Scrum Master) - @anton-brezina (anton.brezina@broadcom.com)
