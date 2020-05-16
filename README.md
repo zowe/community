@@ -5,7 +5,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
 - [Zowe Sub-projects](#zowe-sub-projects)
     - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
     - [Zowe CLI](#zowe-cli)
-    - [Zowe App Framework](#zowe-app-framework)
+    - [Zowe Application Framework](#zowe-application-framework)
     - [Zowe Explorer](#zowe-explorer)
 - [Zowe Squads](#zowe-squads)
     - [Zowe Sub-Project Squads](#zowe-sub-project-squads)
@@ -51,7 +51,7 @@ Command-line interface that lets you interact with the mainframe remotely and us
 * https://github.com/zowe/zowe-cli-sample-plugin - A sample plug-in for Zowe CLI. Includes tutorials for extenders who want to contribute to the Zowe CLI project or build plug-ins.
 * https://github.com/zowe/imperative - The Imperative CLI Framework on which Zowe CLI is built. Use the framework when contributing to Zowe CLI or developing CLI plug-ins.
 
-### Zowe App Framework
+### Zowe Application Framework
 
 Web-based user interface (UI) that provides a virtual desktop containing a number of apps allowing access to z/OS functions through the Zowe API Mediation layer. This project includes includes apps such as a 3270 terminal and a VT Terminal, as well as an editor and explorers for working with JES, MVS Data Sets and Unix System Services.
 
@@ -98,6 +98,7 @@ The primary goals of the squad include (but are not limited to) the following:
 
 * Maintain and grow the Zowe CLI Sub-project
 * Deliver Zowe CLI as part of Zowe Core
+* Deliver Zowe CLI Secure Credential Store plugin as part of Zowe Core
 * Deliver Zowe CLI plugins as part of Zowe Extended
 * Maintain conformance criteria for CLI plugins integrating with Zowe
 * Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
@@ -110,6 +111,7 @@ The primary goals of the squad include (but are not limited to) the following:
 
 * Maintain and grow the Zowe Application Framework Sub-project
 * Deliver Zowe Web Desktop as part of Zowe Core
+* Deliver Zowe Web Desktop core apps as part of Zowe Core
 * Deliver Zowe Secure Services Server as part of Zowe Core
 * Maintain conformance criteria for Zowe Web Desktop plugins integrating with Zowe
 * Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
