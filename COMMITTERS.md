@@ -150,3 +150,12 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+
+## Zowe Leadership Committee
+
+- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
+- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
+- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
+- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
