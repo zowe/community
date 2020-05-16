@@ -28,7 +28,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
 
 ## Zowe Sub-projects
 
-The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has it's own governance structure and release process that aligns with the primary framework guidelines.
+The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has its own governance structure and release process that aligns with the primary framework guidelines.
 
 Current Zowe Sub-projects are:
 
