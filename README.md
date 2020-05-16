@@ -70,18 +70,56 @@ In addition to VS Code, the extension will work with browser-based editors such 
 
 ## Zowe Squads
 
-Zowe has a number of squads to maintain and grow the subprojects as well as support the common operational functions across the subprojects.
+Zowe has a number of squads to maintain and grow the sub-projects as well as support the common operational functions across the subprojects.
 
 ### Zowe Sub-Project Squads
+
+#### Zowe API Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe API Mediation layer Sub-project
+* Deliver Zowe API Mediation Layer as part of Zowe Core
+* Maintain conformance criteria for APIs integrating with Zowe
+* Develop and deliver a Zowe Authentication and Authorization micro-service to enable consistent SSO & MFA across API services integrating with Zowe
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-api-squad).
+
+#### Zowe CLI Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe CLI Sub-project
+* Deliver Zowe CLI as part of Zowe Core
+* Deliver Zowe CLI plugins as part of Zowe Extended
+* Maintain conformance criteria for CLI plugins integrating with Zowe
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-cli-squad).
+
+#### Zowe Application Framework Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe Application Framework Sub-project
+* Deliver Zowe Web Desktop as part of Zowe Core
+* Deliver Zowe Secure Services Server as part of Zowe Core
+* Maintain conformance criteria for Zowe Web Desktop plugins integrating with Zowe
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-app-framework-squad).
 
 #### Zowe Explorer Squad
 
 The primary goals of the squad include (but are not limited to) the following:
 
 * Maintain and grow the Zowe Explorer Sub-project
-* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI
+* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI and on the Microsoft Visual Studio Code marketplace.
 * Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
 * Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-explorer-squad).
 
 ### Zowe Operations Squads
 
