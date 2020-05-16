@@ -62,29 +62,42 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 
 ### Zowe Explorer
 
-Visual Studio Code extension for accessing z/OS resources through the Zowe API Mediation Layer. Zowe Explorer shares connection profiles with the Zowe CLI.
+Zowe Explorer is a common extension for VSCode and hosted IDE's like Theia, Eclipse Che etc. Zowe Explorer shares connection profiles with the Zowe CLI.
 
 * https://github.com/zowe/vscode-extension-for-zowe - The Zowe Explorer Extension for VS Code. Create an issue here for anything related to Zowe Explorer.
 
 In addition to VS Code, the extension will work with browser-based editors such as [Theia](https://github.com/zowe/vscode-extension-for-zowe/blob/master/docs/README-Theia.md).
 
-## Zowe Community Teams
+## Zowe Squads
 
-Zowe has a number of cross-functional teams to support the common functions across the subprojects.
+Zowe has a number of squads to maintain and grow the subprojects as well as support the common operational functions across the subprojects.
 
-### Documentation
+### Zowe Sub-Project Squads
+
+#### Zowe Explorer Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe Explorer Sub-project
+* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI
+* Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+### Zowe Operations Squads
+
+#### Documentation Squad
 
 Maintains the Zowe documentation.
 
 * https://github.com/zowe/docs-site - Zowe documentation
 
-### Onboarding
+#### Onboarding Squad
 
 Spends time in the various community communication channels helping users and those looking to build on top of Zowe.
 
 * https://github.com/zowe/zowe-install-packaging - Packaging repository for the Zowe install scripts and files, managed by the CUPIDS effort
 
-### Zowe Foundation
+#### Zowe CI/CD Squad
 
 Maintains the Zowe installation tools and integration of Zowe components.
 
@@ -93,20 +106,6 @@ Maintains the Zowe installation tools and integration of Zowe components.
 * https://github.com/zowe/ci-management - Management repository for Jenkins CI
 * https://github.com/zowe/jenkins-library - Jenkins pipeline library
 * https://github.com/zowe/release-management - Material and activities related to release management
-
-### Zowe Explorer
-
-The primary goals of the squad include (but are not limited to) the following:
-
-* Maintain and enhance Zowe Explorer extension as a common component for VSCode and hosted IDE's like Theia, Eclipse Che etc.
-* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI
-* Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
-* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
-
-Squad repositories:
-
-* https://github.com/zowe/vscode-extension-for-zowe/ - The Zowe Explorer Extension for VS Code
-
 
 ## Communication Channels
 
