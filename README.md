@@ -32,7 +32,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
 
 ## Zowe Sub-projects
 
-The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has it's own governance structure and release process that aligns with the primary framework guidelines.
+The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has its own governance structure and release process that aligns with the primary framework guidelines.
 
 Zowe sub-projects have a 3-stage lifecycle of incubation, active and emeritus as described [here](https://github.com/zowe/zlc/blob/master/process/stages.md).
 
@@ -212,9 +212,9 @@ Operations channels:
 
 ### Mailing Lists
 
-* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion.
-* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries.
-* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC.
+* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion. [Join](https://lists.openmainframeproject.org/g/zowe-dev) this mailing list.
+* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries. [Join](https://lists.openmainframeproject.org/g/zowe-user) this mailing list.
+* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC. [Join](https://lists.openmainframeproject.org/g/zowe-zlc) this mailing list.
 
 ### Community Forums
 
