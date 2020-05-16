@@ -1,0 +1,42 @@
+Meeting Minutes - 2/28/2020
+Meeting was recorded - https://zoom.us/rec/share/z-ledbHN7EdJYKfv9hrOWo8vMojHX6a80HcX-vUPzBpgw82oSbsh6zqG-dmyM8AP 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+	Good First issues & Help Wanted issues 
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+	
+
+What we are doing this sprint 		
+	Suneeth - printf zowe logs testing and spike for password 
+	Sean - Updates from SHARE
+	James - RC3 accepted and tagged, should be released today 
+	Tim - Zowe security scan & performance testing 
+
+	
+	Q1 Objectives 
+	SSO - hard to tell when it will be done, may lag a bit
+	MFA - needs doc
+	RBAC - finalizing doc
+	Enhanced Logging - lot of manual labor, in progress
+	Node 12 support - test looks good 1.9 should solve this 
+	Password Reset - in research should be fine
+	Plug in repo  - stretch that looks good
+	
+	A lot of community fixes 
+	
+Demos
+	 Sean- App Generator 
+	
+	
+Attendees 
+Nolan Rogers
+Sean G
+Tim G 
+Suneeth K
+Aarohi S
+James S
