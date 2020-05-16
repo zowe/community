@@ -1,0 +1,42 @@
+Meeting Minutes - 8/23/2019
+Meeting was recorded - https://zoom.us/recording/share/o0TuSuo5c2THSy1YNLH-Fp6ZruoUgqzachmKgW1zcfiwIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+What is being done this Sprint
+	- Lenny, Tim, Suneeth: Rocket training still but working on logging and support APIs
+	- Sean: Touching up the editor, separating reusable code to post on npm 
+		- tree for browsing data sets, ideas of embedded media 
+		- What naming pattern would work best @Zowe/UI- ??? Thoughts?
+	- Nakul: Editor keyboard enhancements, PR out 
+	- Jordan: Open multiple tabs in JES explorer, brought node dependences up, focusing on editor enhancements 
+	- Vitek: ZSS-related missing one entry in cross memory server (zlux server JSON) PR for overriding default value: PR out
+
+What we Want to do next Sprint
+	- Nolan to work with Sean on 4 ZenHub boards for areas below. Nolan will post to the group when it is completed
+Areas of Interest
+	- Framework Server
+	- Framework UI
+	- Apps
+		- Nomination for Nakul 
+	- ZSS
+	- Possible 5th group for legacy? Jordan C?	
+	
+Demos
+	- 	Nakul: Editor once opening the editor can use editor with just the keyboard. 
+			   Focus design for file and language server and navigate with arrow keys and tab for next menu section
+				
+Attendees 
+Nolan Rogers
+Sean Grady
+Jordan Cain
+Nakul Manchanda
+Vitek
+Jason D
+Guru R
+Dan J

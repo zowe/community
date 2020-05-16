@@ -1,0 +1,13 @@
+April 24th
+Recording: https://zoom.us/rec/share/6-x8Carv1DpOQbft9BnNWL8iGtnXaaa82iEa_PNeyYPQ3Y1jxzcIYjhOTSGTFL8 Password: 5g$%&p1? 
+
+Jordan: SSO testing
+Sean: SSO work and release creation. Issue iwth mediation layer and app server, Eurak issues/ hartbeat rejection, can't get to the desktop for a second
+Nakul: keyboard navigation, and session timeout for inactive window with multipe instances of the desktop. All instances are logged out.
+Tim: SSO component installation work. No new installation guide required and dev documentation exist in API ML
+Leanid: working on setting customization
+
+Demos:
+Leanid settings customization: font size, colors, background iamge
+Sean Desktop authentication plugin work for SSO
+Jordan: SSO work on explorers

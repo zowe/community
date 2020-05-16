@@ -1,0 +1,38 @@
+Meeting Minutes - 11/1/2019
+Meeting was recorded -  https://zoom.us/recording/share/Z8lgNFnCBXl1M1Y-8ZnKTZ4JjluZOs-dqHy4Z5v6x9uwIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+
+What we are doing this sprint 		
+	- Sean: Research topics mostly, CUPIDS work is ongoing 
+	- Tim: iFrame adapter work app to app communication 
+	- Lenny: implemented a back end API for delete files in the Editor, testing Dataset properties in the File Explorer right click menu 
+				- request for enhancement from Vitek to add size properties as well as the ability to copy the text
+	- Suneeth: Working on a Dataset API To Allow Deletion of PDS/E Members
+	- Nakul: Lifecycle hooks for apps to update browser title and explorer apps componentization, has a PR for Lenny and Sean
+	
+	Nolan: When Dmitry Open Sources Tests, Nolan to schedule meeting to help teach the community
+			Update as of 11/1 still not open sourced yet
+	
+	
+Demos
+	- Tim: iFrame app to app communication 
+	- Lenny: right click properties for datasets 
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Suneeth
+JP
+Lenny
+Tim G
+Aarohi
+Vitek
