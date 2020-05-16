@@ -1,0 +1,41 @@
+Meeting Minutes - 1/24/2020
+Meeting was recorded - https://zoom.us/rec/share/v-Mkf5Lf11JITavwwXjUcIwbLtrgX6a82yMa86BYnk64d0ymIYIft10ltjBUVExO 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+	Good First issues & Help Wanted issues 
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+	https://github.com/zowe/zlux/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+	
+
+What we are doing this sprint 		
+	- Sean: Finalizing 1.8.0, demoed most in the playback, fixed an issue around startup server
+	- Nakul:  Finalizing PRs for 1.8.0 and demo 
+	- Jordan: Selenium tests merged
+	- Suneeth: node 12 support
+	- James: start building RC 1 for 1.8.0 Monday 
+	- Aarohi: Meet with Sean to put some good first issues into Github 
+	
+	
+	Q1 Objectives (tentative target 1.9.0)
+	SSO
+	MFA
+	Enhanced Logging
+	Node 12 support
+	
+Demos
+		Please see the playback that happened yesterday, posted here: https://github.com/zowe/community/blob/master/Project%20Management/System%20Demo/System_Demo_Recordings.md
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Suneeth K
+Sean G
+Jordan C
+Aarohi S
+JP
+Purnika 

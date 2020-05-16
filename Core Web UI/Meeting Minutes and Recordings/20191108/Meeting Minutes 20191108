@@ -1,0 +1,41 @@
+Meeting Minutes - 11/8/2019
+Meeting was recorded - https://zoom.us/recording/share/U_FNUAQe9ZwJZPfGd5tZluDYvARiWd5iPwrax0i88QawIumekTziMw 
+
+Core Web UI - Status Updates / Action Items
+
+Core Web UI Status Updates
+
+Issues We'd Like Help With:
+https://app.zenhub.com/workspaces/zlux-core-5ca217c7d74bd07972cb77db/board?labels=help%20wanted&repos=144600433,144599826,144600302,144600062,144599767,144599701,144600372	
+	
+
+What we are doing this sprint 		
+	- Sean: CUPIDS work is ongoing & conda work for apps 
+	- Tim: iFrame adapter  
+	- Lenny: implemented a back end API for delete files in the Editor, testing Dataset properties in the File Explorer right click menu 
+				- request for enhancement from Vitek to add size properties as well as the ability to copy the text
+					- this is logged and being groomed and prioritized 
+	- Suneeth: Working on a Dataset API To Allow Deletion of PDS/E Members 
+				- might not make 1.7.0 but will make next release
+	- Nakul: Lifecycle hooks for apps to update browser title and explorer apps componentization
+	- Jordan Cain: Moved issues from explorer app repos to zlux repo. Disabled creation of issues in old repos and updated the readme's to point people to zlux
+	
+	Nolan: When Dmitry Open Sources Tests, Nolan to schedule meeting to help teach the community
+			Update as of 11/8 still not open sourced yet
+	
+	
+Demos
+	- Please attend the 1.7.0 playback Monday 11/11 for our demos!
+	
+	
+Attendees 
+Nolan Rogers
+Nakul M
+Sean Grady
+Suneeth
+JP
+Lenny
+Tim G
+Aarohi
+Jordan C
+Joe W

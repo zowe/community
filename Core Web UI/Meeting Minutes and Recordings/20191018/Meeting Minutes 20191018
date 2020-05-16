@@ -1,0 +1,21 @@
+Recording link: https://zoom.us/recording/share/FaiatKxhGE9nuliG6OHHhUrTuaW4doHYFGheX_9D5xqwIumekTziMw 
+
+Leanid reported progress on the right click directory creation. His next objective will be handling deletion item in a queue for the editor so items are not altered while a delete request is pending.
+Tim reported progress on the iFrame adapter, currently working on adding window actions (title, position, menus)
+Suneeth reported working on fixes and enhancements in the notification manager (timestamp, click handling, long text handling, plugin and notification manager API improvements, authentication/RBAC testing)
+Sean indicated he will be investigating a recently reported node.js bug/change related to file encoding breaking, which is breaking binary encoding mechanisms.
+-	Joe Winchester will ask Igor whether Node.js has an API to tag binary files after they are created by Node.js.
+-	Conda work is progressing to make the apps "Conda downloads". Each app will need its own config file.
+Nakul reported working on explorers componentization, will start looking into setting windows’ title in multi windows environment. The team commented that changes will need to be made available on iFrame adapters as well.
+Vitek reported opening a bug on PS-E handling issue in MVS explorers, which is being worked on by the CUPIDS squad.
+
+Joe presented the work being done to automate release note generation, following the node.js model.
+
+Vitek asked how far back the ZSS compatibility goes at this time. Can ZSS 1.3 be used with Zowe 1.5?
+API versioning is not implemented. New APIs are being added, current APIs do not usually change. Features in a Zowe version may be broken when they require newer ZSS APIs, when running against an older ZSS.
+Sean mentioned the need to allow for applications to specify their requirements in the plugin meta data file. This is a future enhancement.
+
+Vitek indicated docker images are on DockerHub: https://hub.docker.com/r/vvvlc/zowe
+This is full Zowe image minus ZSS. Zowe 1.5 is available, 1.6 will be available in the near future.
+
+The team reviewed a request for an API providing the Zowe version. There currently is an API that returns details of all plugins, which can be parsed to obtained the requested information. The relevant plugin would be the ng2desktop. A better way to get the requested info through the mediation layer would be beneficial.
