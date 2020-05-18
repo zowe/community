@@ -16,7 +16,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
        - [Zowe API Squad](#zowe-api-squad)
        - [Zowe CLI Squad](#zowe-cli-squad)
        - [Zowe Application Framework Squad](#zowe-application-framework-squad)
-       - [Zowe Explorer Squad](#zowe-explorer-1)
+       - [Zowe Explorer Squad](#zowe-explorer-squad)
     - [Zowe Operations Squads](#zowe-operations-squads)
        - [Documentation Squad](#documentation-squad)
        - [Onboarding Squad](#onboarding-squad)
