@@ -10,7 +10,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
        - [Zowe Explorer](#zowe-explorer)
     - [Incubation](#incubation)
        - [Zowe Mobile](#zowe-mobile)
-       - [Zowe Client SDK](zowe-client-sdk)
+       - [Zowe Client SDK](#zowe-client-sdk)
 - [Zowe Squads](#zowe-squads)
     - [Zowe Sub-Project Squads](#zowe-sub-project-squads)
        - [Zowe API Squad](#zowe-api-squad)
