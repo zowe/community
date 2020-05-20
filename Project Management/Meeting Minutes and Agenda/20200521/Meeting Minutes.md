@@ -35,6 +35,9 @@ Agenda Items
 3. Current Release and Build Status (Jack/Mark)
 4. Plan
      - Discuss 1.12.0 Release and System Demo
+     - Squads to provide list of work items that needs to be identified for PI Planning
+     - PI Planning Call on 6/21
+     - Security Call booked
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
