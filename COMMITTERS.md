@@ -1,14 +1,14 @@
 # Committers to the Zowe project
 
-The following is a list of all the Zowe Committers on the project organized by sub-project. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privileges.
+The following is a list of all the Zowe Committers on the project organized by squads. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privileges.
 
-## Zowe Sub-projects
+## Zowe Sub-Project Squads
 
-### Zowe API Mediation layer
+### Zowe API Squad
 
 - Elliot Jalley (Lead) - @jalel01 (elliot.jalley@broadcom.com)
+- Anton Brezina (Scrum Master) - @anton-brezina (anton.brezina@broadcom.com)
 - Michal Supak - @supmi01 (michal.supak@broadcom.com)
-- Anton Brezina - @anton-brezina (anton.brezina@broadcom.com)
 - Andrea Tabone - @taban03 (andrea.tabone@broadcom.com)
 - Christos Zikos - @cZikos (christos.zikos@broadcom.com)
 - Fyodor Kovin - @fkovinAtRocket (fkovin@rocketsoftware.com)
@@ -27,9 +27,10 @@ The following is a list of all the Zowe Committers on the project organized by s
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Pavel Jares - ? (pavel.jares@broadcom.com)
 
-### Zowe CLI
+### Zowe CLI Squad
 
 - Mike Bauer (Lead) - @MikeBauerCA (Michael.Bauer2@broadcom.com)
+- Jessica Tonda (Scrum Master) - @JTonda (jessica.tonda@broadcom.com)
 - Fernando Rijo Cedeno - @zFernando0 (fernando.rijocedeno@broadcom.com)
 - Eugene Johnston - @gejohnston (eugene.johnston@broadcom.com)
 - Jason Tucker - @tucker01 (jason.tucker@broadcom.com)
@@ -37,7 +38,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrew Harn - @awharn (andrew.harn@broadcom.com)
 - Colin Stone - @Colin-Stone (colin.stone@uk.ibm.com)
 - Chris Boehm - @ChrisBoehmCA (christopher.boehm@broadcom.com)
-- Jessica Tonda - @JTonda (jessica.tonda@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
@@ -54,43 +54,20 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 
-### Zowe Explorer
-- Mike Bauer (Interim Lead) - @MikeBauerCA (Michael.Bauer2@broadcom.com)
-- Fernando Rijo Cedeno - @zFernand0 (fernando.rijocedeno@broadcom.com)
-- Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
-- Colin Stone - @Colin-Stone (colin.stone@uk.ibm.com)
-- Jessielaine Punongbayan - @jellypuno (jessielaine.punongbayan@broadcom.com)
-- Lauren Li - @lauren-li (lauren.li@ibm.com)
-- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
-- Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
-- Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
-- Pranay Sodani - @Pranay154 (Pranay.Sodani@ibm.com)
-- Rodney Wilson - @rodney-wilson (rodney.wilson@ibm.com)
-- Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
-- Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
-- Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
-- Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
-- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
-- Peter Haumer - @phaumer (phaumer@us.ibm.com)
-- John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Andrew Harn - @awharn (andrew.harn@broadcom.com)
-- Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
+### Zowe App Framework Squad 
 
-### Zowe App Framework
-
-- JP Linardon (Lead) - @jplinardon (jlinardon@rocketsoftware.com)
+- Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 - (No idea) John Gellin - @jgellin (email?)
 - (No idea) Adam Battenburg - @adambattenburg (email?)
 - (No idea) Jason Enzi - @jayenzi (email?)
-- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
 - Tim Gerstel - @timgerstel (tgerstel@rocketsoftware.com)
 - Suneeth Keerthy - @sakeerthy (skeerthy@rocketsoftware.com)
 - Leanid Astrakou - @DivergentEuropeans (lastrakou@rocketsoftware.com)
-- (Emeritus Status) Leonty Chudinov - @lchudinov (lchudinov@rocketsoftware.com)
+- Leonty Chudinov - @lchudinov (lchudinov@rocketsoftware.com)
 - (Emeritus Status) Dmitry Prizentsov - @dprizentsov (dprizentsov@rocketsoftware.com)
-- Jason English - @jasonenglish2039 (jenglish@rocketsoftware.com)
+- (Emeritus Status) Jason English - @jasonenglish2039 (jenglish@rocketsoftware.com)
 - (Emeritus Status) Reet Chowdhary - @reetchow (rchowdhary@rocketsoftware.com)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 - (No idea) Jürgen Holtz - @juergen-holtz (holtz@de.ibm.com)
@@ -109,14 +86,36 @@ The following is a list of all the Zowe Committers on the project organized by s
 - daveyc (dcrayford@rocketsoftware.com)
 - James Struga (jstruga@rocketsoftware.com)
 
+### Zowe Explorer Squad
 
-## Zowe Community Teams
+- Fernando Rijo Cedeno (Lead) - @zFernand0 (fernando.rijocedeno@broadcom.com)
+- Zachariah Mullen (Scrum Master) - @zdmullen (zachariah.mullen@broadcom.com)
+- Mike Bauer - @MikeBauerCA (Michael.Bauer2@broadcom.com)
+- Colin Stone - @Colin-Stone (colin.stone@uk.ibm.com)
+- Jessielaine Punongbayan - @jellypuno (jessielaine.punongbayan@broadcom.com)
+- Lauren Li - @lauren-li (lauren.li@ibm.com)
+- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
+- Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
+- Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
+- Pranay Sodani - @Pranay154 (Pranay.Sodani@ibm.com)
+- Rodney Wilson - @rodney-wilson (rodney.wilson@ibm.com)
+- Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
+- Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
+- Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
+- Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
+- Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
+- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
+- Peter Haumer - @phaumer (phaumer@us.ibm.com)
+- John LaPlante - @jelaplan (john.laplante@broadcom.com)
+- Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
+
+## Zowe Operations Squads
 
 ### Onboarding
 
 - Joe Winchester (Lead) - @Joe-Winchester (winchest@uk.ibm.com)
+- Rose Sakach (Scrum Master) - @RASakach (Rose.Sakach@broadcom.com)
 - Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
-- Rose Sakach - @RASakach (Rose.Sakach@broadcom.com)
 - Daniel Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - Robert Penny - @rpenny125 (email?)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
@@ -125,12 +124,13 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
-- Bruce Armstrong - @armstro (email?) armstrob@us.ibm.com
+- Bruce Armstrong - @armstro (armstrob@us.ibm.com) 
 - Bill Pereira - @billpereira (william.pereira@me.com) 
+- Taylor Donner - @TaylorDonner (taylor.donner@ibm.com)
 
 ### Documentation
 
-- Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Nan Nan (Ashley) Li - @nannanli (nannanli@cn.ibm.com)
 - Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
@@ -140,7 +140,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
 - Matt Hogstrom - @hogstrom (matt@hogstrom.org)
 
-### Zowe Foundation
+### Zowe CI/CD
 
 - Mark Ackert (Lead) - @MarkAckert (mark.ackert@broadcom.com)
 - Michal Maliska (Lead) - @mike-maliska (email?)
@@ -151,3 +151,12 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+
+## Zowe Leadership Committee
+
+- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
+- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
+- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
+- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)

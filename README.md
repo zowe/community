@@ -3,13 +3,24 @@
 This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback.
 
 - [Zowe Sub-projects](#zowe-sub-projects)
-    - [Zowe API Mediation layer](#zowe-api-mediation-layer)
-    - [Zowe CLI](#zowe-cli)
-    - [Zowe App Framework](#zowe-app-framework)
-    - [Zowe Explorer](#zowe-explorer)
-- [Zowe Community Teams](#zowe-community-teams)
-    - [Documentation and Onboarding](#documentation-and-onboarding)
-    - [Zowe Foundation](#zowe-foundation)
+    - [Active](#active)
+       - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
+       - [Zowe CLI](#zowe-cli)
+       - [Zowe Application Framework](#zowe-application-framework)
+       - [Zowe Explorer](#zowe-explorer)
+    - [Incubation](#incubation)
+       - [Zowe Mobile](#zowe-mobile)
+       - [Zowe Client SDK](#zowe-client-sdk)
+- [Zowe Squads](#zowe-squads)
+    - [Zowe Sub-Project Squads](#zowe-sub-project-squads)
+       - [Zowe API Squad](#zowe-api-squad)
+       - [Zowe CLI Squad](#zowe-cli-squad)
+       - [Zowe Application Framework Squad](#zowe-application-framework-squad)
+       - [Zowe Explorer Squad](#zowe-explorer-squad)
+    - [Zowe Operations Squads](#zowe-operations-squads)
+       - [Documentation Squad](#documentation-squad)
+       - [Onboarding Squad](#onboarding-squad)
+       - [Zowe CI/CD Squad](#zowe-cicd-squad)
 - [Communication Channels](#communication-channels)
     - [Slack](#slack)
     - [Mailing Lists](#mailing-lists)
@@ -21,20 +32,22 @@ This guide will help you navigate the Zowe community, and learn more on how to c
 
 ## Zowe Sub-projects
 
-The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has it's own governance structure and release process that aligns with the primary framework guidelines.
+The Zowe community consists of several sub-projects that focus on specific areas of the codebase. Like any open source project, each sub-projects has its own governance structure and release process that aligns with the primary framework guidelines.
 
-Current Zowe Sub-projects are:
+Zowe sub-projects have a 3-stage lifecycle of incubation, active and emeritus as described [here](https://github.com/zowe/zlc/blob/master/process/stages.md).
 
-### Zowe API Mediation layer
+### Active
 
-Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO). 
+#### Zowe API Mediation Layer
+
+Gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. This project includes provides core services for working with MVS Data Sets, JES, as well as working with z/OSMF REST APIs and a framework for Single Sign On (SSO).
 
 * https://github.com/zowe/api-layer - A gateway that acts as a reverse proxy for z/OS services, together with a catalog of REST APIs and a dynamic discovery capability. Base Zowe provides core services for working with MVS Data Sets, JES, and z/OSMF REST APIs.
 * https://github.com/zowe/explorer-api-common - Common explorer API components.
 * https://github.com/zowe/data-sets - The Spring Boot based data set APIs.
 * https://github.com/zowe/jobs - The Spring Boot based Jobs APIs.
 
-### Zowe CLI
+#### Zowe CLI
 
 Command-line interface that lets you interact with the mainframe remotely and use common tools such as Integrated Development Environments (IDEs), shell commands, bash scripts, and build tools for mainframe development. It provides a set of utilities and services for application developers that want to become efficient in supporting and building z/OS applications quickly. The CLI provides a core set of commands for working with data sets, USS, JES, as well as issuing TSO and console commands.
 
@@ -44,7 +57,7 @@ Command-line interface that lets you interact with the mainframe remotely and us
 * https://github.com/zowe/zowe-cli-sample-plugin - A sample plug-in for Zowe CLI. Includes tutorials for extenders who want to contribute to the Zowe CLI project or build plug-ins.
 * https://github.com/zowe/imperative - The Imperative CLI Framework on which Zowe CLI is built. Use the framework when contributing to Zowe CLI or developing CLI plug-ins.
 
-### Zowe App Framework
+#### Zowe Application Framework
 
 Web-based user interface (UI) that provides a virtual desktop containing a number of apps allowing access to z/OS functions through the Zowe API Mediation layer. This project includes includes apps such as a 3270 terminal and a VT Terminal, as well as an editor and explorers for working with JES, MVS Data Sets and Unix System Services.
 
@@ -57,33 +70,104 @@ Web-based user interface (UI) that provides a virtual desktop containing a numbe
 * https://github.com/zowe/explorer-mvs - The MVS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-uss - The USS Explorer application in the Zowe Web UI.
 * https://github.com/zowe/explorer-ui-server - A simple HTTPS server to serve Zowe Desktop Explorer plug-ins.
-* https://github.com/zowe/zlux-file-explorer 
+* https://github.com/zowe/zlux-file-explorer
 
-### Zowe Explorer
+#### Zowe Explorer
 
-Visual Studio Code extension for accessing z/OS resources through the Zowe API Mediation Layer. Zowe Explorer shares connection profiles with the Zowe CLI.
+Zowe Explorer is a common extension for VSCode and hosted IDE's like Theia, Eclipse Che etc. Zowe Explorer shares connection profiles with the Zowe CLI.
 
 * https://github.com/zowe/vscode-extension-for-zowe - The Zowe Explorer Extension for VS Code. Create an issue here for anything related to Zowe Explorer.
 
 In addition to VS Code, the extension will work with browser-based editors such as [Theia](https://github.com/zowe/vscode-extension-for-zowe/blob/master/docs/README-Theia.md).
 
-## Zowe Community Teams
+### Incubation
 
-Zowe has a number of cross-functional teams to support the common functions across the subprojects.
+#### Zowe Mobile
 
-### Documentation
+Zowe Mobile is a mobile-oriented visualization layer for services integrated with Zowe.
 
-Maintains the Zowe documentation. 
+* https://github.com/zowe/zowe-on-the-go - The Zowe Mobile Application lets you interact with your Zowe services integrated with the Zowe API Mediation Layer.
+
+#### Zowe Client SDK
+
+Zowe Client SDK is a set of programming libraries targeting specific languages to offer a better programming experience for developers who wish to integrate Zowe base and conformant services into their application. The Zowe Client SDKs offer consistent and language-specific access to REST APIs on z/OS that are integrated with the Zowe API Mediation Layer. Developers will be able to import the appropriate language Zowe Client SDK into their project and avoid the complexities of coding to REST APIs directly.
+
+The Zowe Client SDK incubation sub-project is currently developing SDKs for Node.JS and Python.
+
+* https://github.com/zowe/zowe-client-python-sdk - The Zowe Client Python SDK offers a python library for programmatic access to z/OS services integrated with Zowe.
+
+## Zowe Squads
+
+Zowe has a number of squads to maintain and grow the sub-projects as well as support the common operational functions across the subprojects. Refer to the [Communication Channels](#communication-channels) to get involved.
+
+### Zowe Sub-Project Squads
+
+#### Zowe API Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe API Mediation layer Sub-project
+* Deliver Zowe API Mediation Layer as part of Zowe Core
+* Maintain conformance criteria for APIs integrating with Zowe
+* Develop and deliver a Zowe Authentication and Authorization micro-service to enable consistent SSO & MFA across API services integrating with Zowe
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-api-squad).
+
+#### Zowe CLI Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe CLI Sub-project
+* Deliver Zowe CLI as part of Zowe Core
+* Deliver Zowe CLI Secure Credential Store plugin as part of Zowe Core
+* Deliver Zowe CLI plugins as part of Zowe Extended
+* Maintain conformance criteria for CLI plugins integrating with Zowe
+* Evaluate and grow the Zowe Client SDK incubation sub-project
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-cli-squad).
+
+#### Zowe Application Framework Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe Application Framework Sub-project
+* Deliver Zowe Web Desktop as part of Zowe Core
+* Deliver Zowe Web Desktop core apps as part of Zowe Core
+* Deliver Zowe Secure Services Server as part of Zowe Core
+* Maintain conformance criteria for Zowe Web Desktop plugins integrating with Zowe
+* Evaluate and grow the Zowe Mobile incubation sub-project
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-app-framework-squad).
+
+#### Zowe Explorer Squad
+
+The primary goals of the squad include (but are not limited to) the following:
+
+* Maintain and grow the Zowe Explorer Sub-project
+* Deliver Zowe Explorer as part of Zowe Core including an offline package delivered on Zowe.org similar to the offline package for Zowe CLI and on the Microsoft Visual Studio Code marketplace.
+* Formalize extensions to Zowe Explorer by means of well documented extension points and, if applicable, also define conformance rules
+* Work with other squads in Zowe to ensure tighter integration, code re-use while keeping in mind the overall end to end user experience
+
+Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-explorer-squad).
+
+### Zowe Operations Squads
+
+#### Documentation Squad
+
+Maintains the Zowe documentation.
 
 * https://github.com/zowe/docs-site - Zowe documentation
 
-### Onboarding
+#### Onboarding Squad
 
 Spends time in the various community communication channels helping users and those looking to build on top of Zowe.
 
 * https://github.com/zowe/zowe-install-packaging - Packaging repository for the Zowe install scripts and files, managed by the CUPIDS effort
 
-### Zowe Foundation
+#### Zowe CI/CD Squad
 
 Maintains the Zowe installation tools and integration of Zowe components.
 
@@ -118,6 +202,8 @@ Sub-project specific channels:
 * #zowe-cli - Ask questions about Zowe CLI, propose new ideas, and interact with the Zowe CLI community.
 * #zowe-core - Expand upon the base technologies being contributed to the project.
 * #zowe-explorer - Ask questions about Zowe Explorer for VS Code, propose new ideas, and interact with the Zowe Explorer community.
+* #zowe-python-client-sdk - Ask questions about the Zowe Python Client SDK (incubation) and get involved.
+* #zowe-mobile - Ask questions about Zowe Mobile (incubation) and get involved.
 
 Operations channels:
 
@@ -126,9 +212,9 @@ Operations channels:
 
 ### Mailing Lists
 
-* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion.
-* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries.
-* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC.
+* Zowe-dev@lists.openmainframeproject.org - Developers and contributors discussion. [Join](https://lists.openmainframeproject.org/g/zowe-dev) this mailing list.
+* Zowe-user@lists.openmainframeproject.org - User discussion and to provide feedback and submit inquiries. [Join](https://lists.openmainframeproject.org/g/zowe-user) this mailing list.
+* Zowe-ZLC@lists.openmainframeproject.org - Discussion on topics related to project governance or anything else for the ZLC. [Join](https://lists.openmainframeproject.org/g/zowe-zlc) this mailing list.
 
 ### Community Forums
 
