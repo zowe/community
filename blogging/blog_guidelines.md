@@ -5,7 +5,9 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - [Blog preparation](#blog-preparation)
  - [Publishing steps](#publishing-steps)
    - [When ready to write](#when-ready-to-write)
+   - [Include OMP Branding](#include-omp-branding)
    - [When ready to publish](#when-ready-to-publish)
+ - [Review Process](#review-process)
  - [Content Guidelines](#content-guidelines)
    - [Zowe Core](#zowe-core)
    - [Zowe Ecosystem](#zowe-ecosystem)
@@ -40,10 +42,32 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - Go to [Medium.com](https://medium.com)
  - Click your profile (should be logged in)
  - Click New Story
+
+### Writing your blog
+
  - Begin editing
  - If needed, save as “draft”
- - Include the following at the end of your blog: [See more Zowe blogs here](https://medium.com/zowe)
- - Include 5 tags like: “Zowe”, “Mainframe”, “DevOps”, “Open Source”, [specific technology like COBOL, vscode], [specific roles like Sysprog], etc.
+ - Include the following sentences at the end of your blog, shown below as it should appear.  
+ - "If you enjoyed this blog checkout more [Zowe blogs here](https://medium.com/zowe). Or, ask a question and join the conversation on the [Open Mainframe Project Slack Channel](https://openmainframeproeject.slack.org) #Zowe-dev, #Zowe-user or #Zowe-onboarding. If this is your first time using the OMP slack channel register [here](https://slack.openmainframeproject.org)."
+   ```
+   Raw markdown for the slack channel paragraph:
+   
+   If you enjoyed this blog checkout more [Zowe blogs here](https://medium.com/zowe). Or, ask a question and join the conversation on the [Open Mainframe Project Slack Channel](https://openmainframeproeject.slack.org) #Zowe-dev, #Zowe-user or #Zowe-onboarding. If this is your first time using the OMP slack channel register [here](https://slack.openmainframeproject.org).
+   ```
+
+**Please do not publish your own post.**
+
+### Include OMP Branding
+
+ - At the first mention of Zowe use the branding phrase `Open Mainframe Project's Zowe`  with hyperlinks to https://www.openmainframeproject.org/ and https://www.openmainframeproject.org/projects/zowe.  An example of this is the sentence below as it should appear in the blog.
+ - "This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/projects/zowe) command line interface."
+   ```
+   Raw markdown for the OMP branding example:
+   
+   This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/projects/zowe) command line interface.  
+   ```
+
+**Please do not publish your own post.**
 
 ### When ready to publish
 
@@ -52,11 +76,23 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - compelling title and opening paragraph (discoverability is critical!)
    - featured image and visuals in place.  By default, the first image will be associated with the blog post, however you can choose to use a different headline image by navigating to the image while in edit mode, select it manually, and press `Shift + F`. 
    - appropriate links and tags
- - While editing the story, click “…”
- - Click “Add to Publication”
+ - Include 5 tags like: `Zowe`, `Mainframe`, `DevOps`, `Open Source`, [specific technology like `COBOL`, `VSCode`], [specific roles like `Sysprog`], etc.
+ - While editing the story, click “…”, click "Zowe and click “Add to Publication”
  - If applicable, uncheck “Allow curators to recommend my story to interested readers.”
  - Click “Submit to Publication”
  - The blog will remain Pending until the publication owner posts it
+
+**Please do not publish your own post.**
+
+ ## Review Process
+
+  - 2 members of the project from different companies will be assigned to review for technical details.  
+  - The reviewers will work with the author for any updates or changes required, as well as any categorization of the blog for {Core} or {Ecosystem}.
+  - OMP team will do final check for grammar and branding
+  - OMP will schedule it and promote via social media
+  - OMP team will let author know publication date and share via social media
+  
+  **Please do not publish your own post.**
 
  ## Content guidelines
 
@@ -70,7 +106,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
  Other topics are welcome, but it needs to have a direct link to the Zowe community
  
- Blogs fall into one of three categories and are differentiated to avoid a user visiting a Zowe blogsite from misunderstanding the relationship between whether the content being described is free open source software included with a Long Term Support (LTS) Zowe release, a commermcial vendor Zowe offerings, or a project in its incubation phase.
+ Blogs fall into one of three categories and are differentiated to avoid a user visiting a Zowe blogsite from misunderstanding the relationship between whether the content being described is free open source software included with a Long Term Support (LTS) Zowe release, a commercial vendor Zowe offerings, or a project in its incubation phase.
 
  - [Zowe Core](#zowe-core)
  - [Zowe Ecosystem](#zowe-ecosystem)
