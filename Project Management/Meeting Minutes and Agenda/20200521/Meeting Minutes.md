@@ -42,6 +42,9 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+     -- Collecting feature candidates for 20PI3
+     -- On track with being code complete for RC
+     -- Identifying Squad members to be part of Security Call    
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
