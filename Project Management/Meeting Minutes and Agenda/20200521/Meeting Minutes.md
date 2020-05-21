@@ -42,6 +42,8 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Fixed sonarCloud issues
+      - Fixing message ID's for zowe-common-c
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
      -- Collecting feature candidates for 20PI3
      -- On track with being code complete for RC
