@@ -33,6 +33,7 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+    - We have a failure on desktop apps, investigation in progress.
 4. Plan
      - Discuss 1.12.0 Release and System Demo
      - Squads to provide list of work items that needs to be identified for PI Planning
@@ -46,6 +47,10 @@ Agenda Items
      -- On track with being code complete for RC
      -- Identifying Squad members to be part of Security Call    
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Nightly build now tests against all 3 security systems, including ACF2/TS.
+      - New pipeline added under zlux to build @zowe/zlux-angular-file-tree npm package.
+      - New pipeline is created to build ims-operations-api.
+      - Keyring test passed on Marist.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
