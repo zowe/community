@@ -96,7 +96,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Mike Bauer - @MikeBauerCA (Michael.Bauer2@broadcom.com)
 - Fernando Rijo Cedeno (Lead) - @zFernand0 (fernando.rijocedeno@broadcom.com)
 
-[**Other commiters**](https://github.com/orgs/zowe/teams/vscode-team/members)
+[**Other committers**](https://github.com/orgs/zowe/teams/vscode-team/members)
 
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
