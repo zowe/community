@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[05-26-2020](https://zoom.us/rec/share/ptRKAZrf5F5JY9bDsE6PS5MzEoHOeaa82ncc-KcOmUbqzZBbNmNyCPTRkCbuPTa0?startTime=1590502013000) Zowe CLI: Token Authentication, MFA and SSO
+
 [05-05-2020](https://zoom.us/rec/share/38cqJOzB6WVJQc_MzEvdHf4jIoCmaaa80SIdqfFcxE9cM5uBCXU3UAacBgt3a1t9?startTime=1588687390000)
 
 [04-21-2020](https://zoom.us/rec/share/4OFWIb23tW5LEoGUtmPlAoclRL3oaaa81iNN-PUEykrizPZcjwf-FC7xRSTruS7Q?startTime=1587477797000)
