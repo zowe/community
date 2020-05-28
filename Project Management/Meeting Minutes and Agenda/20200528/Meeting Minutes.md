@@ -40,7 +40,10 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
-    - API Mediation Layer & Security (Elliot/Michal S/Petr P)    
+    - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+         - Working on gathering inputs for PI Planning call June 1
+         - @jandadav working with Jack on RC
+         - Bringing #422 as agenda item at next Zowe Architect call     
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
