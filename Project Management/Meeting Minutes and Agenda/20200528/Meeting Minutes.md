@@ -40,6 +40,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Working on RC and testing
+      - Edit zowe install script to skip certain checks
+      - Recalling migrated datasets in Editor
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
          - Working on gathering inputs for PI Planning call June 1
          - @jandadav working with Jack on RC
