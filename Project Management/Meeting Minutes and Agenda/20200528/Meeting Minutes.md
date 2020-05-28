@@ -33,6 +33,9 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - We announced v1.12.0-RC1 after fixed the desktop logout issue.
+   - v1.12.0-RC1 remains a known issue which only occurs on Top Secret server with PTF installation. Since the issue is limited to one test scenario on a particular server, we want to see how this build works on squads' tests.
+   - Nightly build has extra failure on verifying API Catalog which we had fixed the test case in rc build. This is a new change brought in related to SSO, the test case should be adjusted.
 4. Plan
      - Discuss 1.12.0 Release
      - Squads to provide list of work items that needs to be identified for PI Planning
@@ -48,6 +51,8 @@ Agenda Items
          - @jandadav working with Jack on RC
          - Bringing #422 as agenda item at next Zowe Architect call     
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Work with other teams to trouble shooting issues we found in Zowe build.
+      - Upgrade a pipeline to clean up tmp folders on test server.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
