@@ -45,6 +45,8 @@ Agenda Items
       - More UI improvment research
       - RC testing
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - RC testing
+      - API ML support for keyrings (ZAAS client ready; preparing for tests on Marist)
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Working with different parties on RC build issues, build and test v1.12.0 RC.
     - Documentation (Brandon/Ashley/Jim/Jason)
