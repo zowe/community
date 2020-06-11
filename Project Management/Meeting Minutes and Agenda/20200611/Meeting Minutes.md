@@ -44,6 +44,9 @@ Agenda Items
       - High Availability Testing
       - Fixing bugs from github
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - Keyring validation continuing on Marist
+      - Proposed Github issues for next PI labelled as 20PI3
+      - Jordan Cain to join Squad
     - Foundation (CI/CD) (Mark/Jack/Nick)
       - Build/test RC3
       - Started work on performance test client tool
