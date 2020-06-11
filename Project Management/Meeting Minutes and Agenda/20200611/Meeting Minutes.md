@@ -42,6 +42,8 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - High Availability Testing
+      - Fixing bugs from github
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
