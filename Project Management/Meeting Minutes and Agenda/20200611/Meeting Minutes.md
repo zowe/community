@@ -33,9 +33,8 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
-   - RC2 announced but we found same regression on PTF+TopSecret. This was verified ok with https://github.com/zowe/api-layer/pull/678, but seems not stable as expected.
-     Open Question: should we accept this as a known issue and continue release v1.12.0?
-   - Nightly build has similar issue (we need to update manifest.json on staging to pick most latest APIML build.)
+   - RC3 announced and passed all ZLC votes, waiting for final confirmation.
+   - Nightly build has a failure Desktop exit with code 2 on TopSecret/PTF, under investigation.
 4. Plan
      - Discuss 1.13.0 Release. What are the minimum requirements for this release ?
      - Discuss [Survey](https://ibm.ent.box.com/notes/672825455060)
@@ -46,6 +45,8 @@ Agenda Items
       - Fixing bugs from github
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Build/test RC3
+      - Started work on performance test client tool
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
