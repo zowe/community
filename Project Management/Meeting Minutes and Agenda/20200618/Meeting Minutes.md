@@ -28,6 +28,10 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Added a warning if using node v6 
+      - Terminals have been updated to work better 
+      - Create key-copy mechanism to get JWT content over to ZSS
+      - Fix Editor bug
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason)
