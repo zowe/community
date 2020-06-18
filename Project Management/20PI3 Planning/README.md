@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan="2">Open Source / AWSOM Information</th>
+            <th colspan="2">20PI3 PI Planning</th>
         </tr>
     </thead>
     <tbody>
