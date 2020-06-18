@@ -22,6 +22,7 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
+   - Nightly build passed tests.
 4. Plan
      - Discuss 1.13.0 Release.
      - PI Planning Agenda Review
@@ -34,6 +35,8 @@ Agenda Items
       - Fix Editor bug
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
     - Foundation (CI/CD) (Mark/Jack/Nick)
+      - Continue working on performance test client tool.
+      - Plan for PI3.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
