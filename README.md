@@ -2,30 +2,32 @@
 
 This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback.
 
-- [Zowe Sub-projects](#zowe-sub-projects)
+- [Zowe Community](#zowe-community)
+  - [Zowe Sub-projects](#zowe-sub-projects)
     - [Active](#active)
-       - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
-       - [Zowe CLI](#zowe-cli)
-       - [Zowe Application Framework](#zowe-application-framework)
-       - [Zowe Explorer](#zowe-explorer)
+      - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
+      - [Zowe CLI](#zowe-cli)
+      - [Zowe Application Framework](#zowe-application-framework)
+      - [Zowe Explorer](#zowe-explorer)
     - [Incubation](#incubation)
-       - [Zowe Mobile](#zowe-mobile)
-       - [Zowe Client SDK](#zowe-client-sdk)
-- [Zowe Squads](#zowe-squads)
+      - [Zowe Mobile](#zowe-mobile)
+      - [Zowe Client SDK](#zowe-client-sdk)
+  - [Zowe Squads](#zowe-squads)
     - [Zowe Sub-Project Squads](#zowe-sub-project-squads)
-       - [Zowe API Squad](#zowe-api-squad)
-       - [Zowe CLI Squad](#zowe-cli-squad)
-       - [Zowe Application Framework Squad](#zowe-application-framework-squad)
-       - [Zowe Explorer Squad](#zowe-explorer-squad)
+      - [Zowe API Squad](#zowe-api-squad)
+      - [Zowe CLI Squad](#zowe-cli-squad)
+      - [Zowe Application Framework Squad](#zowe-application-framework-squad)
+      - [Zowe Explorer Squad](#zowe-explorer-squad)
+      - [Zowe Deployments Working Group](#zowe-deployments-working-group)
     - [Zowe Operations Squads](#zowe-operations-squads)
-       - [Documentation Squad](#documentation-squad)
-       - [Onboarding Squad](#onboarding-squad)
-       - [Zowe CI/CD Squad](#zowe-cicd-squad)
-- [Communication Channels](#communication-channels)
+      - [Documentation Squad](#documentation-squad)
+      - [Onboarding Squad](#onboarding-squad)
+      - [Zowe Systems Squad](#zowe-systems-squad)
+  - [Communication Channels](#communication-channels)
     - [Slack](#slack)
     - [Mailing Lists](#mailing-lists)
     - [Community Forums](#community-forums)
-- [Contribute](#contribute)
+  - [Contribute](#contribute)
     - [Submit an issue](#submit-an-issue)
       - [Pull Request Guidelines](#pull-request-guidelines)
     - [Reporting Security Issues](#reporting-security-issues)
@@ -153,6 +155,17 @@ The primary goals of the squad include (but are not limited to) the following:
 
 Squad committers are documented [here](https://github.com/zowe/community/blob/master/COMMITTERS.md#zowe-explorer-squad).
 
+#### Zowe Deployments Working Group
+
+This working group is less structured than a typical Zowe squad, though no less critical. This working group spins up and down as required by project goals and crosses squad boundaries. The primary goals of this group are:
+
+* Maintain existing "integrated" Zowe release format structures, i.e., Zowe PAX, Zowe SMP/e, Zowe CLI Standalone Package
+* Research and develop additional "integrated" Zowe release formats, i.e., containers
+* Design Zowe Release formats which are maintainable by users - configurable, upgradable/patchable, extensible
+* Define how Zowe Extensions install, configure, and upgrade when used with Zowe release formats.
+* Work with other squads in ensuring alignment to the above goals - particularly communicating release format requirements
+
+
 ### Zowe Operations Squads
 
 #### Documentation Squad
@@ -167,9 +180,9 @@ Spends time in the various community communication channels helping users and th
 
 * https://github.com/zowe/zowe-install-packaging - Packaging repository for the Zowe install scripts and files, managed by the CUPIDS effort
 
-#### Zowe CI/CD Squad
+#### Zowe Systems Squad
 
-Maintains the Zowe installation tools and integration of Zowe components.
+Maintains the Zowe installation tools and integration of Zowe components. The systems squad also manages infrastructure and shares ownership of zowe.org.
 
 * https://github.com/zowe/zowe-install-test - Perform Zowe installation and run smoke/integration tests.
 * https://github.com/zowe/zowe-promote-publish - Promote and publish Zowe build.
