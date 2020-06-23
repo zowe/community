@@ -94,11 +94,45 @@ Doc Squad</td>
             <td>Public Comment</td>
             <td>2020-06-25</td>
             <td>11.00 AM</td>
+            <td>5 mins</td>
+            <td>Facilitator</td>
+            <td></td>
+            <td></td>
+            <td>Provide end of day comments and preparation for Day 2</td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2020-06-25</td>
+            <td>11.05 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers</td>
             <td></td>
             <td></td>
             <td>This time slot is available for the Community to ask questions</td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2020-06-25</td>
+            <td>11:20 AM</td>
+            <td>5 hrs</td>
+            <td>Squad Breakouts</td>
+            <td></td>
+            <td></td>
+            <td>Squad Leads, Squad Members
+- Squads go off to fit stories to sprints and create their Draft PI Objectives
+- Capture Business Value
+
+Zoom Links to meetings:
+- API-ML Squad: : http://meetingURL
+- CI/CD (CUPIDS V2) Squad: http://meetingURL
+- Explorer Squad: http://meetingURL
+- WebUI Squad: http://meetingURL
+- CLI Squad: http://meetingURL
+</td>
             <td></td>
     </tbody>
     <tbody>
@@ -113,7 +147,7 @@ Doc Squad</td>
             <td></td>
             <td></td>
     </tbody>
-    <tbody>
+<tbody>
         <tr>
             <td></td>
             <td></td>
