@@ -15,7 +15,7 @@ Zowe 1.12.0 (April 28, 2020 - May 29, 2020)
 - Code Complete/RC Candidate Build (May 25, 2020)
 - Start Testing (May 25, 2020 - May 29, 2020)
 - System Demo (May 25, 2020)
-- 1.12.0 GA (May 29, 2020)
+- 1.12.0 GA (May 29, 2020) ZLC Vote sent 6/10
 
 Next
 
@@ -33,22 +33,23 @@ Agenda Items
 1. Start Recording
 2. ZLC Updates
 3. Current Release and Build Status (Jack/Mark)
-   - RC2 announced but we found same regression on PTF+TopSecret. This was verified ok with https://github.com/zowe/api-layer/pull/678, but seems not stable as expected.
-     Open Question: should we accept this as a known issue and continue release v1.12.0?
-   - Nightly build has similar issue (we need to update manifest.json on staging to pick most latest APIML build.)
+   - RC3 announced and passed all ZLC votes, waiting for final confirmation.
+   - Nightly build has a failure Desktop exit with code 2 on TopSecret/PTF, under investigation.
 4. Plan
-     - Discuss 1.12.0 Release.
-     - PI Planning Call on 6/8. Discuss [Survey](https://ibm.ent.box.com/notes/672825455060)
+     - Discuss 1.13.0 Release. What are the minimum requirements for this release ?
+     - Discuss [Survey](https://ibm.ent.box.com/notes/672825455060)
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
-      - More UI improvment research
-      - RC testing
+      - High Availability Testing
+      - Fixing bugs from github
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
-      - RC testing
-      - API ML support for keyrings (ZAAS client ready; preparing for tests on Marist)
+      - Keyring validation continuing on Marist
+      - Proposed Github issues for next PI labelled as 20PI3
+      - Jordan Cain to join Squad
     - Foundation (CI/CD) (Mark/Jack/Nick)
-      - Working with different parties on RC build issues, build and test v1.12.0 RC.
+      - Build/test RC3
+      - Started work on performance test client tool
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
