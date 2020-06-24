@@ -105,7 +105,7 @@ https://zoom.us/j/97125019430</td>
 - Capture Business Value
 
 Zoom Links to meetings:
-- API-ML Squad: : https://zoom.us/j/98404818292
+- API-ML Squad: https://zoom.us/j/98404818292
 - Explorer Squad: https://zoom.us/j/94312528890
 - WebUI Squad: https://zoom.us/j/94178728325
 - CLI Squad: https://zoom.us/j/99891777715
