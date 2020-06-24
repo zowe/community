@@ -189,7 +189,7 @@ https://zoom.us/j/95895771194</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
+            <td>Listen Only</td>
             <td>2020-06-26</td>
             <td>10:45 AM</td>
             <td>30 mins</td>
@@ -199,7 +199,7 @@ https://zoom.us/j/95895771194</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
+            <td>Public Comment</td>
             <td>2020-06-26</td>
             <td>11:15 AM</td>
             <td>6 hrs</td>
@@ -245,7 +245,7 @@ https://zoom.us/j/96477938187</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
+            <td>Listen Only</td>
             <td>2020-06-29</td>
             <td>8:00 AM</td>
             <td>10 mins</td>
@@ -255,7 +255,7 @@ https://zoom.us/j/96477938187</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
+            <td>Listen Only</td>
             <td>2020-06-29</td>
             <td>8:10 AM</td>
             <td>2 hrs</td>
@@ -267,7 +267,7 @@ https://zoom.us/j/96477938187</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
+            <td>Listen Only</td>
             <td>2020-06-29</td>
             <td>10:10 AM</td>
             <td>15 mins</td>
