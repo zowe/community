@@ -13,15 +13,14 @@
             <td>Event</td>
             <td>Presenter</td>
             <td>Description</td>
-            <td>Presentation Link</td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
             <td>Day 1
+
 Join Zoom Meeting
 https://zoom.us/j/97125019430</td>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -37,7 +36,6 @@ https://zoom.us/j/97125019430</td>
             <td>Opening Announcement</td>
             <td>Facilitator</td>
             <td>Highlights of the PI Planning</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -50,7 +48,6 @@ https://zoom.us/j/97125019430</td>
             <td>Squad Members, Stakeholders & Users
 
 - The ZLC will describe their wholistic vision for the PI.</td>
-            <td>ZLC</td>
     </tbody>
     <tbody>
         <tr>
@@ -59,7 +56,6 @@ https://zoom.us/j/97125019430</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
-            <td></td>
             <td></td>
             <td></td>
     </tbody>
@@ -75,7 +71,7 @@ https://zoom.us/j/97125019430</td>
             <td>Squad Members, Stakeholders & Users
 
 
-- What does each squad want to do in the next PI?</td>
+- What each squad wants to do in the next PI</td>
             <td>API-ML Squad
 CI/CD (CUPIDS V2) Squad
 CUPIDS Squad
@@ -114,7 +110,7 @@ Doc Squad</td>
             <td>11:20 AM</td>
             <td>5 hrs</td>
             <td>Squad Breakouts</td>
-            <td></td>
+            <td>Squad Leads will run Zoom calls</td>
             <td>Squad Leads, Squad Members
 
 - Squads work offline to fit their stories into sprints and create their Draft PI Objectives
@@ -187,7 +183,6 @@ https://zoom.us/j/95895771194</td>
             <td>Squad Members, Stakeholders & Users
 
 - Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -198,7 +193,6 @@ https://zoom.us/j/95895771194</td>
             <td>Questions and Answers</td>
             <td></td>
             <td>This time slot is available for the Community to ask questions</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -209,7 +203,6 @@ https://zoom.us/j/95895771194</td>
             <td>Break</td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -218,9 +211,8 @@ https://zoom.us/j/95895771194</td>
             <td>10:45 AM</td>
             <td>30 mins</td>
             <td>ZLC Review / Management Discussion</td>
-            <td></td>
+            <td>ZLC</td>
             <td>ZLC, Facilitators there any private feedback needed from the ZLC to squads?</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -229,9 +221,11 @@ https://zoom.us/j/95895771194</td>
             <td>11:15 AM</td>
             <td>6 hrs</td>
             <td>Team Breakouts</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Squad Leads will run Zoom calls</td>
+            <td>
+- CLI Squad: https://zoom.us/j/99891777715
+- WebUI Squad: https://zoom.us/j/95395033185
+</td>
     </tbody>
     <tbody>
         <tr>
@@ -242,11 +236,9 @@ https://zoom.us/j/95895771194</td>
             <td>Day 2 End</td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -267,7 +259,6 @@ https://zoom.us/j/96477938187</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -276,8 +267,7 @@ https://zoom.us/j/96477938187</td>
             <td>8:00 AM</td>
             <td>10 mins</td>
             <td>Explanation of final review</td>
-            <td></td>
-            <td></td>
+            <td>Facilitator</td>
             <td></td>
     </tbody>
     <tbody>
@@ -291,7 +281,6 @@ https://zoom.us/j/96477938187</td>
             <td>Squad Members, Stakeholders & Users
 
 - Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -302,11 +291,9 @@ https://zoom.us/j/96477938187</td>
             <td>Confidence Vote (see below)</td>
             <td>Facilitator</td>
             <td>Squad Members, Stakeholders & Users</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
