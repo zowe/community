@@ -131,7 +131,7 @@ Zoom Links to meetings:
 - CI/CD (CUPIDS V2) Squad: http://meetingURL
 - Explorer Squad: http://meetingURL
 - WebUI Squad: http://meetingURL
-- CLI Squad: http://meetingURL
+- CLI Squad: https://zoom.us/j/99891777715
 - Doc Squad: https://zoom.us/j/646062143 
 </td>
             <td></td>
