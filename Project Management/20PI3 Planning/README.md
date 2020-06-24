@@ -12,7 +12,6 @@
             <td>Duration</td>
             <td>Event</td>
             <td>Presenter</td>
-            <td>Attendees</td>
             <td>Description</td>
             <td>Presentation Link</td>
     </tbody>
@@ -20,10 +19,8 @@
         <tr>
             <td></td>
             <td>Day 1
-
 Join Zoom Meeting
 https://zoom.us/j/97125019430</td>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -39,7 +36,6 @@ https://zoom.us/j/97125019430</td>
             <td>5 mins</td>
             <td>Opening Announcement</td>
             <td>Facilitator</td>
-            <td></td>
             <td>Highlights of the PI Planning</td>
             <td></td>
     </tbody>
@@ -51,7 +47,6 @@ https://zoom.us/j/97125019430</td>
             <td>50 mins</td>
             <td>Business Context / Solution Vision</td>
             <td>ZLC</td>
-            <td>ZLC, Squad Leads, Scrum Master</td>
             <td>Squad Members, Stakeholders & Users
 The ZLC will describe their wholistic vision for the PI.</td>
             <td>ZLC</td>
@@ -66,7 +61,6 @@ The ZLC will describe their wholistic vision for the PI.</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -77,7 +71,6 @@ The ZLC will describe their wholistic vision for the PI.</td>
             <td>Squad vision, 
 10-15 mins each</td>
             <td>Squad Leaders</td>
-            <td>ZLC, Squad Leads, Scrum Master</td>
             <td>Squad Members, Stakeholders & Users
 What does each squad want to do in the next PI?</td>
             <td>API-ML Squad
@@ -97,7 +90,6 @@ Doc Squad</td>
             <td>5 mins</td>
             <td>Facilitator</td>
             <td></td>
-            <td></td>
             <td>Provide end of day comments and preparation for Day 2</td>
             <td></td>
     </tbody>
@@ -108,7 +100,6 @@ Doc Squad</td>
             <td>11.05 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers</td>
-            <td></td>
             <td></td>
             <td>This time slot is available for the Community to ask questions</td>
             <td></td>
@@ -121,7 +112,6 @@ Doc Squad</td>
             <td>5 hrs</td>
             <td>Squad Breakouts</td>
             <td></td>
-            <td></td>
             <td>Squad Leads, Squad Members
 - Squads go off to fit stories to sprints and create their Draft PI Objectives
 - Capture Business Value
@@ -132,7 +122,7 @@ Zoom Links to meetings:
 - Explorer Squad: http://meetingURL
 - WebUI Squad: http://meetingURL
 - CLI Squad: https://zoom.us/j/99891777715
-- Doc Squad: https://zoom.us/j/646062143 
+- Doc Squad: https://zoom.us/j/646062143
 </td>
             <td></td>
     </tbody>
@@ -146,11 +136,9 @@ Zoom Links to meetings:
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
 <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -173,7 +161,6 @@ https://zoom.us/j/95895771194</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -183,7 +170,6 @@ https://zoom.us/j/95895771194</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A</td>
             <td>Facilitator</td>
-            <td>ZLC, Squad Leads, Scrum Master</td>
             <td>Squad Members, Stakeholders & Users</td>
             <td></td>
     </tbody>
@@ -195,7 +181,6 @@ https://zoom.us/j/95895771194</td>
             <td>2 hrs</td>
             <td>Squad Draft Readouts</td>
             <td>Squad Leads</td>
-            <td>ZLC, Squad Leads, Scrum Maste</td>
             <td>Squad Members, Stakeholders & Users
 15 mins each squad, read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
             <td></td>
@@ -207,7 +192,6 @@ https://zoom.us/j/95895771194</td>
             <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers</td>
-            <td></td>
             <td></td>
             <td>This time slot is available for the Community to ask questions</td>
             <td></td>
@@ -222,7 +206,6 @@ https://zoom.us/j/95895771194</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -231,7 +214,6 @@ https://zoom.us/j/95895771194</td>
             <td>10:45 AM</td>
             <td>30 mins</td>
             <td>ZLC Review / Management Discussion</td>
-            <td></td>
             <td></td>
             <td>ZLC, Facilitators there any private feedback needed from the ZLC to squads?</td>
             <td></td>
@@ -244,7 +226,6 @@ https://zoom.us/j/95895771194</td>
             <td>6 hrs</td>
             <td>Team Breakouts</td>
             <td></td>
-            <td>Squad Leads, Squad Members</td>
             <td></td>
             <td></td>
     </tbody>
@@ -258,11 +239,9 @@ https://zoom.us/j/95895771194</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -285,7 +264,6 @@ https://zoom.us/j/96477938187</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -294,7 +272,6 @@ https://zoom.us/j/96477938187</td>
             <td>8:00 AM</td>
             <td>10 mins</td>
             <td>Explanation of final review</td>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -307,7 +284,6 @@ https://zoom.us/j/96477938187</td>
             <td>2 hrs</td>
             <td>Final Readouts</td>
             <td>Squad Leads</td>
-            <td>ZLC, Squad Leads, Scrum Master</td>
             <td>Squad Members, Stakeholders & Users
 Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
             <td></td>
@@ -320,13 +296,11 @@ Teams read their final list of objectives, highlight changes since yesterday, ou
             <td>15 mins</td>
             <td>Confidence Vote (see below)</td>
             <td>Facilitator</td>
-            <td>ZLC, Squad Leads, Scrum Master</td>
             <td>Squad Members, Stakeholders & Users</td>
             <td></td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
