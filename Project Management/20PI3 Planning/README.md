@@ -127,7 +127,7 @@ Doc Squad</td>
 - Capture Business Value
 
 Zoom Links to meetings:
-- API-ML Squad: : http://meetingURL
+- API-ML Squad: : https://zoom.us/j/98404818292
 - CI/CD (CUPIDS V2) Squad: http://meetingURL
 - Explorer Squad: http://meetingURL
 - WebUI Squad: http://meetingURL
