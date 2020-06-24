@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[06-23-2020](https://zoom.us/rec/share/wudafrHcyX1JXLfxzljcUJYaIK_gT6a82iNP_qVfy09s6UgsKSi1LQ3o-wAhEp9O?startTime=1592921131000)
+
 [06-16-2020](https://zoom.us/rec/share/7MhQcLvv8V5IGJHCymPdZ4sLAtjeT6a8hiMdqKVYyUoo5AGbMiZHO1tYYlGFzAQ?startTime=1592316121000)
 - [Meeting Charts](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Extending.Zowe.Lifecycle.pptx)
 
