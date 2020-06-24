@@ -65,21 +65,11 @@ https://zoom.us/j/97125019430</td>
             <td>2020-06-25</td>
             <td>9:00 AM</td>
             <td>2 hrs</td>
-            <td>Squad vision, 
-10-15 mins each</td>
+            <td>Squad vision, 10-15 mins each</td>
             <td>Squad Leaders</td>
             <td>Squad Members, Stakeholders & Users
 
-
 - What each squad wants to do in the next PI</td>
-            <td>API-ML Squad
-CI/CD (CUPIDS V2) Squad
-CUPIDS Squad
-Explorer Squad
-WebUI Squad
-CLI Squad
-Onboarding
-Doc Squad</td>
     </tbody>
     <tbody>
         <tr>
@@ -90,7 +80,6 @@ Doc Squad</td>
             <td></td>
             <td>Facilitator</td>
             <td>Provide end of day comments and preparation for Day 2</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -101,7 +90,6 @@ Doc Squad</td>
             <td>Questions and Answers</td>
             <td></td>
             <td>This time slot is available for the Community to ask questions</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -123,7 +111,6 @@ Zoom Links to meetings:
 - CLI Squad: https://zoom.us/j/99891777715
 - Doc Squad: https://zoom.us/j/646062143
 </td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -134,11 +121,9 @@ Zoom Links to meetings:
             <td>Day 1 End</td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
 <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -159,7 +144,6 @@ https://zoom.us/j/95895771194</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -170,7 +154,6 @@ https://zoom.us/j/95895771194</td>
             <td>Explanation of Draft Readouts / Pre Q&A</td>
             <td>Facilitator</td>
             <td>Squad Members, Stakeholders & Users</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
