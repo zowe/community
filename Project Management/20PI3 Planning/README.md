@@ -48,7 +48,8 @@ https://zoom.us/j/97125019430</td>
             <td>Business Context / Solution Vision</td>
             <td>ZLC</td>
             <td>Squad Members, Stakeholders & Users
-The ZLC will describe their wholistic vision for the PI.</td>
+
+- The ZLC will describe their wholistic vision for the PI.</td>
             <td>ZLC</td>
     </tbody>
     <tbody>
@@ -57,7 +58,7 @@ The ZLC will describe their wholistic vision for the PI.</td>
             <td>2020-06-25</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
-            <td>5 min break / swap to Squad vision</td>
+            <td>5 min break / Switch to Squad Vision</td>
             <td></td>
             <td></td>
             <td></td>
@@ -72,7 +73,9 @@ The ZLC will describe their wholistic vision for the PI.</td>
 10-15 mins each</td>
             <td>Squad Leaders</td>
             <td>Squad Members, Stakeholders & Users
-What does each squad want to do in the next PI?</td>
+
+
+- What does each squad want to do in the next PI?</td>
             <td>API-ML Squad
 CI/CD (CUPIDS V2) Squad
 CUPIDS Squad
@@ -88,8 +91,8 @@ Doc Squad</td>
             <td>2020-06-25</td>
             <td>11.00 AM</td>
             <td>5 mins</td>
-            <td>Facilitator</td>
             <td></td>
+            <td>Facilitator</td>
             <td>Provide end of day comments and preparation for Day 2</td>
             <td></td>
     </tbody>
@@ -113,14 +116,14 @@ Doc Squad</td>
             <td>Squad Breakouts</td>
             <td></td>
             <td>Squad Leads, Squad Members
-- Squads go off to fit stories to sprints and create their Draft PI Objectives
+
+- Squads work offline to fit their stories into sprints and create their Draft PI Objectives
 - Capture Business Value
 
 Zoom Links to meetings:
 - API-ML Squad: : https://zoom.us/j/98404818292
-- CI/CD (CUPIDS V2) Squad: http://meetingURL
-- Explorer Squad: http://meetingURL
-- WebUI Squad: http://meetingURL
+- Explorer Squad: https://zoom.us/j/94312528890
+- WebUI Squad: https://zoom.us/j/94178728325
 - CLI Squad: https://zoom.us/j/99891777715
 - Doc Squad: https://zoom.us/j/646062143
 </td>
@@ -182,7 +185,8 @@ https://zoom.us/j/95895771194</td>
             <td>Squad Draft Readouts</td>
             <td>Squad Leads</td>
             <td>Squad Members, Stakeholders & Users
-15 mins each squad, read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
+
+- Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
             <td></td>
     </tbody>
     <tbody>
@@ -285,7 +289,8 @@ https://zoom.us/j/96477938187</td>
             <td>Final Readouts</td>
             <td>Squad Leads</td>
             <td>Squad Members, Stakeholders & Users
-Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
+
+- Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
             <td></td>
     </tbody>
     <tbody>
