@@ -132,6 +132,7 @@ Zoom Links to meetings:
 - Explorer Squad: http://meetingURL
 - WebUI Squad: http://meetingURL
 - CLI Squad: http://meetingURL
+- Doc Squad: https://zoom.us/j/646062143 
 </td>
             <td></td>
     </tbody>
