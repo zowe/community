@@ -20,7 +20,11 @@
             <td>Day 1
 
 Join Zoom Meeting
-https://zoom.us/j/97125019430</td>
+https://zoom.us/j/97125019430
+
+[Meeting Minutes](https://zoom.us/rec/share/7-suFovx0zhJQbfw71_4QrR_J6fVaaa80CBL-aEJmUYETMsDuRzn1j-JEx8m166V?startTime=1593086467000)
+
+</td>
             <td></td>
             <td></td>
             <td></td>
