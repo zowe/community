@@ -1,7 +1,12 @@
 <table>
     <thead>
         <tr>
-            <th colspan="2">20PI3 PI Planning</th>
+            <th colspan="2">20PI3 PI Planning
+
+- [Day 1 Meeting Minutes](https://zoom.us/rec/share/7-suFovx0zhJQbfw71_4QrR_J6fVaaa80CBL-aEJmUYETMsDuRzn1j-JEx8m166V?startTime=1593086467000)
+
+- [Day 2 Meeting Minutes](https://zoom.us/rec/share/385OdZrN50FIUNKOrxHddYonNYC8X6a8higdrqJYyEofAvR8HSMEX1ypErvBN6lV?startTime=1593172903000)
+</th>
         </tr>
     </thead>
     <tbody>
@@ -142,7 +147,10 @@ Zoom Links to meetings:
             <td>Day 2
 
 Join Zoom Meeting
-https://zoom.us/j/95895771194</td>
+https://zoom.us/j/95895771194
+
+[Meeting Minutes](https://zoom.us/rec/share/385OdZrN50FIUNKOrxHddYonNYC8X6a8higdrqJYyEofAvR8HSMEX1ypErvBN6lV?startTime=1593172903000)
+</td>
             <td></td>
             <td></td>
             <td></td>
@@ -237,10 +245,7 @@ https://zoom.us/j/95895771194</td>
     <tbody>
         <tr>
             <td></td>
-            <td>Day 3
-
-Join Zoom Meeting
-https://zoom.us/j/96477938187</td>
+            <td>Day 3 (cancelled)</td>
             <td></td>
             <td></td>
             <td></td>
