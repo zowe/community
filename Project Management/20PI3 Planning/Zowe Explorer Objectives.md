@@ -2,7 +2,7 @@
 
 ## Zowe Explorer Conformance Guidelines
 
-* **https://github.com/zowe/vscode-extension-for-zowe/issues/837**: Publish and support an official Extensibility API with conformance rule:
+* **[ZE#837](https://github.com/zowe/vscode-extension-for-zowe/issues/837)**: Publish and support an official Extensibility API with conformance rule:
   - Setup the Zowe Explorer repository for ease of maintenance of the NPM package (e.g. code refactoring and tool selection)
   - Refine the scope of APIs to be exported and implement high priority fixes/enhancements. (multiple issues)
   - Extract API code into its own NPM package for extenders to include.
@@ -13,7 +13,7 @@
 
 ## Support SSO for API ML in Zowe Explorer
 
-* **https://github.com/zowe/vscode-extension-for-zowe/issues/901**: Leverage the Zowe CLI security enhancements.
+* **[ZE#901](https://github.com/zowe/vscode-extension-for-zowe/issues/901)**: Leverage the Zowe CLI security enhancements.
   - Enable Zowe Explorer for read base profiles/tokens authorized in CLI ([ZE#912](https://github.com/zowe/vscode-extension-for-zowe/issues/912))
   - **Stretch**: Implement new workflow for creating base profiles ([ZE#913](https://github.com/zowe/vscode-extension-for-zowe/issues/913))
 
