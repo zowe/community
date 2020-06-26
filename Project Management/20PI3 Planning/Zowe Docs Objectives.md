@@ -52,6 +52,8 @@
    **Deliverable:**   
    - Consistent CHANGELOGs containing issue numbers or PR numbers are set up in dev repos. 
    - Automatic build set up to copy CHANGELOG content of the release to release notes for publish. 
+   
+   **Dependency:** All squads (unify CHANGELOG format and style)
 
 5. Zowe users can install, configure, and use Zowe by watching a series of videos or view diagrams. [#1239](https://github.com/zowe/docs-site/issues/1239) and [#38](https://github.com/zowe/docs-site/issues/38)
    
