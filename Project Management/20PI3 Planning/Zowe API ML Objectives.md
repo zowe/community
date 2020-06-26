@@ -28,7 +28,7 @@ Sprint 3 - #472 - Implementation
 * [Focus on high priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/20PI3)
 
 
-## Dependencies & Support for other Squads - 20PI3 Objectives (June 2020 to September 2020)
+# Dependencies & Support for other Squads - 20PI3 Objectives (June 2020 to September 2020)
 
 
 ## Support System Squad Zowe Performance Testing Infrastructure and Pipelines Objective
