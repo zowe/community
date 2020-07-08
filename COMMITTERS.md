@@ -14,7 +14,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Fyodor Kovin - @fkovinAtRocket (fkovin@rocketsoftware.com)
 - Vsevolod Khanin - @vsev0lod (vsevolod.khanin@broadcom.com)
 - Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
-- Ilkin Abdullayev - @ilkinabdullayev (ilkin.abdullayev@broadcom.com)
 - David Janda - @jandadav (david.janda@broadcom.com)
 - Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
 - Pavlin Zahariev - ? (pavlin.zahariev@broadcom.com)
@@ -26,6 +25,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Leonid Baranov - ? (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Pavel Jares - ? (pavel.jares@broadcom.com)
+- Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 
 ### Zowe CLI Squad
 
