@@ -1,6 +1,8 @@
 # Architecture Call Recordings
 
-[07-07-2020](https://zoom.us/rec/share/9fxRfrXL-2RLWpHVs2T0YIAnGZy6X6a8hiQa_qZYyUucfbt4KR_JGhQ2PdpFviCi?startTime=1594130496000) (High Availability)
+High Availability
+[07-07-2020](https://zoom.us/rec/share/9fxRfrXL-2RLWpHVs2T0YIAnGZy6X6a8hiQa_qZYyUucfbt4KR_JGhQ2PdpFviCi?startTime=1594130496000) Meeting 1 Recording
+[07-09-2020](https://zoom.us/rec/share/3pdQL7Xp5mlLG431wWzdBrR4D7rfT6a81iZI-fEMnxvt4jmapyjXt8V3ETVs7wcW?startTime=1594307213000) Meeting 2 Recording
 - [Meeting Charts](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/2020PI3%20-%20high%20availability.key)
 
 [06-23-2020](https://zoom.us/rec/share/wudafrHcyX1JXLfxzljcUJYaIK_gT6a82iNP_qVfy09s6UgsKSi1LQ3o-wAhEp9O?startTime=1592921131000)
