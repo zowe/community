@@ -94,9 +94,10 @@ Zowe Mobile is a mobile-oriented visualization layer for services integrated wit
 
 Zowe Client SDK is a set of programming libraries targeting specific languages to offer a better programming experience for developers who wish to integrate Zowe base and conformant services into their application. The Zowe Client SDKs offer consistent and language-specific access to REST APIs on z/OS that are integrated with the Zowe API Mediation Layer. Developers will be able to import the appropriate language Zowe Client SDK into their project and avoid the complexities of coding to REST APIs directly.
 
-The Zowe Client SDK incubation sub-project is currently developing SDKs for Node.JS and Python.
+The Zowe Client SDK incubation sub-project is currently developing SDKs for Node.JS, Swift and Python.
 
 * https://github.com/zowe/zowe-client-python-sdk - The Zowe Client Python SDK offers a python library for programmatic access to z/OS services integrated with Zowe.
+* https://github.com/zowe/zowe-client-swift-sdk - The Zowe Client Swift SDK offers a swift library for programmatic access to z/OS services integrated with Zowe.
 
 ## Zowe Squads
 
