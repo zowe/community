@@ -1,0 +1,7 @@
+
+15:41:34	 From Jelly Punongbayan : https://docs.zowe.org/v1-0-x/user-guide/cli-cicsplugin.html15:54:59	 From Joe Winchester : Ezrie\s CICS COBOL Fridays where he will deep dive on what he showed today is Friday 7/24 10:30 EST https://www.crowdcast.io/e/cobol-fridays-cics
+16:00:29	 From Alexandru Dumitru : Links to VS Code resources that can help complement your VS Code experience with embedded tasks:
+https://code.visualstudio.com/docs/editor/tasks#_custom-tasks
+https://code.visualstudio.com/docs/editor/variables-reference
+https://code.visualstudio.com/api/extension-guides/task-provider
+16:01:30     From Joe Winchester    : Link to Ezriel's COBOL Fridays on CICS https://www.crowdcast.io/e/cobol-fridays-cics
