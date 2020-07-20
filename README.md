@@ -98,6 +98,7 @@ The Zowe Client SDK incubation sub-project is currently developing SDKs for Node
 
 * https://github.com/zowe/zowe-client-python-sdk - The Zowe Client Python SDK offers a python library for programmatic access to z/OS services integrated with Zowe.
 * https://github.com/zowe/zowe-client-swift-sdk - The Zowe Client Swift SDK offers a swift library for programmatic access to z/OS services integrated with Zowe.
+* https://github.com/zowe/zowe-cli/tree/master/packages - The Zowe Node.js SDK is being developed for programmatic access to z/OS services integrated with Zowe.
 
 ## Zowe Squads
 
