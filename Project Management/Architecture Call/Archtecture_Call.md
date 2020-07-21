@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[07-21-2020](https://zoom.us/rec/share/5-1qC-yv11JOXNLr2X7RBLYuTpm8aaa80Cga8vUKmEy42r3doBRQx1gx-Y3CXMqC?startTime=1595340036000) Static Web UI Server and Further HA Discussion
+
 High Availability
 - [07-07-2020](https://zoom.us/rec/share/9fxRfrXL-2RLWpHVs2T0YIAnGZy6X6a8hiQa_qZYyUucfbt4KR_JGhQ2PdpFviCi?startTime=1594130496000) Meeting 1 Recording
 - [07-09-2020](https://zoom.us/rec/share/3pdQL7Xp5mlLG431wWzdBrR4D7rfT6a81iZI-fEMnxvt4jmapyjXt8V3ETVs7wcW?startTime=1594307213000) Meeting 2 Recording
