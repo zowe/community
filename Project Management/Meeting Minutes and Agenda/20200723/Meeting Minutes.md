@@ -20,6 +20,8 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Fixed bug that text files with unconvertible characters causerd ZSS to send HTTP messages
+      - Install application on Zowe With Docker
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)
       - Performance Objective Squad point of contact confirmed as David Janda
       - HA objective Squad point of contact confirmed as Jordan Cain
