@@ -1,7 +1,7 @@
 # Architecture Call Recordings
 
 [07-28-2020](https://zoom.us/rec/share/tZdvCOmt9mlIbtKU9FyCYqs9DN3DT6a8gXUW_qFfyU7xK1LJPOPt9RLsAs1PlqN2?startTime=1595944958000) Open Source Project called 'zospm' (previously called zbrew)
-- Meeting Charts
+- [Meeting Charts](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/zospm-and-zowe.pptx)
 
 [07-21-2020](https://zoom.us/rec/share/5-1qC-yv11JOXNLr2X7RBLYuTpm8aaa80Cga8vUKmEy42r3doBRQx1gx-Y3CXMqC?startTime=1595340036000) Static Web UI Server and Further HA Discussion
 
