@@ -21,6 +21,8 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+      - Preparing for RC
+      - Zowe playback ML agenda confirmed
     - Foundation (CI/CD) (Steve)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
