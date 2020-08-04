@@ -2,6 +2,7 @@
 
 The blogsite https://medium.com/zowe is administered by the Open Mainframe Project (OMP).  To contact the team responsible for blog contents e-mail [zowe-blog-editors@openmainframeproject.org](email:zowe-blog-editors@openmainframeproject.org).
 
+ - [Tracking of blogs](#tracking-of-the-blog-pipeline-and-publication-progress)
  - [Blog preparation](#blog-preparation)
  - [Publishing steps](#publishing-steps)
    - [When ready to write](#when-ready-to-write)
@@ -14,6 +15,11 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - [Zowe Incubation](#zowe-incubation)
  - [Personas](#personnas)
  - [Promotion](#promotion)
+
+
+### Tracking of the blog pipeline and publication progress
+
+- The pipeline of blogs for the [Zowe Medium Blog Site](https://medium.com/zowe) is available for viewing on a publicly accessible [KanBan board](https://github.com/orgs/openmainframeproject/projects/4).  This allows anyone to see what articles are being worked on by others prior to publication, and also for a blog author it let you see the status of your blog being edited as well as the assigned reviewers.  
 
 ## Blog preparation
 
@@ -39,6 +45,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
 ### When ready to write
 
+ - Go to the Zowe blog [KanBan board](https://github.com/orgs/openmainframeproject/projects/4) to see what other blogs are being worked on in case there is a blog already being authored/prepared on the same topic.  See also [Tracking of blogs](#tracking-of-the-blog-pipeline-and-publication-progress)
  - Go to [Medium.com](https://medium.com)
  - Click your profile (should be logged in)
  - Click New Story
@@ -91,6 +98,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
   - OMP team will do final check for grammar and branding
   - OMP will schedule it and promote via social media
   - OMP team will let author know publication date and share via social media
+  - To check on the status of your blog check the Zowe blog [KanBan board](https://github.com/orgs/openmainframeproject/projects/4).  This will let you see the reviewers who are editing your blog as well as read and add any github comments regarding its publication.  See [Tracking of blogs](#tracking-of-the-blog-pipeline-and-publication-progress)
   
   **Please do not publish your own post.**
 
