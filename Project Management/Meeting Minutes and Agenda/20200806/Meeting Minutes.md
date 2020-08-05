@@ -16,7 +16,6 @@ Agenda Items
 3. Current Release and Build Status (Steve)
 4. Plan
      - Discuss 1.14.0 Release.
-     - System Demo booked for Tuesday, August 4th, 2020 (9:00am to 10:00am)
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
