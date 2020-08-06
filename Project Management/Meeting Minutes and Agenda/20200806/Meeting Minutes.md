@@ -19,6 +19,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Create autoconvert script for ebcdic plugins
+      - Trigger de/registration process on install/uninstall event
+      - Automatically Call install-app.sh for External Docker Plugins
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
          - The API ML Integration and End2End tests passed against RC1; RC2 testing in progress
          - Started issue 'Support that APIML can be started without z/OSMF #472'
