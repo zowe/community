@@ -22,11 +22,12 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- Leonid Baranov - ? (leonid.baranov@broadcom.com)
+- Leonid Baranov - @lb891790 (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Pavel Jares - ? (pavel.jares@broadcom.com)
+- Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 - Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
+- Aman Prashant - @ap891843 (aman.prashant@broadcom.com)
 
 ### Zowe CLI Squad
 
