@@ -20,6 +20,9 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+         - The API ML Integration and End2End tests passed against RC1; RC2 testing in progress
+         - Started issue 'Support that APIML can be started without z/OSMF #472'
+         - Began work on a design proposal for x.509 'x509: Design composite APIML & SAF authentication #759'
     - High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
