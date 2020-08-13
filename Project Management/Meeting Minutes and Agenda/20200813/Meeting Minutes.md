@@ -25,6 +25,9 @@ Agenda Items
          - Aman Prashant became the newest member of the API ML Squad
          - Drafting a blog on SAF Keyrings
     - Performance & High Availability (HA) (Jack)
+      - Performed experiments on starting multiple instances of Gateway and Discovery services and the tests are undergoing.
+      - Received feedbacks on z/OSMF HA questions.
+      - Investigated collecting RMF metrics programmatically.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
