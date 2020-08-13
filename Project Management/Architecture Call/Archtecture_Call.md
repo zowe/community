@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[08-11-2020](https://zoom.us/rec/share/4Jx5E7Ds60xIfqvK7Hr2RL9wMoW5aaa80XQf-qJcmkwerbgRRxeBjNq3UdMI48sL?startTime=1597154563000) Zowe Client Certification Authentication Proposal
+
 [08-05-2020](https://zoom.us/rec/share/y516Aa2vzUZOWp2cy2zNa_Z8Ja68aaa8gHJPrvBfnhxt7AZTZoLfA_cWS6r3Brt5?startTime=1596549937000)
 
 [07-28-2020](https://zoom.us/rec/share/tZdvCOmt9mlIbtKU9FyCYqs9DN3DT6a8gXUW_qFfyU7xK1LJPOPt9RLsAs1PlqN2?startTime=1595944958000) Open Source Project called 'zospm' (previously called zbrew)
