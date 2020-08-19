@@ -16,16 +16,18 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
 - David Janda - @jandadav (david.janda@broadcom.com)
 - Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
-- Pavlin Zahariev - ? (pavlin.zahariev@broadcom.com)
+- Pavlin Zahariev - @pinpan (pavlin.zahariev@broadcom.com)
 - Irek Fakhrutdinov - @ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
 - Jakub Balhar - @balhar-jakub (jakub.balhar@broadcom.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- Leonid Baranov - ? (leonid.baranov@broadcom.com)
+- Leonid Baranov - @lb891790 (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Pavel Jares - ? (pavel.jares@broadcom.com)
+- Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
+- Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
+- Aman Prashant - @ap891843 (aman.prashant@broadcom.com)
 
 ### Zowe CLI Squad
 
@@ -55,36 +57,17 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 
 ### Zowe App Framework Squad
+Committers are tracked via github teams, for permission management
+Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
+Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
+
 
 - Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
 - JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
-- Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
-- (No idea) John Gellin - @jgellin (email?)
-- (No idea) Adam Battenburg - @adambattenburg (email?)
-- (No idea) Jason Enzi - @jayenzi (email?)
-- Tim Gerstel - @timgerstel (tgerstel@rocketsoftware.com)
-- Suneeth Keerthy - @sakeerthy (skeerthy@rocketsoftware.com)
-- Leanid Astrakou - @DivergentEuropeans (lastrakou@rocketsoftware.com)
-- Leonty Chudinov - @lchudinov (lchudinov@rocketsoftware.com)
-- (Emeritus Status) Dmitry Prizentsov - @dprizentsov (dprizentsov@rocketsoftware.com)
-- (Emeritus Status) Jason English - @jasonenglish2039 (jenglish@rocketsoftware.com)
-- (Emeritus Status) Reet Chowdhary - @reetchow (rchowdhary@rocketsoftware.com)
-- Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
-- (No idea) Jürgen Holtz - @juergen-holtz (holtz@de.ibm.com)
-- fkovinAtRocket (fkovin@rocketsoftware.com)
-- rpenny125 (rpenny@rocketsoftware.com)
-- dmitrynikolaev (dnikolaev@rocketsoftware.com)
-- (Emeritus Status) colavitam ???
-- jordanfilteau1995 (jfilteau@rocketsoftware.com)
-- sakeerthy (skeerthy@rocketsoftware.com)
-- toddwellman (twellman@rocketsoftware.com)
-- nakulmanchanda (nakul.manchanda@ibm.com)
-- rocketjared (jhunter@rocketsoftware.com)
-- ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
-- hogstrom (hogstrom@us.ibm.com)
-- gadyck (gdyck@rocketsoftware.com)
-- daveyc (dcrayford@rocketsoftware.com)
-- James Struga (jstruga@rocketsoftware.com)
+- Server framework committers - https://github.com/orgs/zowe/teams/committers-app-server-framework
+- UI framework committers - https://github.com/orgs/zowe/teams/committers-app-ui-framework
+- App committers - https://github.com/orgs/zowe/teams/committers-apps
+- ZSS committers - https://github.com/orgs/zowe/teams/committers-zss
 
 ### Zowe Explorer Squad
 
