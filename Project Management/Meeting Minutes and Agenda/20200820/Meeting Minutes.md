@@ -25,6 +25,9 @@ Agenda Items
       - Add/Remove Message IDs to Zowe-Common-C
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
     - Performance & High Availability (HA) (Jack)
+      * Several experiments on starting multiple instances of Gateway/Discovery continued.
+      * Investigating HA for z/OSMF, VIPA/DVIPA configurations on single LPAR
+      * Refactored Zowe Metrics Server and started to add RMF-DDS metrics worker.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
