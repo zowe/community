@@ -20,6 +20,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Reject Plugins That Have Unfulfilled Requirement
+      - Create Agent REST API For ZSS
+      - Add/Remove Message IDs to Zowe-Common-C
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
