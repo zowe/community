@@ -88,7 +88,7 @@ Zowe 1.14.0 (July 7, 2020 - Aug 7, 2020)
 Zowe 1.15.0 (Aug 4, 2020 - Sept 4, 2020)
 - Sprint 1 (PI Sprint 3) (Aug 4, 2020 - Aug 17, 2020)
 - Sprint 2  (PI Sprint 4)  (Aug 18, 2020 - Aug 31, 2020)
-- Code Complete/RC Candidate Build (Aug 31, 2020)
+- Code Complete/RC Candidate Build (Aug 31, 2020) **Aug 31 is a Holiday in UK. Moving RC to Aug 28**
 - Start Testing (Aug 31, 2020 - Sept 4, 2020)
 - System Demo (Aug 31, 2020)
 - 1.15.0 GA (Sept 4, 2020)
