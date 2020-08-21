@@ -20,7 +20,12 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Generate python server as a mock server
+      - Recalling migrated datasets in Editor
+      - Preparing for RC
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+      - Preparing for RC
+      - Zowe playback ML agenda confirmed
     - Foundation (CI/CD) (Steve)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
