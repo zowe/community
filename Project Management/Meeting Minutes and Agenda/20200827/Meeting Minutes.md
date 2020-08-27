@@ -22,6 +22,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
     - Performance & High Availability (HA) (Jack)
+      * Provided proposal to improve Zowe Launcher to solve failover issue.
+      * Finished the first stage of importing RMF metrics, and updated metrics dashboard.
+      * Done investigation on how z/OSMF High Availability works on single LPAR (any possibility to use VIPA).
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
