@@ -23,7 +23,10 @@ Agenda Items
       - Reject Plugins That Have Unfulfilled Requirements
       - Create Agent REST API For ZSS
       - Add Support For p12 Files for Docker
-    - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+    - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - Plan meet with Web Squad to discuss Client Certificate code to go into ZSS
+      - Completed 1 PI objective to add SAF as an additional authentication provider (no dependency on z/OSMF)
+      - Started formulating survey questions to share with Community for 20PI4 objectives
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
