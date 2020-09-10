@@ -17,6 +17,9 @@ Agenda Items
 4. Plan
      - Discuss 1.16.0 Release (GA Oct 2, 2020)
      - System Demo (Sept 29, 2020) Sept 28 is State Holiday in Czech Rep. Moving out 1 day to Sept 29 at 11:00 a.m. EDT
+     - PI Planning Preparation
+       - Agenda (https://ibm.ent.box.com/notes/713879742265)
+       - Squad Input Objectives (https://ibm.ent.box.com/notes/712189314183)
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
