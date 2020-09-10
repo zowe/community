@@ -96,7 +96,7 @@ Zowe 1.15.0 (Aug 4, 2020 - Sept 4, 2020)
 Zowe 1.16.0 (Sept 1, 2020 - Oct 2, 2020)
 - Sprint 1  (PI Sprint 5) (Sept 1, 2020 - Sept 14, 2020)
 - Sprint 2  (PI Sprint 6) (Sept 15, 2020 - Sept 28, 2020)
-- Code Complete/RC Candidate Build (Sept 14, 2020)
+- Code Complete/RC Candidate Build (Sept 28, 2020)
 - Start Testing (Sept 28, 2020 - Oct 2, 2020)
 - System Demo (Sept 29, 2020) **Sept 28 is State Holiday in Czech Rep. Moving out 1 day to Sept 29 at 11:00 a.m. EDT**
 - 1.16.0 GA (Oct 2, 2020)
