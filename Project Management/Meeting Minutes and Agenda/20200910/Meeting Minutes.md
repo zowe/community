@@ -29,6 +29,10 @@ Agenda Items
       - Improved API ML's Single Sign-On documentation (#677)
       - Additional objective for 20PI4: Metrics Dashboard for ML Services #820
     - Performance & High Availability (HA) (Jack)
+      - Performance test case now supports non-GET http requests (POST/PUT/DELETE etc).
+      - Performance test pipeline is setup can be started with customized parameters, also scheduler is added to run idle test case every day (no traffic workload send to server).
+      - More discussion on HA, redis vs other state sharing method, dynamic registration, etc.
+      - Working on collecting SMF30 records.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
