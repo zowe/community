@@ -24,7 +24,10 @@ Agenda Items
       - Make Docker work with certificate verification on
       - Statically Register ZSS Into the Mediation Layer
       - File Abilities - Changing Permissions
-    - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+    - API Mediation Layer & Security (Elliot/Michal S/Petr P)
+      - ZSS implementation for x509 in progress
+      - Improved API ML's Single Sign-On documentation (#677)
+      - Additional objective for 20PI4: Metrics Dashboard for ML Services #820
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
