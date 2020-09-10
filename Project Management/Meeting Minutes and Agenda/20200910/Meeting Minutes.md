@@ -20,6 +20,10 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - ZSS logger formatting & control
+      - Make Docker work with certificate verification on
+      - Statically Register ZSS Into the Mediation Layer
+      - File Abilities - Changing Permissions
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
