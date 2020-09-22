@@ -1,35 +1,44 @@
-# Zowe API ML & Security Squad - 20PI3 Objectives (June 2020 to September 2020)
+# Zowe API ML & Security Squad - 20PI4 Objectives (October 2020 to December 2020)
 
 
-## x.509 client certificate authentication support for API Mediation Layer
-(in support of SECURITY theme)
+## High-availability support implementation
+(in support of RESILIENCE theme)
 
-* [X.509 client certificate authentication support for API Mediation Layer #704](https://github.com/zowe/api-layer/issues/704)
-Zowe API ML can validate client certificates by using ESM to map the certificate with the user mainframe identity and issue a JWT
-
-API ML Squad Plan:  
-Sprint 2 - (SPIKE) design composite APIML & SAF authentication  
-Sprint 3 - (SPIKE) SAF certificate validation research  
-Sprint 4 - (SPIKE) Research reloading KS/KR at runtime  
-Sprint 5 - zOSMF Implementation  
-Sprint 6 - SAF Implementation  
-
-## Remove the dependency of Zowe API ML on z/OSMF for authentication and use SAF to obtain the JWT
-(in support of SECURITY theme)
-
-* [Support that APIML can be started without z/OSMF #472](https://github.com/zowe/api-layer/issues/472)
-Instead of a call to z/OSMF, Zowe API ML will use SAF APIs to verify credentials. This will be implemented as an additional provider, the z/OSMF authentication provider will remain the default.
+* [API ML Squad Issue: Support for high availability / sysplex distributor in API Mediation Layer #705](https://github.com/zowe/api-layer/issues/705)
+The usage of Dynamic Virtual IP Address (DVIPA) will ensure that if an instance of Gateway and/or Discovery fails on one system (LPAR1), the other system (LPAR2) continues to provide service functionality through a sysplex distributor.
 
 API ML Squad Plan:  
-Sprint 3 - #472 - Implementation
+Sprint 1 - #00 - TBD  
+
+## API versioning support reflected in the Zowe API ML Catalog
+(in support of ADOPTION theme)
+
+* [API versioning support reflected in the Zowe API ML Catalog #844](https://github.com/zowe/api-layer/issues/844)
+API Catalog displays the major API versions of a service. The API ML gateway now offers the ability to use multiple versions of an API at the same time. This objective will see this reflected in the Catalog so that it displays the major API versions of a service. The recommended version from the service owner is shown by default.
+
+API ML Squad Plan:  
+Sprint 1 - #00 - TBD
+
+## AT-TLS aware Zowe API ML
+
+* [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)
+Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.
+
+API ML Squad Plan:  
+Sprint 1 - #00 - TBD
+
+## Zowe API ML Metrics dashboard
+
+* [Metrics Dashboard for ML Services #820](https://github.com/zowe/api-layer/issues/820)
+Allow Tyler, the Zowe API ML administator, to track the security, health and performance of the API ML. 
+A single dashboard that clearly shows individual services as well as aggregate system information, for transport-level information like request rates, error rates, etc., and lower-level information like CPU usage. This dashboard should have interactions available to fine-tune what metrics are shown. The dashboard should be as implementation-agnostic as possible, so administrators can plug-in any data tracker solution they desire to be output on the dashboard.
+
+API ML Squad Plan:  
+Sprint 1 - #00 - TBD
 
 ## Zowe / api-layer backlog management
 
-* [Focus on high priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/20PI3)
-
-
-## Dependencies & Support for other Squads - 20PI3 Objectives (June 2020 to September 2020)
-
+* [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/20PI4)
 
 ## Support System Squad Zowe Performance Testing Infrastructure and Pipelines Objective
 
@@ -38,18 +47,6 @@ Sprint 3 - #472 - Implementation
 * Zowe End Users will be able to run a client application which helps them estimate their cost of running and Zowe, and fine-tune their Zowe performance based on estimated workload.
 
 API ML Squad Plan:  
-Sprint 1 - #1464 - Performance test suite requirements for components. APIML and ZAF.  
-Sprint 6 - #645 - Performance test suite (test cases) for APIML.
+Sprint 1 - #00
 
-## Support System Squad Research and PoC for high availability / sysplex distributor in API Mediation Layer
-(in support of RESILIENCE theme)
 
-* [System Squad Epic: High Availability #1467](https://github.com/zowe/zowe-install-packaging/issues/1467)
-High Availability Research and POCs. We will formulate a definition of what High Availability means for Zowe, propose a design to reach High Availability, and begin a proof of concept effort for HA.
-
-* [API ML Squad Issue: Support for high availability / sysplex distributor in API Mediation Layer #705](https://github.com/zowe/api-layer/issues/705)
-The usage of Dynamic Virtual IP Address (DVIPA) will ensure that if an instance of Gateway and/or Discovery fails on one system (LPAR1), the other system (LPAR2) continues to provide service functionality through a sysplex distributor.
-
-API ML Squad Plan:  
-Sprint 1 - #1468 - Research user expectations (All Squads)  
-Sprint 3 - #1470 - Research APIML HA
