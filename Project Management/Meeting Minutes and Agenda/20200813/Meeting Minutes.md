@@ -15,19 +15,19 @@ Agenda Items
 2. ZLC Updates
 3. Current Release and Build Status (Steve)
 4. Plan
-     - Discuss 1.14.0 Release.
-     - System Demo booked for Tuesday, August 4th, 2020 (9:00am to 10:00am)
+     - Discuss 1.15.0 Release.
+     - Tentative date for System Demo (Aug 31, 2020)
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
-      - Fixed bug that text files with unconvertible characters causerd ZSS to send HTTP messages
-      - Install application on Zowe With Docker
-    - API Mediation Layer & Security (Elliot/Michal S/Petr P)
-      - Performance Objective Squad point of contact confirmed as David Janda
-      - HA objective Squad point of contact confirmed as Jordan Cain
-      - Carson Cook of IBM joined API ML squad (via Alvin Tan)
-      - Kicked off X.509 client certificate authentication support for API Mediation Layer #704
-    - Foundation (CI/CD) (Steve)
+    - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+         - Presented design propposal for Client Certs to Zowe Architecture; decision needed on location of code for mapping the public part of the certificate to the SAF user id, ZSS or API ML?
+         - Aman Prashant became the newest member of the API ML Squad
+         - Drafting a blog on SAF Keyrings
+    - Performance & High Availability (HA) (Jack)
+      - Performed experiments on starting multiple instances of Gateway and Discovery services and the tests are undergoing.
+      - Received feedbacks on z/OSMF HA questions.
+      - Investigated collecting RMF metrics programmatically.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
