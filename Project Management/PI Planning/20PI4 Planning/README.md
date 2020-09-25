@@ -290,15 +290,6 @@ Squad Final Readouts
         <tr>
             <td>Listen Only</td>
             <td>2020-10-02</td>
-            <td>10:30 AM</td>
-            <td>30 mins</td>
-            <td>ZLC Review / Management Discussion</td>
-            <td>ZLC, Facilitators there any private feedback needed from the ZLC to squads?</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2020-10-02</td>
             <td>11:00 AM</td>
             <td></td>
             <td>Confidence Vote (see below)</td>
