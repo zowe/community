@@ -238,7 +238,7 @@ https://zoom.us/j/94392882124
             <td>2020-10-02</td>
             <td>8:15 AM</td>
 <td>
-Squad Draft Readouts
+Squad Final Readouts
 <br><br>
 8:15 Squad Breakout 1
 
@@ -300,17 +300,6 @@ Squad Draft Readouts
             <td>Listen Only</td>
             <td>2020-10-02</td>
             <td>11:00 AM</td>
-            <td></td>
-            <td>Final Readouts</td>
-            <td>Squad Members, Stakeholders & Users
-
-  - Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2020-10-02</td>
-            <td></td>
             <td></td>
             <td>Confidence Vote (see below)</td>
             <td>Squad Members, Stakeholders & Users</td>
