@@ -297,49 +297,19 @@ Squad Draft Readouts
     </tbody>
     <tbody>
         <tr>
-            <td>Public Comment</td>
+            <td>Listen Only</td>
             <td>2020-10-02</td>
             <td>11:00 AM</td>
-            <td>6 hrs</td>
-            <td>Team Breakouts</td>
-            <td>
-- CLI Squad: https://zoom.us/j/99891777715
-- WebUI Squad: https://zoom.us/j/95395033185
-</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td></td>
-            <td>2020-10-02</td>
-            <td>5:00 PM</td>
-            <td>0</td>
-            <td>Day 2 End</td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2020-06-29</td>
-            <td></td>
             <td></td>
             <td>Final Readouts</td>
             <td>Squad Members, Stakeholders & Users
 
-- Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
+  - Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
     </tbody>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2020-06-29</td>
+            <td>2020-10-02</td>
             <td></td>
             <td></td>
             <td>Confidence Vote (see below)</td>
@@ -348,10 +318,10 @@ Squad Draft Readouts
     <tbody>
         <tr>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>2020-10-02</td>
+            <td>5:00 PM</td>
+            <td>0</td>
+            <td>Day 2 End</td>
             <td></td>
     </tbody>
     </table>
