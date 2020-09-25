@@ -139,6 +139,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
 
 ## Zowe Leadership Committee
 
