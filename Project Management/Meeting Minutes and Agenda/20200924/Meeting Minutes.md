@@ -10,7 +10,7 @@ Schedule
 
 Meeting Recording
 -----------------
-https://zoom.us/recording/detail?meeting_id=ybUn%2FcbzReayd5BYNBdo4w%3D%3D
+https://zoom.us/rec/share/_eB-ByuLb4Exhcs8-AzV8nbHPXEy2mGTlaD8L_IiM1SnLli0AstpmFooXBTAhv7H.SffAoukIO4OjM_MM?startTime=1600956134000
 
 Agenda Items
 ------------
