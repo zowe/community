@@ -121,6 +121,7 @@ Squad Leads, Squad Members
                 <td>2020-10-01</td>
                 <td>11:00 AM</td>
 <td>
+
 Squad Breakout 1
 - Zowe Explorer Squad
 - Zoom/Webex Link: here
@@ -236,10 +237,11 @@ https://zoom.us/j/94392882124
             <td>Listen Only</td>
             <td>2020-10-02</td>
             <td>8:15 AM</td>
-            <td>2 hrs</td>
-<td>Squad Draft Readouts
-
+<td>
+Squad Draft Readouts
+<br><br>
 8:15 Squad Breakout 1
+
 - Zowe Explorer Squad
 
 8:30 Squad Breakout 2
@@ -259,7 +261,9 @@ https://zoom.us/j/94392882124
 
 9:45 Squad Breakout 7
 - Documentation Squad
+
 </td>
+            <td></td>
             <td>Squad Members, Stakeholders & Users
 
 - Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
@@ -268,7 +272,7 @@ https://zoom.us/j/94392882124
         <tr>
             <td>Public Comment</td>
             <td>2020-10-02</td>
-            <td>10:15 AM</td>
+            <td>10:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers</td>
             <td>This time slot is available for the Community to ask questions</td>
@@ -277,7 +281,7 @@ https://zoom.us/j/94392882124
         <tr>
             <td></td>
             <td>2020-10-02</td>
-            <td>10:30 AM</td>
+            <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
             <td></td>
@@ -286,7 +290,7 @@ https://zoom.us/j/94392882124
         <tr>
             <td>Listen Only</td>
             <td>2020-10-02</td>
-            <td>10:45 AM</td>
+            <td>10:30 AM</td>
             <td>30 mins</td>
             <td>ZLC Review / Management Discussion</td>
             <td>ZLC, Facilitators there any private feedback needed from the ZLC to squads?</td>
@@ -295,7 +299,7 @@ https://zoom.us/j/94392882124
         <tr>
             <td>Public Comment</td>
             <td>2020-10-02</td>
-            <td>11:15 AM</td>
+            <td>11:00 AM</td>
             <td>6 hrs</td>
             <td>Team Breakouts</td>
             <td>
@@ -323,28 +327,10 @@ https://zoom.us/j/94392882124
     </tbody>
     <tbody>
         <tr>
-            <td></td>
-            <td>Day 3 (cancelled)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
             <td>Listen Only</td>
             <td>2020-06-29</td>
-            <td>8:00 AM</td>
-            <td>10 mins</td>
-            <td>Explanation of final review</td>
             <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2020-06-29</td>
-            <td>8:10 AM</td>
-            <td>2 hrs</td>
+            <td></td>
             <td>Final Readouts</td>
             <td>Squad Members, Stakeholders & Users
 
@@ -354,8 +340,8 @@ https://zoom.us/j/94392882124
         <tr>
             <td>Listen Only</td>
             <td>2020-06-29</td>
-            <td>10:10 AM</td>
-            <td>15 mins</td>
+            <td></td>
+            <td></td>
             <td>Confidence Vote (see below)</td>
             <td>Squad Members, Stakeholders & Users</td>
     </tbody>
