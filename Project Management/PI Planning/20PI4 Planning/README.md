@@ -16,7 +16,6 @@
             <td>EST</td>
             <td>Duration</td>
             <td>Event</td>
-            <td>Presenter</td>
             <td>Description</td>
     </tbody>
     <tbody>
@@ -34,7 +33,6 @@ https://zoom.us/j/98106259941
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -43,7 +41,6 @@ https://zoom.us/j/98106259941
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement</td>
-            <td>Facilitator</td>
             <td>Highlights of the PI Planning</td>
     </tbody>
     <tbody>
@@ -53,7 +50,6 @@ https://zoom.us/j/98106259941
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Leadership Committee</td>
-            <td>ZLC</td>
             <td>The ZLC will describe the vision for the PI.</td>
     </tbody>
     <tbody>
@@ -63,7 +59,6 @@ https://zoom.us/j/98106259941
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
-            <td></td>
             <td></td>
     </tbody>
     <tbody>
@@ -97,7 +92,6 @@ https://zoom.us/j/98106259941
 - Documentation Squad
 
 </td>
-            <td>Squad Leaders</td>
             <td>Squad Members, Stakeholders & Users
 
 - What each squad wants to do in the next PI
@@ -111,7 +105,6 @@ https://zoom.us/j/98106259941
             <td>10:50 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers</td>
-            <td></td>
             <td>This time slot is available for the Community to ask questions</td>
     </tbody>
     <tbody>
@@ -121,9 +114,8 @@ https://zoom.us/j/98106259941
             <td>11:00 AM</td>
             <td>6 hrs</td>
             <td>Squad Breakouts</td>
-            <td>Squad Leads will run Zoom calls</td>
-            <td>Squad Leads, Squad Members
-
+<td>
+Squad Leads, Squad Members
 - Squads work offline to fit their stories into sprints and create their Draft PI Objectives
 - Capture Business Value
 - With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts
@@ -139,7 +131,7 @@ Squad Breakout 1
 - Zowe Explorer Squad
 - Zoom/Webex Link: here
 
-  Squad Breakout 2
+Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/98404818292
 
@@ -147,7 +139,6 @@ Squad Breakout 7
 - Documentation Squad
 - Zoom Link: https://zoom.us/j/646062143
 </td>
-                <td></td>
                 <td></td>
 <td>
 - Squads need to ensure that they attend those breakout sessions that are important to them.
@@ -166,7 +157,6 @@ Squad Breakout 3
 </td>
                 <td></td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
             <tr>
@@ -174,12 +164,10 @@ Squad Breakout 3
                 <td>2020-10-01</td>
                 <td>1:00 PM</td>
   <td>
-  Squad Breakout 4
-
-  - Systems Squad (includes CI-CD, HA, Performance
-  - Zoom/Webex Link: here
+Squad Breakout 4
+- Systems Squad (includes CI-CD, HA, Performance
+- Zoom/Webex Link: here
   </td>
-                <td></td>
                 <td></td>
                 <td></td>
     </tbody>
@@ -195,7 +183,6 @@ Squad Breakout 5
 </td>
                 <td></td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
             <tr>
@@ -209,7 +196,6 @@ Squad Breakout 6
 </td>
                 <td></td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -219,11 +205,9 @@ Squad Breakout 6
             <td>0</td>
             <td>Day 1 End</td>
             <td></td>
-            <td></td>
     </tbody>
 <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -245,7 +229,6 @@ https://zoom.us/j/94392882124
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -254,7 +237,6 @@ https://zoom.us/j/94392882124
             <td>8:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A</td>
-            <td>Facilitator</td>
             <td>Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
@@ -263,8 +245,29 @@ https://zoom.us/j/94392882124
             <td>2020-10-02</td>
             <td>8:15 AM</td>
             <td>2 hrs</td>
-            <td>Squad Draft Readouts</td>
-            <td>Squad Leads</td>
+<td>Squad Draft Readouts
+
+8:15 Squad Breakout 1
+- Zowe Explorer Squad
+
+8:30 Squad Breakout 2
+- API ML Squad
+
+8:45 Squad Breakout 3
+- Zowe CLI Squad
+
+9:00 Squad Breakout 4
+- Systems Squad (includes CI-CD, HA, Performance
+
+9:15 Squad Breakout 5
+- WebUI Squad
+
+9:30 Squad Breakout 6
+- Onboarding Squad
+
+9:45 Squad Breakout 7
+- Documentation Squad
+</td>
             <td>Squad Members, Stakeholders & Users
 
 - Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
@@ -276,7 +279,6 @@ https://zoom.us/j/94392882124
             <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers</td>
-            <td></td>
             <td>This time slot is available for the Community to ask questions</td>
     </tbody>
     <tbody>
@@ -287,7 +289,6 @@ https://zoom.us/j/94392882124
             <td>15 mins</td>
             <td>Break</td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -296,7 +297,6 @@ https://zoom.us/j/94392882124
             <td>10:45 AM</td>
             <td>30 mins</td>
             <td>ZLC Review / Management Discussion</td>
-            <td>ZLC</td>
             <td>ZLC, Facilitators there any private feedback needed from the ZLC to squads?</td>
     </tbody>
     <tbody>
@@ -306,7 +306,6 @@ https://zoom.us/j/94392882124
             <td>11:15 AM</td>
             <td>6 hrs</td>
             <td>Team Breakouts</td>
-            <td>Squad Leads will run Zoom calls</td>
             <td>
 - CLI Squad: https://zoom.us/j/99891777715
 - WebUI Squad: https://zoom.us/j/95395033185
@@ -320,11 +319,9 @@ https://zoom.us/j/94392882124
             <td>0</td>
             <td>Day 2 End</td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -340,7 +337,6 @@ https://zoom.us/j/94392882124
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -349,7 +345,6 @@ https://zoom.us/j/94392882124
             <td>8:00 AM</td>
             <td>10 mins</td>
             <td>Explanation of final review</td>
-            <td>Facilitator</td>
             <td></td>
     </tbody>
     <tbody>
@@ -359,7 +354,6 @@ https://zoom.us/j/94392882124
             <td>8:10 AM</td>
             <td>2 hrs</td>
             <td>Final Readouts</td>
-            <td>Squad Leads</td>
             <td>Squad Members, Stakeholders & Users
 
 - Teams read their final list of objectives, highlight changes since yesterday, outstanding / new risks</td>
@@ -371,12 +365,10 @@ https://zoom.us/j/94392882124
             <td>10:10 AM</td>
             <td>15 mins</td>
             <td>Confidence Vote (see below)</td>
-            <td>Facilitator</td>
             <td>Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
