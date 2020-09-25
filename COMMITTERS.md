@@ -156,6 +156,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
 
 ## Zowe Leadership Committee
 
