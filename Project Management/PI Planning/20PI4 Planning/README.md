@@ -59,7 +59,6 @@ https://zoom.us/j/98106259941
             <td>Listen Only</td>
             <td>2020-10-01</td>
             <td>9:00 AM</td>
-            <td>2 hrs</td>
 <td>
 Squad vision<br>
 10-15 mins each:
@@ -86,6 +85,7 @@ Squad vision<br>
 - Documentation Squad
 
 </td>
+            <td></td>
             <td>Squad Members, Stakeholders & Users
 
 - What each squad wants to do in the next PI
