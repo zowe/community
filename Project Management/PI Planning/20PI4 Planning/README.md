@@ -2,10 +2,6 @@
     <thead>
         <tr>
             <th colspan="2">20PI4 PI Planning
-
-- [Day 1 Meeting Minutes]()
-
-- [Day 2 Meeting Minutes]()
 </th>
         </tr>
     </thead>
@@ -13,7 +9,7 @@
         <tr>
             <td>Call Details</td>
             <td>Date</td>
-            <td>EST</td>
+            <td>Time (Eastern)</td>
             <td>Duration</td>
             <td>Event</td>
             <td>Description</td>
@@ -25,9 +21,6 @@
 
 Join Zoom Meeting
 https://zoom.us/j/98106259941
-
-[Meeting Minutes]()
-
 </td>
             <td></td>
             <td></td>
@@ -67,10 +60,11 @@ https://zoom.us/j/98106259941
             <td>2020-10-01</td>
             <td>9:00 AM</td>
             <td>2 hrs</td>
-            <td>Squad vision, 10-15 mins each:
+<td>
+Squad vision<br>
+10-15 mins each:
 
-
-9:05 Squad Breakout 1
+<br>9:05 Squad Breakout 1
 - Zowe Explorer Squad
 
 9:20 Squad Breakout 2
@@ -222,8 +216,6 @@ Squad Breakout 6
 
 Join Zoom Meeting
 https://zoom.us/j/94392882124
-
-[Meeting Minutes]()
 </td>
             <td></td>
             <td></td>
