@@ -1,5 +1,14 @@
-# Zowe API ML & Security Squad - 20PI4 Objectives (October 2020 to December 2020)
+# Zowe API ML & Security Squad - 20PI4 Objectives (October 2020 to January 2021)
 
+
+## x.509 client certificate authentication support for API Mediation Layer
+(in support of SECURITY theme)
+
+* [X.509 client certificate authentication support for API Mediation Layer #704](https://github.com/zowe/api-layer/issues/704)
+Zowe API ML can validate client certificates by using ESM to map the certificate with the user mainframe identity and issue a JWT
+
+API ML Squad Plan:  
+Sprint 1 - TBD
 
 ## High-availability support implementation
 (in support of RESILIENCE theme)
@@ -10,11 +19,9 @@ The usage of Dynamic Virtual IP Address (DVIPA) will ensure that if an instance 
 API ML Squad Plan:  
 Sprint 1 - #00 - TBD  
 
-## API versioning support reflected in the Zowe API ML Catalog
-(in support of ADOPTION theme)
-
-* [API versioning support reflected in the Zowe API ML Catalog #844](https://github.com/zowe/api-layer/issues/844)
-API Catalog displays the major API versions of a service. The API ML gateway now offers the ability to use multiple versions of an API at the same time. This objective will see this reflected in the Catalog so that it displays the major API versions of a service. The recommended version from the service owner is shown by default.
+## API ML as a standalone component
+* [Zowe API ML as a standalone component #856](https://github.com/zowe/api-layer/issues/856)
+Improve adoption by allowing the post-install configuration and deployment of the API ML as a standalone component (from the current smpe package).
 
 API ML Squad Plan:  
 Sprint 1 - #00 - TBD
@@ -23,6 +30,15 @@ Sprint 1 - #00 - TBD
 
 * [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)
 Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.
+
+API ML Squad Plan:  
+Sprint 1 - #00 - TBD
+
+## API versioning support reflected in the Zowe API ML Catalog
+(in support of ADOPTION theme)
+
+* [API versioning support reflected in the Zowe API ML Catalog #844](https://github.com/zowe/api-layer/issues/844)
+API Catalog displays the major API versions of a service. The API ML gateway now offers the ability to use multiple versions of an API at the same time. This objective will see this reflected in the Catalog so that it displays the major API versions of a service. The recommended version from the service owner is shown by default.
 
 API ML Squad Plan:  
 Sprint 1 - #00 - TBD
@@ -46,7 +62,6 @@ Sprint 1 - #00 - TBD
 
 * Zowe End Users will be able to run a client application which helps them estimate their cost of running and Zowe, and fine-tune their Zowe performance based on estimated workload.
 
-API ML Squad Plan:  
-Sprint 1 - #00
+
 
 
