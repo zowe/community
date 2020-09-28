@@ -161,7 +161,7 @@ Squad Breakout 3
   <td>
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/my/zowe.cicd
   </td>
                 <td></td>
                 <td></td>
@@ -187,7 +187,7 @@ Squad Breakout 5
 <td>
 Squad Breakout 6
 - Onboarding Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94312528890 
 </td>
                 <td></td>
                 <td></td>
