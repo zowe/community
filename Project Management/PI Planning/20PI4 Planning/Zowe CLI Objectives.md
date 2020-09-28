@@ -9,6 +9,7 @@
   * https://github.com/zowe/zowe-cli/issues/773
   * https://github.com/zowe/zowe-cli/issues/771
   * https://github.com/zowe/zowe-cli/issues/810
+  * https://github.com/zowe/zowe-cli/issues/539
 * Ensure documentation ensures successful installation of the Zowe CLI in environments with proxies. Provide guidance on installing from public NPM via proxy but also suggest installing from the local package hosted on zowe.org as an alternative. Also, address issue with using CLI to access mainframe environment over http proxy: https://github.com/zowe/zowe-cli/issues/498
 * Ensure Zowe CLI functions properly in a CodeReady Workspace. Open question: would IBM be able to provide a CodeReady Workspace to the community that the squad could leverage to validate Zowe CLI (possible Zowe Explorer in the future?)
 * Allow for recently run commands to be easily recalled. Recalling commands today tends to be difficult especially when switching terminals and mistyping commands is common.
