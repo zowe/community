@@ -20,8 +20,14 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Reject Plugins That Have Unfulfilled Requirement
+      - Create Agent REST API For ZSS
+      - Add/Remove Message IDs to Zowe-Common-C
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
     - Performance & High Availability (HA) (Jack)
+      * Several experiments on starting multiple instances of Gateway/Discovery continued.
+      * Investigating HA for z/OSMF, VIPA/DVIPA configurations on single LPAR
+      * Refactored Zowe Metrics Server and started to add RMF-DDS metrics worker.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements

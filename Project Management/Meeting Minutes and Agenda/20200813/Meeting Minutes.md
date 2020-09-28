@@ -21,7 +21,13 @@ Agenda Items
     - Onboarding (JoeW/Taylor/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot/Michal S/Petr P)  
+         - Presented design propposal for Client Certs to Zowe Architecture; decision needed on location of code for mapping the public part of the certificate to the SAF user id, ZSS or API ML?
+         - Aman Prashant became the newest member of the API ML Squad
+         - Drafting a blog on SAF Keyrings
     - Performance & High Availability (HA) (Jack)
+      - Performed experiments on starting multiple instances of Gateway and Discovery services and the tests are undergoing.
+      - Received feedbacks on z/OSMF HA questions.
+      - Investigated collecting RMF metrics programmatically.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
