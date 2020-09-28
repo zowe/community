@@ -2,6 +2,7 @@
 
 * Validate Zowe CLI on Node v14. Node v14 becomes LTS on 10/27.
 * Project based CLI profiles. Implement design determined in https://github.com/zowe/zowe-cli/issues/749 to allow for a single profile that stores information commonly needed for core + plug-ins. The goal is to allow for users to more easily store profiles in source control, share profiles with others, and update profile settings.
+* Validate daemon mode PoC (https://github.com/zowe/zowe-cli/pull/825). The goal is to improve Zowe CLI performance for all commands. Local command operations like help should take less than one second to run.
 * Address growing number of community enhancement requests
   * https://github.com/zowe/zowe-cli/issues/808
   * https://github.com/zowe/zowe-cli/issues/797
