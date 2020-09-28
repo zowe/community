@@ -161,7 +161,7 @@ Squad Breakout 3
   <td>
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: https://zoom.us/my/zowe.cicd
+- Zoom/Webex Link: https://zoom.us/j/95604812246
   </td>
                 <td></td>
                 <td></td>
