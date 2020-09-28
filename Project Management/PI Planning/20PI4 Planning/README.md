@@ -124,7 +124,7 @@ Squad Leads, Squad Members
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94312528890
 
 Squad Breakout 2
 - API ML Squad
