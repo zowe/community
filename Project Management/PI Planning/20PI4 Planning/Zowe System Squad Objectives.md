@@ -6,7 +6,7 @@
 
 [Epic: Zowe Performance Test - Stage 2 - Enhance Test Coverage (2020PI4)](https://github.com/zowe/zowe-install-packaging/issues/1683).
 
-- Finalize primary and component-level test suites __(Continue items from PI3)__
+- Finalize primary and component-level test suites _(Continue item from PI3)_
   * [Create primary performance test suite](https://github.com/zowe/zowe-install-packaging/issues/630)
   * [Create dedicated performance test suite for APIML](https://github.com/zowe/zowe-install-packaging/issues/645)
   * [Create dedicated performance test suite for Explorer APIs](https://github.com/zowe/zowe-install-packaging/issues/644)
@@ -20,7 +20,7 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 
 [Performance Hill 2 - Client Performance Tool](https://github.com/zowe/zowe-install-packaging/issues/1465).
 
-- [CPU Time Aggregation on SMF30 Records](https://github.com/zowe/zowe-install-packaging/issues/1466) __(Continue item from PI3)__
+- [CPU Time Aggregation on SMF30 Records](https://github.com/zowe/zowe-install-packaging/issues/1466) _(Continue item from PI3)_
 
 ## High Availability
 
