@@ -124,7 +124,7 @@ Squad Leads, Squad Members
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94312528890
 
 Squad Breakout 2
 - API ML Squad
@@ -148,7 +148,7 @@ Squad Breakout 7
 <td>
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/99891777715
 </td>
                 <td></td>
                 <td></td>
@@ -161,7 +161,7 @@ Squad Breakout 3
   <td>
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/95604812246
   </td>
                 <td></td>
                 <td></td>
@@ -174,7 +174,7 @@ Squad Breakout 4
 <td>
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94535814396
 </td>
                 <td></td>
                 <td></td>
@@ -187,7 +187,7 @@ Squad Breakout 5
 <td>
 Squad Breakout 6
 - Onboarding Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94312528890 
 </td>
                 <td></td>
                 <td></td>
