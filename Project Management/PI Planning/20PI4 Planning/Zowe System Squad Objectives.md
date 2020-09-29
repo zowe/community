@@ -49,11 +49,12 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 - Document how to configure [port sharing](https://github.com/zowe/api-layer/issues/857) and [D-DIVPA](https://github.com/zowe/zowe-install-packaging/issues/1687) for API Gateway
 - [Verify and document requirement on shared USS file system, and shared VSAM data set](https://github.com/zowe/zowe-install-packaging/issues/1688)
 - [Test and implement ARM policy](https://github.com/zowe/zowe-install-packaging/issues/1629)
+- [Validate Apiml & zOSMF HA/sysplex](https://github.com/zowe/api-layer/issues/858)
 - [Verify how CLI works with Sysplex](https://github.com/zowe/zowe-install-packaging/issues/1475)
 
 ### Certificate Configuration Improvement
 
-- [Add flexibility to define certificate for internal and external usage](https://github.com/zowe/zowe-install-packaging/issues/1700)
+- [Add flexibility to define certificate for internal and external usage](https://github.com/zowe/api-layer/issues/859)
 - [Allow to define multiple domains / IPs as Subject Alternative Name (SAN) when storing certificate(s) in Keyring](https://github.com/zowe/zowe-install-packaging/issues/1653)
 
 ## CI/CD
