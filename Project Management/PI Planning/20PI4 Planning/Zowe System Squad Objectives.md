@@ -29,7 +29,7 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 ### Caching API
 
 - [Create Caching API with VSAM support](https://github.com/zowe/api-layer/issues/863)
-- [Change gateway to utilize Caching API and convert them to be stateless](https://github.com/zowe/zowe-install-packaging/issues/1699)
+- [Change desktop to utilize Caching API and make it stateless](https://github.com/zowe/zowe-install-packaging/issues/1699)
 
 ### Zowe Launcher (Stage 1)
 
