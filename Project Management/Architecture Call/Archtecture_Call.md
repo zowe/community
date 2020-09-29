@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[09-29-2020](https://zoom.us/rec/share/iwX_dJo8D6R1B4vubpGxQB9HCQEIvqkvSVmahCwzAKBhjFI_I1_ycTJ-ObDOtwtd.dloICZoRO1SvjdXb?startTime=1601388044000) Zowe HA discussion including Gus Kassimisi 
+
 [09-22-2020](https://zoom.us/rec/share/9TGJieu52xTzmlqA7PpjTtVy9XUpjrmBvJVBaM9c0jQlAddZ85pZvwhKyxwR9AZI.rHGHVox69WC7pi0O?startTime=1600783080000) HA Discussions
 
 [09-08-2020] (https://zoom.us/rec/share/6FgpZXbjHydVq2vRM2DVAVwVBIXJZUXgEA4dmq11xJ2Bwvg__4tn-saBbygczXrX.CsrmB23L3OonDvvg?startTime=1599573491000) Packaging Discussion
