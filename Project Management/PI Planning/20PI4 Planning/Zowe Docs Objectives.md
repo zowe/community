@@ -54,7 +54,7 @@
    
    **Deliverable:**  
 
-   Documentation are improved to address various experience issues, including but are not limited to: 
+   Documentation improved to address various experience issues, including but are not limited to: 
 
    - CLI - document the plugin profile types [issue #487](https://github.com/zowe/docs-site/issues/487)
    - Create a key concepts chapter to educate users the basic concepts in Zowe [issue #1319](https://github.com/zowe/docs-site/issues/1319)
