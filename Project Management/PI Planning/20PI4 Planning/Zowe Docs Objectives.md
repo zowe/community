@@ -4,7 +4,7 @@
    
    **Deliverable:** 
    
-   Documentation for new features and enhancements of each release are published on the doc site, including but are not limited to the following ones:
+   Documentation for new features and enhancements of each release are published on the Zowe Docs Site, including but not limited to the following:
    - Document Zowe Docker support.
    - Document a project-based approach to configuring the CLI.
    - Add instructions for installing CLI from npm via proxy.
@@ -51,7 +51,7 @@
    **Deliverable:**  
 
    Documentation improved to address various experience issues, including but are not limited to: 
-   - CLI - More tips/examples about issuing commands. [issue #487]()
+   - CLI - More tips/examples about issuing commands. [issue #487](https://github.com/zowe/docs-site/issues/487)
    - CLI - Document the plugin profile types [issue #487](https://github.com/zowe/docs-site/issues/487)
    - Create a key concepts chapter to educate users the basic concepts in Zowe [issue #1319](https://github.com/zowe/docs-site/issues/1319)
    - Publish Docs Staging to make it public available [issue #753](https://github.com/zowe/docs-site/issues/753)
