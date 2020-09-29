@@ -5,8 +5,12 @@
    **Deliverable:** 
    
    Documentation for new features and enhancements of each release are published on the doc site, including but are not limited to the following ones:
-   - Document the Swift SDK (in addition to the Python and Node SDKs)
-   - Document the Zowe Docker support
+   - Document Zowe Docker support.
+   - Document a project-based approach to configuring the CLI.
+   - Add instructions for installing CLI from npm via proxy.
+   - Document running CLI in Daemon mode. 
+   - Add documentation for Swift Client SDK (in addition to the Python and Node SDKs).
+   - Document Node v14 support for CLI.
 
    **Dependency:** All squads
 
@@ -41,29 +45,20 @@
    - Standardization of technical terminology between the two docs. 
 
    **Dependency and risk:** None
-
-5. Zowe users can learn about Zowe CLI through more lightweight and versatile content, including tips and examples, and use case articles. 
-
-   **Deliverable:**   
-   - More tips/examples about issuing commands
-   - More Zowe CLI use case articles
-
-   **Dependency and risk:** None
-
-6. Address a list of GitHub doc enhancement issues and user feedback to provide better content experience and help users work with Zowe. 
+   
+5. Address a list of GitHub doc enhancement issues and user feedback to provide better content experience and help users work with Zowe. 
    
    **Deliverable:**  
 
    Documentation improved to address various experience issues, including but are not limited to: 
-
-   - CLI - document the plugin profile types [issue #487](https://github.com/zowe/docs-site/issues/487)
+   - CLI - More tips/examples about issuing commands. [issue #487]()
+   - CLI - Document the plugin profile types [issue #487](https://github.com/zowe/docs-site/issues/487)
    - Create a key concepts chapter to educate users the basic concepts in Zowe [issue #1319](https://github.com/zowe/docs-site/issues/1319)
    - Publish Docs Staging to make it public available [issue #753](https://github.com/zowe/docs-site/issues/753)
    - Home page design is improved to list more useful information [issue #532](https://github.com/zowe/docs-site/issues/532)
    - Clearly separate manual from worklfow approach for customization [issue #1326](https://github.com/zowe/docs-site/issues/1326)
    - Improve the API ML security doc to provide a coherent and consistent overview of the API ML security concepts and features  [issue 1427](https://github.com/zowe/docs-site/issues/1427) 
    
-
 7. Identify content gaps and improvement areas by leveraging content analytics and NPS user feedback.
 
    **Deliverable:**
