@@ -100,3 +100,27 @@ Zowe 1.16.0 (Sept 1, 2020 - Oct 2, 2020)
 - Start Testing (Sept 28, 2020 - Oct 2, 2020)
 - System Demo (Sept 29, 2020) **Sept 28 is State Holiday in Czech Rep. Moving out 1 day to Sept 29 at 11:00 a.m. EDT**
 - 1.16.0 GA (Oct 2, 2020)
+
+Zowe 1.17.0 ()
+- Sprint 1
+- Sprint 2
+- Code Complete/RC Candidate Build ()
+- Start Testing ()
+- System Demo ()
+- 1.16.0 GA (End of November)
+
+Zowe 1.18.0 ()
+- Sprint 1
+- Sprint 2
+- Code Complete/RC Candidate Build ()
+- Start Testing ()
+- System Demo ()
+- 1.16.0 GA (End of December)
+
+Zowe 1.19.0 ()
+- Sprint 1
+- Sprint 2
+- Code Complete/RC Candidate Build ()
+- Start Testing ()
+- System Demo ()
+- 1.16.0 GA (End of January)
