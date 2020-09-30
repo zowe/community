@@ -77,13 +77,10 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 - Support ACF2 and TSS with the Zowe security set up
 - Workflow testing?
 
-### Pipeline improvements
-
-Fix reporting of false positives in nightlys
 
 ### More dashboarding of component, build and test status?
 
-Been talked about, but need to get the requirements from the squads/stakeholders
+- Been talked about in the past, but need to get the requirements from the squads/stakeholders
 
 ### Monitoring of infrastructure - internal (cloud) and external (marist)
 
