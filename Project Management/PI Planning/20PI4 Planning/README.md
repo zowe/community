@@ -146,6 +146,7 @@ Squad Breakout 7
                 <td>2020-10-01</td>
                 <td>12:00 PM</td>
 <td>
+
 Squad Breakout 3
 - Zowe CLI Squad
 - Zoom/Webex Link: https://zoom.us/j/99891777715
@@ -158,7 +159,8 @@ Squad Breakout 3
                 <td>Public Comment</td>
                 <td>2020-10-01</td>
                 <td>1:00 PM</td>
-  <td>
+<td>
+
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link: https://zoom.us/j/95604812246
@@ -172,6 +174,7 @@ Squad Breakout 4
                 <td>2020-10-01</td>
                 <td>2:00 PM</td>
 <td>
+
 Squad Breakout 5
 - WebUI Squad
 - Zoom/Webex Link: here
@@ -185,6 +188,7 @@ Squad Breakout 5
                 <td>2020-10-01</td>
                 <td>3:00 PM</td>
 <td>
+
 Squad Breakout 6
 - Onboarding Squad
 - Zoom/Webex Link: https://zoom.us/j/94312528890 
