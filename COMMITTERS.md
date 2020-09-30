@@ -127,7 +127,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Documentation
 
-- Nan Nan (Ashley) Li - **(Lead)** @nannanli (nannanli@cn.ibm.com)
+- Nan Nan (Ashley) Li - (Lead) @nannanli (nannanli@cn.ibm.com)
 - Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
