@@ -24,7 +24,7 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 
 ## High Availability
 
-[Epic: High Availability](https://github.com/zowe/zowe-install-packaging/issues/1467).
+[Epic: High Availability](https://github.com/zowe/zowe-install-packaging/issues/1467). Work items we think are out of scope for this PI can be found at https://ibm.ent.box.com/notes/712188174702.
 
 ### Caching API
 
@@ -42,6 +42,8 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 - [Define manifest file for Zowe packages to simplify Zowe Launcher configurations](https://github.com/zowe/zowe-install-packaging/issues/1692)
 - [Add new configuration entries in instance.env to support multiple instances of components](https://github.com/zowe/zowe-install-packaging/issues/1693)
 - [Automatically configure ARM policy for Zowe Launcher](https://github.com/zowe/zowe-install-packaging/issues/1694)
+- [Change ZSS to be registered under API Discovery Service](https://github.com/zowe/zlux/issues/467)
+  * Desktop will communicate with ZSS through Gateway, not directly, to support distributed deployment.
 
 ### Starting Zowe in Sysplex
 
