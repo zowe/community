@@ -16,12 +16,6 @@ Run Metrics Server off-zOS (https://github.com/zowe/zowe-install-packaging/issue
 - [Add ability to test performance of multiple endpoints in parallel](https://github.com/zowe/zowe-install-packaging/issues/1685)
 - [Validate test report with other methods](https://github.com/zowe/zowe-install-packaging/issues/1695)
 
-### Client Performance Tool
-
-[Performance Hill 2 - Client Performance Tool](https://github.com/zowe/zowe-install-packaging/issues/1465).
-
-- [CPU Time Aggregation on SMF30 Records](https://github.com/zowe/zowe-install-packaging/issues/1466) _(Continue item from PI3)_
-
 ## High Availability
 
 [Epic: High Availability](https://github.com/zowe/zowe-install-packaging/issues/1467). Work items we think are out of scope for this PI can be found at https://ibm.ent.box.com/notes/712188174702.
