@@ -1,10 +1,13 @@
-# Zowe Technical Steering Committee Proposal
+# Zowe Technical Steering Committee Charter
+
+The Open Mainframe Project zowe.org is part of the Linux Foundation which operates transparently, openly, collaboratively and ethically.  
 
 - [Background](#backgroud)
 - [Manifesto](#manifesto)
 - [Makup](#makeup)
-- [Voting](#voting)
-- [Responsibilities](#responsibilities)
+  - [Voting Members](#voting-members)
+  - [Operation](#operation)
+- [Voting Member Responsibilities](#voting-member-responsibilities)
 
 This proposal is to form a Zowe Technical Steering Committee (TSC) to oversee, govern, and improve the infrastructure, execution, and customer experience related to development, testing, packaging, delivery, and cross-squad technology overlap areas.  
 
@@ -20,14 +23,25 @@ The coordination and synchronization of the moving parts of Zowe is becoming mor
 
 The TSC will oversee the technical direction of the Zowe project.
 
-Responsibilities includes, but are not limited to:
+Responsibilities include, but are not limited to
 
- - Operating in a manner that is open and transparent.  Recordings of meetings will be kept, and vote counting will be done through e-mail or github issues for audit purposes.  
-- Encourage diversity across the Zowe squads and in all aspects of Zowe including but not limited to technology, documentation, and engagement.  
-- Foster consensus for themes recommended by a clear majority of Zowe consumers, or the Zowe Leadership Committee (ZLC), or cross Squad initiatives 
-- Coordinating technical direction of cross-squad efforts while also encouraging the various squads/sub-projects to drive innovation – especially in the areas of integration.  
-- Overseeing an architecture forum to explore new ideas for Zowe such as new capabilities or technologies for implementation leading to incubation projects that in turn may lead to new Zowe core components.  
-- Have technical and architectural oversight for all the Zowe components. The TSC may delegate decisions to individual squads that are responsible for the components, but the TSC may overrule individual squads’ decisions regarding content and release cadence.  (See voting bullet for additional detail.) 
+- Setting release dates.
+- Release quality standards.
+- Technical direction.
+- Project governance and process (including this policy).
+- GitHub repository hosting.
+- Conduct guidelines.
+- Maintaining the list of committers.
+- Development process and any coding standards.
+- Approving releases.
+- Advising the ZLC when the Zowe version number needs to be incremented
+- Improve cross squad efficiencies and load balancing of squad resource
+- Test cover and release reliability
+- Balance squads between technical debt versus new content delivery
+- Improve and propogate best-practices
+- Encourage and mentor incubator projects
+- Encourage participation and mentorship in wider community events such as hackathons or OMP internships
+- Appointing representatives to work with other open source or open standards communities as needed
 
 ## Makeup
 
@@ -35,16 +49,19 @@ The TSC will be made up of voting members, as well as other architects, subject 
 
 The TSC has a core group of voting members who are resonsible for actioning and recording votes on issues regarding Zowe releses, Zowe priorities for cross squad work items, and topics surrounding technical direction.  
 
+### Voting Members
+
 At the formation of the TSC the voting members include the three technical members of the Zowe Leadership Committee (ZLC)
     - Joe Winchester
     - Sean Grady
     - Mark Ackert
+
 The TSO also includes one member from each of the Zowe squads.  Initially this role is given to be the current squad lead, however each squad may decide to nominate anyone else who is a current squad member.  Where the squad lead is also one of the ZLC technical voting members this position should be filled by another squad SME.
     - TBD - (Zowe App Framework/Desktop squad)
     - Mike Bauer (Zowe CLI Squad)
     - Fernando Rijo Cedeno (Zowe Explorer squad)
     - Elliot Jalley (Zowe API Squad)
-    - Steven Horsman (Zowe Systems - CI/CD squad)
+    - TBD (Zowe Systems - CI/CD squad)
     - Nan nan Li (Zowe documentation squad)
     - TBD (Zowe onboarers squad)
 
@@ -54,13 +71,19 @@ TSC voting members serve for an initial term of one year.  During that year a sq
 
 The makeup of the TSC for year two will be decided by the current TSC year one voting members.  This is to allow any growing pains, improvements, or deficiencies to be addressed.  Hence succession is not written into this proposal.  There are no terms limits for being a TSC voting member but after one year any current TSC voting members wishing to serve for another year must be selected in a way that is open and transparent to anyone in the Zowe community so their is no favor or incumbent privilege.   
 
-The TSC will determine the frequency and content of its meetings and how it operates through media such as slack or mailing lists.  
+To be a successful TSC it is desired that no more than one-third of the TSC members may be affiliated with the same employer.  However for the first year of the TSC because of the relative age and diversity of the Zowe community this is relaxed so that no more than one-half of the TSC members may be affiliated with the same employer.  This criteria may be changed for the second year of the TSC and will be voted on by the ZLC.  
+
+### Operation
+
+The TSC will elect a chair person (who does not need to be a TSC voting member) who will be responsible for organizing and conducting meetings, and coordinating responses to any voting issues.  The TSC will determine the frequency and content of its meetings and how it operates through media such as slack or mailing lists.  It is encouraged to use tools that enable participation by the community.
 
 The TSC is responsible for recording any votes and their results in a format is is available for everyone to see, such as e-mail threads or github issues.  
 
-TSC meetings must be open to everyone in the community to attend, with the exception of security vulnerabilities in the Zowe product where it is deemed that these are discussed between subject matter experts to resolve without revealing any attack vectors in Zowe that a bad actor may exploit against Zowe installations.  
+TSC meetings must be open to everyone in the community to attend, with the exception of security vulnerabilities in the Zowe product where it is deemed that these are discussed between subject matter experts to resolve without revealing any attack vectors in Zowe that a bad actor may exploit against Zowe installations. 
 
-## Voting
+TSC members are expected to regularly participate in TSC activities.  A TSC voting member by voluntarily resign in which case the squad through which the voting member was elected will be responsible for providing a new voting member.  TSC members are expected to regularly participate in TSC activities and if amy member feels that they are unable to fulfill their responsibilities, or if the remaining TSC voting members feel that a voting member is not fulfilling their responsibilities, the TSC and the member are encouraged to resolve the issue in a respectful way that honors privacy and sensitivity of everyone.  Dispute resolution should be brought to the ZLC.  
+
+## Voting member responsibilities
 
 The TSC voting members wil be responsible for 
 
@@ -71,18 +94,4 @@ The TSC voting members wil be responsible for
 - If consensus cannot be reached this must be brought to the attention of the TSC.
 - At any point anyone on the TSC, whether a voting member or not, can ask for a review of the decision by the ZLC.
 - In the case of a disagreement the ZLC voting members have overall decisions responsibility per the ZLC voting rules.  This is meant to be used in exception circumstances and it is hoped and encouraged that the TSC is able to function as an open, transparent, and welcoming place for cross squad actions and coordinated initiatives to be launched and executed from.  
-
-## Responsibilities
-
-The TSC detailed responsibilities will include:
-
-- Negotiate and gain consensus of the priority of cross squad activities with squads (squads retain in-squad backlog prioritization) 
-- Set the release cadence for Zowe releases within a program increment.  
-- Approve Zowe releases in accordance with defined criteria 
-- Advise the ZLC when the Zowe version number needs to be incremented. The timing and execution of this is the responsibility of the Zowe Leadership Committee (ZLC) voting members.  
-- Improving efficiencies across the teams and – where possible – load balancing of skills and resources to avoid duplication of effort, and to fill any identified resource gaps to help Zowe meet delivery dates as an integrated team.  This may involve the TSC working with squad leads to help plan sprint backlogs so that as well as new features being worked on, technical debt such as CICD pipeline efficiency and resiliency, documentation deficiencies, test coverage, are addressed.  
-- Improve and propagate best-practices across the squads, incubator projects, and Zowe extensions, sourcing ideas from development teams and individuals from inside and outside the Zowe community.  This may involve calling in subject matter experts from the mainframe, the open source, and the wider technical community to be guest presenters at TSC meetings.  
-- Oversee GitHub repository policies and administration for the Zowe community to ensure best practices and adherence to OMP policies. The GitHub administration is to follow the rules of any accreditation badges the Zowe community achieves. 
-- Establish minimum cross squad policy for the development, build, test, and documentation process for Zowe – this to include acceptance criteria for new source code 
-- Encouraging participation and mentorship in wider community events such as hackathons, OMP internships, and providing technical direction to encourage growth of incubator projects
-- Appointing representatives to work with other open source or open standards communities as needed.  This includes growing relationship between Zowe and other OMP and Linux Foundation projects.
+- Notwithstanding the above, the TSC should always follow a consensus seeking decision making model and always favor open source goals and community collaboration versus any vendor specific direction, whether for or against, see [Consensus Seeking](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making).
