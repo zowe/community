@@ -21,6 +21,9 @@
 
 Join Zoom Meeting
 https://zoom.us/j/98106259941
+
+[Meeting Recording](https://zoom.us/rec/share/sEiTyMcM8LRdoDOJMX276Y8swqCunQvhSuYl7MBcWuyVm2cBPwTDVXLMRCQoa21w.VJW-UZwMg1m7D_aq?startTime=1601553687000)
+
 </td>
             <td></td>
             <td></td>
@@ -133,6 +136,7 @@ Squad Breakout 2
 </td>
                 <td></td>
 <td>
+
 - Squads need to ensure that they attend those breakout sessions that are important to them.
 - Dependencies need to brought up at the Breakout sessions
 </td>
