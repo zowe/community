@@ -1,4 +1,4 @@
-# Zowe Docs Squad - 20PI4 Objectives (October 2020 to December 2020)
+# Zowe Docs Squad - 20PI4 Objectives (October 2020 to January 2021)
 
 1. Zowe users can learn about and use new Zowe features successfully by reading the documentation. 
    
@@ -11,6 +11,10 @@
    - Document running CLI in Daemon mode. 
    - Add documentation for Swift Client SDK (in addition to the Python and Node SDKs).
    - Document Node v14 support for CLI.
+   - Document x.509 client certificate support for API ML
+   - Document API ML as a standalone component
+   - Document AT-TLS aware Zowe API ML
+   - User guide to Zowe API ML Metrics dashboard
 
    **Dependency:** All squads
 
@@ -62,7 +66,7 @@
 7. Identify content gaps and improvement areas by leveraging content analytics and NPS user feedback.
 
    **Deliverable:**
-   - Analysis of doc site Google Analytics data and NPS user feedback
+   - Analysis of doc site Google Analytics data, metrics, and NPS user feedback
    - Insights/improvement summary and enhancement plan
    
    **Dependency and risk:** None
