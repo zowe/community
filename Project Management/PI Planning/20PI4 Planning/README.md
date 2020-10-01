@@ -130,9 +130,6 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/98404818292
 
-Squad Breakout 7
-- Documentation Squad
-- Zoom Link: https://zoom.us/j/646062143
 </td>
                 <td></td>
 <td>
@@ -177,7 +174,7 @@ Squad Breakout 4
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: here
+- Zoom/Webex Link: https://zoom.us/j/94535814396
 </td>
                 <td></td>
                 <td></td>

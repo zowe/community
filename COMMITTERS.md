@@ -2,6 +2,15 @@
 
 The following is a list of all the Zowe Committers on the project organized by squads. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privileges.
 
+## Zowe Leadership Committee
+
+- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
+- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
+- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
+- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- Michael Dubois - @pdubzq (michael.dubois@broadcom.com)
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
+
 ## Zowe Sub-Project Squads
 
 ### Zowe API Squad
@@ -16,16 +25,18 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
 - David Janda - @jandadav (david.janda@broadcom.com)
 - Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
-- Pavlin Zahariev - ? (pavlin.zahariev@broadcom.com)
+- Pavlin Zahariev - @pinpan (pavlin.zahariev@broadcom.com)
 - Irek Fakhrutdinov - @ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
 - Jakub Balhar - @balhar-jakub (jakub.balhar@broadcom.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- Leonid Baranov - ? (leonid.baranov@broadcom.com)
+- Leonid Baranov - @lb891790 (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Pavel Jares - ? (pavel.jares@broadcom.com)
+- Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
+- Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
+- Aman Prashant - @ap891843 (aman.prashant@broadcom.com)
 
 ### Zowe CLI Squad
 
@@ -55,36 +66,17 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 
 ### Zowe App Framework Squad
+Committers are tracked via github teams, for permission management
+Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
+Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
+
 
 - Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
 - JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
-- Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
-- (No idea) John Gellin - @jgellin (email?)
-- (No idea) Adam Battenburg - @adambattenburg (email?)
-- (No idea) Jason Enzi - @jayenzi (email?)
-- Tim Gerstel - @timgerstel (tgerstel@rocketsoftware.com)
-- Suneeth Keerthy - @sakeerthy (skeerthy@rocketsoftware.com)
-- Leanid Astrakou - @DivergentEuropeans (lastrakou@rocketsoftware.com)
-- Leonty Chudinov - @lchudinov (lchudinov@rocketsoftware.com)
-- (Emeritus Status) Dmitry Prizentsov - @dprizentsov (dprizentsov@rocketsoftware.com)
-- (Emeritus Status) Jason English - @jasonenglish2039 (jenglish@rocketsoftware.com)
-- (Emeritus Status) Reet Chowdhary - @reetchow (rchowdhary@rocketsoftware.com)
-- Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
-- (No idea) Jürgen Holtz - @juergen-holtz (holtz@de.ibm.com)
-- fkovinAtRocket (fkovin@rocketsoftware.com)
-- rpenny125 (rpenny@rocketsoftware.com)
-- dmitrynikolaev (dnikolaev@rocketsoftware.com)
-- (Emeritus Status) colavitam ???
-- jordanfilteau1995 (jfilteau@rocketsoftware.com)
-- sakeerthy (skeerthy@rocketsoftware.com)
-- toddwellman (twellman@rocketsoftware.com)
-- nakulmanchanda (nakul.manchanda@ibm.com)
-- rocketjared (jhunter@rocketsoftware.com)
-- ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
-- hogstrom (hogstrom@us.ibm.com)
-- gadyck (gdyck@rocketsoftware.com)
-- daveyc (dcrayford@rocketsoftware.com)
-- James Struga (jstruga@rocketsoftware.com)
+- Server framework committers - https://github.com/orgs/zowe/teams/committers-app-server-framework
+- UI framework committers - https://github.com/orgs/zowe/teams/committers-app-ui-framework
+- App committers - https://github.com/orgs/zowe/teams/committers-apps
+- ZSS committers - https://github.com/orgs/zowe/teams/committers-zss
 
 ### Zowe Explorer Squad
 
@@ -126,16 +118,16 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 - Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
-- Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
 - Bruce Armstrong - @armstro (armstrob@us.ibm.com)
 - Bill Pereira - @billpereira (william.pereira@me.com)
 - Taylor Donner - @TaylorDonner (taylor.donner@ibm.com)
+- Murali Panchalingam - @pancha1 (panchali@uk.ibm.com)
 
 ### Documentation
 
-- Nan Nan (Ashley) Li - @nannanli (nannanli@cn.ibm.com)
+- Nan Nan (Ashley) Li - (Lead) @nannanli (nannanli@cn.ibm.com)
 - Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
@@ -148,6 +140,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 ### Zowe CI/CD
 
 - Mark Ackert (Lead) - @MarkAckert (mark.ackert@broadcom.com)
+- Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Michal Maliska (Lead) - @mike-maliska (email?)
 - Jack (Tiefeng) Jia - @jackjia-ibm (jack-tiefeng.jia@ibm.com)
 - John Davies - @John-A-Davies (daviesja@uk.ibm.com)
@@ -156,12 +149,5 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
 
-## Zowe Leadership Committee
-
-- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
-- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
-- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
-- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
-- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
-- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
