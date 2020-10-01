@@ -14,7 +14,6 @@
 ## Continue to improve the profile experience
 
 * Refactor Profiles.ts [Issue 1000](https://github.com/zowe/vscode-extension-for-zowe/issues/1000)
-  * Empty fields in profiles (user and password) bug
 * Base path editing-- new fields in z/OSMF schema should be covered (base path, encoding, response timeout) [Issue 989](https://github.com/zowe/vscode-extension-for-zowe/issues/989)
 * Profile manager development [Issue 423](https://github.com/zowe/vscode-extension-for-zowe/issues/423)
 * Profile type annotations [Issue 1025](https://github.com/zowe/vscode-extension-for-zowe/issues/1025)
