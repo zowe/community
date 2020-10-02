@@ -111,3 +111,6 @@ Will continue to engage in community to improve package management technology an
 
 ## Risks
 * If artifactory cannot be used as a conda server, need to find alternative (thankfully low footprint)
+
+## Recording from the meeting
+   * https://zoom.us/rec/share/xLhTjxvWS43RlH59kZeh_X2IbwEc9tQ8u_tqBrF_TLc7jYSIz6q7Z4qvBZiwVIAC.lfbFgwPQqp2Eakhj Passcode: 5+us7*n! 
