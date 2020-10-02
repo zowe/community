@@ -224,6 +224,8 @@ Squad Breakout 6
 
 Join Zoom Meeting
 https://zoom.us/j/94392882124
+
+[Meeting Recording](https://zoom.us/rec/share/1-YkdmwLPSf2giFPFarzlWgR8bK-qj4vascyBK4Kg7ROyCPC4tqM0hldSg4EtpRL.KpDtqQHZ4P_tBDMa?startTime=1601639372000)
 </td>
             <td></td>
             <td></td>
