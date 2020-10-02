@@ -179,6 +179,8 @@ Squad Breakout 4
 Squad Breakout 5
 - WebUI Squad
 - Zoom/Webex Link: https://zoom.us/j/94535814396
+
+- Recording: https://zoom.us/rec/share/xLhTjxvWS43RlH59kZeh_X2IbwEc9tQ8u_tqBrF_TLc7jYSIz6q7Z4qvBZiwVIAC.lfbFgwPQqp2Eakhj Passcode: 5+us7*n! 
 </td>
                 <td></td>
                 <td></td>
