@@ -7,6 +7,7 @@
    - [Chairperson and Secretary](#chairperson-and-secretary)
    - [Meetings](#meetings)
    - [Voting](#voting)
+ - [FAQs](#faqs)
 
 The Zowe project is hosted by the Open Mainframe Project and part of the Linux Foundation which operates transparently, openly, collaboratively and ethically.  
 
@@ -87,3 +88,9 @@ All general topics and direction will be discussed openly.
 While the Project aims to operate as a [consensus based community](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making), if any TSC decision requires a vote to move the Project forward, the TSC voting members will vote on a one vote per voting member basis. Quorum for TSC meetings is at least fifty percent ( 50% ) of TSC voting members. TSC decisions may be by electronic vote in a method that will be transparent and that can be preserved, such as mailing lists or Github issues. The TSC may choose to have the Open Mainframe Project staff oversee votes to ensure vendor-neutrality. 
 
 In the event a vote cannot be resolved by the TSC, any TSC voting member may refer the matter to the Open Mainframe Project staff and/or Open Mainframe Project TAC for assistance in reaching a resolution.
+
+## FAQs
+
+### What will be the role of the ZLC after the TSC is formed?
+
+Many of the aforementioned duties and roles of the ZLC will be shifted to the TSC as a part of this proposal. This brings Zowe more inline with other Open Mainframe Project and Linux Foundation projects, with technical community representative leadership. At the present time there are no definitive plans for changes to the ZLC, though this will be re-evaluated as the TSC begins operations.
