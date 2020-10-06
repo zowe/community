@@ -1,6 +1,8 @@
 # Architecture Call Recordings
 
-[09-29-2020](https://zoom.us/rec/share/iwX_dJo8D6R1B4vubpGxQB9HCQEIvqkvSVmahCwzAKBhjFI_I1_ycTJ-ObDOtwtd.dloICZoRO1SvjdXb?startTime=1601388044000) Zowe HA discussion including Gus Kassimisi 
+[10-06-2020](https://zoom.us/rec/share/jlMMLT0wNsBYGuoEJlccoUL9F66MQpO2d2nztGJXUucOVb55ObejF8vzk36avxhE.iiJ2AYnc_xa1-21Q?startTime=1601992789000) Discuss findings around CSRF guard for southbound services in API-ML
+
+[09-29-2020](https://zoom.us/rec/share/iwX_dJo8D6R1B4vubpGxQB9HCQEIvqkvSVmahCwzAKBhjFI_I1_ycTJ-ObDOtwtd.dloICZoRO1SvjdXb?startTime=1601388044000) Zowe HA discussion including Gus Kassimisi
 
 [09-22-2020](https://zoom.us/rec/share/9TGJieu52xTzmlqA7PpjTtVy9XUpjrmBvJVBaM9c0jQlAddZ85pZvwhKyxwR9AZI.rHGHVox69WC7pi0O?startTime=1600783080000) HA Discussions
 
