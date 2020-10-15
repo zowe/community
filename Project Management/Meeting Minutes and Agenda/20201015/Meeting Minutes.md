@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - File Abilities - Copy/Paste etc
+      - Open Source HTTP Client
+      - Improve app-server logging regarding certificiates
     - API Mediation Layer & Security (Elliot)  
       - [HA: Spike: Document and understand VSAM setup, Verify certificate requirements#889](https://github.com/zowe/api-layer/issues/889)
     - Performance & High Availability (HA) (Jack)
