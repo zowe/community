@@ -23,6 +23,7 @@ Agenda Items
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot)  
+      - [HA: Spike: Document and understand VSAM setup, Verify certificate requirements#889](https://github.com/zowe/api-layer/issues/889)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
