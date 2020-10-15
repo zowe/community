@@ -28,6 +28,10 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)  
       - [HA: Spike: Document and understand VSAM setup, Verify certificate requirements#889](https://github.com/zowe/api-layer/issues/889)
     - Performance & High Availability (HA) (Jack)
+      - Jakub has proposed detail plan for Caching API
+      - New config variable ZWE_LAUNCH_COMPONENTS added (Steve)
+      - More experiments (sharing volume, file system) on Sysplex config, need a change on shared config plan (Nayer)
+      - Try to finalize manifest definition proposal and will discuss soon
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
