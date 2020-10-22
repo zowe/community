@@ -52,18 +52,18 @@ The TSC has a core group of voting members who are resonsible for actioning and 
 ### Voting Members
 
 At the formation of the TSC the voting members include the three technical members of the Zowe Leadership Committee (ZLC)
-    - Joe Winchester
-    - Sean Grady
-    - Mark Ackert
+- Joe Winchester
+- Sean Grady
+- Mark Ackert
 
 The TSO also includes one member from each of the Zowe squads.  Initially this role is given to be the current squad lead, however each squad may decide to nominate anyone else who is a current squad member.  Where the squad lead is also one of the ZLC technical voting members this position should be filled by another squad SME.
-    - TBD - (Zowe App Framework/Desktop squad)
-    - Mike Bauer (Zowe CLI Squad)
-    - Fernando Rijo Cedeno (Zowe Explorer squad)
-    - Elliot Jalley (Zowe API Squad)
-    - TBD (Zowe Systems - CI/CD squad)
-    - Nan nan Li (Zowe documentation squad)
-    - TBD (Zowe onboarers squad)
+- TBD - (Zowe App Framework/Desktop squad)
+- Mike Bauer (Zowe CLI Squad)
+- Fernando Rijo Cedeno (Zowe Explorer squad)
+- Elliot Jalley (Zowe API Squad)
+- TBD (Zowe Systems - CI/CD squad)
+- Brandon Jenkins (Zowe documentation squad)
+- TBD (Zowe onboarding squad)
 
 If a TSC voting member is unable to participate in a vote or feels that they are not expert enough in the subject area to cast a vote on a topic, they may delegate that vote to another community member or subject matter expert.
 
