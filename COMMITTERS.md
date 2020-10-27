@@ -2,6 +2,15 @@
 
 The following is a list of all the Zowe Committers on the project organized by squads. It is the responsibility of the committers to update their name, GitHub ID and e-mail they would like to have associated with official (binding) community votes. Each committer is only allowed to have one (1) GitHub ID and e-mail with committer privileges.
 
+## Zowe Leadership Committee
+
+- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
+- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
+- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
+- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- Michael Dubois - @pdubzq (michael.dubois@broadcom.com)
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
+
 ## Zowe Sub-Project Squads
 
 ### Zowe API Squad
@@ -22,11 +31,12 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- Leonid Baranov - ? (leonid.baranov@broadcom.com)
+- Leonid Baranov - @lb891790 (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Pavel Jares - ? (pavel.jares@broadcom.com)
+- Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 - Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
+- Aman Prashant - @ap891843 (aman.prashant@broadcom.com)
 
 ### Zowe CLI Squad
 
@@ -108,16 +118,16 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 - Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
-- Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
 - Bruce Armstrong - @armstro (armstrob@us.ibm.com)
 - Bill Pereira - @billpereira (william.pereira@me.com)
 - Taylor Donner - @TaylorDonner (taylor.donner@ibm.com)
+- Murali Panchalingam - @pancha1 (panchali@uk.ibm.com)
 
 ### Documentation
 
-- Nan Nan (Ashley) Li - @nannanli (nannanli@cn.ibm.com)
+- Nan Nan (Ashley) Li - (Lead) @nannanli (nannanli@cn.ibm.com)
 - Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
@@ -130,6 +140,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 ### Zowe CI/CD
 
 - Mark Ackert (Lead) - @MarkAckert (mark.ackert@broadcom.com)
+- Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
 - Michal Maliska (Lead) - @mike-maliska (email?)
 - Jack (Tiefeng) Jia - @jackjia-ibm (jack-tiefeng.jia@ibm.com)
 - John Davies - @John-A-Davies (daviesja@uk.ibm.com)
@@ -138,12 +149,5 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
+- Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
 
-## Zowe Leadership Committee
-
-- Bruce Armstrong (interim chair) - @armstro (armstrob@us.ibm.com)
-- Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
-- Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
-- Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
-- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
-- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)

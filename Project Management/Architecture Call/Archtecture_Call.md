@@ -1,5 +1,17 @@
 # Architecture Call Recordings
 
+[10-06-2020](https://zoom.us/rec/share/jlMMLT0wNsBYGuoEJlccoUL9F66MQpO2d2nztGJXUucOVb55ObejF8vzk36avxhE.iiJ2AYnc_xa1-21Q?startTime=1601992789000) Discuss findings around CSRF guard for southbound services in API-ML
+
+[09-29-2020](https://zoom.us/rec/share/iwX_dJo8D6R1B4vubpGxQB9HCQEIvqkvSVmahCwzAKBhjFI_I1_ycTJ-ObDOtwtd.dloICZoRO1SvjdXb?startTime=1601388044000) Zowe HA discussion including Gus Kassimisi
+
+[09-22-2020](https://zoom.us/rec/share/9TGJieu52xTzmlqA7PpjTtVy9XUpjrmBvJVBaM9c0jQlAddZ85pZvwhKyxwR9AZI.rHGHVox69WC7pi0O?startTime=1600783080000) HA Discussions
+
+[09-08-2020] (https://zoom.us/rec/share/6FgpZXbjHydVq2vRM2DVAVwVBIXJZUXgEA4dmq11xJ2Bwvg__4tn-saBbygczXrX.CsrmB23L3OonDvvg?startTime=1599573491000) Packaging Discussion
+
+[08-11-2020](https://zoom.us/rec/share/4Jx5E7Ds60xIfqvK7Hr2RL9wMoW5aaa80XQf-qJcmkwerbgRRxeBjNq3UdMI48sL?startTime=1597154563000) Zowe Client Certification Authentication Proposal
+
+[08-05-2020](https://zoom.us/rec/share/y516Aa2vzUZOWp2cy2zNa_Z8Ja68aaa8gHJPrvBfnhxt7AZTZoLfA_cWS6r3Brt5?startTime=1596549937000)
+
 [07-28-2020](https://zoom.us/rec/share/tZdvCOmt9mlIbtKU9FyCYqs9DN3DT6a8gXUW_qFfyU7xK1LJPOPt9RLsAs1PlqN2?startTime=1595944958000) Open Source Project called 'zospm' (previously called zbrew)
 - [Meeting Charts](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/zospm-and-zowe.pptx)
 
