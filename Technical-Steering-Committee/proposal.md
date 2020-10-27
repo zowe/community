@@ -50,7 +50,7 @@ The initial voting members of the TSC will consist of representatives from the Z
   - Fernando Rijo Cedeno (Zowe Explorer squad)
   - Elliot Jalley (Zowe API Squad)
   - _TBD_ (Zowe Systems - CI/CD squad)
-  - Nan Nan Li (Zowe Documentation squad)
+  - Brandon Jenkins (Zowe Documentation squad)
   - _TBD_ (Zowe Onboarding squad)
 
 The TSC voting members will have no more than one-third (33%) of voting members affiliated with the same employer. In the case where a TSC voting member has an employment change which violates this requirement, the TSC voting member should be replaced by the body in which thier status is provided.
