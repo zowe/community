@@ -28,6 +28,14 @@ Agenda Items
       - Adding a settings menu Ztop
     - API Mediation Layer & Security (Elliot)  
     - Performance & High Availability (HA) (Jack)
+      - Finalized package manifest format related to HA. Had detail discussion on other part of manifest. This may clear some blockers we have on Zowe Launcher implementation.
+      - Built Caching API first version which supports storing state data in memory. (APIML)
+      - PR of creating VSAM data set is almost ready for review.
+      - Added new instance.env variable ZWE_DISCOVERY_SERVICES_LIST. (Steve)
+      - Designed detail plan for separating internal/external certificate for communication. (APIML).
+      - Continue working on verifying z/OSMF HA deployment. (Nayer)
+      - Built and published performance test metrics server docker image.
+      - Enhance the performance test client framework to support testing multiple URLs in parallel.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
