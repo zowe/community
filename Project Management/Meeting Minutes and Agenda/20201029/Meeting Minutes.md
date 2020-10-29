@@ -23,6 +23,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Fixing sorting on Ztop
+      - Adding right click button column Ztop
+      - Adding a settings menu Ztop
     - API Mediation Layer & Security (Elliot)  
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
