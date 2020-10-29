@@ -57,7 +57,7 @@ It is expected that the TSC will establish it's general operations and policies,
 The TSC will elect a chairperson which will have the responsibilities and duties of...
 
 - Organizing and conducting meetings, and coordinating responses to any voting issues.  
-- Be the primary representative of the Zowe project to the Open Mainframe Project Techincal Advisory Counsel (TAC) on technical issues.  
+- Be the primary representative of the Zowe project to the Open Mainframe Project Technical Advisory Council (TAC) on technical issues.  
   - The ZLC chairperson remains the primary representation of business, marketing, community and non-technical issues the Zowe project to the Open Mainframe Project.
 - Be the primary spokesperson for the Zowe project.
 
@@ -77,7 +77,13 @@ All general topics and direction will be discussed openly.
 
 While the Project aims to operate as a [consensus based community](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making), if any TSC decision requires a vote to move the Project forward, the TSC voting members will vote on a one vote per voting member basis. Quorum for TSC meetings is at least fifty percent ( 50% ) of TSC voting members. TSC decisions may be by electronic vote in a method that will be transparent and that can be preserved, such as mailing lists or Github issues. The TSC may choose to have the Open Mainframe Project staff oversee votes to ensure vendor-neutrality. 
 
-In the event a vote cannot be resolved by the TSC, any TSC voting member may refer the matter to the Open Mainframe Project staff and/or Open Mainframe Project TAC for assistance in reaching a resolution.
+In the event a consensus cannot be achieved then a vote will not be passed. Voting members may abstain but a NO vote indicates objection that must be resolved by further discussion and a possible change to the issue being voted on.  This unanimous requirement is to foster agreement and shared advancement of the Zowe project by the TSC and the wider Zowe community.
+
+If the TSC unable to reach unanimous consensus on a vote and there remains one or more NO votes, then the Zowe Leadership Committee (ZLC) will have the mandate to resolve the vote and make the decision.  If this occurs the ZLC vote must be unanimous consensus with all ZLC members voting YES.
+
+In the event a vote cannot be resolved by the TSC or ZLC, any TSC or ZLC voting member may refer the matter to the Open Mainframe Project staff and/or Open Mainframe Project TAC.
+
+The TSC and ZLC voting is designed to provide a way for the Zowe community across the ecosystem of squads, committers, subject matter experts, customers, software vendors, and others to collectivity to advance the project's mission of providing an open source extensible platform for z/OS tooling.  The TSC voting proposal has been written to reflect this approach to how voting decisions and resolutions are passed.  
 
 ## FAQs
 
