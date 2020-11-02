@@ -122,11 +122,12 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 ### Documentation
 
 - Nan Nan (Ashley) Li - (Lead) @nannanli (nannanli@cn.ibm.com)
-- Jason English - @jasonenglish2039 (jasone@rocketsoftware.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
-- Alyson Andresen - @AlysonAndresen (aandresen@rocketsoftware.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
+- Michael Aimino - @MichaelABroadcom (michael.aimino@broadcom.com)
+- Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
+- Alex Jin - @ajinrocket (ajin@rocketsoftware.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
 - Matt Hogstrom - @hogstrom (matt@hogstrom.org)
