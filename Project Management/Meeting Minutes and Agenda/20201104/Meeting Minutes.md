@@ -31,6 +31,10 @@ Agenda Items
       - Preparation for 1.17 RC underway
       - Unlikely that the Squad will have any agenda for the demo as we are focused on ongoing HA and Client Cert work 
     - Performance & High Availability (HA) (Jack)
+      - Changed packaging of apiml/explorers to trap INT signal. Need further integration test.
+      - Added pipeline to build Zowe Launcher, added function to Jenkins Library to bump version defined in manifest file. (Need further work to fix make issue.)
+      - Finalized VSAM creation JCL and merged into zowe-install-packaging.
+      - Started work on adding manifest to build-in packages.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
