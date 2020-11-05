@@ -23,6 +23,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Clean up charts in zTop
+      - Create a modal for choosing columns zTop
+      - Fix element sizing and sorting zTop
     - API Mediation Layer & Security (Elliot)  
       - The Squad have identified that some HA implementation for the API ML has an impact on the System and WebUI squads. Please read and comment if you are impacted [Usage of API ML in the HA Schema](https://openmainframeproject.slack.com/archives/CC5UUL005/p1604414135040600)
       - Preparation for 1.17 RC underway
