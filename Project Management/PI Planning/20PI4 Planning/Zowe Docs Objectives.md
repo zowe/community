@@ -4,7 +4,11 @@
    
    **Deliverable:**
    
-   Zowe description and demo video updated to include Zowe Explorer and be up-to-date. 
+   Zowe description and demo video updated to include Zowe Explorer. 
+   
+   **Dependency:** All squads (provide and review demo and introduction)
+   
+   **Risk:** None
 
 1. Zowe users can learn about and use new Zowe features successfully by reading the documentation. 
    
@@ -24,7 +28,7 @@
 
    **Dependency:** All squads
 
-   **Risk:** Zowe release schedule changes. Need to follow up closely to prepare the doc site, fix issues, and publish doc on time. 
+   **Risk:** Zowe release schedule changes. Mitigation: Follow up closely with build status to prepare the doc site, fix issues, and publish doc on time. 
 
 1. Zowe users can get and browse a list of interested topics within a few clicks by selecting an area of interest, role, and skill level. [#1257](https://github.com/zowe/docs-site/issues/1257)
    
