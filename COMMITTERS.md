@@ -104,20 +104,20 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Onboarding
 
-- Joe Winchester (Lead) - @Joe-Winchester (winchest@uk.ibm.com)
-- Rose Sakach (Scrum Master) - @RASakach (Rose.Sakach@broadcom.com)
-- Sujay Solomon - @solsu01 (sujay.solomon@broadcom.com)
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
+- Rose Sakach (Lead / Scrum Master) - @RASakach (Rose.Sakach@broadcom.com)
 - Daniel Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - Robert Penny - @rpenny125 (email?)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
 - Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
-- Matt Hogstrom - @hogstrom (hogstrom@us.ibm.com)
+- Matt Hogstrom - @hogstrom (Matt.Hogstrom@broadcom.com)
 - Bruce Armstrong - @armstro (armstrob@us.ibm.com)
 - Bill Pereira - @billpereira (william.pereira@me.com)
-- Taylor Donner - @TaylorDonner (taylor.donner@ibm.com)
 - Murali Panchalingam - @pancha1 (panchali@uk.ibm.com)
+- Ilya Kreynin - @IlyaKreynin (ilya.kreynin@ibm.com)
+- Michael DuBois - @pdubz3 (michael.dubois@broadcom.com)
 
 ### Documentation
 
