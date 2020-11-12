@@ -24,6 +24,9 @@ Agenda Items
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot)  
     - Performance & High Availability (HA) (Jack)
+      - Discussion on converting instance.env to YAML format. We are close to have final proposal.
+      - Continue testing on adding manifest and re-packaging explorer APIs.
+      - Continue testing on setup z/OSMF HA.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
