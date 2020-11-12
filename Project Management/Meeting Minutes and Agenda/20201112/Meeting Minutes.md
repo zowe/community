@@ -26,6 +26,9 @@ Agenda Items
       - Add key support for java server in ztop
       - Enhance new single app mode to not have window header UI on first app
     - API Mediation Layer & Security (Elliot)  
+      - Released v1 of API versioning in Catalog to 1.17 and captured enhancements for v2 (targeting 1.18)
+      - Started VSAM implementation for the caching API
+      - Completing RACF and TSS testing for Client Certs (ACF2 testing opened as issue against install-packaging)
     - Performance & High Availability (HA) (Jack)
       - Discussion on converting instance.env to YAML format. We are close to have final proposal.
       - Continue testing on adding manifest and re-packaging explorer APIs.
