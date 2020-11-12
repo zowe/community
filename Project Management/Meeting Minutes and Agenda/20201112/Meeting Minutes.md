@@ -30,7 +30,12 @@ Agenda Items
       - Discussion on converting instance.env to YAML format. We are close to have final proposal.
       - Continue testing on adding manifest and re-packaging explorer APIs.
       - Continue testing on setup z/OSMF HA.
-    - Documentation (Brandon/Ashley/Jim/Jason)
+    - Documentation (Brandon/Ashley/Alex/Andrew)
+      - v1.17 [Release notes draft](https://github.com/zowe/docs-site/blob/docs-staging/docs/getting-started/summaryofchanges.md#version-1170-lts-november-2020) ready for review. 
+      - Update z/OSMF workflow doc, Zowe upgrade doc
+      - Investigate Zowe doc table of contents to provide better navigation and structure
+      - Continue work on contribution doc
+      - Discussion on doc homepage redesign. Will create persona-based roadmap (matching Ilya's design) and component-based roadmap on doc site. 
 
 6. Legal Requirements
     - None
