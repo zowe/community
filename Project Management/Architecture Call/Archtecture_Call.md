@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[11-17-2020](https://zoom.us/rec/share/kCNJMnKTu5fGzy--5PWxOq8TDtl6q2CZYk4UU6WTnkjZmNnmv0GeK7S1Jf3MXOpP.NZYO4QQ8uEyR1luD?startTime=1605624859000) Docker Discussion
+
 [11-10-2020](https://zoom.us/rec/share/J0_AraxEr7b5vVz7KhByi1nrfG31l05plw_FFhCEsx9U7Puzmt_-DjK95UUFMVMm.hhczHEeFf2IsQv4q?startTime=1605020174000) Synopsis Discussion
 
 [10-06-2020](https://zoom.us/rec/share/jlMMLT0wNsBYGuoEJlccoUL9F66MQpO2d2nztGJXUucOVb55ObejF8vzk36avxhE.iiJ2AYnc_xa1-21Q?startTime=1601992789000) Discuss findings around CSRF guard for southbound services in API-ML
