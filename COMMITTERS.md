@@ -20,22 +20,18 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Michal Supak - @supmi01 (michal.supak@broadcom.com)
 - Andrea Tabone - @taban03 (andrea.tabone@broadcom.com)
 - Christos Zikos - @cZikos (christos.zikos@broadcom.com)
-- Vsevolod Khanin - @vsev0lod (vsevolod.khanin@broadcom.com)
 - Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
 - David Janda - @jandadav (david.janda@broadcom.com)
 - Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
 - Pavlin Zahariev - @pinpan (pavlin.zahariev@broadcom.com)
-- Irek Fakhrutdinov - @ifakhrutdinov (ifakhrutdinov@rocketsoftware.com)
 - Jakub Balhar - @balhar-jakub (jakub.balhar@broadcom.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- Leonid Baranov - @lb891790 (leonid.baranov@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
 - Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
 - Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
-- Aman Prashant - @ap891843 (aman.prashant@broadcom.com)
 
 ### Zowe CLI Squad
 
@@ -107,13 +103,13 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Rose Sakach (Lead / Scrum Master) - @RASakach (Rose.Sakach@broadcom.com)
 - Daniel Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - Nolan Rogers - @NolanRogers (nrogers@rocketsoftware.com)
-- Daniel Jast - @Daniel-Jast (daniel.jast@ibm.com)
+- Daniel Jast - @Dan-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
 - Matt Hogstrom - @hogstrom (Matt.Hogstrom@broadcom.com)
 - Bruce Armstrong - @armstro (armstrob@us.ibm.com)
 - Bill Pereira - @billpereira (william.pereira@me.com)
-- Murali Panchalingam - @pancha1 (panchali@uk.ibm.com)
+- Murali Panchalingam - @mpanch59 (panchali@uk.ibm.com)
 - Ilya Kreynin - @IlyaKreynin (ilya.kreynin@ibm.com)
 - Michael DuBois - @pdubz3 (michael.dubois@broadcom.com)
 
@@ -128,17 +124,15 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Alex Jin - @ajinrocket (ajin@rocketsoftware.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
-- Matt Hogstrom - @hogstrom (matt@hogstrom.org)
 
 ### Zowe CI/CD
 
 - Mark Ackert (Lead) - @MarkAckert (mark.ackert@broadcom.com)
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
-- Michal Maliska (Lead) - @mike-maliska (email?)
 - Jack (Tiefeng) Jia - @jackjia-ibm (jack-tiefeng.jia@ibm.com)
 - John Davies - @John-A-Davies (daviesja@uk.ibm.com)
 - Alvin Tan - @alvin-tan (khiamt@ca.ibm.com)
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
-- Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
+- Robbie Avill (Robbie) - @roavill2 (roavill2@uk.ibm.com)
 
