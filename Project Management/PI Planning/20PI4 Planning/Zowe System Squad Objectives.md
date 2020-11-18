@@ -14,7 +14,8 @@
     * A new packaging and manifest format for components
     * ARM support
     * Basic Sysplex configuration testing, including port sharing and DVIPA
-    * Certificate configuration improvements
+    * ~~Certificate configuration improvements~~
+    * A new YAML format Zowe configuration file
 
 - Dependencies:
   * Known dependencies with other teams planned. 
@@ -22,6 +23,8 @@
 - Risks:
   * Some runway included in this PI
       * Mitigation: Research is front-loaded within the PI, and runway is not completely unknown - rounding out details.
+
+**Note:** in November 18, 2020 ZLC meeting, the system squad got ZLC approval to prioritize `A new YAML format Zowe configuration file` work and will postpone `Certificate configuration improvements` objective to next PI.
 
 The exhaustive list of stories is below.
 
