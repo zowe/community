@@ -17,7 +17,13 @@ Sprint 1 - x509: Support the Client certificate authentication workflow through 
 The usage of Dynamic Virtual IP Address (DVIPA) will ensure that if an instance of Gateway and/or Discovery fails on one system (LPAR1), the other system (LPAR2) continues to provide service functionality through a sysplex distributor.
 
 API ML Squad Plan:  
-Sprints 2-5 
+Sprints 2-5 #857 through #863
+
+**Dependency**
+WebUI Squad and Zowe Launcher for [API ML Squad Issue: HA: Componentize start script per APIML service #862](https://github.com/zowe/api-layer/issues/862)
+
+**Risk**
+Lack of VSAM knowledge for [API ML Squad Issue: HA: Caching API: Vsam implementation #863](https://github.com/zowe/api-layer/issues/863) mitigated by assistance of Nayer from System Squad
 
 ## API versioning support reflected in the Zowe API ML Catalog
 (in support of ADOPTION theme)
@@ -45,12 +51,9 @@ Sprint 3-6
 * [Zowe API ML as a standalone component #856](https://github.com/zowe/api-layer/issues/856)
 Improve adoption by allowing the post-install configuration and deployment of the API ML as a standalone component (from the current smpe package).
 
+**Dependency**
+WebUI Squad and Zowe Launcher
+
 API ML Squad Plan:  
 Sprint 5-6
-
-
-
-
-
-
 
