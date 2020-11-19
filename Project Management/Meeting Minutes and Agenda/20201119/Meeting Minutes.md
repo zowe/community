@@ -28,7 +28,11 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
-    - Documentation (Brandon/Ashley/Jim/Jason)
+    - Documentation (Brandon/Ashley)
+      - v1.17 doc ready 
+      - Creating information roadmap for different components
+      - Consolidating contribution doc
+      
 
 6. Legal Requirements
     - None
