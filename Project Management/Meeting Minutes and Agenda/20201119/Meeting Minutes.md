@@ -30,6 +30,10 @@ Agenda Items
       - Completed RACF and TSS testing for Client Certs, PR waiting to be merged
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Confirmed will prioritize Zowe YAML configuration work. The proposal is closing to be finalized.
+      - Added manifest file to explorer APIs and working on explorer UIs (Steve)
+      - Finished z/OSMF configuration for HA in Sysplex (Nayer)
+      - Scheduled performance test run on Sunday 6am
     - Documentation (Brandon/Ashley)
       - v1.17 doc ready 
       - Creating information roadmap for different components
