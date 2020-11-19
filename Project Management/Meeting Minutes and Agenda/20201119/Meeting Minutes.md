@@ -25,7 +25,9 @@ Agenda Items
       - Make ZSS storage API
       - Enhance new single app mode to not have window header UI & fix other UX
       - Make ztop a zowe component
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Reviewing Coverity scan results and creating issues to handle high severity findings 
+      - Completed RACF and TSS testing for Client Certs, PR waiting to be merged
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley)
