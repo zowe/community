@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
+      - Make ZSS storage API
+      - Enhance new single app mode to not have window header UI & fix other UX
+      - Make ztop a zowe component
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
