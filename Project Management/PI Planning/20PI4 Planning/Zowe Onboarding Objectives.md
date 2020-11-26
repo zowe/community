@@ -1,12 +1,12 @@
 # Zowe Onboarding Squad - 20PI4 Objectives (October 2020 to January 2021)
 
 ## Conformance Process Maturity
-* Develop a process for updating the Conformance Criteria for all components during ACTIVE LTS, Resolve the incremental Badge debate, and research App-Store
-    * Implement ACTIVE LTS Conformance Criteria Update process (target 11/1)
+* Resolve the incremental Badge debate, prepare for new components conformance and research App-Store
     * Draft Incremental Badging T&Cs (target 11/30)
+    * Prepare for new component (Zowe Explorer) Conformance
     * Draft recommendations for App-Store look-and-feel Web Page (stretch)
 
-## Improve Initial Onboarding Experience
+## Improve Initial Onboarding Experience (Highest priority)
 * Better direct Onboarders to appropriate areas within the Zowe Community to ensure their first experience with Zowe is beneficial to them and effective in making them a part of the Community
     * Complete Persona research / interviews (target 11/1)
     * Present recommendations for UX and UI Website navigation improvements (target 11/30)
@@ -25,6 +25,7 @@
     * Brainstorm & draft Zowe KPIs to help identify trends and  influential activities (target 12/31)
 
 ## Dependencies
-* DOC Squad: will probably need to collaborate on Web Page modifications
+* DOC Squad: Collaborate on Web Page modifications
+* Explorers Squad:  V1 Conformance Onboarding
 * UX Designers: welcome their input on web page design
-* CLI, API, Web UI, etc: Squad leads for their input on the "request for demo" deliverable
+* CLI, API, Explorers, Web UI, etc: Squad leads for their input on the "request for demo" deliverable
