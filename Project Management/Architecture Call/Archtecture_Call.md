@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[11-24-2020](https://zoom.us/rec/share/vaNS_XGUxQ1GDeCY3B0tjn__9OprCpbQimLESCTMT1njBgcsQCU7k-WauGhedz_A.LxG-0hAh1q5sFOlA?startTime=1606229998000) Zowe containerization with Kubernetes
+
 [11-17-2020](https://zoom.us/rec/share/kCNJMnKTu5fGzy--5PWxOq8TDtl6q2CZYk4UU6WTnkjZmNnmv0GeK7S1Jf3MXOpP.NZYO4QQ8uEyR1luD?startTime=1605624859000) Docker Discussion
 
 [11-10-2020](https://zoom.us/rec/share/J0_AraxEr7b5vVz7KhByi1nrfG31l05plw_FFhCEsx9U7Puzmt_-DjK95UUFMVMm.hhczHEeFf2IsQv4q?startTime=1605020174000) Synopsis Discussion
