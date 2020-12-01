@@ -30,7 +30,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
-- Jordan Cain - @jordanCain (jorda.cain1@uk.ibm.com)
+- Jordan Cain - @jordanCain (Jordan.Cain1@uk.ibm.com)
 - Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
 
 ### Zowe CLI Squad
@@ -106,7 +106,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Daniel Jast - @Dan-Jast (daniel.jast@ibm.com)
 - Tim Brooks - @Tbr00ksy (tim.brooks@ibm.com)
 - Onno Van den Troost - @OnnoVdT (onno@us.ibm.com)
-- Matt Hogstrom - @hogstrom (Matt.Hogstrom@broadcom.com)
+- Matt Hogstrom - @hogstrom (matt@hogstrom.org)
 - Bruce Armstrong - @armstro (armstrob@us.ibm.com)
 - Bill Pereira - @billpereira (william.pereira@me.com)
 - Murali Panchalingam - @mpanch59 (panchali@uk.ibm.com)
