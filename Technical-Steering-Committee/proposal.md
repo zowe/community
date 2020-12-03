@@ -50,7 +50,7 @@ TSC voting members are expected to regularly participate in TSC meetings and oth
 
 ## Operations and Processes
 
-It is expected that the TSC will establish it's general operations and policies, clearly defined in the [GOVERNANCE.md](../GOVERNANCE.md), but in general the TSC will do the following.
+It is expected that the TSC will establish it's general operations and policies, clearly defined in the GOVERNANCE.md file (to be created), but in general the TSC will do the following.
 
 ### Chairperson and Secretary
 
