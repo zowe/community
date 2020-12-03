@@ -22,7 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Testing Client Certs on Marist ACF2 and TSS requires SSO set-up first. [In progress with zowe-install-packaging](https://github.com/zowe/api-layer/issues/952)  
+      - The addition of HA is increasing the size of the API ML towards 300MB. We are working to reduce this to below 200MB. [Minimize the size of API ML #909](https://github.com/zowe/api-layer/issues/909)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
