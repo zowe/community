@@ -17,7 +17,7 @@ This proposal is to form a Zowe Technical Steering Committee (TSC) to oversee, g
 
 When Zowe was first created different technology from different codebase combined and was stewarded by individual squads who oversaw each component.  Each squad was responsible for tracking and planning the backlog of items for their component.
 
-As Zowe has grown, coordination between squads has grown, resulting in a common installer for z/OS components, and more recently features such as Sign Sign On (SSO), MultiFactor Authentication (MFA) and client-side certificates have required technical and delivery coordination between the different components. These capabilities have enhanced Zowe’s value to the community.  It is anticipated this vector of integration will continue in the future with high availability (HA), containerization, improved security and other cross component features.  
+As Zowe has grown, coordination between squads has grown, resulting in a common installer for z/OS components, and more recently features such as Single Sign On (SSO), MultiFactor Authentication (MFA) and client-side certificates have required technical and delivery coordination between the different components. These capabilities have enhanced Zowe’s value to the community.  It is anticipated this vector of integration will continue in the future with high availability (HA), containerization, improved security and other cross component features.  
 
 The coordination and synchronization of the moving parts of Zowe is becoming more central to successful delivery of features and for this reason the Zowe Leadership Committee (ZLC) taking leadership guidance from other successful Linux Foundation projects is proposing the creation a Technical Steering Committee (TSC).
 
@@ -50,7 +50,7 @@ TSC voting members are expected to regularly participate in TSC meetings and oth
 
 ## Operations and Processes
 
-It is expected that the TSC will establish it's general operations and policies, clearly defined in the [GOVERNANCE.md](../GOVERNANCE.md), but in general the TSC will do the following.
+It is expected that the TSC will establish it's general operations and policies, clearly defined in the GOVERNANCE.md file (to be created), but in general the TSC will do the following.
 
 ### Chairperson and Secretary
 
