@@ -22,9 +22,12 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-      - Syntax For REXX Highlighting
+      - Adding syntax for REXX highlighting in the Editor
       - Testing 1.18 RC
-      - Updating and review existing hotkeys
+      - Updating and review existing Editor hotkeys, along with possibly adding new ones that exist from the Explorer apps
+      - Adding an Abstract Action getter for the dispatcher for Iframes
+      - A few other ZSS bugs regarding auth & dataset listing
+      - Adding a button for column detail view in zTop
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
