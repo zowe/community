@@ -25,7 +25,9 @@ Agenda Items
       - Syntax For REXX Highlighting
       - Testing 1.18 RC
       - Updating and review existing hotkeys
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Testing 1.18 RC
+      - [Proceeding with PoC for using Active MQ as a caching service as part of HA build out](https://github.com/zowe/api-layer/issues/980)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
