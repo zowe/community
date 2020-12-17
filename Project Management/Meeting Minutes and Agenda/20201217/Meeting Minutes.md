@@ -29,6 +29,10 @@ Agenda Items
       - Has anyone been able to test the caching API yet?
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Discussed further collaborations related to component level performance test suites with David and James.
+      - Almost finished changes related to enhance configure stage by reading manifest.
+      - Verified authentication APIs with z/OSMF configuration for HA, pending to verify PassTicket configuration.
+      - Successfully deployed njsc compiler onto Marist system, we can continue on Zowe Launcher development.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
