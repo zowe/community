@@ -22,7 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Just completed [Caching API VSAM implementation](https://github.com/zowe/api-layer/issues/863). We've identified some follow up stories on polishing the logs, measuring performance impact, adding size parameters for VSAM data storage.
+      - Has anyone been able to test the caching API yet?
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
