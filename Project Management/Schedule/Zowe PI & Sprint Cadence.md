@@ -3,10 +3,6 @@
 [20PI3 Planning Introduction Meeting Recording](https://zoom.us/rec/share/7-suFovx0zhJQbfw71_4QrR_J6fVaaa80CBL-aEJmUYETMsDuRzn1j-JEx8m166V?startTime=1593086467000)
 
 
-
-
-
-
 ## Sprint Cadence
 
 Zowe 1.17.0 (Oct 13 - Nov 13)
@@ -25,13 +21,13 @@ Zowe 1.18.0 (Nov 10 - Dec 11)
 - System Demo (Dec 7)
 - 1.18.0 GA (Dec 11)
 
-Zowe 1.19.0 (Dec 8 - Jan 8)
+Zowe 1.19.0 (Dec 8 - ~~Jan 8~~ Jan 22)
 - Sprint 1 (Dec 8 - Dec 21)
 - Sprint 2 (Dec 22 - Jan 4)
 - Code Complete/RC Candidate Build (Jan 4)
 - Start Testing (Jan 4 - Jan 8)
 - System Demo (Jan 4)
-- 1.19.0 GA (Jan 8)
+- 1.19.0 GA (~~Jan 8~~ Jan 22)
 
 
 ## Schedule
