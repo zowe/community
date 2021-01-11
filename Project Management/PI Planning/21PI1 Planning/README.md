@@ -36,8 +36,8 @@ Meeting Recording:
             <td>2021-01-27</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
-            <td>Opening Announcement</td>
-            <td>Highlights of the PI Planning</td>
+            <td>Opening Announcement. Highlights of the PI Planning</td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -45,8 +45,8 @@ Meeting Recording:
             <td>2021-01-27</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee</td>
-            <td>The ZLC will describe the vision for the PI.</td>
+            <td>Updates from the Zowe Leadership Committee. The ZLC will describe the vision for the PI</td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -88,11 +88,11 @@ Squad vision<br>
 - Documentation Squad
 
 </td>
-            <td></td>
             <td>Squad Members, Stakeholders & Users
 
 - What each squad wants to do in the next PI
 - Call out contributions from different squads (dependencies)</td>
+            <td></td>
     </tbody>
 
     <tbody>
@@ -101,8 +101,8 @@ Squad vision<br>
             <td>2021-01-27</td>
             <td>10:50 AM</td>
             <td>10 mins</td>
-            <td>Questions and Answers</td>
-            <td>This time slot is available for the Community to ask questions</td>
+            <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -110,12 +110,14 @@ Squad vision<br>
             <td>2021-01-27</td>
             <td>11:00 AM</td>
             <td>6 hrs</td>
-            <td>Squad Breakouts</td>
+            <td>Squad Breakouts
+            Squad Leads, Squad Members
+            - Squads work offline to fit their stories into sprints and create their Draft PI Objectives
+            - Capture Business Value
+            - With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts
+            </td>
 <td>
-Squad Leads, Squad Members
-- Squads work offline to fit their stories into sprints and create their Draft PI Objectives
-- Capture Business Value
-- With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts
+
 </td>
     </tbody>
     <tbody>
@@ -134,11 +136,12 @@ Squad Breakout 2
 - Zoom Link: link
 
 </td>
-                <td></td>
 <td>
 
 - Squads need to ensure that they attend those breakout sessions that are important to them.
 - Dependencies need to brought up at the Breakout sessions
+</td>
+<td>
 </td>
     </tbody>
     <tbody>
@@ -386,8 +389,8 @@ Squad Final Readouts
             <td>2021-01-29</td>
             <td>10:00 AM</td>
             <td>15 mins</td>
-            <td>Questions and Answers</td>
-            <td>This time slot is available for the Community to ask questions</td>
+            <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -404,8 +407,8 @@ Squad Final Readouts
             <td>2021-01-29</td>
             <td>11:00 AM</td>
             <td></td>
-            <td>Confidence Vote (see below)</td>
-            <td>Squad Members, Stakeholders & Users</td>
+            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
