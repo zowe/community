@@ -11,7 +11,6 @@
             <td>Date</td>
             <td>Time (Eastern)</td>
             <td>Duration</td>
-            <td>Event</td>
             <td>Description</td>
     </tbody>
     <tbody>
@@ -28,7 +27,6 @@ Meeting Recording:
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -37,7 +35,6 @@ Meeting Recording:
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -46,7 +43,6 @@ Meeting Recording:
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Leadership Committee. The ZLC will describe the vision for the PI</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -55,7 +51,6 @@ Meeting Recording:
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -102,7 +97,6 @@ Squad vision<br>
             <td>10:50 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -116,9 +110,6 @@ Squad vision<br>
             - Capture Business Value
             - With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts
             </td>
-<td>
-
-</td>
     </tbody>
     <tbody>
             <tr>
@@ -135,13 +126,10 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: link
 
-</td>
-<td>
+</td><td>
 
 - Squads need to ensure that they attend those breakout sessions that are important to them.
 - Dependencies need to brought up at the Breakout sessions
-</td>
-<td>
 </td>
     </tbody>
     <tbody>
@@ -156,7 +144,6 @@ Squad Breakout 3
 - Zoom/Webex Link: link
 </td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
             <tr>
@@ -169,7 +156,6 @@ Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link: link
   </td>
-                <td></td>
                 <td></td>
     </tbody>
     <tbody>
@@ -184,7 +170,6 @@ Squad Breakout 5
 - Zoom/Webex Link: link
 </td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
             <tr>
@@ -198,7 +183,6 @@ Squad Breakout 6
 - Zoom/Webex Link: link
 </td>
                 <td></td>
-                <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -207,11 +191,9 @@ Squad Breakout 6
             <td>5:00 PM</td>
             <td>0</td>
             <td>Day 1 End</td>
-            <td></td>
     </tbody>
 <tbody>
         <tr>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -231,7 +213,6 @@ Meeting Recording:
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -239,8 +220,7 @@ Meeting Recording:
             <td>2021-01-28</td>
             <td>8:00 AM</td>
             <td>15 mins</td>
-            <td>Explanation of Draft Readouts / Pre Q&A</td>
-            <td>Squad Members, Stakeholders & Users</td>
+            <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
@@ -273,10 +253,10 @@ Squad Final Readouts
 - Documentation Squad
 
 </td>
-            <td></td>
-            <td>Squad Members, Stakeholders & Users
+            <td>Squad Members, Stakeholders & Users.
 
-- Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
+Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads
+            </td>
     </tbody>
     <tbody>
         <tr>
@@ -284,8 +264,7 @@ Squad Final Readouts
             <td>2021-01-28</td>
             <td>10:00 AM</td>
             <td>15 mins</td>
-            <td>Questions and Answers</td>
-            <td>This time slot is available for the Community to ask questions</td>
+            <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
     <tbody>
         <tr>
@@ -294,7 +273,6 @@ Squad Final Readouts
             <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -302,8 +280,7 @@ Squad Final Readouts
             <td>2021-01-28</td>
             <td>11:00 AM</td>
             <td></td>
-            <td>Confidence Vote (see below)</td>
-            <td>Squad Members, Stakeholders & Users</td>
+            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
@@ -312,11 +289,9 @@ Squad Final Readouts
             <td>5:00 PM</td>
             <td>0</td>
             <td>Day 2 End</td>
-            <td></td>
     </tbody>
     <tbody>
             <tr>
-                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -336,7 +311,6 @@ Meeting Recording:
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -344,8 +318,7 @@ Meeting Recording:
             <td>2021-01-29</td>
             <td>8:00 AM</td>
             <td>15 mins</td>
-            <td>Explanation of Draft Readouts / Pre Q&A</td>
-            <td>Squad Members, Stakeholders & Users</td>
+            <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
@@ -378,10 +351,7 @@ Squad Final Readouts
 - Documentation Squad
 
 </td>
-            <td></td>
-            <td>Squad Members, Stakeholders & Users
-
-- Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
+            <td>Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
@@ -390,7 +360,6 @@ Squad Final Readouts
             <td>10:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -399,7 +368,6 @@ Squad Final Readouts
             <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -408,7 +376,6 @@ Squad Final Readouts
             <td>11:00 AM</td>
             <td></td>
             <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
-            <td></td>
     </tbody>
     <tbody>
         <tr>
@@ -417,7 +384,6 @@ Squad Final Readouts
             <td>5:00 PM</td>
             <td>0</td>
             <td>Day 3 End</td>
-            <td></td>
     </tbody>
     </table>
 
