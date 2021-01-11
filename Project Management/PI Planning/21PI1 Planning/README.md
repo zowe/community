@@ -222,7 +222,7 @@ Squad Breakout 6
 
 Join Zoom Meeting:
 
-Meeting Recording
+Meeting Recording:
 
 </td>
             <td></td>
@@ -309,6 +309,111 @@ Squad Final Readouts
             <td>5:00 PM</td>
             <td>0</td>
             <td>Day 2 End</td>
+            <td></td>
+    </tbody>
+    <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>Day 3
+
+Join Zoom Meeting:
+
+Meeting Recording:
+
+</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Listen Only</td>
+            <td>2021-01-29</td>
+            <td>8:00 AM</td>
+            <td>15 mins</td>
+            <td>Explanation of Draft Readouts / Pre Q&A</td>
+            <td>Squad Members, Stakeholders & Users</td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Listen Only</td>
+            <td>2021-01-29</td>
+            <td>8:15 AM</td>
+<td>
+Squad Final Readouts
+<br><br>
+8:15 Squad Breakout 1
+
+- Zowe Explorer Squad
+
+8:30 Squad Breakout 2
+- API ML Squad
+
+8:45 Squad Breakout 3
+- Zowe CLI Squad
+
+9:00 Squad Breakout 4
+- Systems Squad (includes CI-CD, HA, Performance
+
+9:15 Squad Breakout 5
+- WebUI Squad
+
+9:30 Squad Breakout 6
+- Onboarding Squad
+
+9:45 Squad Breakout 7
+- Documentation Squad
+
+</td>
+            <td></td>
+            <td>Squad Members, Stakeholders & Users
+
+- Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads</td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2021-01-29</td>
+            <td>10:00 AM</td>
+            <td>15 mins</td>
+            <td>Questions and Answers</td>
+            <td>This time slot is available for the Community to ask questions</td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>2021-01-29</td>
+            <td>10:15 AM</td>
+            <td>15 mins</td>
+            <td>Break</td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Listen Only</td>
+            <td>2021-01-29</td>
+            <td>11:00 AM</td>
+            <td></td>
+            <td>Confidence Vote (see below)</td>
+            <td>Squad Members, Stakeholders & Users</td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>2021-01-29</td>
+            <td>5:00 PM</td>
+            <td>0</td>
+            <td>Day 3 End</td>
             <td></td>
     </tbody>
     </table>
