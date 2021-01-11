@@ -1,5 +1,18 @@
 # Zowe Explorer Squad - 20PI4 Objectives (October 2020 to January 2021)
 
+## Overview
+Overriding theme: Spring Cleaning (**Conformance Criteria Development**)
+* Separation of concerns in the code
+  * Profiles.ts refactoring (**Profiles Experience Improvements**)
+* Revisiting the workflows
+  * Activation (people are failing with invalid profiles, settings)
+  * Rename
+  * Refresh (**Refresh/Reload DS, USS, Jobs consistency**)
+* **Improved experience searching and working with data sets and members**
+* **Creation of data sets with the ability to set the parameters**
+
+----------
+
 ## Development of Zowe Explorer extenders conformance criteria (continued)
 
 * Continue work on extensibility API and conformance rules [Issue 837](https://github.com/zowe/vscode-extension-for-zowe/issues/837)
@@ -19,18 +32,30 @@
 * Profile type annotations [Issue 1025](https://github.com/zowe/vscode-extension-for-zowe/issues/1025)
 * First profile not created as default (affecting CLI and Theia users)
 
+## Ensure that users enjoy a consistent experience when refreshing and reloading items in the tree
+
+* Analyze the generic class and the other types of refreshes
+* Fix and implement a solution that ensures the same experience for MVS, USS, JES
+
 ## Provide users with enhanced experience working with data sets and members
 
 * Filter partitioned data sets by pattern [Issue 868](https://github.com/zowe/vscode-extension-for-zowe/issues/868)
 * Allow for multiple selection and deletion of jobs, members etc. [Issue 224](https://github.com/zowe/vscode-extension-for-zowe/issues/224)
-* Creation of data sets with ability to set the parameters
 
-## Fix prioritized issues related to USS files
+## Creation of data sets with ability to set the parameters
+
+* Ability to create a data set and edit the attributes [Issue 1031](https://github.com/zowe/vscode-extension-for-zowe/issues/1031)
+
+------------------------
+
+## Stretch/Pushed to following PIs
+
+**Fix prioritized issues related to USS files**
 
 * Finish USS renaming [Issue 757](https://github.com/zowe/vscode-extension-for-zowe/pull/971)
 * USS favorited search creates extra profile node [Issue 1029](https://github.com/zowe/vscode-extension-for-zowe/issues/1029)
 
-## Address UX-related issues from recent development
+**Address UX-related issues from recent development**
 
 * Empty favorites folders [Issue 1026](https://github.com/zowe/vscode-extension-for-zowe/issues/1026)
 * Improve logging and introduce output view to better support end users [Issue 1024](https://github.com/zowe/vscode-extension-for-zowe/issues/1024)
