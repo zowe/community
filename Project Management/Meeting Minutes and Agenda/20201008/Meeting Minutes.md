@@ -23,6 +23,7 @@ Agenda Items
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Elliot)  
+      - Started design work on HA: Caching API: Vsam implementation #863; see shared draft on Slack #zowe-ha
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
