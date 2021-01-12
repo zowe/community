@@ -281,31 +281,33 @@ Begins with squads presenting any changes to planning scope and resources.
 <td>
 Squad Final Readouts
 <br><br>
-8:15 Squad Breakout 1
+8:15 Squad 1
 
 - Zowe Explorer Squad
 
-8:30 Squad Breakout 2
+8:30 Squad 2
 - API ML Squad
 
-8:45 Squad Breakout 3
+8:45 Squad 3
 - Zowe CLI Squad
 
-9:00 Squad Breakout 4
+9:00 Squad 4
 - Systems Squad (includes CI-CD, HA, Performance
 
-9:15 Squad Breakout 5
+9:15 Squad 5
 - WebUI Squad
 
-9:30 Squad Breakout 6
+9:30 Squad 6
 - Onboarding Squad
 
-9:45 Squad Breakout 7
+9:45 Squad 7
 - Documentation Squad
 
 </td>
-            <td>Squad Members, Stakeholders & Users</td>
-    </tbody>
+            <td>Squad Members, Stakeholders & Users<br>
+During this session, all squads present their plans to the group. At the end of each squad’s time slot, the squad states their risks.
+            </td>
+</tbody>
     <tbody>
         <tr>
             <td>Public Comment</td>
