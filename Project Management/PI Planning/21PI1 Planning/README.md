@@ -1,7 +1,19 @@
 <table>
     <thead>
         <tr>
-            <th colspan="2">21PI1 PI Planning
+            <th colspan="5"><H1>21PI1 PI Planning</H1><br>
+
+Day 1 (Jan 27)\
+Zoom Meeting: https://zoom.us/j/93584107234<br>
+Meeting Recording:<br><br>
+
+Day 2 (Jan 28)\
+Zoom Meeting: <br>
+Meeting Recording:<br><br>
+
+Day 3 (Jan 29)\
+Zoom Meeting: <br>
+Meeting Recording:<br>
 </th>
         </tr>
     </thead>
@@ -15,15 +27,8 @@
     </tbody>
     <tbody>
         <tr>
+            <td><H3>Day 1</td>
             <td></td>
-            <td>Day 1
-
-Join Zoom Meeting:
-https://zoom.us/j/93584107234
-
-Meeting Recording:
-
-</td>
             <td></td>
             <td></td>
             <td></td>
@@ -87,7 +92,6 @@ Squad vision<br>
 
 - What each squad wants to do in the next PI
 - Call out contributions from different squads (dependencies)</td>
-            <td></td>
     </tbody>
 
     <tbody>
@@ -104,12 +108,13 @@ Squad vision<br>
             <td>2021-01-27</td>
             <td>11:00 AM</td>
             <td>6 hrs</td>
-            <td>Squad Breakouts
-            Squad Leads, Squad Members
-            - Squads work offline to fit their stories into sprints and create their Draft PI Objectives
-            - Capture Business Value
-            - With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts
-            </td>
+<td>Squad Breakouts (Squad Leads, Squad Members)<br>
+<ul>
+<li>Squads work offline to fit their stories into sprints and create their Draft PI Objectives</li>
+<li>Capture Business Value</li>
+<li>With staggered meetings, everyone has the ability to attend at least 1 hour of the squad breakouts</li>
+</ul>
+</td>
     </tbody>
     <tbody>
             <tr>
@@ -125,11 +130,12 @@ Squad Breakout 1
 Squad Breakout 2
 - API ML Squad
 - Zoom Link: link
-
-</td><td>
-
-- Squads need to ensure that they attend those breakout sessions that are important to them.
-- Dependencies need to brought up at the Breakout sessions
+</td>
+<td>Squad Breakouts
+<ul>
+<li>Squads need to ensure that they attend those breakout sessions that are important to them</li>
+<li>Dependencies need to brought up at the Breakout sessions</li>
+</ul>
 </td>
     </tbody>
     <tbody>
@@ -202,14 +208,8 @@ Squad Breakout 6
 </tbody>
     <tbody>
         <tr>
+            <td><H3>Day 2</td>
             <td></td>
-            <td>Day 2
-
-Join Zoom Meeting:
-
-Meeting Recording:
-
-</td>
             <td></td>
             <td></td>
             <td></td>
@@ -300,14 +300,8 @@ Each squad will take 15 mins to read draft objectives, highlight risks that need
     </tbody>
     <tbody>
         <tr>
+            <td><H3>Day 3</td>
             <td></td>
-            <td>Day 3
-
-Join Zoom Meeting:
-
-Meeting Recording:
-
-</td>
             <td></td>
             <td></td>
             <td></td>
