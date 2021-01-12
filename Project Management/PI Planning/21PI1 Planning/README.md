@@ -47,7 +47,7 @@ Meeting Recording:<br>
             <td>2021-01-27</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee. The ZLC will describe the vision for the PI</td>
+            <td>Updates from the Zowe Leadership Committee and the Technical Steering Committee</td>
     </tbody>
     <tbody>
         <tr>
