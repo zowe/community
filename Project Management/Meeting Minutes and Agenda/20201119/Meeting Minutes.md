@@ -22,10 +22,23 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+      - Make ZSS storage API
+      - Enhance new single app mode to not have window header UI & fix other UX
+      - Make ztop a zowe component
+    - API Mediation Layer & Security (Elliot)  
+      - Reviewing Coverity scan results and creating issues to handle high severity findings 
+      - Completed RACF and TSS testing for Client Certs, PR waiting to be merged
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
-    - Documentation (Brandon/Ashley/Jim/Jason)
+      - Confirmed will prioritize Zowe YAML configuration work. The proposal is closing to be finalized.
+      - Added manifest file to explorer APIs and working on explorer UIs (Steve)
+      - Finished z/OSMF configuration for HA in Sysplex (Nayer)
+      - Scheduled performance test run on Sunday 6am
+    - Documentation (Brandon/Ashley)
+      - v1.17 doc ready 
+      - Creating information roadmap for different components
+      - Consolidating contribution doc
+      
 
 6. Legal Requirements
     - None
