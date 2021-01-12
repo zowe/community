@@ -22,9 +22,19 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+      - zTop premium features (Smart filter, view process that you own, app2app communication, CPU Delta histogram chart)
+      - zTop Limit process info by filter
+      - Make ztop a zowe component
+    - API Mediation Layer & Security (Elliot)  
+      - Testing Client Certs on Marist ACF2 and TSS requires SSO set-up first. [In progress with zowe-install-packaging](https://github.com/zowe/api-layer/issues/952)  
+      - The addition of HA is increasing the size of the API ML towards 300MB. We are working to reduce this to below 200MB. [Minimize the size of API ML #909](https://github.com/zowe/api-layer/issues/909)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - We setup scheduled performance test but unfortunately last week we don't have a successful nightly build deployed on the server. Will see how it goes next week.
+      - Finalized most of YAML configuration aspects. It's ready for setting up PoC.
+      - Converted explorer APIs/UIs and APIML packaging format to follow new manifest standard.
+      - Added YAML parser to Zowe build.
+      - Verified z/OSMF HA with DVIPA configuration.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
