@@ -5,6 +5,8 @@
 
 ## Sprint Cadence
 
+<H3>20PI4</H3>
+
 Zowe 1.17.0 (Oct 13 - Nov 13)
 - Sprint 1 (Oct 13 - Oct 26)
 - Sprint 2 (Oct 27 - Nov 9)
@@ -29,6 +31,57 @@ Zowe 1.19.0 (Dec 8 - ~~Jan 8~~ Jan 22)
 - System Demo (Jan 4)
 - 1.19.0 GA (~~Jan 8~~ Jan 22)
 
+<H3>21PI1</H3>
+
+Zowe 1.20.0 (Feb 9 - Mar 12)
+- Sprint 1 (Feb 9 - Feb 22)
+- Sprint 2 (Feb 23 - Mar 8)
+- Code Complete/RC Candidate Build (Mar 8)
+- Start Testing (Mar 8 - Mar 12)
+- System Demo (Mar 8)
+- 1.20.0 GA (Mar 12)
+
+Zowe 1.21.0 (Mar 9 - Apr 9)
+- Sprint 3 (Mar 9 - Mar 22)
+- Sprint 4 (Mar 23 - Apr 5)
+- Code Complete/RC Candidate Build (Apr 5)
+- Start Testing (Apr 5 - Apr 9)
+- System Demo (Apr 5)
+- 1.21.0 GA (Apr 9)
+
+Zowe 1.22.0 (Apr 6 - May 7)
+- Sprint 5 (Apr 6 - Apr 19)
+- Sprint 6 (Apr 20 - May 3)
+- Code Complete/RC Candidate Build (May 3)
+- Start Testing (May 3 - May 7)
+- System Demo (May 3)
+- 1.22.0 GA (May 7)
+
+<H3>21PI2</H3>
+
+Zowe 1.23.0 (May 4 - June 4)
+- Sprint 1 (May 4 - May 17)
+- Sprint 2 (May 18 - May 31)
+- Code Complete/RC Candidate Build (May 31)
+- Start Testing (May 31 - June 4)
+- System Demo (May 31)
+- 1.23.0 GA (June 4)
+
+Zowe 1.24.0 (June 1 - July 2)
+- Sprint 3 (June 1 - June 14)
+- Sprint 4 (June 15 - June 28)
+- Code Complete/RC Candidate Build (June 28)
+- Start Testing (June 28 - July 2)
+- System Demo (June 28)
+- 1.24.0 GA (July 2)
+
+Zowe 1.25.0 (June 29 - July 30)
+- Sprint 5 (June 29 - July 12)
+- Sprint 6 (July 13 - July 26)
+- Code Complete/RC Candidate Build (July 26)
+- Start Testing (July 26 - July 30)
+- System Demo (July 26)
+- 1.25.0 GA (July 30)
 
 ## Schedule
 
