@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[01-12-2021](https://zoom.us/rec/share/0JIaUHEqlNiLXLkp4rjkrMRxACdxzK6Tyf8lRdtygHJGxtobu0-p3nuTPMAjtZwT.C9jkOmLNIZaX6YgA?startTime=1610463332000) Zowe resource class and APIML resource (RACF)
+
 [12-01-2020](https://zoom.us/rec/share/NMjyY2j62xXfWJRIi1HQ0rT-1bhc_aiQqJdZbwJV2FmAjJwccJy8zh1jCriWolsL.tS0-zRGwtE6nkzPd?startTime=1606834361000) JWT secret tokens, and also zD&T optimizations
 
 [11-24-2020](https://zoom.us/rec/share/vaNS_XGUxQ1GDeCY3B0tjn__9OprCpbQimLESCTMT1njBgcsQCU7k-WauGhedz_A.LxG-0hAh1q5sFOlA?startTime=1606229998000) Zowe containerization with Kubernetes
