@@ -1,7 +1,5 @@
 # Zowe PI Schedule and Sprint Cadence
 
-[20PI3 Planning Introduction Meeting Recording](https://zoom.us/rec/share/7-suFovx0zhJQbfw71_4QrR_J6fVaaa80CBL-aEJmUYETMsDuRzn1j-JEx8m166V?startTime=1593086467000)
-
 
 ## Sprint Cadence
 
