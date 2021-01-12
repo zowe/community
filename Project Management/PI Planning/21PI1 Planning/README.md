@@ -195,7 +195,7 @@ Squad Breakout 6
             <td></td>
             <td>2021-01-27</td>
             <td>5:00 PM</td>
-            <td>0</td>
+            <td></td>
             <td>Day 1 End</td>
     </tbody>
 <tbody>
@@ -218,76 +218,35 @@ Squad Breakout 6
         <tr>
             <td>Listen Only</td>
             <td>2021-01-28</td>
-            <td>8:00 AM</td>
-            <td>15 mins</td>
-            <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
+            <td>8:05 AM</td>
+            <td>5 mins</td>
+            <td>Opening Announcements</td>
     </tbody>
     <tbody>
         <tr>
             <td>Listen Only</td>
             <td>2021-01-28</td>
-            <td>8:15 AM</td>
-<td>
-Squad Final Readouts
-<br><br>
-8:15 Squad Breakout 1
-
-- Zowe Explorer Squad
-
-8:30 Squad Breakout 2
-- API ML Squad
-
-8:45 Squad Breakout 3
-- Zowe CLI Squad
-
-9:00 Squad Breakout 4
-- Systems Squad (includes CI-CD, HA, Performance
-
-9:15 Squad Breakout 5
-- WebUI Squad
-
-9:30 Squad Breakout 6
-- Onboarding Squad
-
-9:45 Squad Breakout 7
-- Documentation Squad
-
-</td>
+            <td>8:10 AM</td>
+<td>Planning Adjustments</td>
             <td>Squad Members, Stakeholders & Users.
 
-Each squad will take 15 mins to read draft objectives, highlight risks that need ZLC support, dependencies with other squads
+Begins with squads presenting any changes to planning scope and resources.
             </td>
     </tbody>
     <tbody>
         <tr>
             <td>Public Comment</td>
             <td>2021-01-28</td>
-            <td>10:00 AM</td>
-            <td>15 mins</td>
-            <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td></td>
-            <td>2021-01-28</td>
-            <td>10:15 AM</td>
-            <td>15 mins</td>
-            <td>Break</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2021-01-28</td>
-            <td>11:00 AM</td>
-            <td></td>
-            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td>9:00 AM</td>
+            <td>Team Breakouts</td>
+            <td>Continuation from Day 1</td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
             <td>2021-01-28</td>
             <td>5:00 PM</td>
-            <td>0</td>
+            <td></td>
             <td>Day 2 End</td>
     </tbody>
     <tbody>
@@ -376,7 +335,7 @@ Squad Final Readouts
             <td></td>
             <td>2021-01-29</td>
             <td>5:00 PM</td>
-            <td>0</td>
+            <td></td>
             <td>Day 3 End</td>
     </tbody>
     </table>
