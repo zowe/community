@@ -76,7 +76,7 @@ Squad vision<br>
 - Zowe CLI Squad
 
 9:50 Squad Breakout 4
-- Systems Squad (includes CI-CD, HA, Performance
+- Systems Squad (includes CI-CD, HA, Performance)
 
 10:05 Squad Breakout 5
 - WebUI Squad
@@ -238,7 +238,37 @@ Begins with squads presenting any changes to planning scope and resources.
             <td>Public Comment</td>
             <td>2021-01-28</td>
             <td>9:00 AM</td>
-            <td>Team Breakouts</td>
+<td>Squad Breakouts<br>
+<br>
+Squad 1<br>
+Zowe Explorer Squad<br>
+Zoom/Webex Link: link<br>
+<br>
+<br>
+Squad 2<br>
+API ML Squad<br>
+Zoom Link: link<br>
+<br>
+<br>
+Squad 3<br>
+Zowe CLI Squad<br>
+Zoom/Webex Link: link<br>
+<br>
+<br>
+Squad 4<br>
+Systems Squad<br>
+Zoom/Webex Link: link<br>
+<br>
+<br>
+Squad 5<br>
+WebUI Squad<br>
+Zoom/Webex Link: link<br>
+<br>
+<br>
+Squad 6<br>
+Onboarding Squad<br>
+Zoom/Webex Link: link<br>
+</td>
             <td>Continuation from Day 1</td>
     </tbody>
     <tbody>
