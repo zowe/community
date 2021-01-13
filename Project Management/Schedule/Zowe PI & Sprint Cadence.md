@@ -1,33 +1,6 @@
 # Zowe PI Schedule and Sprint Cadence
 
-
 ## Sprint Cadence
-
-<H3>20PI4</H3>
-
-Zowe 1.17.0 (Oct 13 - Nov 13)
-- Sprint 1 (Oct 13 - Oct 26)
-- Sprint 2 (Oct 27 - Nov 9)
-- Code Complete/RC Candidate Build (Nov 9)
-- Start Testing (Nov 9 - Nov 13)
-- System Demo (Nov 9)
-- 1.17.0 GA (Nov 13)
-
-Zowe 1.18.0 (Nov 10 - Dec 11)
-- Sprint 1 (Nov 10 - Nov 23)
-- Sprint 2 (Nov 24 - Dec 7)
-- Code Complete/RC Candidate Build (Dec 7)
-- Start Testing (Dec 7 - Dec 11)
-- System Demo (Dec 7)
-- 1.18.0 GA (Dec 11)
-
-Zowe 1.19.0 (Dec 8 - ~~Jan 8~~ Jan 22)
-- Sprint 1 (Dec 8 - Dec 21)
-- Sprint 2 (Dec 22 - Jan 4)
-- Code Complete/RC Candidate Build (Jan 4)
-- Start Testing (Jan 4 - Jan 8)
-- System Demo (Jan 4)
-- 1.19.0 GA (~~Jan 8~~ Jan 22)
 
 <H3>21PI1</H3>
 
@@ -80,6 +53,34 @@ Zowe 1.25.0 (June 29 - July 30)
 - Start Testing (July 26 - July 30)
 - System Demo (July 26)
 - 1.25.0 GA (July 30)
+
+## Completed
+
+<H3>20PI4</H3>
+
+Zowe 1.17.0 (Oct 13 - Nov 13)
+- Sprint 1 (Oct 13 - Oct 26)
+- Sprint 2 (Oct 27 - Nov 9)
+- Code Complete/RC Candidate Build (Nov 9)
+- Start Testing (Nov 9 - Nov 13)
+- System Demo (Nov 9)
+- 1.17.0 GA (Nov 13)
+
+Zowe 1.18.0 (Nov 10 - Dec 11)
+- Sprint 1 (Nov 10 - Nov 23)
+- Sprint 2 (Nov 24 - Dec 7)
+- Code Complete/RC Candidate Build (Dec 7)
+- Start Testing (Dec 7 - Dec 11)
+- System Demo (Dec 7)
+- 1.18.0 GA (Dec 11)
+
+Zowe 1.19.0 (Dec 8 - ~~Jan 8~~ Jan 22)
+- Sprint 1 (Dec 8 - Dec 21)
+- Sprint 2 (Dec 22 - Jan 4)
+- Code Complete/RC Candidate Build (Jan 4)
+- Start Testing (Jan 4 - Jan 8)
+- System Demo (Jan 4)
+- 1.19.0 GA (~~Jan 8~~ Jan 22)
 
 ## Schedule
 
