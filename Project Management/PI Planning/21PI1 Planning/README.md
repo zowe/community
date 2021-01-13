@@ -8,11 +8,11 @@ Zoom Meeting: https://zoom.us/j/93584107234<br>
 Meeting Recording:<br><br>
 
 Day 2 (Jan 28)\
-Zoom Meeting: <br>
+Zoom Meeting: https://zoom.us/j/98569783409<br>
 Meeting Recording:<br><br>
 
 Day 3 (Jan 29)\
-Zoom Meeting: <br>
+Zoom Meeting: https://zoom.us/j/96103353102<br>
 Meeting Recording:<br>
 </th>
         </tr>
