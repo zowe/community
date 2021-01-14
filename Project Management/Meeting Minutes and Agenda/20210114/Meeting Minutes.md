@@ -30,6 +30,9 @@ Agenda Items
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
+      - Test caching service and verify with client certificate
+      - Investigate performance test impact to JES2
+      - Finish manifest and component installer script change and will be released to v1.19
 
 6. Legal Requirements
     - None
