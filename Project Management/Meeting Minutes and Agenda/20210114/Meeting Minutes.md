@@ -29,10 +29,10 @@ Agenda Items
       - x509 Client Certificates going out with 1.19 with caveat that tests on ACF2 are ongoing.
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
-    - Documentation (Brandon/Ashley/Jim/Jason)
       - Test caching service and verify with client certificate
       - Investigate performance test impact to JES2
       - Finish manifest and component installer script change and will be released to v1.19
+    - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
     - None
