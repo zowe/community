@@ -1,6 +1,6 @@
 # Zowe Web UI Squad - 20PI4 Objectives (October 20 to January 2021)
 
-# 1. Docker for servers: Linux & zLinux containers go live
+# 1. Docker for servers: Linux & zLinux containers go live [#541](https://github.com/zowe/zlux/issues/541)
 In PI3:
 * Containers were successfully built for Linux and zLinux
 * Containers for Linux are now automated in the pipeline each release.
@@ -24,7 +24,7 @@ None currently but the systems and documentation squads may wish to review and d
 * Access to zCX may limit progress on it
 * Adoption may vary by linux availability and comfort. More outreach, education, documentation may be needed.
 
-# 2. Initial HA/FT for all Zowe server components
+# 2. Initial HA/FT for all Zowe server components [#542](https://github.com/zowe/zlux/issues/542)
 Community has narrowed down possibilities for HA/FT to a few achievable tasks
 * Create a TCP-based caching service for components to store state
     * VSAM-based storage a likely first implementation
@@ -47,7 +47,7 @@ Highly cross-squad task that requires leadership/ownership of tasks to drive com
 * Highly cross-squad task that requires leadership/ownership of tasks to drive completion
 * Dependencies or configuration that makes the solution unattractive... we've eliminated a few options from many PI3 discussions
 
-# 3. Desktop Editor unification
+# 3. Desktop Editor unification [#543](https://github.com/zowe/zlux/issues/543)
 MVS & USS Explorers in the Zowe Desktop have overlap with the Desktop's Editor but are maintained by same squad.
 Build up the Editor so that missing featuers that are found in the MVS/USS Explorers are added to the Editor.
 Editor will become a one-stop place for the out-of-the-box editing experience in the Desktop.
@@ -71,7 +71,7 @@ None?
 Hoverhelp not yet researched. Feature completion will depend upon library capabilities.
 
 
-# 4. App Du Quarter
+# 4. App Du Quarter [#544](https://github.com/zowe/zlux/issues/544)
 Many important and interesting tasks Desktop would be good for are still lacking Apps.
 Work towards an MVP of a new App: A USS "process explorer" or "task manager"
 Motivation is to make working with USS easier, which is a pain point for Zowe servers today.
@@ -86,7 +86,7 @@ None
 ## Risk
 Delivery mechanism needs to be determined: Is it bundled? Is it an optional download?
 
-# 5. Package manager UX improvements
+# 5. Package manager UX improvements [#545](https://github.com/zowe/zlux/issues/545)
 Conda proven to work for App Framework, and unified package management ideas should allow 2 directions
 1. Other types of plugins can easily be delivered via conda
 2. Package structure should work well with other package managers, too.
@@ -111,3 +111,6 @@ Will continue to engage in community to improve package management technology an
 
 ## Risks
 * If artifactory cannot be used as a conda server, need to find alternative (thankfully low footprint)
+
+## Recording from the meeting
+   * https://zoom.us/rec/share/xLhTjxvWS43RlH59kZeh_X2IbwEc9tQ8u_tqBrF_TLc7jYSIz6q7Z4qvBZiwVIAC.lfbFgwPQqp2Eakhj Passcode: 5+us7*n! 
