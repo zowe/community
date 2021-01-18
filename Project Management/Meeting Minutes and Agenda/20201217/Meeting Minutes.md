@@ -22,9 +22,17 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+      - Fixed sso-auth bug that wouldnt work with special char 
+      - REXX highlighting syntax
+    - API Mediation Layer & Security (Elliot)  
+      - Just completed [Caching API VSAM implementation](https://github.com/zowe/api-layer/issues/863). We've identified some follow up stories on polishing the logs, measuring performance impact, adding size parameters for VSAM data storage.
+      - Has anyone been able to test the caching API yet?
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Discussed further collaborations related to component level performance test suites with David and James.
+      - Almost finished changes related to enhance configure stage by reading manifest.
+      - Verified authentication APIs with z/OSMF configuration for HA, pending to verify PassTicket configuration.
+      - Successfully deployed njsc compiler onto Marist system, we can continue on Zowe Launcher development.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements

@@ -22,9 +22,16 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James)
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Continuing with Caching API VSAM implementation (HA: Caching service: Size constraints for data #998 and HA: Caching service: Load test scenarios #999).  
+      - Starting on a PoC looking at MQ as an alternative to VSAM (HA: Create a POC for MQ as a persistent solution for Caching. #980).  
+      - Has anyone been able to test the caching API yet?  
+      - x509 Client Certificates going out with 1.19 with caveat that tests on ACF2 are ongoing.
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Test caching service and verify with client certificate
+      - Investigate performance test impact to JES2
+      - Finish manifest and component installer script change and will be released to v1.19
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
