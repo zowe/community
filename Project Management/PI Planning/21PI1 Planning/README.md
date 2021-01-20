@@ -125,7 +125,7 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/94312528890
 
 Squad Breakout 2
 - API ML Squad
