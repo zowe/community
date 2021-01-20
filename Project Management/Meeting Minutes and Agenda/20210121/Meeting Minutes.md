@@ -19,6 +19,7 @@ Agenda Items
 3. Current Release and Build Status (Steve)
 4. Plan
      - Discuss Zowe v1.19.0.
+     - Discuss PI Planning. What needs to be completed ?
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Leanny)
