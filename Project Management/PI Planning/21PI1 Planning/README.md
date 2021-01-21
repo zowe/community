@@ -129,7 +129,7 @@ Squad Breakout 1
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: link
+- Zoom Link: https://zoom.us/j/98404818292
 </td>
 <td>Squad Breakouts
 <ul>
@@ -247,7 +247,7 @@ Zoom/Webex Link: link<br>
 <br>
 Squad 2<br>
 API ML Squad<br>
-Zoom Link: link<br>
+Zoom Link: https://zoom.us/j/98404818292 <br>
 <br>
 <br>
 Squad 3<br>
