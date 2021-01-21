@@ -30,6 +30,9 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Improve performance client framework to validate JES usage before starting the test.
+      - Investigate client certificate (for caching service) failures.
+      - Validate PassTicket usage on Sysplex (undergoing)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
