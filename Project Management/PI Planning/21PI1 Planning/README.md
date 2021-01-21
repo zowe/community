@@ -125,7 +125,7 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/94312528890
 
 Squad Breakout 2
 - API ML Squad
@@ -242,7 +242,7 @@ Begins with squads presenting any changes to planning scope and resources.
 <br>
 Squad 1<br>
 Zowe Explorer Squad<br>
-Zoom/Webex Link: link<br>
+Zoom/Webex Link: https://zoom.us/j/94312528890<br>
 <br>
 <br>
 Squad 2<br>

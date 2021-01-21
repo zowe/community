@@ -27,6 +27,12 @@ Overriding theme: Spring Cleaning (**Conformance Criteria Development**)
 ## Continue to improve the profile experience
 
 * Refactor Profiles.ts [Issue 1000](https://github.com/zowe/vscode-extension-for-zowe/issues/1000)
+     * _December Update_ More issues opened connected to this:
+         * 1096 [Profile Inactive Error](https://github.com/zowe/vscode-extension-for-zowe/issues/1096)
+         * 1095 [Enhance Optional Profiles](https://github.com/zowe/vscode-extension-for-zowe/issues/1095)
+         * 1067 [Error on Logger, prevents usage of plugin](https://github.com/zowe/vscode-extension-for-zowe/issues/1067)
+         * 1047 [Error encountered while activating and initializing logger (solved by removing base profile)](https://github.com/zowe/vscode-extension-for-zowe/issues/1047)
+         * 1015 [Zowe Explorer Fails to Load Old Profiles After Setting Zowe Security: Credential Key](https://github.com/zowe/vscode-extension-for-zowe/issues/1015)
 * Base path editing-- new fields in z/OSMF schema should be covered (base path, encoding, response timeout) [Issue 989](https://github.com/zowe/vscode-extension-for-zowe/issues/989)
 * Profile manager development [Issue 423](https://github.com/zowe/vscode-extension-for-zowe/issues/423)
 * Profile type annotations [Issue 1025](https://github.com/zowe/vscode-extension-for-zowe/issues/1025)
@@ -36,15 +42,28 @@ Overriding theme: Spring Cleaning (**Conformance Criteria Development**)
 
 * Analyze the generic class and the other types of refreshes
 * Fix and implement a solution that ensures the same experience for MVS, USS, JES
+    * _December update_ Lauren has analysis here: [Research refresh functionality](https://github.com/zowe/vscode-extension-for-zowe/issues/1048)
+    * _Issues to address (in terms of value)_
+         * 754 [Requests sent to z/OS when tree item is closed](https://github.com/zowe/vscode-extension-for-zowe/issues/754)
+         * 650 [USS tree collapses after folder rename](https://github.com/zowe/vscode-extension-for-zowe/issues/650)
+         * 769 [Refresh USS file list under directory](https://github.com/zowe/vscode-extension-for-zowe/issues/769)
+         * 1079 [When using Toggle Binary/Text command, only refresh parent node](https://github.com/zowe/vscode-extension-for-zowe/issues/1079)
+         * 752 [Refresh required for profile created in Zowe CLI to be available in ZE](https://github.com/zowe/vscode-extension-for-zowe/issues/752)
+         * 843 [Refresh DS after Migrate/Recall DS](https://github.com/zowe/vscode-extension-for-zowe/issues/843)
+         * 1021 [Refresh button not working (for favorites)](https://github.com/zowe/vscode-extension-for-zowe/issues/1021)
+         * 578 [Call refresh on Jobs view when a job is deleted](https://github.com/zowe/vscode-extension-for-zowe/issues/578)
+
 
 ## Provide users with enhanced experience working with data sets and members
 
 * Filter partitioned data sets by pattern [Issue 868](https://github.com/zowe/vscode-extension-for-zowe/issues/868)
+    * _December update_ PR ready and approved [PDS Member Filter Search](https://github.com/zowe/vscode-extension-for-zowe/pull/1072)
 * Allow for multiple selection and deletion of jobs, members etc. [Issue 224](https://github.com/zowe/vscode-extension-for-zowe/issues/224)
-
+    * _December update_ Richelle working on a POC of multiple select behavior for Zowe Explorer and Jobs
 ## Creation of data sets with ability to set the parameters
 
 * Ability to create a data set and edit the attributes [Issue 1031](https://github.com/zowe/vscode-extension-for-zowe/issues/1031)
+    * _December update_ PR open and ready for review [Enable editing of DS attributes on allocation](https://github.com/zowe/vscode-extension-for-zowe/pull/1092)
 
 ------------------------
 
