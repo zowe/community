@@ -23,8 +23,18 @@ Agenda Items
 5. Squad Status:
     - Onboarding (JoeW/Rose)
     - Core/Web/Editor (JPL/Nolan/James)
+      - Clean up charts in zTop
+      - Create a modal for choosing columns zTop
+      - Fix element sizing and sorting zTop
     - API Mediation Layer & Security (Elliot)  
+      - The Squad have identified that some HA implementation for the API ML has an impact on the System and WebUI squads. Please read and comment if you are impacted [Usage of API ML in the HA Schema](https://openmainframeproject.slack.com/archives/CC5UUL005/p1604414135040600)
+      - Preparation for 1.17 RC underway
+      - Unlikely that the Squad will have any agenda for the demo as we are focused on ongoing HA and Client Cert work 
     - Performance & High Availability (HA) (Jack)
+      - Changed packaging of apiml/explorers to trap INT signal. Need further integration test.
+      - Added pipeline to build Zowe Launcher, added function to Jenkins Library to bump version defined in manifest file. (Need further work to fix make issue.)
+      - Finalized VSAM creation JCL and merged into zowe-install-packaging.
+      - Started work on adding manifest to build-in packages.
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements

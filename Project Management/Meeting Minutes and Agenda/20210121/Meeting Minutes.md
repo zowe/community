@@ -23,9 +23,16 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Leanny)
+      - Implement per-user session expiration check in zss
+      - Make zss group lookup function for user
+      - Make various Editor enhancements
+      - Test RC for 1.19.0
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Improve performance client framework to validate JES usage before starting the test.
+      - Investigate client certificate (for caching service) failures.
+      - Validate PassTicket usage on Sysplex (undergoing)
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements

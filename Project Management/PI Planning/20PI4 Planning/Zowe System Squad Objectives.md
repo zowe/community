@@ -1,5 +1,48 @@
 # Zowe System Squad - 20PI4 Objectives (October 2020 to January 2021)
 
+## Performance Test (Continued)
+
+* Continue creating a Performance Test Suite for Zowe. Complete the test framework implementation, and start expanding tests into components as time allows.
+    * Stretch: A "Component" test suite; work will continue into next PI.
+    * Dependency: Information from other squads
+
+## High Availability Implementation, Part 1
+
+* Begin the implementation of high availability for Zowe, continuing to act as centralized area for cross-squad implementation and any remaining design research. This PI, implementation will include:
+    * Caching API layer backed by VSAM 
+    * A Zowe Launcher to handle console commands
+    * A new packaging and manifest format for components
+    * ARM support
+    * Basic Sysplex configuration testing, including port sharing and DVIPA
+    * ~~Certificate configuration improvements~~
+    * A new YAML format Zowe configuration file
+
+- Dependencies:
+  * Known dependencies with other teams planned. 
+
+- Risks:
+  * Some runway included in this PI
+      * Mitigation: Research is front-loaded within the PI, and runway is not completely unknown - rounding out details.
+
+**Note:** in November 18, 2020 ZLC meeting, the system squad got ZLC approval to prioritize `A new YAML format Zowe configuration file` work and will postpone `Certificate configuration improvements` objective to next PI.
+
+The exhaustive list of stories is below.
+
+## Automation and Infrastructure Improvements
+
+* Infrastructure improvements
+    * Work with the Marist team to bring up additional subsystems on open infrastructure
+    * Work on IBM Infrastructure and Marist infrastructure to install additional performance monitoring
+        * Future: insights, policies, alerts built
+* Automation improvements
+    * Research current state of "Zowe integration" tests - take stock of what's missing, discuss and create plan to address it
+        * Work may be pushed into next PI
+    * Work with TSC to setup contribution criteria to "zowe-install-packaging", in part based on results of the research
+    * Work with HA, create new automation to support Zowe plugin installation based on the new component packaging and manifest format. 
+    
+
+---- 
+
 ## Performance Test
 
 ### Enhance Test Coverage
