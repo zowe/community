@@ -2,6 +2,15 @@
 
 ## High Availability
 
+**Dependencies**
+
+We continuously requires support from other squads on HA topic:
+
+- Verify and improve Caching Service when it requires
+- Migrate Desktop to use Caching Service
+- Implement Zowe Launcher
+- Documentation
+
 ### Enable HA with Zowe deployed in Sysplex
 
 - [Provide YAML format configuration in addition to existing environment variables defined in instance.env](https://github.com/zowe/zowe-install-packaging/issues/1793)
@@ -13,12 +22,24 @@
 
 - [Create basic test cases](https://github.com/zowe/zowe-install-packaging/issues/1476) -- stretch goal, rely on open infrastructure
 
+**Risks**
+
+- Lack of Open Infrastructure of Sysplex, we may not be able to automate testing HA deployment on Sysplex. Mitigation is fallback to manual in-house testing.
+
 ### Document how to deploy Zowe with HA enablement
 
 - [Verify and document z/OSMF HA](https://github.com/zowe/zowe-install-packaging/issues/1863)
 - [Document how to configure Sysplex to work with Zowe HA](https://github.com/zowe/zowe-install-packaging/issues/1864)
 
 ## Performance Test
+
+**Dependencies**
+
+We continuously requires support from other squads on Performance Test topic
+
+- Provide suggestions on component level test suites
+- Setup performance test pipelines internally for test suites we cannot run in open infrastructure
+- Troubleshoot performance regressions identified
 
 ### Finish implementation and setup component level test suites, provide continuous performance test report.
 
