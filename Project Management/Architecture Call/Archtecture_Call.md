@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[01-26-2010]() Caching Discussion [#891](https://github.com/zowe/api-layer/issues/891) and [#980](https://github.com/zowe/api-layer/issues/980)
+
 [01-12-2021](https://zoom.us/rec/share/0JIaUHEqlNiLXLkp4rjkrMRxACdxzK6Tyf8lRdtygHJGxtobu0-p3nuTPMAjtZwT.C9jkOmLNIZaX6YgA?startTime=1610463332000) Zowe resource class and APIML resource (RACF)
 
 [12-01-2020](https://zoom.us/rec/share/NMjyY2j62xXfWJRIi1HQ0rT-1bhc_aiQqJdZbwJV2FmAjJwccJy8zh1jCriWolsL.tS0-zRGwtE6nkzPd?startTime=1606834361000) JWT secret tokens, and also zD&T optimizations
