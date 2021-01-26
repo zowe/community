@@ -30,10 +30,6 @@ New features:
 
 ## Continue to improve the profile experience
 * Issues associated to general consistency and UX
-  * 1096 [Profile Inactive Error](https://github.com/zowe/vscode-extension-for-zowe/issues/1096)
-  * 1095 [Enhance Optional Profiles](https://github.com/zowe/vscode-extension-for-zowe/issues/1095)
-  * 1067 [Error on Logger, prevents usage of plugin](https://github.com/zowe/vscode-extension-for-zowe/issues/1067)
-  * 1047 [Error encountered while activating and initializing logger (solved by removing base profile)](https://github.com/zowe/vscode-extension-for-zowe/issues/1047)
   * 1015 [Zowe Explorer Fails to Load Old Profiles After Setting Zowe Security: Credential Key](https://github.com/zowe/vscode-extension-for-zowe/issues/1015)
   * 1123 [Create a new profile text](https://github.com/zowe/vscode-extension-for-zowe/issues/1123)
   * 1125 [Hide unusable profile context menu options](https://github.com/zowe/vscode-extension-for-zowe/issues/1125)
