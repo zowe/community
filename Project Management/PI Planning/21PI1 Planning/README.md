@@ -256,6 +256,12 @@ Squad 3<br>
 Zowe CLI Squad<br>
 Zoom/Webex Link: https://zoom.us/j/99891777715<br>
 <br>
+<br>
+Squad 4<br>
+Systems Squad<br>
+Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+<br>
+<br>
 Squad 5<br>
 WebUI Squad<br>
 Zoom/Webex Link: https://zoom.us/j/99494243697<br>
