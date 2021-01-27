@@ -1,4 +1,4 @@
-# Zowe Web UI Squad - 20PI4 Objectives (January 2021 to May 2021)
+# Zowe Web UI Squad - 21PI1 Objectives (February 2021 to May 2021)
 
 # 1. Session Expiration Customization [#434](https://github.com/zowe/zlux/issues/434)
 Vendor request: per-group customization of zss cookie expiration for using longer-lived sessions of the Desktop
