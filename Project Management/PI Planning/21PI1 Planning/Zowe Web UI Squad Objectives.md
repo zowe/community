@@ -66,10 +66,10 @@ Orchestrating Zowe with kubernetes or openshift is not completely possible witho
 The Web UI squad has more ideas than can be fit in the PI with certainty. All of these ideas are listed within our [github issue page](github.com/zowe/zlux/issues) and several that we do not think will otherwise be started within this PI have the tag *Help Wanted*. Please find us in the #zowe-dev slack if you wish to become involved!
 
 The following are items that we expect and desire to accomplish, time-permitting:
-* Publishing swagger documents from the app-server to the api-catalog (#422)[https://github.com/zowe/zlux/issues/422]
-* Continued improvement of the Desktop Editor, such as hoverhelp (#537)[https://github.com/zowe/zlux/issues/537] and icons for more state representation (#574)[https://github.com/zowe/zlux/issues/574]
+* Publishing swagger documents from the app-server to the api-catalog [#422](https://github.com/zowe/zlux/issues/422)
+* Continued improvement of the Desktop Editor, such as hoverhelp [#537](https://github.com/zowe/zlux/issues/537) and icons for more state representation [#574](https://github.com/zowe/zlux/issues/574)
 * Continued improvement to the JES explorer for more app2app communication, log standardization, use of persistent storage, displaying number of jobs, and more
-* More documentation, in particular about the subject of app2app communication and with more sample code about it (#581)[https://github.com/zowe/zlux/issues/581]
+* More documentation, in particular about the subject of app2app communication and with more sample code about it [#581](https://github.com/zowe/zlux/issues/581)
 * Enhancing the JES explorer to view targeted and relevant info about a job, as opposed to just raw output
 
 ## Meeting
