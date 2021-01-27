@@ -42,7 +42,7 @@ Verify on the POC level whether the selected alternative to VSAM chosen via Issu
 ## AT-TLS aware Zowe API ML
 (in support of SECURITY theme)
 
-* [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)
+* [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)  
 Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.
 
 ## Zowe API ML Metrics dashboard MVP
@@ -58,9 +58,9 @@ API ML Squad Plan:
 [Display HTTP metrics using the pre-built Hystrix and Turbine dashboards](https://github.com/zowe/api-layer/issues/868)    
 [Create proof-of-concept system metrics collection using a specific system metrics collection service. Collect system metrics for the core APIML services, broken down on a per-service basis.](https://github.com/zowe/api-layer/issues/1101)  
 [Require standard Gateway authentication to access new endpoints (includes "Metrics Service" endpoints as well as Hystrix and Turbine endpoints)](https://github.com/zowe/api-layer/issues/1101)    
-[Run sanity tests for the "Metrics Service" on marist](https://github.com/zowe/api-layer/issues/1114) 
+[Run sanity tests for the "Metrics Service" on marist](https://github.com/zowe/api-layer/issues/1114)  
 (From UX proposal) [A high level overview of the metrics dashboard with a quick written FAQ/tutorial](https://github.com/zowe/api-layer/issues/1045)  
-(From UX proposal) [A prominent link to the appropriate Github location prompting users to give feedback/comment on desired metrics-related features. Alternatively/additionally, a link to a survey to get richer and lower friction feedback from users.](https://github.com/zowe/api-layer/issues/1100)
+(From UX proposal) [A prominent link to the appropriate Github location prompting users to give feedback/comment on desired metrics-related features. Alternatively/additionally, a link to a survey to get richer and lower friction feedback from users.](https://github.com/zowe/api-layer/issues/1100)  
 (Stretch goal) [Display system metrics using a pre-built UI integration](https://github.com/zowe/api-layer/issues/872)  
 (Stretch goal) Allow static configuration to enable/disable specific routes for metrics collection  
 
