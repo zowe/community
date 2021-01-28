@@ -13,4 +13,4 @@
   * https://github.com/zowe/zowe-cli/issues/870
   * https://github.com/zowe/zowe-cli/issues/641
   * https://github.com/zowe/zowe-cli/issues/690
-* "~CERTIFY" to work with CodeReady Workspaces~
+* ~"CERTIFY" to work with CodeReady Workspaces~
