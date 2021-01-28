@@ -125,11 +125,15 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/94312528890
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: link
+- Zoom Link: https://zoom.us/j/98404818292
+
+Squad Breakout
+- Zowe Doc Squad
+- Zoom Link: https://zoom.us/j/646062143
 </td>
 <td>Squad Breakouts
 <ul>
@@ -147,7 +151,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/99891777715
 </td>
                 <td></td>
     </tbody>
@@ -160,7 +164,11 @@ Squad Breakout 3
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/92216933450
+
+- Onboarding Squad
+- Zoom/Webex Link: https://zoom.us/j/94312528890
+
   </td>
                 <td></td>
     </tbody>
@@ -173,7 +181,7 @@ Squad Breakout 4
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: link
+- Zoom/Webex Link: https://zoom.us/j/99494243697
 </td>
                 <td></td>
     </tbody>
@@ -185,8 +193,8 @@ Squad Breakout 5
 <td>
 
 Squad Breakout 6
-- Onboarding Squad
-- Zoom/Webex Link: link
+ - NONE
+
 </td>
                 <td></td>
     </tbody>
@@ -242,34 +250,37 @@ Begins with squads presenting any changes to planning scope and resources.
 <br>
 Squad 1<br>
 Zowe Explorer Squad<br>
-Zoom/Webex Link: link<br>
-<br>
+Zoom/Webex Link: https://zoom.us/j/94312528890<br>
 <br>
 Squad 2<br>
 API ML Squad<br>
-Zoom Link: link<br>
-<br>
+Zoom Link: https://zoom.us/j/98404818292 <br>
 <br>
 Squad 3<br>
 Zowe CLI Squad<br>
-Zoom/Webex Link: link<br>
-<br>
-<br>
-Squad 4<br>
-Systems Squad<br>
-Zoom/Webex Link: link<br>
-<br>
+Zoom/Webex Link: https://zoom.us/j/99891777715<br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: link<br>
-<br>
+Zoom/Webex Link: https://zoom.us/j/99494243697<br>
 <br>
 Squad 6<br>
 Onboarding Squad<br>
-Zoom/Webex Link: link<br>
+IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/94312528890<br>
 </td>
             <td>Continuation from Day 1</td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2021-01-28</td>
+            <td>10:00 AM</td>
+  <td>
+  Squad 4<br>
+  Systems Squad<br>
+  Zoom/Webex Link: https://zoom.us/j/98342765710<br>
+  </td>
+            <td></td>
     </tbody>
     <tbody>
         <tr>
