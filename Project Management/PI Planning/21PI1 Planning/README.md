@@ -5,11 +5,11 @@
 
 Day 1 (Jan 27)\
 Zoom Meeting: https://zoom.us/j/93584107234<br>
-Meeting Recording:<br><br>
+Meeting Recording:<br>https://zoom.us/rec/share/r7WDPHirLER08J_AFycIE9lCikRdhanWfMt5liTyl0Kf96jEISn0AoNP2HC6nVfi.0Ujh6K7LYXT0ipcY?startTime=1611751879000<br>
 
 Day 2 (Jan 28)\
 Zoom Meeting: https://zoom.us/j/98569783409<br>
-Meeting Recording:<br><br>
+Meeting Recording:<br>https://zoom.us/rec/share/rrjdve4DJeo9Gr3ixOcL6GMEP9D3f3VoisRLui8qJxuGfydxgjWIs7S9F87OXEY.8ngIcrO_wNw0RLTk?startTime=1611838495000<br>
 
 Day 3 (Jan 29)\
 Zoom Meeting: https://zoom.us/j/96103353102<br>
@@ -164,7 +164,8 @@ Squad Breakout 3
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: https://zoom.us/j/92216933450
+- Zoom/Webex Link: https://zoom.us/j/92216933450<br>
+- Recordings: https://zoom.us/rec/share/u6Nyu8gP5XyRMfhmqlvukwPcQucM3l_Hp9JnvUOYWiEG-oqlFJ33Yy4k9JztXgej.URaA9O-KWc1-smNv?startTime=1611770505000<br>
   </td>
                 <td></td>
     </tbody>
@@ -272,9 +273,10 @@ Zoom/Webex Link: link<br>
             <td>2021-01-28</td>
             <td>10:00 AM</td>
   <td>
-  Squad 4<br>
+  Squad 4 Breakout<br>
   Systems Squad<br>
   Zoom/Webex Link: https://zoom.us/j/98342765710<br>
+  Recordings: https://zoom.us/rec/share/luQFe-XM-mHF8sd9E7x5A3ZInxpJw6zd49WiNkuTqiqiei68c2lL-9BXFoZImOT-.1RGiKbV7kfqHfQtN?startTime=1611845851000<br>
   </td>
             <td></td>
     </tbody>
