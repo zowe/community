@@ -65,3 +65,8 @@ New issues identified:
 
 ## Prioritized Feature Requests
 * 998 [Confirmation before submitting a job](https://github.com/zowe/vscode-extension-for-zowe/issues/998)
+## Dependencies
+We've identified the following dependencies for the upcoming PI:
+* CLI Squad: Their improvements to the SDK will help us to utilize the SDK in order to get the profile information we need from the configuration.json to allow developers to get to work in Zowe Explorer (beta version)
+* Several topics need to be researched in greater detail prior to any implementation
+ 
