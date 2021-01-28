@@ -22,16 +22,14 @@ System Squad
 Complete Caching API including implementing another persistent solution beyond VSAM and validate high availability for the API ML.
 
 API ML Squad Plan:  
-[HA: Gateway Session affinity](https://github.com/zowe/api-layer/issues/855)  
-In case of stateful services, that cannot use caching api, Gateway should support session affinity.  
 [HA: Validate Apiml & zOSMF HA/sysplex](https://github.com/zowe/api-layer/issues/858)  
 Identification of necessary setup on TSS sysplex and manual test of HA solution to prove good functionality. This includes zOSMF HA setup as well.  
 [HA: Distinguish Internal/External service accessibility](https://github.com/zowe/api-layer/issues/861)  
 Some form of restriction for service accessibility is needed. This will serve the purpose of isolating the caching api from outside, since all services onboarded in Discovery are public now.  
 [HA: ACF2 sysplex verification](https://github.com/zowe/api-layer/issues/864)  
 Identification of necessary setup on ACF2 sysplex and manual test of HA solution to prove good functionality. This includes zOSMF HA setup as well.  
-[HA: Caching API: Authenticate via certificates](https://github.com/zowe/api-layer/issues/891)  
-The Caching Service at the moment accepts the JWT token issued by the API ML. The authentication provided by this token needs to be used to limit access to subset of key/value pairs. The API ML needs to properly translate the client certificates issued to the internal services to the user information used by the service.  
+[HA: Caching API: Spike Authentication](https://github.com/zowe/api-layer/issues/891)  
+The Caching Service at the moment accepts the JWT token issued by the API ML. Research an acceptable authentication scheme that does not introduce preprequisities to set-up.  
 [HA: Select another persistent solution for Caching](https://github.com/zowe/api-layer/issues/980)  
 Active MQ may be a valid option for persistent backend storage. The aim is to verify on the POC level whether this claim is valid. I want to verify that we can use the embedded Active MQ as a persistent solution in HA scenario.  
 [HA: Caching service: Logging for production instance](https://github.com/zowe/api-layer/issues/1000)  
@@ -43,7 +41,10 @@ Verify on the POC level whether the selected alternative to VSAM chosen via Issu
 (in support of SECURITY theme)
 
 * [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)  
-Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.
+Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.  
+
+API ML Squad Plan:  
+[Spike: AT-TLS library usage #1130](https://github.com/zowe/api-layer/issues/1130)  
 
 ## Zowe API ML Metrics dashboard MVP
 
