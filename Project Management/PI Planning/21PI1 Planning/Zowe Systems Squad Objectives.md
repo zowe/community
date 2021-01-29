@@ -56,6 +56,21 @@ We continuously requires support from other squads on Performance Test topic
 
 ## 3. CI/CD
 
-### a). Investigate Jenkins alternatives
+### a).  Testing Improvements
+- [Run full test more frequently](https://github.com/zowe/zowe-install-packaging/issues/1752)
+- [Parallel Testing Performance Improvements](https://github.com/zowe/zowe-install-packaging/issues/1751)
+- [PR Testing - Label PR Builds to run tests before merging](https://github.com/zowe/zowe-install-packaging/issues/685)
+- [Ansible-Driven Plugin Deployment](https://github.com/zowe/zowe-install-packaging/issues/1199)
 
+### b). IP Explorer Pipeline
+-[Create IP Explorer Pipeline](https://github.com/zowe/zowe-install-packaging/issues/1928)
+
+
+### c). Infrastructure
+- [Research certificate management options on Marist](
+
+### d). Investigate Improvements
+- [Jenkins alternatives - Stretch](https://github.com/zowe/zowe-install-packaging/issues/1868)
+- PR "developer feedback" - link build results, test results, and artifacts into PR comments
 - [Investigate various CI/CD tools vs current Jenkins](https://github.com/zowe/zowe-install-packaging/issues/1868)
+
