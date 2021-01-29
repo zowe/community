@@ -395,3 +395,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 2 - Not very confident.  The PI might be successful, but we really need to discuss a few thing.
 
 1 - We're planning to fail.  
+
+[Completed Confidence Vote](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI1%20Planning/Zowe%2021PI1%20Confidence%20Vote.jpg)
