@@ -1,4 +1,4 @@
-# Zowe API ML & Security Squad - 21PI1 Objectives (February 2021 to May 2021)
+# Zowe API ML & Security Squad - 21PI1 Objectives (February 2021 to April 2021)
 
 
 ## x.509 client certificate authentication support for API Mediation Layer
@@ -37,14 +37,19 @@ Set up production logs conforming to zowe log structure.
 [HA: Caching API - POC of selected alternative persistent solution #1128](https://github.com/zowe/api-layer/issues/1128)  
 Verify on the POC level whether the selected alternative to VSAM chosen via Issue 980 can be used as a persistent solution in HA scenario.  
 
-## AT-TLS aware Zowe API ML
+## Research AT-TLS aware Zowe API ML
 (in support of SECURITY theme)
 
-* [AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)  
-Integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users.  
+* [Research AT-TLS aware Zowe API ML #845](https://github.com/zowe/api-layer/issues/845)  
+Our objective is to integrate with the z/OS native AT-TLS component to better fulfill TLS security requirements coming from users. This Epic in 21PI1 will focus on understanding what it means to impleement and test AT-TLS for the API ML. After completing this Epic the team should be in a position to begin implementation. The expected outcome is an implementation Epic with associated Issues and a presentation in Zowe Architecture covering the intended implementation.  
 
 API ML Squad Plan:  
 [Spike: AT-TLS library usage #1130](https://github.com/zowe/api-layer/issues/1130)  
+[Spike: AT-TLS setup on internal environment #1135](https://github.com/zowe/api-layer/issues/1135)  
+[Spike: Marist AT-TLS setup #1134](https://github.com/zowe/api-layer/issues/1134)  
+
+Risk:  
+We need to verify that the Marist environment can support AT-TLS tests. We will need support from Marist admins to do this. We know that this can be time-consuming and so this Issue could take multiple iterations to complete. This risk is mitigated from a paralell effort to test on internal environments.
 
 ## Zowe API ML Metrics dashboard MVP
 
@@ -71,8 +76,11 @@ API ML Squad Plan:
 Test against all the key versions of zOSMF that actually change the authentication behavior and explore Ansible scripts that would allow the Squad to quickly deploy different configurations of the API ML thereby driving faster resolution of issues.  
 
 API ML Squad Plan:  
-[Improve the options for setup of the API Mediation Layer in different configurations #1119](https://github.com/zowe/api-layer/issues/1119)  
+[Adapt to zOSMF RSU2012 #1136](https://github.com/zowe/api-layer/issues/1136)  
 [Improve the mock of the zOSMF service #1120](https://github.com/zowe/api-layer/issues/1120)  
+
+Stretch:  
+[Improve the options for setup of the API Mediation Layer in different configurations #1119](https://github.com/zowe/api-layer/issues/1119)  
 [zOSMF compatibility and verification #1122](https://github.com/zowe/api-layer/issues/1122)  
 [Identify security sensitive Pull Requests #1123](https://github.com/zowe/api-layer/issues/1123)  
 
