@@ -369,7 +369,9 @@ During this session, all squads present their plans to the group. At the end of 
             <td>2021-01-29</td>
             <td>11:00 AM</td>
             <td></td>
-            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users<br><br>
+Survey Monkey link: https://www.surveymonkey.com/r/XTBKDQD<br>
+            </td>
     </tbody>
     <tbody>
         <tr>
