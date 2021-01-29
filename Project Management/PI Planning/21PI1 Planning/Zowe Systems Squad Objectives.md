@@ -63,11 +63,11 @@ We continuously requires support from other squads on Performance Test topic
 - [Ansible-Driven Plugin Deployment](https://github.com/zowe/zowe-install-packaging/issues/1199)
 
 ### b). IP Explorer Pipeline
--[Create IP Explorer Pipeline](https://github.com/zowe/zowe-install-packaging/issues/1928)
+- [Create IP Explorer Pipeline](https://github.com/zowe/zowe-install-packaging/issues/1928)
 
 
 ### c). Infrastructure
-- [Research certificate management options on Marist](
+- [Research certificate management options on Marist]()
 
 ### d). Investigate Improvements
 - [Jenkins alternatives - Stretch](https://github.com/zowe/zowe-install-packaging/issues/1868)
