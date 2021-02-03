@@ -13,7 +13,7 @@ Meeting Recording:<br>https://zoom.us/rec/share/rrjdve4DJeo9Gr3ixOcL6GMEP9D3f3Vo
 
 Day 3 (Jan 29)\
 Zoom Meeting: https://zoom.us/j/96103353102<br>
-Meeting Recording:<br>
+Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vpDcb-Hl9ld-5jaWjQ_uCoZmkccpDlS.zrSExPYQOXFH9wfD?startTime=1611925015000<br>
 </th>
         </tr>
     </thead>
@@ -399,3 +399,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 2 - Not very confident.  The PI might be successful, but we really need to discuss a few thing.
 
 1 - We're planning to fail.  
+
+[Completed Confidence Vote](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI1%20Planning/Zowe%2021PI1%20Confidence%20Vote.jpg)
