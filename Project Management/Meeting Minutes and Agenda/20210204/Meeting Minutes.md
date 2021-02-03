@@ -23,6 +23,8 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Leanny)
+      - Improve file navigation by adding a quick search
+      - Create settings menu for Editor w/ monaco properties
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
