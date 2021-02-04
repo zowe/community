@@ -28,6 +28,9 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      * Investigate chmod failures showing in v1.19 release job STDERR output
+      * Dedicated performance test suite for Explore APIs is ready
+      * Enabled JES resource usage status check for z/OSMF based datasets/files api
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
