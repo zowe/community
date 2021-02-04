@@ -1,4 +1,4 @@
-# Zowe PI Schedule and Sprint Cadence
+# Zowe Sprint Cadence and PI Schedule
 
 ## Sprint Cadence
 
