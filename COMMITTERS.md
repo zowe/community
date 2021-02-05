@@ -52,7 +52,6 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - Jason Tucker - @tucker01 (jason.tucker@broadcom.com)
 - Chris Boehm - @ChrisBoehmCA (christopher.boehm@broadcom.com)
-- Colin Stone - @Colin-Stone (colin.stone@uk.ibm.com)
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 - Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
@@ -97,7 +96,6 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 - Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Colin Stone - @Colin-Stone (colin.stone@uk.ibm.com)
 
 ## Zowe Operations Squads
 
@@ -141,4 +139,5 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Nick Kocsis - @nkocsis (kocsis@ca.ibm.com)
 - Nan Nan Li (Ashley) - @nannanli (nannanli@cn.ibm.com)
 - Robbie Avill (Robbie) - @rovaill2 (roavill2@uk.ibm.com)
-
+- Tom Zhang - @FlappiTomic (t.yczhang@ibm.com)
+- Edward Roche - @edroche-IBM (Edward.Roche@ibm.com)
