@@ -74,17 +74,17 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 [**Core committers**](https://github.com/orgs/zowe/teams/committers-vscode-extension/members)
 
-- Jessielaine Punongbayan - @jellypuno (jessielaine.punongbayan@broadcom.com)
-- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
-- Zachariah Mullen (Scrum Master) - @zdmullen (zachariah.mullen@broadcom.com)
+- Jessielaine Punongbayan - (Lead) @jellypuno (jessielaine.punongbayan@broadcom.com)
+- Richelle Anne Craw - @crawr (Scrum Master) (richelleanne.craw@broadcom.com)
+- Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
 - Mike Bauer - @MikeBauerCA (Michael.Bauer2@broadcom.com)
-- Fernando Rijo Cedeno (Lead) - @zFernand0 (fernando.rijocedeno@broadcom.com)
+- Fernando Rijo Cedeno - @zFernand0 (fernando.rijocedeno@broadcom.com)
+- Lauren Li - @lauren-li (lauren.li@ibm.com)
 
 [**Other committers**](https://github.com/orgs/zowe/teams/vscode-team/members)
 
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Lauren Li - @lauren-li (lauren.li@ibm.com)
 - Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 - Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
 - Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
@@ -96,6 +96,8 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
 - Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
 - John LaPlante - @jelaplan (john.laplante@broadcom.com)
+- Nikolay Imbirev - @nickImbirev (nikolay.imbirev@broadcom.com)
+- Deepali Chavan - @deepali-hub (deepali.chavan@broadcom.com)
 
 ## Zowe Operations Squads
 
