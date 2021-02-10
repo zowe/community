@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[01-09-2021](https://zoom.us/rec/share/IqmptcBSsfzHLQJO-U-KzKP_DrhNGF6ZIpM4VIJgqwjvMvH_TNUWtgWwdjRRMCs.16dwbN0banpLoadc?startTime=1612882853000) Discuss Storage Solutions for the Caching Service
+
 [01-26-2010](https://zoom.us/rec/share/iI50EXYc7aos8pYYJnN2_29n_axwcORNdbgCSbX0Qqn1ksRM_j_G51SXlGriiXXf._JS0A2TJVxgw2fJS?startTime=1611673119000) Caching Discussion [#891](https://github.com/zowe/api-layer/issues/891) and [#980](https://github.com/zowe/api-layer/issues/980)
 
 [01-12-2021](https://zoom.us/rec/share/0JIaUHEqlNiLXLkp4rjkrMRxACdxzK6Tyf8lRdtygHJGxtobu0-p3nuTPMAjtZwT.C9jkOmLNIZaX6YgA?startTime=1610463332000) Zowe resource class and APIML resource (RACF)
