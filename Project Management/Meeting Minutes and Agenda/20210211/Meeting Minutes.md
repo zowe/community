@@ -16,15 +16,18 @@ Agenda Items
 ------------
 1. Start Recording
 2. TSC Updates (Jakub)
-     - Schedule changes 
+     - Schedule changes
      - Community ZenHub board - https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/board?repos=155383451,145870120,162463317,143049506,144619729,152270012,300586575,150100207,176523400,141316148,144599701,144600062,151615191,151624320,168378275,144592776,144595426,166097436
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
      - Discuss Zowe v1.20.0
 5. Squad Status:
     - Onboarding (Rose)
+     - We are considering changing our weekly meeting start time to 12:00 ET and
+     - We are progressing on Dynamic Statistics Gathering and (3) The Zowe.ORG web page changes are close to being finalized for implementation.
+
     - Core/Web/Editor (Nolan/James/Lenny)
-      - Making app server & zsshave components manifest file 
+      - Making app server & zsshave components manifest file
       - Adding C library for reading YAML
       - Allow current working directory to be configurable for App server
     - API Mediation Layer & Security (Elliot)
