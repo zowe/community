@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Making app server & zsshave components manifest file 
+      - Adding C library for reading YAML
+      - Allow current working directory to be configurable for App server
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
