@@ -16,6 +16,8 @@ Agenda Items
 ------------
 1. Start Recording
 2. TSC Updates (Jakub)
+     - Schedule changes 
+     - Community ZenHub board - https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/board?repos=155383451,145870120,162463317,143049506,144619729,152270012,300586575,150100207,176523400,141316148,144599701,144600062,151615191,151624320,168378275,144592776,144595426,166097436
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
      - Discuss Zowe v1.20.0
