@@ -30,6 +30,12 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Investigate and fix several issues related to the changes on configuring and starting Zowe
+        * chmod warnings showing in STDERR job log
+        * reconfiguration is required after workspace folder is deleted
+        * excessive log showing in zowe-configure-instance step
+        * environment prepared in component configure step is not reserved for start step
+      - z/OSMF HA documentation (wiki pages) are ready
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
