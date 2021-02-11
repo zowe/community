@@ -27,7 +27,10 @@ Agenda Items
       - Making app server & zsshave components manifest file 
       - Adding C library for reading YAML
       - Allow current working directory to be configurable for App server
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Presented caching persistent solution options to Zowe Architecture; call with Redis/Hostbridge 11/2; confirm selection after Redis call  
+      - testing API ML against zOSMF RSU2012  
+      - Began AT-TLS for API ML research; starting with basic set-up of AT-TLS on internal environment
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
       - Investigate and fix several issues related to the changes on configuring and starting Zowe
