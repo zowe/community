@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Allow current working directory to be configurable for App server
+      - Create a threat model for Zowe Docker
+      - Get zLaunch to print list of start-able components from manifest files
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
