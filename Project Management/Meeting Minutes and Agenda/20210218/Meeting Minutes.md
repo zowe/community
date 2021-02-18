@@ -25,7 +25,11 @@ Agenda Items
       - Allow current working directory to be configurable for App server
       - Create a threat model for Zowe Docker
       - Get zLaunch to print list of start-able components from manifest files
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Started work on Snyk report findings
+      - Caching API Persistent solution - going ahead with Redis PoC
+      - Jordan and Andrea leaving Squad and impact on Objectives  
+      - Metrics objective as project for OMP Mentorship 
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
     - Documentation (Brandon/Ashley/Jim/Jason)
