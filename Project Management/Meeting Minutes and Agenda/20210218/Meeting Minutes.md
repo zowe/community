@@ -31,7 +31,15 @@ Agenda Items
       - Jordan and Andrea leaving Squad and impact on Objectives  
       - Metrics objective as project for OMP Mentorship 
     - CLI (MikeB)
-    - Performance & High Availability (HA) (Jack)
+    - System
+      - CI/CD (Tom)
+        - Enabled Saturday full installation test scenarios run to verify Zowe build
+        - Working on starting test automatically with Zowe build pipeline (zowe-install-packaging)
+      - Performance & High Availability (HA) (Jack)
+        - Fixed issue related to excessive chmod failures in Zowe job STDERR log
+        - Continued on investigate potential JES related failures on performance test
+        - Added new Zowe HA wiki related to PassTicket configuration
+        - Started work on YAML config
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
