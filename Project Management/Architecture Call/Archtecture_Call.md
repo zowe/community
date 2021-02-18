@@ -1,4 +1,5 @@
 # Architecture Call Recordings
+[01-16-2021](https://zoom.us/rec/share/mpdc34N5TKRgnUoXcSnEzgq6CdgwoyRPR_3vmPF0eHAwhPP-6NwQPONRgHl6i-I0.GCEjy1olevo7vpaa?startTime=1613487506000) RC Build Retrospective
 
 [01-09-2021](https://zoom.us/rec/share/IqmptcBSsfzHLQJO-U-KzKP_DrhNGF6ZIpM4VIJgqwjvMvH_TNUWtgWwdjRRMCs.16dwbN0banpLoadc?startTime=1612882853000) Discuss Storage Solutions for the Caching Service
 

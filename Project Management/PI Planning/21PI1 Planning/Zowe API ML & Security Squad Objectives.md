@@ -66,7 +66,7 @@ API ML Squad Plan:
 Risk:  
 We need to verify that the Marist environment can support AT-TLS tests. We will need support from Marist admins to do this. We know that this can be time-consuming and so this Issue could take multiple iterations to complete. This risk is mitigated from a paralell effort to test on internal environments.
 
-## Zowe API ML Metrics dashboard MVP
+## Zowe API ML Metrics dashboard MVP - DESCOPED FROM PI 18 FEBRUARY 2021
 
 * [Metrics Dashboard for ML Services #820](https://github.com/zowe/api-layer/issues/820)  
 Allow Tyler, the Zowe API ML administator, to track the health and performance of the API ML.
