@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Fix DS content not loading
+      - Fix USS on close, sending failed delete enqueue requests
+      - Fix bug that incorrectly wraps the file body in an extra layer of JSON if the dataset SAVE that fails 
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Systems
