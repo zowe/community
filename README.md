@@ -23,6 +23,7 @@ This guide will help you navigate the Zowe community, and learn more on how to c
       - [Documentation Squad](#documentation-squad)
       - [Onboarding Squad](#onboarding-squad)
       - [Zowe Systems Squad](#zowe-systems-squad)
+    - [Technical Steering Committee](#technical-steering-committee)
   - [Communication Channels](#communication-channels)
     - [Slack](#slack)
     - [Mailing Lists](#mailing-lists)
@@ -191,6 +192,10 @@ Maintains the Zowe installation tools and integration of Zowe components. The sy
 * https://github.com/zowe/ci-management - Management repository for Jenkins CI
 * https://github.com/zowe/jenkins-library - Jenkins pipeline library
 * https://github.com/zowe/release-management - Material and activities related to release management
+
+### Technical Steering Committee
+
+The Technical Steering Committee (TSC) was created at the start of 20PI4.  Its purpose is to oversee, govern, and improve the infrastructure, execution, and customer experience related to development, testing, packaging, delivery, and cross-squad technology overlap areas, see [Technical Steering Committee](./technical-steering-committee/charter.md)
 
 ## Communication Channels
 
