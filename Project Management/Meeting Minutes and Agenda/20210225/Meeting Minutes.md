@@ -25,11 +25,14 @@ Agenda Items
       - Fix DS content not loading
       - Fix USS on close, sending failed delete enqueue requests
       - Fix bug that incorrectly wraps the file body in an extra layer of JSON if the dataset SAVE that fails 
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
       - Performance & HA (Jack)
+        * Continue work on YAML configuration parser
+        * Test with web ui squad on Launcher implementation
+        * Test CLI with sysplex
     - Documentation (Michael Aimino)
 
 6. Legal Requirements
