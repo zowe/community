@@ -36,7 +36,7 @@ Agenda Items
 7. Community Backlog
     - TBD
 8. Roundtable
-    - None
+    - Independently verify fingerprint (John Davies)
 
 Action Items
 ------------
