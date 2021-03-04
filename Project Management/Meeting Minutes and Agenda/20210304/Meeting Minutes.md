@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+       - Present the USS & DS Tree views as separate components in the tree
+       - Automate TLS setup for ZSS + App server
+       - Sign Docker image during release
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Systems
