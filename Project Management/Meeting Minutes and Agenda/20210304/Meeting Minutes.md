@@ -16,6 +16,8 @@ Agenda Items
 ------------
 1. Start Recording
 2. TSC Updates (Jakub)
+    - OMP Virtual Summit Japan
+    - Updated roles proposal https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/zowe/community/922
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
      - Discuss Zowe v1.20.0
@@ -26,6 +28,9 @@ Agenda Items
        - Automate TLS setup for ZSS + App server
        - Sign Docker image during release
     - API Mediation Layer & Security (Elliot)
+       - Allow run of the Gateway without JWT secret where valid
+       - Add deregistration to the NodeJS enabler
+       - Add the certificate related authentication schema for services
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
