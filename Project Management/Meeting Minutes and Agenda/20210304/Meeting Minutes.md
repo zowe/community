@@ -25,7 +25,10 @@ Agenda Items
        - Present the USS & DS Tree views as separate components in the tree
        - Automate TLS setup for ZSS + App server
        - Sign Docker image during release
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+       - Agreed on authentication method for caching service and opened [Epic on Community repo](https://github.com/zowe/community/issues/1050) to track cross-squad work  
+       - Started work on [Certificate authentication for the Caching service](https://github.com/zowe/api-layer/issues/861)  
+       - Started on the [Redis off-platform PoC](https://github.com/zowe/api-layer/issues/1128) (alternative to VSAM as Caching API storage) 
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
