@@ -29,7 +29,11 @@ Agenda Items
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
+        * Automatically kick off convenience build test on 3 security systems
       - Performance & HA (Jack)
+        * Test CLI working under Sysplex
+        * Test Launcher implementation
+        * Continue work on YAML config implementation
     - Documentation (Michael Aimino)
 
 6. Legal Requirements
