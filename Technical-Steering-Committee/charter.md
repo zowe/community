@@ -36,7 +36,7 @@ This Charter sets forth the responsibilities and procedures for technical contri
 3. TSC Voting
     1. While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
     2. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
-    3. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+    3. Except as provided in Section 7.iii. and 8.i, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
     4. In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the Series Manager for assistance in reaching a resolution.
 4. Compliance with Policies 
     1. This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.  
@@ -54,7 +54,7 @@ This Charter sets forth the responsibilities and procedures for technical contri
         2. respect the rights of all trademark owners, including any branding and trademark usage guidelines.
 7. Intellectual Property Policy
     1. Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. 
-    2. Except as described in Section 7.c., all contributions to the Project are subject to the following: 
+    2. Except as described in Section 7.iii., all contributions to the Project are subject to the following: 
         1. All new inbound code contributions to the Project must be made using Eclipse Public License v2.0 ( available here: [https://www.eclipse.org/legal/epl-2.0/](https://www.eclipse.org/legal/epl-2.0/) ) (the “Project License”), unless it is made to a code repositories designated by the TSC as containing solely “sample code” or “SDKs”, which will be made available under a choice of the Project License or the Apache License, Version 2.0 (available here: https://www.apache.org/licenses/LICENSE-2.0). 
         2. All new inbound code contributions must be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
         3. All outbound code will be made available under the Project License, unless it is made to a code repositories designated by the TSC as containing solely “sample code” or “SDKs”, which will be made available under a choice of the Project License or the Apache License, Version 2.0 (available here: https://www.apache.org/licenses/LICENSE-2.0).
