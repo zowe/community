@@ -32,7 +32,11 @@ Agenda Items
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
+        * Testing / troubleshooting 1.20.0 RCs
+        * Working on commenting on PRs with test links and results
       - Performance & HA (Jack)
+        * Made progress on YAML config
+        * A new PR is ready for review which will help verifying extension/component installation
     - Documentation (Michael Aimino)
 
 6. Legal Requirements
