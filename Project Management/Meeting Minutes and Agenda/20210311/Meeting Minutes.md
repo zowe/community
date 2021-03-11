@@ -25,7 +25,10 @@ Agenda Items
       - Allow current working directory to be configurable for App server
       - Add timeout to Java server call in case they hang
       - Continue testing RC
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Fixed auth bug with z/osmf; included to RC2  
+      - Working on new security setup on Marist for TSS and ACF2 to enable Client certificate tests  
+      - Finalizing Redis off-platform caching service storage solution; hope to demo next week at Architect call 
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
