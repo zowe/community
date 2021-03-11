@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Allow current working directory to be configurable for App server
+      - Add timeout to Java server call in case they hang
+      - Continue testing RC
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Systems
