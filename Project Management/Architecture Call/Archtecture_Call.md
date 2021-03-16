@@ -1,5 +1,19 @@
 # Architecture Call Recordings
 
+[03-09-2021](https://zoom.us/rec/share/UURHgWSYqPQfdgETz00JS95JOhH_BmLsMqe-6EmNkRNgIC-CIcs3zsjHkXd9eWE7.qffVFIjCIfSV8fBL?startTime=1615301831000) Yaml File Discussions and WebUI in Sysplex environments
+
+[03-02-2021](https://zoom.us/rec/share/Bbc-A7NnAwZc7h2nvQ1e1ImdOAPQLDNwCsOtsTRiroVz0bclXoChh3y-ROObgCct.jDSbqqHzp0Nh7zLe?startTime=1614697001000) Permission discussion for zwesvusr.zweadmin
+
+[01-16-2021](https://zoom.us/rec/share/mpdc34N5TKRgnUoXcSnEzgq6CdgwoyRPR_3vmPF0eHAwhPP-6NwQPONRgHl6i-I0.GCEjy1olevo7vpaa?startTime=1613487506000) RC Build Retrospective
+
+[01-09-2021](https://zoom.us/rec/share/IqmptcBSsfzHLQJO-U-KzKP_DrhNGF6ZIpM4VIJgqwjvMvH_TNUWtgWwdjRRMCs.16dwbN0banpLoadc?startTime=1612882853000) Discuss Storage Solutions for the Caching Service
+
+[01-26-2010](https://zoom.us/rec/share/iI50EXYc7aos8pYYJnN2_29n_axwcORNdbgCSbX0Qqn1ksRM_j_G51SXlGriiXXf._JS0A2TJVxgw2fJS?startTime=1611673119000) Caching Discussion [#891](https://github.com/zowe/api-layer/issues/891) and [#980](https://github.com/zowe/api-layer/issues/980)
+
+[01-12-2021](https://zoom.us/rec/share/0JIaUHEqlNiLXLkp4rjkrMRxACdxzK6Tyf8lRdtygHJGxtobu0-p3nuTPMAjtZwT.C9jkOmLNIZaX6YgA?startTime=1610463332000) Zowe resource class and APIML resource (RACF)
+
+[12-01-2020](https://zoom.us/rec/share/NMjyY2j62xXfWJRIi1HQ0rT-1bhc_aiQqJdZbwJV2FmAjJwccJy8zh1jCriWolsL.tS0-zRGwtE6nkzPd?startTime=1606834361000) JWT secret tokens, and also zD&T optimizations
+
 [11-24-2020](https://zoom.us/rec/share/vaNS_XGUxQ1GDeCY3B0tjn__9OprCpbQimLESCTMT1njBgcsQCU7k-WauGhedz_A.LxG-0hAh1q5sFOlA?startTime=1606229998000) Zowe containerization with Kubernetes
 
 [11-17-2020](https://zoom.us/rec/share/kCNJMnKTu5fGzy--5PWxOq8TDtl6q2CZYk4UU6WTnkjZmNnmv0GeK7S1Jf3MXOpP.NZYO4QQ8uEyR1luD?startTime=1605624859000) Docker Discussion
