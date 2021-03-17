@@ -23,9 +23,14 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Leanny)
+      - Improve file navigation by adding a quick search
+      - Create settings menu for Editor w/ monaco properties
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      * Investigate chmod failures showing in v1.19 release job STDERR output
+      * Dedicated performance test suite for Explore APIs is ready
+      * Enabled JES resource usage status check for z/OSMF based datasets/files api
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
