@@ -16,15 +16,29 @@ Agenda Items
 ------------
 1. Start Recording
 2. TSC Updates (Jakub)
+     - Schedule changes 
+     - Community ZenHub board - https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/board?repos=155383451,145870120,162463317,143049506,144619729,152270012,300586575,150100207,176523400,141316148,144599701,144600062,151615191,151624320,168378275,144592776,144595426,166097436
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
      - Discuss Zowe v1.20.0
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
-    - API Mediation Layer & Security (Elliot)
+      - Making app server & zsshave components manifest file 
+      - Adding C library for reading YAML
+      - Allow current working directory to be configurable for App server
+    - API Mediation Layer & Security (Elliot)  
+      - Presented caching persistent solution options to Zowe Architecture; call with Redis/Hostbridge 11/2; confirm selection after Redis call  
+      - testing API ML against zOSMF RSU2012  
+      - Began AT-TLS for API ML research; starting with basic set-up of AT-TLS on internal environment
     - CLI (MikeB)
     - Performance & High Availability (HA) (Jack)
+      - Investigate and fix several issues related to the changes on configuring and starting Zowe
+        * chmod warnings showing in STDERR job log
+        * reconfiguration is required after workspace folder is deleted
+        * excessive log showing in zowe-configure-instance step
+        * environment prepared in component configure step is not reserved for start step
+      - z/OSMF HA documentation (wiki pages) are ready
     - Documentation (Brandon/Ashley/Jim/Jason)
 
 6. Legal Requirements
