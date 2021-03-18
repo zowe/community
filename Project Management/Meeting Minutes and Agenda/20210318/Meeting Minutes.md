@@ -26,7 +26,12 @@ Agenda Items
       - Create client certificate verification for caching service in App server
       - Add a toolbar with dynamic menus
       - Testing Zowe 1.20 
-    - API Mediation Layer & Security (Elliot)
+    - API Mediation Layer & Security (Elliot)  
+      - Completed Redis off-platform PoC; meeting with Redis 25/3 to discuss on-platform  
+      - Completed caapbility for caching service to authenticate via Certificate  
+      - Fix timing issue with initializing Gateway authentication #1255  
+      - In our build pipelines use the same startup scripts for the API ML that are used within Zowe #1259  
+      - Release stable version more often #1258
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
