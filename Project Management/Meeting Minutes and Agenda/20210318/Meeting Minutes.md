@@ -23,6 +23,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Create client certificate verification for caching service in App server
+      - Add a toolbar with dynamic menus
+      - Testing Zowe 1.20 
     - API Mediation Layer & Security (Elliot)
     - CLI (MikeB)
     - Systems
