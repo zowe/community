@@ -37,6 +37,9 @@ Agenda Items
       - CI/CD (Tom)
       - Performance & HA (Jack)
     - Documentation (Michael Aimino)
+      - v1.20.0 doc PR for publish is ready: https://github.com/zowe/docs-site/pull/1608
+      - Zowe.org redesign now has a preview available. Ashley will send it out to the community for feedback this week.
+      - We’re working on a doc site 2.0 UI design now to address the many site enhancement requests in the GitHub repo (see Epic https://github.com/zowe/docs-site/issues/1587). 
 
 6. Legal Requirements
     - None
