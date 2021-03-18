@@ -1,4 +1,11 @@
 # Architecture Call Recordings
+
+[03-16-2021](https://zoom.us/rec/share/vyHSxX-bSM7Q9vtdxiVK7H-_4PyOIcetW78LImyuBkvB3AIQCyKnmsqM8W-vqWcs.3lUMvyEY9AyceyTX?startTime=1615903089000) Caching and Redis Discussion
+
+[03-09-2021](https://zoom.us/rec/share/UURHgWSYqPQfdgETz00JS95JOhH_BmLsMqe-6EmNkRNgIC-CIcs3zsjHkXd9eWE7.qffVFIjCIfSV8fBL?startTime=1615301831000) Yaml File Discussions and WebUI in Sysplex environments
+
+[03-02-2021](https://zoom.us/rec/share/Bbc-A7NnAwZc7h2nvQ1e1ImdOAPQLDNwCsOtsTRiroVz0bclXoChh3y-ROObgCct.jDSbqqHzp0Nh7zLe?startTime=1614697001000) Permission discussion for zwesvusr.zweadmin
+
 [01-16-2021](https://zoom.us/rec/share/mpdc34N5TKRgnUoXcSnEzgq6CdgwoyRPR_3vmPF0eHAwhPP-6NwQPONRgHl6i-I0.GCEjy1olevo7vpaa?startTime=1613487506000) RC Build Retrospective
 
 [01-09-2021](https://zoom.us/rec/share/IqmptcBSsfzHLQJO-U-KzKP_DrhNGF6ZIpM4VIJgqwjvMvH_TNUWtgWwdjRRMCs.16dwbN0banpLoadc?startTime=1612882853000) Discuss Storage Solutions for the Caching Service
