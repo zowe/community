@@ -35,7 +35,11 @@ Agenda Items
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
+        * Build and Test 1.20.0 RCs
+        * Working on commenting on PRs with test links and results
       - Performance & HA (Jack)
+        * Made a workable build with full YAML config support, many script were changed to make it compatible with the YAML config
+        * Improve the verifying extension/component script
     - Documentation (Michael Aimino)
 
 6. Legal Requirements
