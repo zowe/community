@@ -18,11 +18,18 @@ Zowe Milestones are time-based releases with a schedule published on: [https://g
 
 Each Squad will decide if there will be a deliverable depending on the content that went into the Release. Squads are self-governing and are free to have their own schedules as long as they meet the requirements of the release as defined by the community.
 
+Each squad needs to be able to provide older version of the component for release in case stop-ship bug is found, and the fix can't be delivered in time to meet release date. 
 
 ## Release Approval Procedure
 
-
 ### Process when potential stop-ship was found
+
+When any of the squads find or is informed about the potential stop-ship, the highest priority for the squad is to analyse the found issue and within a day time come up with proposal about next steps. The other squads can continue testing. 
+
+Potential proposals for resolution:
+- Fix the issue and release a new version of component. This contains info on when the fix will be available. 
+- Revert to previous version of the component
+- Release despite known bug. Accept the bug as known, file it as an issue and release despite the bug.
 
 The TSC via zowe-tsc channel is informed that the potential stop-ship bug was found. The TSC then based on the recommendation from the affected squad/s vote on whether the found bug is a stop ship. The available options are: wait for the fix, return to the previous version of the component, agree it’s not a stop ship. The TSC votes in the channel and the process follows based on the found decision. 
 
@@ -38,39 +45,41 @@ The vote is going to happen in the zowe-tsc channel as explained in the TSC Stru
 
 ## Release Numbering
 
-Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form x.y.z-[GA | beta | yyyymmdd] (Semantic Versioning) or major.minor.micro. The final designation indicates whether this is the official Generally Available (GA) version, a beta version or an interim build. Only releases that end with **-GA** are considered official releases.
+Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form x.y.z (Semantic Versioning) or major.minor.micro. 
 
 * Following semantic versioning the following sequences can be assumed MAJOR.MINOR.PATCH
   * MAJOR version when you make incompatible API changes
   * MINOR version when you add functionality in a backwards-compatible manner, and 
   * PATCH version when you make backwards-compatible bug fixes.
+  
+The code can be found [here](https://zowe.org/download/).
 
-* **GA** indicates that this release is an official, supported version of the Zowe project and is suitable for regular use.
+The Release Candidates add RC to the end of the version and aren't considered official release. The RC build isn't available directly on zowe.org/download, but can be found in Artifactory libs-release-local/org/zowe/. 
 
-* **beta** means that this build is a candidate build that is complete but is under active development and should not be considered for regular use.
-
-* **yyyymmdd** indicates this is an interim build suitable for experimentation or development. It is not intended for general usage and may contain defects that are known and being worked or unknown.
-The code can be found[here](https://zowe.org/download/).
-
+Apart from the regular releases and Release candidates we also promote nightly builds in libs-release-local/org/zowe/nightly/. The Zowe night build name will look like zowe-<version>-staging-<build-id>-<timestamp>.pax.
 
 ## Release Content
 
-There are two significant and different release artifacts for Zowe. The source release and the "convenience build."
+There are following parts build as a part of the release:
 
-The project officially release source code which can be built into an executable version of Zowe. This is the core deliverable of Zowe and is intended for downstream consumers that may use Zowe in their projects or products as well as other developers.
-
-The "Convenience Build" is composed of courtesy release artifacts:
-
-* An installer and all available artifacts to run and use Zowe on z/OS including sample applications.
-* An offline installable version of the Zowe CLI. The CLI is split between two archives: a "core" archive containing the CLI base and Secure Credential Store, and a "plugins" archive containing community CLI plugins.
-
-The convenience build is intended for consumers that simply want to use Zowe and its APIs. This is built from the source code release above. Code from other projects that have compatible open source licenses may be included to support overall Zowe capability. Like bash, git, python as well as zOS-Workflows or other related projects to facilitate a complete software stack for Zowe. Zowe may release its convenience build artifacts at the same time or independently of one another per project discretion and vote in accordance with the normal[ release process](https://github.com/zowe/zlc/blob/master/process/release.md#release-approval-procedure).
-
+- z/OS Component
+  * Convenience Build
+  * SMP/E Build
+- CLI component (Also downloadable from npmjs.org)
+  * CLI Core
+  * CLI Plugins
+- Client SDKs
+  * Node.js Client SDK
+  * Python Client SDK
+- Zowe Explorer (Only downloadable from Visual Studio Code Marketplace)
+- Docker build (Tech preview) (Also downloadable from hub.docker.com)
+  * amd64
+  * x390x
+- Source build
 
 ## System demo
 
-At the release time every Squad presents their work during the System demo. The System demo is open to all and the squads present the new functionality introduced in the release. The date is available in the [https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence) document. The meeting is recorded and the recording will be published. 
-
+At the release time every Squad presents their work during the System demo. The System demo is open to all, and the squads present the new functionality introduced in the release. The date is available in the [https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence) document. The meeting is recorded, and the recording will be published.
 
 ## Post Release Activities
 
