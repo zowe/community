@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[03-16-2021](https://zoom.us/rec/share/vyHSxX-bSM7Q9vtdxiVK7H-_4PyOIcetW78LImyuBkvB3AIQCyKnmsqM8W-vqWcs.3lUMvyEY9AyceyTX?startTime=1615903089000) Caching and Redis Discussion
+
 [03-09-2021](https://zoom.us/rec/share/UURHgWSYqPQfdgETz00JS95JOhH_BmLsMqe-6EmNkRNgIC-CIcs3zsjHkXd9eWE7.qffVFIjCIfSV8fBL?startTime=1615301831000) Yaml File Discussions and WebUI in Sysplex environments
 
 [03-02-2021](https://zoom.us/rec/share/Bbc-A7NnAwZc7h2nvQ1e1ImdOAPQLDNwCsOtsTRiroVz0bclXoChh3y-ROObgCct.jDSbqqHzp0Nh7zLe?startTime=1614697001000) Permission discussion for zwesvusr.zweadmin
