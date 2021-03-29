@@ -14,11 +14,23 @@ Each squad that is part of the Zowe project has its representative on the TSC. T
 
 ### Removal from the TSC role
 
-It’s possible to remove a person from the role on the TSC. To do so two-thirds vote of the entire TSC is required. If such person was appointed the squad, the squad needs to elect another representative on next squad meeting, if the person is permanent member then the person is removed from the document and loses voting rights. 
+It’s possible to remove a person from the role on the TSC. To do so two-thirds vote of the entire TSC is required. If such person was appointed by the squad, the squad needs to elect another representative on next squad meeting, if the person is permanent member then the person is removed from the document and loses voting rights.
+
+There are three key reasons to remove someone from TSC role: 
+
+1) The person can't do the role anymore and is either unwilling or unable to step down. 
+2) The person actively engages in actions against Zowe best interests.
+3) The person repeatably breaks the Code of Conduct and/or requirements on the role 
+
+Examples:
+
+- The person leaves company and as such loses access to the communication channels due to them being linked to its company accounts. 
+- The person repeatably breaks the code of conduct by disciminating against members of the Zowe community
+- The person intentionally introduces problematic code within Zowe. Problematic may be for example a unapproved tracker sending user's data to some random server. 
 
 ## Roles
 
-The TSC has internally decided to create three roles focusing on different aspects of the governance of the Zowe. The roles are held by the TSC members and the members are voted into the roles. The [https://github.com/zowe/community/blob/master/README.md](https://github.com/zowe/community/blob/master/README.md) contains the currently appointed members with the function time frames. The time frame for helding the role is year. It’s possible for one person to hold all three roles. 
+The TSC has internally decided to create three roles focusing on different aspects of the governance of the Zowe. The roles are held by the TSC members and the members are voted into the roles. The [https://github.com/zowe/community/blob/master/README.md](https://github.com/zowe/community/blob/master/README.md) contains the currently appointed members with the function time frames. The time frame for helding the role is year. It’s possible for one person to hold all three roles and it's possible to hold the roles consecutively. 
 
 
 *   Zowe TAC Representative
