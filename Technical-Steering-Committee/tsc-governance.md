@@ -1,5 +1,7 @@
 # TSC Structure and Governance
 
+The TSC is responsible for holding at least yearly retrospective on its functioning and based on the learned lessons adapt the related documentation. 
+
 ## Members
 
 ### Permanent members
@@ -29,7 +31,7 @@ The TSC has internally decided to create three roles focusing on different aspec
 
 ### Process
 
-Two weeks before the time frame for the previous appointments ends, the TSC will held vote for the new ones. Any TSC member is eligible to be a candidate. The candidates will have a short time to present themselves and their vision during this voting meeting and afterwards the TSC will vote specific persons to each role. 
+Two weeks before the time frame for the previous appointments ends, the TSC will hold vote for the new ones. Any TSC member is eligible to be a candidate. The candidates will have a short time to present themselves and their vision during this voting meeting and afterwards the TSC will vote specific persons to each role. 
 
 
 ## Voting
@@ -42,4 +44,30 @@ The meeting is happening in the chat of the Zoom call. The question and the opti
 
 ### Outside of the meeting
 
-The quorum for voting outside of the meeting is defined in the TSC charter. The voting will be held in the zowe-tsc Slack channel. The question and possible answers will be outlined in the question posted by the Zowe Chair. The voting time frame is 24 hours and the voting members are expected to vote in the thread in the slack channel. The vote results will be captured and stored in the Community ([https://github.com/zowe/community/](https://github.com/zowe/community/)) repository. 
+The quorum for voting outside the meeting is defined in the TSC charter. The voting will be held in the zowe-tsc Slack channel. The question and possible answers will be outlined in the question posted by the Zowe Chair. The voting time frame is 24 hours, and the voting members are expected to vote in the thread in the slack channel. The vote results will be captured and stored in the Community ([https://github.com/zowe/community/](https://github.com/zowe/community/)) repository. 
+
+### Contested votes
+
+It is possible to vote again on any issue if any new concerns or knowledge arises. Anyone can raise the vote with the new information on why we should vote. 
+
+In case there is a long term disagreement on a specific issue any party can bring in ZLC as advisory council to help us provide business context and mediate the discussion to reach conclusion. 
+
+If the ZLC mediation doesn't help the TSC members may reach out to the Chapter manager within LF to help mediate the resolution. 
+
+## Responsibilities
+
+In this section the details for specific areas from charter are clarified where needed.
+
+### Squads
+
+In the Zowe project the subprojects are represented as squads. Each squad is responsible for its area of expertise and has pretty wide possibilities for its own governance. 
+
+We recognize incubators and squads within the Zowe project. It is responsibility of the ZLC as an advisory board to set up the rules and processes for application as an incubator and squad. The TSC will respect their guidance in this area. 
+
+### Communication
+
+It is important to distinguish internal communication within project and external communication to external stakeholders, Linux Foundation, OMP and business. 
+
+In the context of the internal communication TSC is responsible for making sure that the communication is happening in public and that every member of the project has the option to join and express the opinion on the topic. 
+
+In the context of the external communication, the responsibility is to be shared between ZLC as the advisory council and TSC. The TSC is responsible for technology related communication with external stakeholders while we expect ZLC to ddrive the business communication with external stakeholders together with Zowe Ambassador select within the TSC. 
