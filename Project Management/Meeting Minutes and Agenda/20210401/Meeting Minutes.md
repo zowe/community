@@ -18,28 +18,18 @@ Agenda Items
 2. TSC Updates (Jakub)
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
-     - Discuss Zowe v1.20.0
      - Discuss the next PI Planning
+     - Discuss v2.0 items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
-      - Create client certificate verification for caching service in App server
-      - Add a toolbar with dynamic menus
-      - Testing Zowe 1.20 
     - API Mediation Layer & Security (Elliot)  
-      - Completed Redis off-platform PoC; meeting with Redis 25/3 to discuss on-platform  
-      - Completed caapbility for caching service to authenticate via Certificate  
-      - Fix timing issue with initializing Gateway authentication #1255  
-      - In our build pipelines use the same startup scripts for the API ML that are used within Zowe #1259  
-      - Release stable version more often #1258
     - CLI (MikeB)
     - Systems
       - CI/CD (Tom)
-        * Build and Test 1.20.0 RCs
-        * Working on commenting on PRs with test links and results
+        *
       - Performance & HA (Jack)
-        * Made a workable build with full YAML config support, many script were changed to make it compatible with the YAML config
-        * Improve the verifying extension/component script
+        *
     - Documentation (Michael Aimino)
 
 6. Legal Requirements
