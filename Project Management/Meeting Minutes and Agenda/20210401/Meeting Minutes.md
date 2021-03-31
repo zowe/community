@@ -31,6 +31,11 @@ Agenda Items
       - Performance & HA (Jack)
         *
     - Documentation (Michael Aimino)
+      - Published doc for v1.20.0
+      - Completed [zowe.org design updates](https://deploy-preview-108--condescending-dubinsky-4645a9.netlify.app/download.html) and addressed all feedback. Waiting for TSC to vote for publish this week. 
+      - Identifying objectives for next PI
+      - Working on Zowe docs UI revamp. (See the [Prototype](https://covalentbond.github.io/zowe-docs/getting-started/doc7))
+      - Working on PRs [#1618](https://github.com/zowe/docs-site/pull/1618), [#1592](https://github.com/zowe/docs-site/pull/1592)
 
 6. Legal Requirements
     - None
