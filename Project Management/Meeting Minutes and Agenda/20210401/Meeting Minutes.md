@@ -39,9 +39,12 @@ Agenda Items
       - [Implement combined config API](https://github.com/zowe/zowe-cli/issues/912)
     - Systems
       - CI/CD (Tom)
-        *
+        * Enabled commenting of zowe build/test status for pull request
+        * Investigate issues around enabling VERIFY_CERTIFICATES and using external certificates before enabling new test case (Jack)
       - Performance & HA (Jack)
-        *
+        * Solved the double address spaces issue
+        * Created integration build with YAML configuration plus launcher
+        * Continue validating integration build on Sysplex
     - Documentation (Michael Aimino)
       - Published doc for v1.20.0
       - Completed [zowe.org design updates](https://deploy-preview-108--condescending-dubinsky-4645a9.netlify.app/download.html) and addressed all feedback. Waiting for TSC to vote for publish this week. 
