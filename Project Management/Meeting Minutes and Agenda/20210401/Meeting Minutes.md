@@ -23,6 +23,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Move groovy build content into jenkinsfile in zlux-build
+      - Initialize App server cookie secret based on shared environment objects
+      - Create Docker image that includes source code
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Systems
