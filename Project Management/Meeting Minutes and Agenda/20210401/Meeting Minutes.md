@@ -35,6 +35,10 @@ Agenda Items
       - Initialize App server cookie secret based on shared environment objects
       - Create Docker image that includes source code
     - API Mediation Layer & Security (Elliot)  
+      - Redis/Hostbridge for off-z > target to finish by end of PI  
+      - AT-TLS > contributing library to kick start PoC  
+      - Identified 1st draft of Objectives for next PI
+      - Identified set of v2 ideas for API ML here https://github.com/zowe/community/issues/924   
     - CLI (MikeB)
       - [Implement combined config API](https://github.com/zowe/zowe-cli/issues/912)
     - Systems
