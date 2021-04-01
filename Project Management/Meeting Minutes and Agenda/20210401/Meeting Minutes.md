@@ -20,6 +20,14 @@ Agenda Items
 4. Plan
      - Discuss the next PI Planning
      - Discuss v2.0 items
+       - CLI "wants"
+         - [Simplified Config](https://medium.com/zowe/zowe-cli-getting-started-made-easy-f53d769c678e) (currently in validation)
+         - [Daemon Mode](https://medium.com/zowe/zowe-cli-daemon-mode-29c0dc29c22f) (performance improvement - currently in validation)
+         - Conformance Program Update
+         - Zowe Explorer to make use of simplified config
+         - Automatic client configuration for API Mediation Layer Users
+         - Node & Python SDKs could become LTS on Zowe.org
+         - Adjust JSON configuration to better communicate what type of authentication to perform for specific services (creds direct to service, API ML with token, etc.)
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
@@ -28,6 +36,7 @@ Agenda Items
       - Create Docker image that includes source code
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
+      - [Implement combined config API](https://github.com/zowe/zowe-cli/issues/912)
     - Systems
       - CI/CD (Tom)
         *
