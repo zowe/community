@@ -19,7 +19,7 @@ Agenda Items
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
      - Discuss the next PI Planning
-     - Discuss v2.0 items
+     - Discuss v2.0 items. There is a git issue https://github.com/zowe/community/issues/924 together with a wiki https://github.com/zowe/community/wiki/Zowe-release---moving-to-a-new-major-version to collect people's thoughts and ideas about incrementing the Zowe major version number.
        - CLI "wants"
          - [Simplified Config](https://medium.com/zowe/zowe-cli-getting-started-made-easy-f53d769c678e) (currently in validation)
          - [Daemon Mode](https://medium.com/zowe/zowe-cli-daemon-mode-29c0dc29c22f) (performance improvement - currently in validation)
