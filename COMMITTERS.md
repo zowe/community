@@ -8,7 +8,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Mark Ackert - @MarkAckert (mark.ackert@broadcom.com)
 - Peter Fandel - @PeterFandelAtRocket (pfandel@rocketsoftware.com)
 - Sean Grady - @1000TurquoisePogs (sgrady@rocketsoftware.com)
-- Michael Dubois - @pdubzq (michael.dubois@broadcom.com)
+- Michael DuBois - @pdubz3 (michael.dubois@broadcom.com)
 - Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
 
 ## Zowe Sub-Project Squads
