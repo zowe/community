@@ -34,9 +34,15 @@ Agenda Items
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
-        *
+        * Research on enabling parallel testing
+        * Started work on IP Explorer pipeline
+        * Investigate issues around enabling VERIFY_CERTIFICATES and using external certificates before enabling new test case (Jack)
+        * Improved node/java validation and ZWESECUR jcl
+        * Deprecated APIML_PREFER_IP_ADDRESS and ZOWE_CACHING_SERVICE_START
       - Performance & HA (Jack)
-        *
+        * Added option to generate component-level certificates
+        * Added YAML config support on gateway internal connector
+        * Continue integration test with HA
     - Documentation (Michael Aimino)
       -
 
