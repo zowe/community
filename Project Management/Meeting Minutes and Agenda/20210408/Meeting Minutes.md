@@ -24,6 +24,8 @@ Agenda Items
     - Core/Web/Editor (Nolan/James/Lenny)
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
+      - Completed implementation of combined config API
+      - Zowe CLI - JCL Symbolic Substitution Support
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
