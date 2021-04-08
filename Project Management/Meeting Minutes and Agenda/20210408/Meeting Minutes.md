@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Implement RBAC in ZSS for HA
+      - Fixed ZSS dataset api causing memory corruption when RECFM=FB
+      - Change zss static apiml registration to use manifest template
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
       - Completed implementation of combined config API
