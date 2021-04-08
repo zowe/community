@@ -54,3 +54,17 @@ RC Build 2021/04/15<br>
 System Demo 2021/05/03<br>
 Testing 2021/04/15 - 2021/04/26<br>
 GA 2021/04/26<br>
+
+1.22<br>
+Code Freeze 2021/06/02<br>
+RC Build 2021/06/03<br>
+System Demo 2021/06/21<br>
+Testing 2021/06/03 - 2021/06/14<br>
+GA 2021/06/14<br>
+
+1.23<br>
+Code Freeze 2021/07/14<br>
+RC Build 2021/07/15<br>
+System Demo 2021/08/02<br>
+Testing 2021/07/15 - 2021/07/26<br>
+GA 2021/07/26<br>
