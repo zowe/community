@@ -6,7 +6,7 @@ The TSC is responsible for holding at least yearly retrospective on its function
 
 ### Permanent members
 
-Initially the TSC was formed with three permanent members appointed by the ZLC. To appoint a permanent member of the TSC requires a successful vote by the TSC on such an appointment. 
+Initially the TSC was formed with three permanent members appointed by the ZLC. The process for appointing any new permanent member of the TSC requires (1) a nomination by an existing TSC member and (2) a two-thirds vote by the full TSC on such an appointment.
 
 ### Squad representatives
 
@@ -30,7 +30,7 @@ Examples:
 
 ## Roles
 
-The TSC has internally decided to create three roles focusing on different aspects of the governance of the Zowe. The roles are held by the TSC members and the members are voted into the roles. The [https://github.com/zowe/community/blob/master/README.md](https://github.com/zowe/community/blob/master/README.md) contains the currently appointed members with the function time frames. The time frame for helding the role is year. It’s possible for one person to hold all three roles and it's possible to hold the roles consecutively. 
+The TSC has internally decided to create three roles focusing on different aspects of the governance of the Zowe. The roles are held by the TSC members and the members are voted into the roles. The [https://github.com/zowe/community/blob/master/README.md](https://github.com/zowe/community/blob/master/README.md) contains the currently appointed members with the function time frames. The time frame for helding the role is year. It’s possible for one person to hold all three roles and it's possible to hold the roles consecutively. It's also possible to share the role between more people, if needed. 
 
 
 *   Zowe TAC Representative
