@@ -26,6 +26,8 @@ Agenda Items
       - Fixed ZSS dataset api causing memory corruption when RECFM=FB
       - Change zss static apiml registration to use manifest template
     - API Mediation Layer & Security (Elliot)  
+      - Added Redis (off zsolution) to our caching service related tests  
+      - Updated x509 authentication to function in an HA configuration   
     - CLI (MikeB)
       - Completed implementation of combined config API
       - Zowe CLI - JCL Symbolic Substitution Support
