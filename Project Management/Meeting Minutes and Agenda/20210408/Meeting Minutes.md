@@ -22,14 +22,27 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Implement RBAC in ZSS for HA
+      - Fixed ZSS dataset api causing memory corruption when RECFM=FB
+      - Change zss static apiml registration to use manifest template
     - API Mediation Layer & Security (Elliot)  
+      - Added Redis (off zsolution) to our caching service related tests  
+      - Updated x509 authentication to function in an HA configuration   
     - CLI (MikeB)
+      - Completed implementation of combined config API
+      - Zowe CLI - JCL Symbolic Substitution Support
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
-        *
+        * Research on enabling parallel testing
+        * Started work on IP Explorer pipeline
+        * Investigate issues around enabling VERIFY_CERTIFICATES and using external certificates before enabling new test case (Jack)
+        * Improved node/java validation and ZWESECUR jcl
+        * Deprecated APIML_PREFER_IP_ADDRESS and ZOWE_CACHING_SERVICE_START
       - Performance & HA (Jack)
-        *
+        * Added option to generate component-level certificates
+        * Added YAML config support on gateway internal connector
+        * Continue integration test with HA
     - Documentation (Michael Aimino)
       -
 
