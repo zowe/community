@@ -1,19 +1,19 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>21PI1 PI Planning</H1><br>
+            <th colspan="5"><H1>21PI2 PI Planning</H1><br>
 
-Day 1 (Jan 27)\
-Zoom Meeting: https://zoom.us/j/93584107234<br>
-Meeting Recording:<br>https://zoom.us/rec/share/r7WDPHirLER08J_AFycIE9lCikRdhanWfMt5liTyl0Kf96jEISn0AoNP2HC6nVfi.0Ujh6K7LYXT0ipcY?startTime=1611751879000<br>
+Day 1 (Wednesday, April 28)\
+Zoom Meeting:
+Meeting Recording:<br><br>
 
-Day 2 (Jan 28)\
-Zoom Meeting: https://zoom.us/j/98569783409<br>
-Meeting Recording:<br>https://zoom.us/rec/share/rrjdve4DJeo9Gr3ixOcL6GMEP9D3f3VoisRLui8qJxuGfydxgjWIs7S9F87OXEY.8ngIcrO_wNw0RLTk?startTime=1611838495000<br>
+Day 2 (Thursday, April 29)\
+Zoom Meeting: br>
+Meeting Recording:<br><br>
 
-Day 3 (Jan 29)\
-Zoom Meeting: https://zoom.us/j/96103353102<br>
-Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vpDcb-Hl9ld-5jaWjQ_uCoZmkccpDlS.zrSExPYQOXFH9wfD?startTime=1611925015000<br>
+Day 3 (Friday, April 30)\
+Zoom Meeting: <br>
+Meeting Recording: <br>
 </th>
         </tr>
     </thead>
@@ -36,7 +36,7 @@ Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vp
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -44,7 +44,7 @@ Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vp
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Leadership Committee and the Technical Steering Committee</td>
@@ -52,7 +52,7 @@ Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vp
     <tbody>
         <tr>
             <td></td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -60,7 +60,7 @@ Meeting Recording: https://zoom.us/rec/share/Hff8aUb3hkLGaSMS6U5BHpgReuK5NxHz4vp
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -97,7 +97,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>10:50 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -105,7 +105,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>11:00 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -119,7 +119,7 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2021-01-27</td>
+                <td>2021-04-28</td>
                 <td>11:00 AM</td>
 <td>
 
@@ -145,30 +145,30 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2021-01-27</td>
+                <td>2021-04-28</td>
                 <td>12:00 PM</td>
 <td>
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: https://zoom.us/j/99891777715
+- Zoom/Webex Link:
 </td>
                 <td></td>
     </tbody>
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2021-01-27</td>
+                <td>2021-04-28</td>
                 <td>1:00 PM</td>
 <td>
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: https://zoom.us/j/92216933450<br>
-- Recordings: https://zoom.us/rec/share/u6Nyu8gP5XyRMfhmqlvukwPcQucM3l_Hp9JnvUOYWiEG-oqlFJ33Yy4k9JztXgej.URaA9O-KWc1-smNv?startTime=1611770505000<br>
+- Zoom/Webex Link: <br>
+- Recordings: <br>
 
 - Onboarding Squad
-- Zoom/Webex Link: https://zoom.us/j/94312528890
+- Zoom/Webex Link:
 
   </td>
                 <td></td>
@@ -176,20 +176,20 @@ Squad Breakout 4
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2021-01-27</td>
+                <td>2021-04-28</td>
                 <td>2:00 PM</td>
 <td>
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: https://zoom.us/j/99494243697
+- Zoom/Webex Link:
 </td>
                 <td></td>
     </tbody>
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2021-01-27</td>
+                <td>2021-04-28</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -202,7 +202,7 @@ Squad Breakout 6
     <tbody>
         <tr>
             <td></td>
-            <td>2021-01-27</td>
+            <td>2021-04-28</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -226,7 +226,7 @@ Squad Breakout 6
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-28</td>
+            <td>2021-04-29</td>
             <td>8:05 AM</td>
             <td>5 mins</td>
             <td>Opening Announcements</td>
@@ -234,7 +234,7 @@ Squad Breakout 6
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-28</td>
+            <td>2021-04-29</td>
             <td>8:10 AM</td>
 <td>Planning Adjustments</td>
             <td>Squad Members, Stakeholders & Users.
@@ -245,25 +245,25 @@ Begins with squads presenting any changes to planning scope and resources.
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2021-01-28</td>
+            <td>2021-04-29</td>
             <td>9:00 AM</td>
 <td>Squad Breakouts<br>
 <br>
 Squad 1<br>
 Zowe Explorer Squad<br>
-Zoom/Webex Link: https://zoom.us/j/94312528890<br>
+Zoom/Webex Link: <br>
 <br>
 Squad 2<br>
 API ML Squad<br>
-Zoom Link: https://zoom.us/j/98404818292 <br>
+Zoom Link:  <br>
 <br>
 Squad 3<br>
 Zowe CLI Squad<br>
-Zoom/Webex Link: https://zoom.us/j/99891777715<br>
+Zoom/Webex Link: <br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: https://zoom.us/j/99494243697<br>
+Zoom/Webex Link: <br>
 <br>
 Squad 6<br>
 Onboarding Squad<br>
@@ -274,20 +274,20 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2021-01-28</td>
+            <td>2021-04-29</td>
             <td>10:00 AM</td>
   <td>
   Squad 4 Breakout<br>
   Systems Squad<br>
-  Zoom/Webex Link: https://zoom.us/j/98342765710<br>
-  Recordings: https://zoom.us/rec/share/luQFe-XM-mHF8sd9E7x5A3ZInxpJw6zd49WiNkuTqiqiei68c2lL-9BXFoZImOT-.1RGiKbV7kfqHfQtN?startTime=1611845851000<br>
+  Zoom/Webex Link: <br>
+  Recordings: <br>
   </td>
             <td></td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
-            <td>2021-01-28</td>
+            <td>2021-04-29</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 2 End</td>
@@ -311,7 +311,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>8:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -319,7 +319,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>8:15 AM</td>
 <td>
 Squad Final Readouts
@@ -354,7 +354,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>10:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -362,7 +362,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>10:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
@@ -370,7 +370,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>11:00 AM</td>
             <td></td>
             <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -378,7 +378,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2021-01-29</td>
+            <td>2021-04-30</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 3 End</td>
@@ -400,4 +400,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 1 - We're planning to fail.  
 
-[Completed Confidence Vote](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI1%20Planning/Zowe%2021PI1%20Confidence%20Vote.jpg)
+[Completed Confidence Vote]()
