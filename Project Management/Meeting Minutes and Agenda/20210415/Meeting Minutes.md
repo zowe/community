@@ -30,7 +30,11 @@ Agenda Items
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
+        * Setup IP Explorer pipeline
+        * Enabled verify certificates test case (Jack)
       - Performance & HA (Jack)
+        * Ready to merge YAML config, launcher, setup component certificates changes
+        * Continue testing and identify issues in HA deployment
     - Documentation (Michael Aimino)
       - Preparing for v1.21.0 docs 
       - Finalizing design of new Zowe doc site - [see the live prototype](https://zowe-docs.netlify.app/)
