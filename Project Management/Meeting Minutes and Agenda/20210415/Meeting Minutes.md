@@ -27,6 +27,8 @@ Agenda Items
       - Implement RBAC in ZSS
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
+      - Zowe CLI - [JCL Symbolic Substitution Support](https://github.com/zowe/zowe-cli/pull/993)
+      - Reviewing use of profiles in Zowe Plug-ins
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
