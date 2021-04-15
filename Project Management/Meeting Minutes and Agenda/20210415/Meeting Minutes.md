@@ -26,6 +26,8 @@ Agenda Items
       - Use getProfileNameForRequest to check SAF query access internally
       - Implement RBAC in ZSS
     - API Mediation Layer & Security (Elliot)  
+      - SaveZosmfPublicKeyConsoleApplication may fail with self-signed z/OSMF certificate #1334
+      - Upgrade Spring Boot to supported version #1352  
     - CLI (MikeB)
       - Zowe CLI - [JCL Symbolic Substitution Support](https://github.com/zowe/zowe-cli/pull/993)
       - Reviewing use of profiles in Zowe Plug-ins
