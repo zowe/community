@@ -27,11 +27,12 @@ Agenda Items
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
-        *
       - Performance & HA (Jack)
-        * 
     - Documentation (Michael Aimino)
-      -
+      - Preparing for v1.21.0 docs 
+      - Finalizing design of new Zowe doc site - [see the live prototype](https://zowe-docs.netlify.app/)
+      - Preparing a demo of Zowe Slack bot on next Architecture call (by an IBM contributor)  
+      - Reviewing and closing PRs 
 
 6. Legal Requirements
     - None
