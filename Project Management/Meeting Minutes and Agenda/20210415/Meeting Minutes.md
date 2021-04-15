@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
+      - Enhance app server storage API w/ destination parameter
+      - Use getProfileNameForRequest to check SAF query access internally
+      - Implement RBAC in ZSS
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Explorer (Jelly)
