@@ -8,7 +8,11 @@
 Complete Caching API including implementing another persistent solution beyond VSAM and validate high availability for the API ML.
 
 API ML Squad Plan:  
- 
+[Discovery service configuration key inconsistency #1358](https://github.com/zowe/api-layer/issues/1358)  
+[Spike: Deploy API ML in HA setup in external environment #1360](https://github.com/zowe/api-layer/issues/1360)  
+[Integrate the HA setup in our Integration Testing procedure #1361](https://github.com/zowe/api-layer/issues/1361)  
+[Properly handle redis reconnect error #1363](https://github.com/zowe/api-layer/issues/1363)  
+
 
 ## Improve testing for the API Mediation Layer both on & off platform  
 (in support of SECURITY theme)  
@@ -40,14 +44,28 @@ API ML Squad Plan:
 Risk:  
 We need to verify that the Marist environment can support AT-TLS tests. We will need support from Marist admins to do this. We know that this can be time-consuming and so this Issue could take multiple iterations to complete. This risk is mitigated from a paralell effort to test on internal environments.
 
-## Zowe API ML PW Change
+## Metrics for Zowe API ML 
 
 * [Metrics Dashboard for ML Services #820](https://github.com/zowe/api-layer/issues/820)  
-Allow Tyler, the Zowe API ML administator, to track the health and performance of the API ML.
-An initial Metrics Service to include basic monitoring information, relying heavily on pre-configuration given by Netflix Hystrix and Turbine.
+Onboard intern(s) so they can get started building the Metrics service in 21PI3.  
 
 API ML Squad Plan:  
- 
+[Create Metrics Service #1098](https://github.com/zowe/api-layer/issues/1098)  
+
+## Support Mainframe Password change  
+
+* [Support Mainframe Password change #1377](https://github.com/zowe/api-layer/issues/1377)  
+Facilitation and support for mainframe password changes originating from clients. Password change facility that can scale regardless of the security provider in place (z/OSMF, SAF Direct, etc).  
+
+API ML Squad Plan:  
+[Add possibility to change passwords via SAF #815](https://github.com/zowe/api-layer/issues/815)  
+
+## Sticky sessions for Zowe API ML services 
+
+Route user requests such that future requests from that user are routed to the same service instance as the original request.  
+
+API ML Squad Plan:  
+tbd
 
 ## Zowe / api-layer backlog management
 
