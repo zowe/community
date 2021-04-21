@@ -1,8 +1,8 @@
 # Contributing and roles
 
-This document explains roles within Zowe and the ways and requirements for contribution. 
+This document explains roles within Zowe and the ways and requirements for contribution.  
 
-The goal of the document is to outline key roles within Zowe with the guidance for the squads around the privileges associated with the roles. Each squad can update the privileges as needed. The exact structure and rules if changed will be in the CONTRIBUTING.md in the repositories belonging to the squad. 
+The goal of the document is to outline key roles within Zowe with the guidance for the squads around the privileges associated with the roles. Each squad can update the privileges as needed. Apart from the privileges the document also outlines general expectations for the roles if there are any. The exact structure and rules if changed will be in the CONTRIBUTING.md in the repositories belonging to the squad. 
 
 The roles will be reflected in Teams on the Zowe GitHub ([Github Teams](https://github.com/orgs/zowe/teams)). Each Squad will have a Committers, Contributors and Administrators teams.  
 
@@ -30,8 +30,11 @@ Everything Guest can do and on top of that:
 
 - Can review PRs
 - Edit issues and PRs (labels, closing)
-- Can submit blog posts for approval
-- Can submit videos for approval
+
+General expectations:
+
+- Behavior in line with the Code of Conduct
+- Communication around the created issues/PRs with the squad
 
 ### Committer
 
@@ -39,14 +42,17 @@ Contributors can become Committers via being voted into the role by Committers
 
 Everything Contributor can do and on top of that:
 
-- Can make branches
 - Can create releases
 - Can merge code
 - Can delete unprotected branches
-- Can approve blog posts
-- Can approve videos
-- Can update the website (the action of taking the latest branch and making it public, is this committer or admin?)
-- Can edit wikis
+- Can make branches
+- Can merge into the master branch if protected
+
+General expectations on top of the Contributor's one:
+
+- Regular attendance on squad meetings
+- Regular contributions
+- Active communication with the rest of the squad and TSC when needed
 
 ### Administrator
 
@@ -59,6 +65,10 @@ Everything Committer can do and on top of that:
 - Changing branch permissions
 - Changing github hooks
 - Changing repo status
+
+General expectations on top of the Committers one:
+
+- Regular attendance in the architecture calls
 
 ### Zowe administrators
 
