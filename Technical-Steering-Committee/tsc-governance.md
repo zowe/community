@@ -60,11 +60,15 @@ The quorum for voting outside the meeting is defined in the TSC charter. The vot
 
 ### Contested votes
 
-It is possible to vote again on any issue if any new concerns or knowledge arises. Anyone can raise the vote with the new information on why we should vote. 
+It is possible to vote again on any issue if any new concerns or knowledge arises. Anyone can raise the vote with the new information on why we should vote.
 
-In case there is a long term disagreement on a specific issue any party can bring in ZLC as advisory council to help us provide business context and mediate the discussion to reach conclusion. 
+### Escalation process
 
-If the ZLC mediation doesn't help the TSC members may reach out to the Chapter manager within LF to help mediate the resolution. 
+In case there is a long term disagreement on a specific issue any party can bring in ZLC as advisory council to help us provide business context and mediate the discussion to reach conclusion.  
+
+If the ZLC mediation doesn't help the TSC members may reach out to the Chapter manager within LF to help mediate the resolution.
+
+The PRINCIPLE.md will guide the TSC as well as other mediators in the understanding on what is the correct course of action. 
 
 ## Responsibilities
 
@@ -82,4 +86,4 @@ It is important to distinguish internal communication within project and externa
 
 In the context of the internal communication TSC is responsible for making sure that the communication is happening in public and that every member of the project has the option to join and express the opinion on the topic. 
 
-In the context of the external communication, the responsibility is to be shared between ZLC as the advisory council and TSC. The TSC is responsible for technology related communication with external stakeholders while we expect ZLC to ddrive the business communication with external stakeholders together with Zowe Ambassador select within the TSC. 
+In the context of the external communication, the responsibility is to be shared between ZLC as the advisory council and TSC. The TSC is responsible for technology related communication with external stakeholders while we expect ZLC to drive the business communication with external stakeholders together with Zowe Ambassador select within the TSC. 
