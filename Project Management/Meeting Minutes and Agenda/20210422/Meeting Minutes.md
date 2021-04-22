@@ -34,6 +34,10 @@ Agenda Items
       - Performance & HA (Jack)
         *
     - Documentation (Michael Aimino)
+      - Published a blog about Zowe.org refresh
+      - Completed doc setup for v1.21.0. 
+      - Reminder for squads: Plan to pull release notes on April 23. Finish reviewing CHANGELOGs by April 22.
+      - Completed homepage design for new Zowe docs UI. Check it out [here](https://zowe-docs.netlify.app/).
 
 6. Legal Requirements
     - None
