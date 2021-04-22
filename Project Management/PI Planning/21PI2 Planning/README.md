@@ -3,17 +3,23 @@
         <tr>
             <th colspan="5"><H1>21PI2 PI Planning</H1><br>
 
-Day 1 (Wednesday, April 28)\
-Zoom Meeting:
+Day 1\
+When: Wednesday, April 28th, 2021 (8:00am to 11:00am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/98719603097<br>
 Meeting Recording:<br><br>
 
-Day 2 (Thursday, April 29)\
-Zoom Meeting: br>
+Day 2\
+When: Thursday, April 29th, 2021 (9:00am to 10:30am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/92303296867<br>
 Meeting Recording:<br><br>
 
-Day 3 (Friday, April 30)\
-Zoom Meeting: <br>
-Meeting Recording: <br>
+Day 3\
+When: Friday, April 30th, 2021 (9:00am to 11:00am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/95922242426<br>
+Meeting Recording: <br><br>
 </th>
         </tr>
     </thead>
@@ -87,6 +93,9 @@ Squad vision<br>
 10:35 Squad Breakout 7
 - Documentation Squad
 
+10:50 Squad Breakout 8
+- Incubators - Zebra
+
 </td>
             <td>Squad Members, Stakeholders & Users
 
@@ -98,7 +107,7 @@ Squad vision<br>
         <tr>
             <td>Public Comment</td>
             <td>2021-04-28</td>
-            <td>10:50 AM</td>
+            <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -106,7 +115,7 @@ Squad vision<br>
         <tr>
             <td>Public Comment</td>
             <td>2021-04-28</td>
-            <td>11:00 AM</td>
+            <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
 <ul>
@@ -120,7 +129,7 @@ Squad vision<br>
             <tr>
                 <td>Public Comment</td>
                 <td>2021-04-28</td>
-                <td>11:00 AM</td>
+                <td>11:05 AM</td>
 <td>
 
 Squad Breakout 1
@@ -194,7 +203,7 @@ Squad Breakout 5
 <td>
 
 Squad Breakout 6
- - NONE
+ - Incubators
 
 </td>
                 <td></td>
@@ -227,7 +236,7 @@ Squad Breakout 6
         <tr>
             <td>Listen Only</td>
             <td>2021-04-29</td>
-            <td>8:05 AM</td>
+            <td>9:05 AM</td>
             <td>5 mins</td>
             <td>Opening Announcements</td>
     </tbody>
@@ -235,7 +244,7 @@ Squad Breakout 6
         <tr>
             <td>Listen Only</td>
             <td>2021-04-29</td>
-            <td>8:10 AM</td>
+            <td>9:10 AM</td>
 <td>Planning Adjustments</td>
             <td>Squad Members, Stakeholders & Users.
 
@@ -246,7 +255,7 @@ Begins with squads presenting any changes to planning scope and resources.
         <tr>
             <td>Public Comment</td>
             <td>2021-04-29</td>
-            <td>9:00 AM</td>
+            <td>10:00 AM</td>
 <td>Squad Breakouts<br>
 <br>
 Squad 1<br>
@@ -275,7 +284,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Public Comment</td>
             <td>2021-04-29</td>
-            <td>10:00 AM</td>
+            <td>11:00 AM</td>
   <td>
   Squad 4 Breakout<br>
   Systems Squad<br>
@@ -312,7 +321,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>8:00 AM</td>
+            <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
     </tbody>
@@ -320,30 +329,30 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>8:15 AM</td>
+            <td>9:15 AM</td>
 <td>
 Squad Final Readouts
 <br><br>
-8:15 Squad 1
+9:15 Squad 1
 
 - Zowe Explorer Squad
 
-8:30 Squad 2
+9:30 Squad 2
 - API ML Squad
 
-8:45 Squad 3
+9:45 Squad 3
 - Zowe CLI Squad
 
-9:00 Squad 4
+10:00 Squad 4
 - Systems Squad (includes CI-CD, HA, Performance
 
-9:15 Squad 5
+10:15 Squad 5
 - WebUI Squad
 
-9:30 Squad 6
+10:30 Squad 6
 - Onboarding Squad
 
-9:45 Squad 7
+10:45 Squad 7
 - Documentation Squad
 
 </td>
@@ -355,7 +364,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Public Comment</td>
             <td>2021-04-30</td>
-            <td>10:00 AM</td>
+            <td>11:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -363,7 +372,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td></td>
             <td>2021-04-30</td>
-            <td>10:15 AM</td>
+            <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
     </tbody>
@@ -371,7 +380,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>11:00 AM</td>
+            <td>12:00 PM</td>
             <td></td>
             <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
