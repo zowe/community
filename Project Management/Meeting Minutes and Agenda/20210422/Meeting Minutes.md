@@ -23,7 +23,7 @@ Agenda Items
     - Onboarding (Rose)
     - Core/Web/Editor (Nolan/James/Lenny)
       - Adding new features to ZFM such as upload files, folder and multi-view
-      - Fixed bug where editor couldnt read files with unkown extension
+      - Fixed bug where editor couldnt read files with unknown extension
       - Working with CI/CD to fix all issues with release
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
