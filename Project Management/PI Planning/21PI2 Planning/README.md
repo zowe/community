@@ -140,7 +140,7 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/98404818292
 
-Squad Breakout
+Squad Breakout 7
 - Zowe Doc Squad
 - Zoom Link: https://zoom.us/j/646062143
 </td>
@@ -203,6 +203,20 @@ Squad Breakout 5
 <td>
 
 Squad Breakout 6
+ - Onboarding
+
+</td>
+                <td></td>
+    </tbody>
+    </tbody>
+    <tbody>
+            <tr>
+                <td>Public Comment</td>
+                <td>2021-04-28</td>
+                <td>3:00 PM</td>
+<td>
+
+Squad Breakout 8
  - Incubators
 
 </td>
@@ -295,6 +309,19 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
     </tbody>
     <tbody>
         <tr>
+            <td>Public Comment</td>
+            <td>2021-04-29</td>
+            <td>12:00 PM</td>
+  <td>
+  Squad 8 Breakout<br>
+  Incubators Squad<br>
+  Zoom/Webex Link: <br>
+  Recordings: <br>
+  </td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
             <td></td>
             <td>2021-04-29</td>
             <td>5:00 PM</td>
@@ -354,6 +381,9 @@ Squad Final Readouts
 
 10:45 Squad 7
 - Documentation Squad
+
+11:00 Squad 8
+- Incubators
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
