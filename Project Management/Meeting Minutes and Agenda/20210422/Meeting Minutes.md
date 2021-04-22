@@ -28,6 +28,8 @@ Agenda Items
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Explorer (Jelly)
+      - v1.14.0 release
+      - Conformance Criteria Draft
     - Systems
       - CI/CD (Tom)
         *
