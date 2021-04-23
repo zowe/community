@@ -176,10 +176,9 @@ Squad Breakout 4
 - Zoom/Webex Link: <br>
 - Recordings: <br>
 
-- Onboarding Squad
-- Zoom/Webex Link:
-
-  </td>
+- Onboarding Squad 
+  - Zoom/Webex Link: https://zoom.us/j/94312528890
+</td>
                 <td></td>
     </tbody>
     <tbody>
