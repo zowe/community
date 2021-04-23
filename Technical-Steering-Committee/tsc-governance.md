@@ -19,14 +19,14 @@ It’s possible to remove a person from the role on the TSC. To do so two-thirds
 There are three key reasons to remove someone from TSC role: 
 
 1) The person can't do the role anymore and is either unwilling or unable to step down. 
-2) The person actively engages in actions against Zowe best interests.
-3) The person repeatably breaks the Code of Conduct and/or requirements on the role 
+2) The person engages in actions which are in conflict with Zowe's best interest.
+3) The person breaks the Code of Conduct and/or fails to meet requirements for the role.
 
 Examples:
 
 - The person leaves company and as such loses access to the communication channels due to them being linked to its company accounts. 
-- The person repeatably breaks the code of conduct by disciminating against members of the Zowe community
-- The person intentionally introduces problematic code within Zowe. Problematic may be for example a unapproved tracker sending user's data to some random server. 
+- The person breaks the code of conduct by discriminating against members of the Zowe community
+- The person intentionally introduces problematic code within Zowe. Problematic may be for example an unapproved tracker sending user's data to some random server. 
 
 ## Roles
 
