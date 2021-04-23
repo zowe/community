@@ -30,9 +30,12 @@ Agenda Items
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
-        *
+        * Continue on adding test stage for IP Explorer
+        * Prepare for RC
+        * Fix more issues related to JWT certificate, z/OSMF CA when using keyring (Jack)
+        * Improve KEYRING jcl (Nayer)
       - Performance & HA (Jack)
-        *
+        * Start to work on documentation
     - Documentation (Michael Aimino)
       - Published a blog about Zowe.org refresh
       - Completed doc setup for v1.21.0. 
