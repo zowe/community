@@ -3,8 +3,8 @@
 * Automatic Zowe CLI & SDK Configuration for API Mediation Layer users ([zowe/zowe-cli #892](https://github.com/zowe/zowe-cli/issues/892))
 * Conformance Program Update - validate potential v2 LTS conformance criteria with the community
 * Continue validation of `@next` features - simplified config & daemon mode (performance enhancement) & secure credential store being part of core CLI.
-* Validate Zowe CLI to work with Node 16 (Becomes LTS in October)
-* Publish `@next` content to the Zowe Technical Preview section on Zowe Downloads
+* Validate Zowe CLI to work with Node 16 (Becomes LTS in October) ([zowe/zowe-cli #1004](https://github.com/zowe/zowe-cli/issues/1004))
+* Publish `@next` content to the Zowe Technical Preview section on Zowe Downloads ([zowe/zowe-cli #1005](https://github.com/zowe/zowe-cli/issues/1005))
 * Upgrade migration utility to help users migrate to and adopt best practices of next major release ([zowe/zowe-cli #896](https://github.com/zowe/zowe-cli/issues/896))
 * *Address upvoted community enhancement requests & issues [Stretch]*
   * [Support the IBM z/OSMF header that allows record (support for VB binary)](https://github.com/zowe/zowe-cli/issues/539)
