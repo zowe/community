@@ -67,6 +67,15 @@ Route user requests such that future requests from that user are routed to the s
 API ML Squad Plan:  
 tbd
 
+## Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens 
+
+* [Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens #1390](https://github.com/zowe/api-layer/issues/1390)  
+Tyler / Zach is now enabled to open access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
+
+API ML Squad Plan:  
+tbd
+
+
 ## Zowe / api-layer backlog management
 
 * [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/21PI2)
