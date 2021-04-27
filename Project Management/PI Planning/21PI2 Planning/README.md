@@ -173,7 +173,7 @@ Squad Breakout 3
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: <br>
+- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
 - Recordings: <br>
 
 - Onboarding Squad
@@ -302,7 +302,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
   <td>
   Squad 4 Breakout<br>
   Systems Squad<br>
-  Zoom/Webex Link: <br>
+  Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
   Recordings: <br>
   </td>
             <td></td>
