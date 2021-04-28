@@ -140,9 +140,6 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/98404818292
 
-Squad Breakout 7
-- Zowe Doc Squad
-- Zoom Link: https://zoom.us/j/646062143
 </td>
 <td>Squad Breakouts
 <ul>
@@ -174,10 +171,10 @@ Squad Breakout 3
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
-- Recordings: <br>
 
-- Onboarding Squad
-- Zoom/Webex Link:
+Squad Breakout 6
+- Onboarding Squad  
+ - Zoom/Webex Link: https://zoom.us/j/94312528890
 
   </td>
                 <td></td>
@@ -202,19 +199,6 @@ Squad Breakout 5
                 <td>3:00 PM</td>
 <td>
 
-Squad Breakout 6
- - Onboarding
-
-</td>
-                <td></td>
-    </tbody>
-    </tbody>
-    <tbody>
-            <tr>
-                <td>Public Comment</td>
-                <td>2021-04-28</td>
-                <td>3:00 PM</td>
-<td>
 
 Squad Breakout 8
  - Incubators
