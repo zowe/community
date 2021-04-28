@@ -4,7 +4,7 @@
 ## High-availability support implementation
 
 * [API ML Squad Issue: Support for high availability / sysplex distributor in API Mediation Layer #705](https://github.com/zowe/api-layer/issues/705)  
-Complete Caching API including implementing another persistent solution beyond VSAM and validate high availability for the API ML.
+Validate high availability for the API ML in time for Zowe 1.22. Explore Redis as an alternative to VSAM as an on-z persistent solution for the caching service.
 
 API ML Squad Plan:  
 [Discovery service configuration key inconsistency #1358](https://github.com/zowe/api-layer/issues/1358)  
@@ -25,7 +25,7 @@ API ML Squad Plan:
 ## Configurable deterministic routing
 
 * [Configurable deterministic routing #1378](https://github.com/zowe/api-layer/issues/1378)  
-Deterministic routing for user requests, where each request with a user ID goes to the same service instance it originally was routed to. Additionally, a configurable limit for the number of users each instance can handle.
+Currently, the API ML gateway balances workloads in a round robin fashion. However, some services want to handle user requests from the same instance of that service. Deterministic routing for user requests, where each request with a user ID goes to the same service instance to which it was originally routed. Additionally, there should be a configurable limit for the number of users each instance can handle.
 
 API ML Squad Plan:  
 [Configurable deterministic routing #1378](https://github.com/zowe/api-layer/issues/1378)  
@@ -47,7 +47,9 @@ API ML Squad Plan:
 ## Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens
 
 * [Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens #1390](https://github.com/zowe/api-layer/issues/1390)  
-Tyler / Zach is now enabled to open access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
+Provide access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
+  - presents an opportunity to unify the authentication mechanism southbound of the API ML Gateway  
+  - for use cases that combine API ML and standalone routed services so SAF IDT is an immediate solution for this 
 
 API ML Squad Plan:  
 [Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens #1390](https://github.com/zowe/api-layer/issues/1390)  
