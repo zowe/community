@@ -7,7 +7,7 @@
 Create a well-defined and documented extensibility conformance rules for extenders.
 
 ZE Squad Plan:  
-- [Create a best prctice documentation for error handling #1292](https://github.com/zowe/vscode-extension-for-zowe/issues/1292)  
+- [Create a best practice documentation for error handling #1292](https://github.com/zowe/vscode-extension-for-zowe/issues/1292)  
 - [Document code samples that supports the Zowe Explorer Conformance Criteria #672](https://github.com/zowe/vscode-extension-for-zowe/issues/672)
 - [Secure Credential Support for Extenders #1161](https://github.com/zowe/vscode-extension-for-zowe/issues/1161)
 - Extension Friendly Activation
@@ -29,7 +29,6 @@ Validate the conformance criteria checklist with the community.
 ZE Squad Plan:  
 - Meet with community to validate and inform them about the v1 conformance checklist.
 - Meet with Linux foundation and validate the conformance criteria
-- Add the Zowe Explorer Team Config version in Zowe Technical Preview page
 
   
 ## Support the Team Configuration file in Zowe Explorer
@@ -40,6 +39,7 @@ Continue the development work for the team configuration file in Zowe Explorer
 ZE Squad Plan:  
 - [Support working with project level config #1287](https://github.com/zowe/vscode-extension-for-zowe/issues/1287)
 - [Make a team config profilesCache #1293](https://github.com/zowe/vscode-extension-for-zowe/issues/1293)
+- Add the Zowe Explorer Team Config version in Zowe Technical Preview page
 - [Stretch] [Implement `zowe config secure` to store credentials #1288](https://github.com/zowe/vscode-extension-for-zowe/issues/1288)
 - [Stretch] [Implement `zowe config init` to generate a configuration file #1289](https://github.com/zowe/vscode-extension-for-zowe/issues/1289)
 
@@ -57,7 +57,5 @@ ZE Squad Plan:
 
 # CICS VSCode Extension Objectives
 
-* Get feedback and review from the community on the current functionality of the CICS VSC extension
-* Advertise the extension through blogs, videos and conferences
-* Include sample code in the repository for "Hello World" of COBOL
-* Present the extension to the OMP COBOL Course and gather feedback.
+* Get feedback and review from the community, including the OMP Cobol Course, on the current functionality of the extension
+* Advertise the extension through blogs, videos and conferences.
