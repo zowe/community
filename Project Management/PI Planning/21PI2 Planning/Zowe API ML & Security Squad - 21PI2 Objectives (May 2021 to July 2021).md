@@ -44,10 +44,10 @@ API ML Squad Plan:
 [move e2e tests on stable environment #1187](https://github.com/zowe/api-layer/issues/1187)  
 
 
-## Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens
+## SPIKE Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens
 
 * [Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens #1390](https://github.com/zowe/api-layer/issues/1390)  
-Provide access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
+RESEARCH how to provide access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
   - presents an opportunity to unify the authentication mechanism southbound of the API ML Gateway  
   - for use cases that combine API ML and standalone routed services so SAF IDT is an immediate solution for this 
 
