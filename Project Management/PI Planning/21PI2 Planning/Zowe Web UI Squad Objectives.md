@@ -102,8 +102,9 @@ Proposal: Use ACL as a way to grant particular users access to instance without 
 
 Status: Investigating end-user needs and comfort with proposals
 
-## Optimistic Locking
-Goal: Enable the Desktop Editor to write datasets with less lock time and network chatter between Desktop and ZSS by developing an optimistic lock-type alternative to the pessimistic locking above
+## Dynamic (runtime) [compression](https://github.com/zowe/zlux/issues/657) of REST API data (ZSS)
+
+Goal: Enable compression for zss REST API in response to header `Accept-Encoding: gzip`, and serve compressed response for GET unix file content and dataset content rest apis only.
 
 Status: Not started
 
