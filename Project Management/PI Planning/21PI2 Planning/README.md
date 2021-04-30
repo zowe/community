@@ -7,19 +7,19 @@ Day 1\
 When: Wednesday, April 28th, 2021 (8:00am to 11:00am)<br>
 (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/98719603097<br>
-Meeting Recording:<br><br>
+[Meeting Recording](https://zoom.us/rec/share/dMkeuYnA14PXsKCU-0Qfygwm6GMJ47KZMxrH1AZWdc34qV2JbuFYHxYINZLB-akz.AtnmfJOS5-cp7qPv?startTime=1619610256000)<br><br>
 
 Day 2\
 When: Thursday, April 29th, 2021 (9:00am to 10:30am)<br>
 (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/92303296867<br>
-Meeting Recording:<br><br>
+[Meeting Recording](https://zoom.us/rec/share/Zy7cS3FNq0iH_CyG9DP8tUZcIgKEgELi1vu1HR4DBqnMc63M5cxFPOrZpa1sJrRb.re-q7fPEamzcdqKs?startTime=1619700712000)<br><br>
 
 Day 3\
 When: Friday, April 30th, 2021 (9:00am to 11:00am)<br>
 (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/95922242426<br>
-Meeting Recording: <br><br>
+[Meeting Recording](https://zoom.us/rec/share/w_2nxPmW0hP3IKU9Zwr_JiCngU9Mcs6E7bBPXo8HrBtzqAXnKHoInRUmC1bePuMG.TF6XYilWLOcQk-K9?startTime=1619787133000) <br><br>
 </th>
         </tr>
     </thead>
