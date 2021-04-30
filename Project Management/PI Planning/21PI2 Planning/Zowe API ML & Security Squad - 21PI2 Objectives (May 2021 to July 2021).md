@@ -7,7 +7,7 @@
 Validate high availability for the API ML in time for Zowe 1.22. Explore Redis as an alternative to VSAM as an on-z persistent solution for the caching service.
 
 API ML Squad Plan:  
-[Discovery service configuration key inconsistency #1358](https://github.com/zowe/api-layer/issues/1358)  
+[HA: Caching API - POC of Redis - On-platform #1192](https://github.com/zowe/api-layer/issues/1192)  
 [Spike: Deploy API ML in HA setup in external environment #1360](https://github.com/zowe/api-layer/issues/1360)  
 [Integrate the HA setup in our Integration Testing procedure #1361](https://github.com/zowe/api-layer/issues/1361)  
 [Properly handle redis reconnect error #1363](https://github.com/zowe/api-layer/issues/1363)  
@@ -20,6 +20,8 @@ Facilitation and support for mainframe password changes originating from clients
 
 API ML Squad Plan:  
 [Add possibility to change passwords via SAF #815](https://github.com/zowe/api-layer/issues/815)  
+[Add support to change password via zOSMF #1418](https://github.com/zowe/api-layer/issues/1418)  
+[Add support for changing the password using ZSS #1419](https://github.com/zowe/api-layer/issues/1419)
 
   
 ## Configurable deterministic routing
@@ -28,7 +30,12 @@ API ML Squad Plan:
 Currently, the API ML gateway balances workloads in a round robin fashion. However, some services want to handle user requests from the same instance of that service. Deterministic routing for user requests, where each request with a user ID goes to the same service instance to which it was originally routed. Additionally, there should be a configurable limit for the number of users each instance can handle.
 
 API ML Squad Plan:  
-[Configurable deterministic routing #1378](https://github.com/zowe/api-layer/issues/1378)  
+[Implement deterministic routing for one Gateway instance #1420](https://github.com/zowe/api-layer/issues/1420)  
+[Add instance user limits for deterministic routing #1421](https://github.com/zowe/api-layer/issues/1421)  
+[Support deterministic routing in HA setup #1412](https://github.com/zowe/api-layer/issues/1412)  
+[Spike: Investigate and document performance of deterministic routing in HA setup #1413](https://github.com/zowe/api-layer/issues/1413)  
+[Configurable user limitation behaviour for deterministic routing #1422](https://github.com/zowe/api-layer/issues/1422)  
+[Make deterministic routing load balancing behaviour configurable.#1423](https://github.com/zowe/api-layer/issues/1423)
 
 
 ## Improve testing for the API Mediation Layer both on & off platform
@@ -37,17 +44,19 @@ API ML Squad Plan:
 Increase confidence in the API ML by improving: build stability, developer experience, reliability of codebase  
 
 API ML Squad Plan:  
-[Enhance Integration test suite #1313](https://github.com/zowe/api-layer/issues/1313)  
+[Integration test cleanup #1417](https://github.com/zowe/api-layer/issues/1417)  
 [Enhance our higher order test suites #1332](https://github.com/zowe/api-layer/issues/1332)  
-[Tests for platform dependent code #1333](https://github.com/zowe/api-layer/issues/1333)  
+[Faster startup of services for testing #1415](https://github.com/zowe/api-layer/issues/1415)  
+[Test parallelization #1416](https://github.com/zowe/api-layer/issues/1416)  
+[Isolate platform dependent code into library #1424](https://github.com/zowe/api-layer/issues/1424)  
 [Flaky test ApiCatalogEndpointIntegrationTest #1342](https://github.com/zowe/api-layer/issues/1342)  
 [move e2e tests on stable environment #1187](https://github.com/zowe/api-layer/issues/1187)  
 
 
-## Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens
+## SPIKE Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens
 
 * [Zowe API ML to adopt and surface ESM's consolidated SAF Identity tokens #1390](https://github.com/zowe/api-layer/issues/1390)  
-Provide access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
+RESEARCH how to provide access to Zowe Conformant APIs via Zowe API ML using SAF Identity JWTs that are issued, validated, and managed directly by z/OS (ESM SAF).  
   - presents an opportunity to unify the authentication mechanism southbound of the API ML Gateway  
   - for use cases that combine API ML and standalone routed services so SAF IDT is an immediate solution for this 
 
@@ -64,10 +73,6 @@ API ML Squad Plan:
 [Possibility to switch between AT-TLS and application TLS #1346](https://github.com/zowe/api-layer/issues/1346)  
 [AT_TLS aware Gateway #1347](https://github.com/zowe/api-layer/issues/1347)  
 [AT-TLS aware Discovery service #1348](https://github.com/zowe/api-layer/issues/1348)  
-[AT-TLS aware caching service #1349](https://github.com/zowe/api-layer/issues/1349)   
-
-Risk:  
-We need to verify that the Marist environment can support AT-TLS tests. We will need support from Marist admins to do this. We know that this can be time-consuming and so this Issue could take multiple iterations to complete. This risk is mitigated from a paralell effort to test on internal environments.  
 
 
 ## Metrics for Zowe API ML

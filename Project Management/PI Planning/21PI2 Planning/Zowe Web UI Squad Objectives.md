@@ -36,13 +36,6 @@ Goal: Enable the Desktop Editor to write datasets by enhancing ZSS with a datase
 
 Status: Major progress made within the last PI, including a general purpose ZSS plugin enhancement, but some technical challenges that would cause bugs remain.
 
-## Optimistic Locking
-Goal: Enable the Desktop Editor to write datasets with less lock time and network chatter between Desktop and ZSS by developing an optimistic lock-type alternative to the pessimistic locking above
-
-Status: Not started
-
-Note: Last modification needs to be tracked for success, but when not known by system metadata, hashing may be needed. If a dataset is large, hashing is expensive if an action like delete or read was to be performed. Is there a performance compromise that can be made?
-
 ## ZIS Plugin Install Improvement
 Problems:
 * Installation currently done by script not in instance directory (same problem for component install)
@@ -60,27 +53,10 @@ Proposal:
 
 Status: Not started
 
-## STC-only permissions accomodation
-Problem: Some end-users report requirements for the ZWESVSTC user to not belong to any group that TSO users are in. This conflicts with how Zowe instances work under USS. Users may take matters into their own hands by reassigning USS permissions to the STC user, only to later complicate config & component installation due to nothing but STC and root being able to access files.
-
-Proposal: Use ACL as a way to grant particular users access to instance without using groups. Ship a sample JCL to make ACL assignment easy and understandable.
-
-Status: Investigating end-user needs and comfort with proposals
-
 ## Improve ZSS Test Coverage [#571](https://github.com/zowe/zlux/issues/571)
 Goal: Keep testbed effective by adding more automated tests for ZSS APIs since recent API additions & enhancements have some harder to test issues like testing against timing & contention
 
 Status: Not started
-
-## Contributing Guidelines [#630](https://github.com/zowe/zlux/issues/630)
-Goal: Have contributation guidelines that cover subjects such as...
-* How to interact with our squad
-* How to make a good pull request, and help your code get merged easily
-* Code guidelines, such as naming conventions, folder conventions, syntax conventions
-* Codebase principles, such as how to go about adding libraries, and what makes for a good API
-* Build & Test guidelines, such as where to find them and how to run them
-
-Status: In progress, evaluated other squad's guidelines and integrating our own.
 
 ## app-server & app CICD improvements
 Goal: Have build logic that is easier to track changes on, easier to use, and remains automated by PR opening
@@ -101,17 +77,46 @@ Status: In progress, tasks remain such as...
 * Publicity like a blog or a video
 
 
-## App2App Improvements [#581](https://github.com/zowe/zlux/issues/581)
+## App2App Improvements [#490](https://github.com/zowe/zlux/issues/490) [#581](https://github.com/zowe/zlux/issues/581)
 Goal: Leverage Desktop App2App capability by adding more uses of it in Desktop
 
 v2Status: Investigation in progress, which apps should interact with others and how?
+
+# Stretch
+Below are tasks we would like to do, but may not finish in this PI.
+
+## Contributing Guidelines [#630](https://github.com/zowe/zlux/issues/630)
+Goal: Have contributation guidelines that cover subjects such as...
+* How to interact with our squad
+* How to make a good pull request, and help your code get merged easily
+* Code guidelines, such as naming conventions, folder conventions, syntax conventions
+* Codebase principles, such as how to go about adding libraries, and what makes for a good API
+* Build & Test guidelines, such as where to find them and how to run them
+
+Status: In progress, evaluated other squad's guidelines and integrating our own.
+
+## STC-only permissions accomodation
+Problem: Some end-users report requirements for the ZWESVSTC user to not belong to any group that TSO users are in. This conflicts with how Zowe instances work under USS. Users may take matters into their own hands by reassigning USS permissions to the STC user, only to later complicate config & component installation due to nothing but STC and root being able to access files.
+
+Proposal: Use ACL as a way to grant particular users access to instance without using groups. Ship a sample JCL to make ACL assignment easy and understandable.
+
+Status: Investigating end-user needs and comfort with proposals
+
+## Dynamic (runtime) [compression](https://github.com/zowe/zlux/issues/657) of REST API data (ZSS)
+
+Goal: Enable compression for zss REST API in response to header `Accept-Encoding: gzip`, and serve compressed response for GET unix file content and dataset content rest apis only.
+
+Status: Not started
+
+Note: Last modification needs to be tracked for success, but when not known by system metadata, hashing may be needed. If a dataset is large, hashing is expensive if an action like delete or read was to be performed. Is there a performance compromise that can be made?
+
 
 ## Zowe V2 [List](https://github.com/zowe/community/issues/924#issuecomment-811950045)
 Goal: Begin work on items determined to be needed for Zowe V2, if V2 timeline requires work to be started in this PI
 
 Status: Not started
 
-## How to get involved
+# How to get involved
 ### Other tasks
 The Web UI squad has more ideas than listed here, and can be seen at our [github issue page](github.com/zowe/zlux/issues). Several issues are listed as *Help Wanted*, as well as *Good First Issue*
 
@@ -119,4 +124,3 @@ The Web UI squad has more ideas than listed here, and can be seen at our [github
 Please find us in the #zowe-dev slack if you wish to become involved!
 
 Join us every Friday at 9am EST on Zoom at https://zoom.us/j/99494243697 where we give weekly standup, demos, and discussions.
-

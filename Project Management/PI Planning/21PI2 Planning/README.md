@@ -305,6 +305,19 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
             <td></td>
     </tbody>
     <tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2021-04-29</td>
+            <td>1:00 PM</td>
+  <td>
+  ZLC Breakout<br>
+  Zoom/Webex Link: https://zoom.us/j/935375531 <br>
+  Recordings: <br>
+  </td>
+            <td></td>
+    </tbody>
+    <tbody>
         <tr>
             <td></td>
             <td>2021-04-29</td>
@@ -423,4 +436,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 1 - We're planning to fail.  
 
-[Completed Confidence Vote]()
+[Confidence Vote](https://www.surveymonkey.com/r/M2L6VCL)
