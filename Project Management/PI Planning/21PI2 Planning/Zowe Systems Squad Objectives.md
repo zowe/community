@@ -1,16 +1,19 @@
 # Zowe Systems Squad - 21PI2 Objectives (May 2021 to July 2021)
 
+Final Plan Notes:
+- We will work the "Install without z/OSMF" story this PI
+- We will work on z/OS 2.4 testing, if the system is available
+- We will _not_ work on Sysplex Automated testing this PI.
+
 ## High Availability 
 
 ### Enable Zowe HA in Sysplex Configuration
 
 * [Continued - HA Documentation](https://github.com/zowe/docs-site/issues/1086)
-* [Setup Virtual Sysplex on Marist and enable automated testing](https://github.com/zowe/zowe-install-packaging/issues/1479)
 
 ### Test Cases for Zowe HA Solution
 
 * [Continued - Manual test cases](https://github.com/zowe/zowe-install-packaging/issues/1476)
-* [Automated test cases](https://github.com/zowe/zowe-install-packaging/issues/1476)
 
 ##### Dependency: Squads fixing bugs we uncover with tests
 
@@ -33,7 +36,6 @@
 * [Enable v2.4 Tests - RACF](https://github.com/zowe/zowe-install-packaging/issues/1397)
 
 
-
 ## Install and Configuration 
 
 * [Zowe PSI Support](https://github.com/zowe/zowe-install-packaging/issues/1174)
@@ -50,12 +52,16 @@
 
 POC, Research, Design Phase
 
-* [Build Kubernetes Infrastructure for the Community](make-an-issue)
-* [Research Zowe on Kubernetes](make-an-issue)
+* [Build Kubernetes Infrastructure for the Community](https://github.com/zowe/zowe-install-packaging/issues/2132)
+* [Research Zowe on Kubernetes](https://github.com/zowe/zowe-install-packaging/issues/2133)
     - POC, Container Definitions, Kubernetes Definitions
     - Requires input from squads as we design / progress
 
+## Not in plan
 
-### Risks
+* [Setup Virtual Sysplex on Marist and enable automated testing](https://github.com/zowe/zowe-install-packaging/issues/1479)
+* [Automated test cases](https://github.com/zowe/zowe-install-packaging/issues/1476)
+
+#### Risks
 
 * Marist capacity. Impacts: Open HA automation. Mitigation: manual HA tests can be run on ISV-internal systems.
