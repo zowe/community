@@ -6,6 +6,8 @@
 * Validate Zowe CLI to work with Node 16 (Becomes LTS in October) ([zowe/zowe-cli #1004](https://github.com/zowe/zowe-cli/issues/1004))
 * Publish `@next` content to the Zowe Technical Preview section on Zowe Downloads ([zowe/zowe-cli #1005](https://github.com/zowe/zowe-cli/issues/1005))
 * Upgrade migration utility to help users migrate to and adopt best practices of next major release ([zowe/zowe-cli #896](https://github.com/zowe/zowe-cli/issues/896))
+* **(Newly Added)** Move secure properties into the profiles that they're associated with
+* **(Newly Added)** Onboarding the Kotlin SDKs/IntelliJ plug-in
 * *Address upvoted community enhancement requests & issues [Stretch]*
   * [Support the IBM z/OSMF header that allows record (support for VB binary)](https://github.com/zowe/zowe-cli/issues/539)
   * [Zowe Generate](https://github.com/zowe/zowe-cli/issues/725)
@@ -13,3 +15,10 @@
   * [IZosFilesResponse in SDK Refers to Commands](https://github.com/zowe/zowe-cli/issues/865)
   * [Ability to show values that are being used for a particular command](https://github.com/zowe/zowe-cli/issues/870)
   * [IssueTso.issueTsoCommand incomplete response / data loss](https://github.com/zowe/zowe-cli/issues/690)
+
+
+* ***Dependencies:**
+  * - Onboarding - conformance program update
+  * - Dependency on team responsible for posting items to the technical preview site
+* ***Risks:**
+  * - May require more capacity for onboarding Kotlin SDK/Intellij plug-in team and mentor program
