@@ -22,6 +22,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (James/Lenny/Nolan)
+      - Update Sample App w/ test for Storage API (App server)
+      - Fix Polaris issues
+      - Jenkins improvements 
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Explorer (Jelly)
