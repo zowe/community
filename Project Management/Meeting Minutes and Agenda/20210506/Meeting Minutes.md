@@ -18,31 +18,22 @@ Agenda Items
 2. TSC Updates (Jakub)
 3. Current Release and Build Status (Tom/Jack)
 4. Plan
-     - Discuss the v1.21.0 Release
+     - Discuss the v1.22.0 Release
 5. Squad Status:
     - Onboarding (Rose)
-    - Core/Web/Editor (Nolan/James/Lenny)
-      - Adding new features to ZFM such as upload files, folder and multi-view
-      - Fixed bug where editor couldnt read files with unknown extension
-      - Working with CI/CD to fix all issues with release
+    - Core/Web/Editor (James/Lenny/Nolan)
+      - Update Sample App w/ test for Storage API (App server)
+      - Fix Polaris issues
+      - Jenkins improvements 
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Explorer (Jelly)
-      - v1.14.0 release
-      - Conformance Criteria Draft
     - Systems
       - CI/CD (Tom)
-        * Continue on adding test stage for IP Explorer
-        * Prepare for RC
-        * Fix more issues related to JWT certificate, z/OSMF CA when using keyring (Jack)
-        * Improve KEYRING jcl (Nayer)
+        *
       - Performance & HA (Jack)
-        * Start to work on documentation
+        *
     - Documentation (Michael Aimino)
-      - Published a blog about Zowe.org refresh
-      - Completed doc setup for v1.21.0. 
-      - Reminder for squads: Plan to pull release notes on April 23. Finish reviewing CHANGELOGs by April 22.
-      - Completed homepage design for new Zowe docs UI. Check it out [here](https://zowe-docs.netlify.app/).
 
 6. Legal Requirements
     - None
