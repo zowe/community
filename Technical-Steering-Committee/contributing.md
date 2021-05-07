@@ -4,7 +4,7 @@ This document explains roles within Zowe and the ways and requirements for contr
 
 The goal of the document is to outline key roles within Zowe with the guidance for the squads around the privileges associated with the roles. Each squad can update the privileges as needed. Apart from the privileges the document also outlines general expectations for the roles if there are any. The exact structure and rules if changed will be in the CONTRIBUTING.md in the repositories belonging to the squad. 
 
-The main source of the truth for who is committer for the project will be [COMMITTERS.md](https://github.com/zowe/community/blob/master/COMMITTERS.md).The roles will be reflected in Teams on the Zowe GitHub ([Github Teams](https://github.com/orgs/zowe/teams)) for squads where it's appropriate. Each Squad will have a Committers, Contributors and Administrators teams.
+The main source of the truth for who is committer and administrator for the project will be [COMMITTERS.md](https://github.com/zowe/community/blob/master/COMMITTERS.md).The roles will be reflected in Teams on the Zowe GitHub ([Github Teams](https://github.com/orgs/zowe/teams)) for squads where it's appropriate. Each Squad will have a Committers, Contributors and Administrators teams.
 
 This document focuses on code related privileges. Some squads may have different requirements and rights for different members. From the perspective of the project the key distinction is between the committers and contributors as if there is a vote on any topic the committers have vote while contributors don't.
 
@@ -77,6 +77,8 @@ General expectations on top of the Committers one:
 Selected by TSC. Needs to be voted to the position. The zowe wide administrator will have the Administrator privileges for all Zowe repositories. 
 
 We intend to keep this role limited to as few as possible people. Anyone voted to the role will be voted for the year term. The term can be shortened by either the person stepping down or by the TSC voting to shorten the term. 
+
+Any TSC member can nominate a person to be added to this group via announcing the information on the #zowe-tsc Slack channel. The person nominating needs to explain why the specific person should have the access. The TSC then votes either via Slack or during the standard call on whether the person will become Zowe administrator.
 
 The Open Mainframe Project and Linux Foundation may also appoint people to these roles. Procedures that will allow them to do so are under their governance. 
 
