@@ -49,6 +49,7 @@ Gateway that acts as a reverse proxy for z/OS services, together with a catalog 
 * https://github.com/zowe/explorer-api-common - Common explorer API components.
 * https://github.com/zowe/data-sets - The Spring Boot based data set APIs.
 * https://github.com/zowe/jobs - The Spring Boot based Jobs APIs.
+* https://github.com/zowe/common-java - Java library for the zOS dependant functions
 
 #### Zowe CLI
 
