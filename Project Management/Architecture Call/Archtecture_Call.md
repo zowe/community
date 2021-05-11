@@ -1,6 +1,7 @@
 # Architecture Call Recordings
 
 [05-11-2021](https://zoom.us/rec/share/ilTMfJYuFdqtY7gFcRiyWWxZts5bbBWYN3I1aik_VRB77C6hBPSCbKo0OTNk_UdQ.JpK50uFk3BUrq_i4?startTime=1620741260000) SMP/E RECEIVE ORDER, z/OSMF portable software instances
+- [RECEIVE ORDER and the Automated Service Request Server Interface](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/SMPE%20ReceiveOrder%20ServerInterface.pdf)
 
 [05-05-2021](https://zoom.us/rec/share/IhaHsq_MumVcmqhqfYIx7tJu-vHHLLXQV-sq2aPVocxES40MFb6Xn7WP26CZNtd6.UH2xedMj8Hxlithk?startTime=1620136775000)
 
