@@ -31,7 +31,7 @@ Agenda Items
     - Explorer (Jelly)
     - Systems
       - CI/CD (Tom)
-        *
+        Explorer-ip pipeline - blocked by testing script due to insufficient permissions.
       - Performance & HA (Jack)
         *
     - Documentation (Michael Aimino)
