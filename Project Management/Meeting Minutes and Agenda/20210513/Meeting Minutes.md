@@ -23,6 +23,9 @@ Agenda Items
 5. Squad Status:
     - Onboarding (Rose)
     - Core/Web/Editor (James/Lenny/Nolan)
+      - Implementing RBAC in ZSS
+      - Enhance plugin pipeline for ZSS plugins etc.
+      - Expose both storage APIs to ZSS dataservices
     - API Mediation Layer & Security (Elliot)  
     - CLI (MikeB)
     - Explorer (Jelly)
