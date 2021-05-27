@@ -1,5 +1,12 @@
 # Architecture Call Recordings
 
+[05-11-2021](https://zoom.us/rec/share/ilTMfJYuFdqtY7gFcRiyWWxZts5bbBWYN3I1aik_VRB77C6hBPSCbKo0OTNk_UdQ.JpK50uFk3BUrq_i4?startTime=1620741260000) SMP/E RECEIVE ORDER, z/OSMF portable software instances
+- [RECEIVE ORDER and the Automated Service Request Server Interface](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/SMPE%20ReceiveOrder%20ServerInterface.pdf)
+
+[05-05-2021](https://zoom.us/rec/share/IhaHsq_MumVcmqhqfYIx7tJu-vHHLLXQV-sq2aPVocxES40MFb6Xn7WP26CZNtd6.UH2xedMj8Hxlithk?startTime=1620136775000)
+
+[04-20-2021](https://zoom.us/rec/share/4RQrzsRPqAA2cjUhWf7MFHOdka7lu_qi9uuQA46jEgZ6glqDZwBC_PX32kEdJWFk.22uKwi0tkuZPVA23?startTime=1618926952000) (1) Zowe Slack bot and its technology (Watson Assistant and Watson Discovery) and give a demo of the bot. (2) Discussing the support of the SAF IDT token.
+
 [03-16-2021](https://zoom.us/rec/share/vyHSxX-bSM7Q9vtdxiVK7H-_4PyOIcetW78LImyuBkvB3AIQCyKnmsqM8W-vqWcs.3lUMvyEY9AyceyTX?startTime=1615903089000) Caching and Redis Discussion
 
 [03-09-2021](https://zoom.us/rec/share/UURHgWSYqPQfdgETz00JS95JOhH_BmLsMqe-6EmNkRNgIC-CIcs3zsjHkXd9eWE7.qffVFIjCIfSV8fBL?startTime=1615301831000) Yaml File Discussions and WebUI in Sysplex environments

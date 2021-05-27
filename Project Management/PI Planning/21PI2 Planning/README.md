@@ -3,17 +3,25 @@
         <tr>
             <th colspan="5"><H1>21PI2 PI Planning</H1><br>
 
-Day 1 (Wednesday, April 28)\
-Zoom Meeting:
-Meeting Recording:<br><br>
+Day 1\
+When: Wednesday, April 28th, 2021 (8:00am to 11:00am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/98719603097<br>
+[Meeting Recording](https://zoom.us/rec/share/dMkeuYnA14PXsKCU-0Qfygwm6GMJ47KZMxrH1AZWdc34qV2JbuFYHxYINZLB-akz.AtnmfJOS5-cp7qPv?startTime=1619610256000)<br><br>
 
-Day 2 (Thursday, April 29)\
-Zoom Meeting: br>
-Meeting Recording:<br><br>
+Day 2\
+When: Thursday, April 29th, 2021 (9:00am to 10:30am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/92303296867<br>
+[Meeting Recording](https://zoom.us/rec/share/Zy7cS3FNq0iH_CyG9DP8tUZcIgKEgELi1vu1HR4DBqnMc63M5cxFPOrZpa1sJrRb.re-q7fPEamzcdqKs?startTime=1619700712000)<br><br>
 
-Day 3 (Friday, April 30)\
-Zoom Meeting: <br>
-Meeting Recording: <br>
+Day 3\
+When: Friday, April 30th, 2021 (9:00am to 11:00am)<br>
+(UTC-04:00) Eastern Time - New York (EDT)<br>
+Zoom Meeting: https://zoom.us/j/95922242426<br>
+[Meeting Recording](https://zoom.us/rec/share/w_2nxPmW0hP3IKU9Zwr_JiCngU9Mcs6E7bBPXo8HrBtzqAXnKHoInRUmC1bePuMG.TF6XYilWLOcQk-K9?startTime=1619787133000) <br><br>
+
+
 </th>
         </tr>
     </thead>
@@ -87,6 +95,9 @@ Squad vision<br>
 10:35 Squad Breakout 7
 - Documentation Squad
 
+10:50 Squad Breakout 8
+- Incubators - Zebra
+
 </td>
             <td>Squad Members, Stakeholders & Users
 
@@ -98,7 +109,7 @@ Squad vision<br>
         <tr>
             <td>Public Comment</td>
             <td>2021-04-28</td>
-            <td>10:50 AM</td>
+            <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -106,7 +117,7 @@ Squad vision<br>
         <tr>
             <td>Public Comment</td>
             <td>2021-04-28</td>
-            <td>11:00 AM</td>
+            <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
 <ul>
@@ -120,7 +131,7 @@ Squad vision<br>
             <tr>
                 <td>Public Comment</td>
                 <td>2021-04-28</td>
-                <td>11:00 AM</td>
+                <td>11:05 AM</td>
 <td>
 
 Squad Breakout 1
@@ -131,9 +142,6 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/98404818292
 
-Squad Breakout
-- Zowe Doc Squad
-- Zoom Link: https://zoom.us/j/646062143
 </td>
 <td>Squad Breakouts
 <ul>
@@ -151,7 +159,7 @@ Squad Breakout
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link:
+- Zoom/Webex Link: https://zoom.us/j/99891777715
 </td>
                 <td></td>
     </tbody>
@@ -164,11 +172,11 @@ Squad Breakout 3
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link: <br>
-- Recordings: <br>
+- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
 
-- Onboarding Squad
-- Zoom/Webex Link:
+Squad Breakout 6
+- Onboarding Squad  
+ - Zoom/Webex Link: https://zoom.us/j/94312528890
 
   </td>
                 <td></td>
@@ -182,7 +190,7 @@ Squad Breakout 4
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link:
+- Zoom/Webex Link: https://zoom.us/j/93989760381
 </td>
                 <td></td>
     </tbody>
@@ -193,8 +201,9 @@ Squad Breakout 5
                 <td>3:00 PM</td>
 <td>
 
-Squad Breakout 6
- - NONE
+
+Squad Breakout 8
+ - Incubators
 
 </td>
                 <td></td>
@@ -227,7 +236,7 @@ Squad Breakout 6
         <tr>
             <td>Listen Only</td>
             <td>2021-04-29</td>
-            <td>8:05 AM</td>
+            <td>9:05 AM</td>
             <td>5 mins</td>
             <td>Opening Announcements</td>
     </tbody>
@@ -235,7 +244,7 @@ Squad Breakout 6
         <tr>
             <td>Listen Only</td>
             <td>2021-04-29</td>
-            <td>8:10 AM</td>
+            <td>9:10 AM</td>
 <td>Planning Adjustments</td>
             <td>Squad Members, Stakeholders & Users.
 
@@ -246,7 +255,7 @@ Begins with squads presenting any changes to planning scope and resources.
         <tr>
             <td>Public Comment</td>
             <td>2021-04-29</td>
-            <td>9:00 AM</td>
+            <td>10:00 AM</td>
 <td>Squad Breakouts<br>
 <br>
 Squad 1<br>
@@ -259,11 +268,11 @@ Zoom Link:  <br>
 <br>
 Squad 3<br>
 Zowe CLI Squad<br>
-Zoom/Webex Link: <br>
+Zoom/Webex Link: https://zoom.us/j/99891777715 <br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: <br>
+Zoom/Webex Link: https://zoom.us/j/95492275178 <br>
 <br>
 Squad 6<br>
 Onboarding Squad<br>
@@ -275,11 +284,37 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Public Comment</td>
             <td>2021-04-29</td>
-            <td>10:00 AM</td>
+            <td>11:00 AM</td>
   <td>
   Squad 4 Breakout<br>
   Systems Squad<br>
+  Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+  Recordings: <br>
+  </td>
+            <td></td>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2021-04-29</td>
+            <td>12:00 PM</td>
+  <td>
+  Squad 8 Breakout<br>
+  Incubators Squad<br>
   Zoom/Webex Link: <br>
+  Recordings: <br>
+  </td>
+            <td></td>
+    </tbody>
+    <tbody>
+    <tbody>
+        <tr>
+            <td>Public Comment</td>
+            <td>2021-04-29</td>
+            <td>1:00 PM</td>
+  <td>
+  ZLC Breakout<br>
+  Zoom/Webex Link: https://zoom.us/j/935375531 <br>
   Recordings: <br>
   </td>
             <td></td>
@@ -312,7 +347,7 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>8:00 AM</td>
+            <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
     </tbody>
@@ -320,31 +355,34 @@ IF NEEDED / SHARED w/ZOWE EXPLORER Zoom/Webex Link: https://zoom.us/j/9431252889
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>8:15 AM</td>
+            <td>9:15 AM</td>
 <td>
 Squad Final Readouts
 <br><br>
-8:15 Squad 1
+9:15 Squad 1
 
 - Zowe Explorer Squad
 
-8:30 Squad 2
+9:30 Squad 2
 - API ML Squad
 
-8:45 Squad 3
+9:45 Squad 3
 - Zowe CLI Squad
 
-9:00 Squad 4
+10:00 Squad 4
 - Systems Squad (includes CI-CD, HA, Performance
 
-9:15 Squad 5
+10:15 Squad 5
 - WebUI Squad
 
-9:30 Squad 6
+10:30 Squad 6
 - Onboarding Squad
 
-9:45 Squad 7
+10:45 Squad 7
 - Documentation Squad
+
+11:00 Squad 8
+- Incubators
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
@@ -355,7 +393,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Public Comment</td>
             <td>2021-04-30</td>
-            <td>10:00 AM</td>
+            <td>11:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -363,7 +401,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td></td>
             <td>2021-04-30</td>
-            <td>10:15 AM</td>
+            <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
     </tbody>
@@ -371,7 +409,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Listen Only</td>
             <td>2021-04-30</td>
-            <td>11:00 AM</td>
+            <td>12:00 PM</td>
             <td></td>
             <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
@@ -400,4 +438,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 1 - We're planning to fail.  
 
-[Completed Confidence Vote]()
+[Confidence Vote](https://www.surveymonkey.com/r/M2L6VCL)
+<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI2%20Planning/Zowe%2021PI2%20Confidence%20Vote.png)
