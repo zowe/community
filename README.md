@@ -196,7 +196,7 @@ Maintains the Zowe installation tools and integration of Zowe components. The sy
 
 ### Technical Steering Committee
 
-The Technical Steering Committee (TSC) was created at the start of 20PI4.  Its purpose is to oversee, govern, and improve the infrastructure, execution, and customer experience related to development, testing, packaging, delivery, and cross-squad technology overlap areas, see [Technical Steering Committee](./technical-steering-committee/charter.md)
+The Technical Steering Committee (TSC) was created at the start of 20PI4.  Its purpose is to oversee, govern, and improve the infrastructure, execution, and customer experience related to development, testing, packaging, delivery, and cross-squad technology overlap areas, see [Technical Steering Committee](./Technical-Steering-Committee/charter.md)
 
 ## Communication Channels
 
