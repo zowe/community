@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[06-08-2021](https://zoom.us/rec/share/2xzrTqs3GPb6VoQ01owzC9OVy6jZCfolsSjP4_0I_eP7m3-9hRTDewI8Au7D7lM.JpQFWuCgA1p5XtAY?startTime=1623160704000) USS Access Control discussion
+
 [06-01-2021](https://zoom.us/rec/share/5ZR8suaNKKAHha1a4hpS-G-QnLVat7FSORN4curmx1fwBbHtLSJYSKg415JgzBcP.uXkmWky8by0_S8yV?startTime=1622555695000)
 
 [05-25-2021](https://zoom.us/rec/share/it6TDct-KYOfsbM81boOr50CNLYSFdVY-wgxnSAHHYOAu0lxHqw4RlEX4G4FHu5o.WrijMCbCcQudXZG0?startTime=1621950960000) Github Actions
