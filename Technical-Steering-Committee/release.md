@@ -85,7 +85,7 @@ Some parts of the Zowe are perceived as Core. The Core is a vendor neutral and o
 - z/OS Convenience Build - Zowe x.x.x z/OS Convenience build 
 - z/OS SMP/E Build - Zowe 1.9.0 FMID AZWE001 and Zowe x.x.x PTF ptfId
 - CLI Core - Zowe x.x.x CLI Core
-- Zowe Explorer (Only downloadable from Visual Studio Code Marketplace) 
+- Zowe Explorer (Only downloadable from[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)) 
 
 ## System demo
 
