@@ -52,6 +52,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
+- Naman Patel - @namanpatel1112 (Naman.Patel@ibm.com)
 
 ### Zowe App Framework Squad
 Committers are tracked via github teams, for permission management
@@ -137,4 +138,4 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Robbie Avill (Robbie) - @roavill2 (roavill2@uk.ibm.com)
 - Tom Zhang - @FlappiTomic (t.yczhang@ibm.com)
 - Edward Roche - @edroche-IBM (Edward.Roche@ibm.com)
-
+- Adarshdeep Cheema - @AdarshdeepCheema (Adarshdeep.Cheema@ibm.com)
