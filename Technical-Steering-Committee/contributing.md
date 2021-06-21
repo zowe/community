@@ -48,7 +48,6 @@ Everything Contributor can do and on top of that:
 - Can merge code
 - Can delete unprotected branches
 - Can make branches
-- Can merge into the master branch if protected
 
 General expectations on top of the Contributor's one:
 
@@ -67,6 +66,7 @@ Everything Committer can do and on top of that:
 - Changing branch permissions
 - Changing github hooks
 - Changing repo status
+- Can merge into the protected branch
 
 General expectations on top of the Committers one:
 
