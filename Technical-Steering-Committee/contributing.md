@@ -6,7 +6,7 @@ The goal of the document is to outline key roles within Zowe with the guidance f
 
 The main source of the truth for who is committer and administrator for the project will be Teams on the Zowe GitHub ([Github Teams](https://github.com/orgs/zowe/teams)). Each Squad will have a Committers, Contributors and Administrators teams. 
 
-This document focuses on code related privileges. Some squads may have different requirements and rights for different members. From the perspective of the project the key distinction is between the committers and contributors as if there is a vote on any topic the committers have vote while contributors don't.
+This document focuses on describing baseline code-related privileges. Individual squads may have additional requirements, may define other privileges, and may describe the applicability for their members beyond this baseline. However, as a general rule, from the perspective of the project the key distinction between the Committer role and the Contributor role should remain consistent across all squads.  That distinction is as follows:  in situations where a Squad requests or requires a vote on any topic, Committers are permitted to vote, whereas Contributors are NOT permitted to vote.
 
 ## Roles
 
@@ -35,7 +35,7 @@ Everything Guest can do and on top of that:
 
 General expectations:
 
-- Behavior in line with the Code of Conduct
+- Behavior in line with the [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - Communication around the created issues/PRs with the squad
 
 ### Committer
