@@ -78,16 +78,6 @@ There are following parts build as a part of the release:
   * x390x
 - Source build
 
-### Core part of release
-
-Some parts of the Zowe are considered as Core. The Core is vendor-neutral and outlined in this document. The packages are available from [zowe.org](https://www.zowe.org/download.html) unless stated otherwise. The packages are evolving internally, and the evolution within them is, for now, considered part of the core. 
-The following list presents the Core components:
- 
-- z/OS Convenience Build - Zowe x.x.x z/OS Convenience build 
-- z/OS SMP/E Build - Zowe 1.9.0 FMID AZWE001 and Zowe x.x.x PTF ptfId
-- CLI Core - Zowe x.x.x CLI Core
-- Zowe Explorer (Only downloadable from[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)) 
-
 ## System demo
 
 At release time, each Squad presents its work during the System demo. The System demo is open. Squads present new functionality introduced in the upcoming release. The schedule is presnted in the following document:[https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence) The meeting is recorded, and the recording is subsequently published.
