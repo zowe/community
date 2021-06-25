@@ -20,13 +20,13 @@ Each Squad decides if there will be a deliverable depending on the content that 
 
 Each squad is required to provide an older version of the component for release in case a stop-ship bug is found, and the fix cannot be delivered in time to meet the release date. The decision around the direction is taken by the release group.
 
-For each release a release group is established. The group contains at least one member from each of the server side squads. The goal of this group is to coordinate the release process and keep its members updated on the status of each server squad. The responsibility of this group is also to decide what to do with the found bugs. Once there is an RC which this group believes should be released, the release group passes the relevant release to vote on to the TSC. The daily updates are posted to the apprporiate channel so anyone can follow the curent status. 
+For each release a release group is established. The group contains at least one member from each of the server side squads. The goal of this group is to coordinate the release process and keep its members updated on the status of each server squad. The responsibility of this group is also to decide what to do with the found bugs. Once there is an RC which this group believes should be released, the release group passes the relevant release to vote on to the TSC. The daily updates are posted to the apprporiate channel so anyone can follow the curent status.
 
 ## Release Approval Procedure
 
 ### Process when potential stop-ship was found
 
-When any of the squads find or are informed about a potential stop-ship, the highest priority for the squad is to analyse the found issue and, within a day's time, come up with proposal about next steps. The other squads can continue testing. This is happening in context of the release group. 
+When any of the squads find or are informed about a potential stop-ship, the highest priority for the squad is to analyse the found issue and, within a day's time, come up with proposal about next steps. The other squads can continue testing. This is happening in context of the release group.
 
 Potential proposals for resolution:
 - Fix the issue and release a new version of the component. This contains info on when the fix will be available.
