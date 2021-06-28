@@ -78,15 +78,29 @@ There are following parts build as a part of the release:
   * x390x
 - Source build
 
-### Core part of release
+### The “CORE” Attribute
 
-Some parts of the Zowe are considered as Core. The Core is vendor-neutral and outlined in this document. The packages are available from [zowe.org](https://www.zowe.org/download.html) unless stated otherwise. The packages are evolving internally, and the evolution within them is, for now, considered part of the core. 
-The following list presents the Core components:
- 
-- z/OS Convenience Build - Zowe x.x.x z/OS Convenience build 
-- z/OS SMP/E Build - Zowe 1.9.0 FMID AZWE001 and Zowe x.x.x PTF ptfId
-- CLI Core - Zowe x.x.x CLI Core
-- Zowe Explorer (Only downloadable from[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)) 
+There are specific Zowe components that carry this designation. Core is loosely defined as a component of Zowe having the following characteristics:
+
+- Is maintained by the Zowe community
+- Is considered Vendor-neutral
+- Is a package available for download from the Download page at https://Zowe.org unless otherwise directed via the  download section
+
+This list identifies the specific Zowe V1 components designated as Core:
+
+1. Zowe z/OS Convenience Build
+    - Zowe v.r.mz* z/OS Convenience build
+    - Zowe z/OS SMP/E Build
+2. Zowe 1.9.0 FMID AZWE001
+    - Zowe v.r.m* PTF UOnnnnn** UOnnnnn**
+3. Zowe CLI
+    - Zowe v.r.m* CLI Core
+4. Zowe Explorer
+    - Listed as Visual Studio Code Marketplace (All versions available at https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe )
+
+*Where  v.r.m represents the continuous Zowe Version, Release, Maintenance levels associated with the specific packages.
+
+** Where nnnnn represents a specific number associated with the PTF as listed on the download page.
 
 ## System demo
 
