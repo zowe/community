@@ -89,7 +89,7 @@ There are specific Zowe components that carry this designation. Core is loosely 
 This list identifies the specific Zowe V1 components designated as Core:
 
 1. Zowe z/OS Convenience Build
-    - Zowe v.r.mz* z/OS Convenience build
+    - Zowe v.r.m* z/OS Convenience build
     - Zowe z/OS SMP/E Build
 2. Zowe 1.9.0 FMID AZWE001
     - Zowe v.r.m* PTF UOnnnnn** UOnnnnn**
