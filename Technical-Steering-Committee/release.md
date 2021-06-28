@@ -94,7 +94,7 @@ This list identifies the specific Zowe V1 components designated as Core:
 2. Zowe 1.9.0 FMID AZWE001
     - Zowe v.r.m* PTF UOnnnnn** UOnnnnn**
 3. Zowe CLI
-    - Zowe v.r.m* CLI Core
+    - Zowe v.r.m* CLI Core (or `@zowe/cli@zowe-v1-lts` and `@zowe/secure-credential-store-for-zowe-cli@zowe-v1-lts` on [public npm](https://www.npmjs.com/package/@zowe/cli))
 4. Zowe Explorer
     - Listed as Visual Studio Code Marketplace (All versions available at https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe )
 
