@@ -78,6 +78,30 @@ There are following parts build as a part of the release:
   * x390x
 - Source build
 
+### The “CORE” Attribute
+
+There are specific Zowe components that carry this designation. Core is loosely defined as a component of Zowe having the following characteristics:
+
+- Is maintained by the Zowe community
+- Is considered Vendor-neutral
+- Is a package available for download from the Download page at https://Zowe.org unless otherwise directed via the  download section
+
+This list identifies the specific Zowe V1 components designated as Core:
+
+1. Zowe z/OS Convenience Build
+    - Zowe v.r.m* z/OS Convenience build
+    - Zowe z/OS SMP/E Build
+2. Zowe 1.9.0 FMID AZWE001
+    - Zowe v.r.m* PTF UOnnnnn** UOnnnnn**
+3. Zowe CLI
+    - Zowe v.r.m* CLI Core (or `@zowe/cli@zowe-v1-lts` and `@zowe/secure-credential-store-for-zowe-cli@zowe-v1-lts` on [public npm](https://www.npmjs.com/package/@zowe/cli))
+4. Zowe Explorer
+    - Listed as Visual Studio Code Marketplace (All versions available at https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe )
+
+*Where  v.r.m represents the continuous Zowe Version, Release, Maintenance levels associated with the specific packages.
+
+** Where nnnnn represents a specific number associated with the PTF as listed on the download page.
+
 ## System demo
 
 At release time, each Squad presents its work during the System demo. The System demo is open. Squads present new functionality introduced in the upcoming release. The schedule is presnted in the following document:[https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence) The meeting is recorded, and the recording is subsequently published.
