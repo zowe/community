@@ -1,3 +1,18 @@
+# Zowe Release Schedule
+
+We release Zowe on a regular schedule. Major versions every two years. Minor versions on a schedule published in [Community repository](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md). The minor changes shouldn't introduce breaking changes. We introduce the breaking changes only on the border of the major releases. 
+
+As a Zowe community we have two types of releases:
+
+- Maintenance - This release receives only security patches and fixes for the highest severity bugs. It's suitable for environment that prefers stability to new features.  
+- Active - This release receives updates regularly according to the schedule and it is for the users that are willing to invest a bit more time into upgrades to get the latest features. 
+
+The release will be active for 2 years. We will support release in the maintenance mode for 2.5 years. This means that at one point in time we will support one active release and up to two maintenance releases.   
+
+We will provide upgrade path from maintenance release to the maintenance release so that the users will be able to remain only on the maintenance releases. 
+
+![Schedule for the nearest releases](major_releases.png)
+
 # Zowe Release Process
 
 ## Short Summary
