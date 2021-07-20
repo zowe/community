@@ -1,21 +1,26 @@
 # Architecture Call Recordings
 
-[06-29-2021](https://zoom.us/rec/share/Y02FJgLxLavuBYquWtVusR6hxxyNS5V1OyGNk6R8X11EOre7QD1axn1XgTh1NwGP.yGyLmcXvNyOfKnTI?startTime=1624975205000)
+[07-20-2021](https://zoom.us/rec/share/iKM-YhYmnHWVhijVR6DJqRXHC5lB3zNQxO9mP0-Wxk4VC7x9eCq2ZTbE9uNhmMG2.FtYQxKQ7XLACAN25?startTime=1626789391000) Meeting Recording
+- [Docker Status Powerpoint Presentation by Sean Grady](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/Docker_Status_July20.pdf)
+
+[06-29-2021](https://zoom.us/rec/share/Y02FJgLxLavuBYquWtVusR6hxxyNS5V1OyGNk6R8X11EOre7QD1axn1XgTh1NwGP.yGyLmcXvNyOfKnTI?startTime=1624975205000) Meeting Recording
 
 [06-15-2021](https://zoom.us/rec/share/XUwKBPkgQWdd-phYuCqM1Bj0_doUJogvd1VZwXou8oM-EW1MjZhpBzVjcmQm6Hjg.jyS8lUn20HTMrFcy?startTime=1623765290000) Zowe v1.22.0 Retrospective
 
 [06-08-2021](https://zoom.us/rec/share/2xzrTqs3GPb6VoQ01owzC9OVy6jZCfolsSjP4_0I_eP7m3-9hRTDewI8Au7D7lM.JpQFWuCgA1p5XtAY?startTime=1623160704000) USS Access Control discussion
 
-[06-01-2021](https://zoom.us/rec/share/5ZR8suaNKKAHha1a4hpS-G-QnLVat7FSORN4curmx1fwBbHtLSJYSKg415JgzBcP.uXkmWky8by0_S8yV?startTime=1622555695000)
+[06-01-2021](https://zoom.us/rec/share/5ZR8suaNKKAHha1a4hpS-G-QnLVat7FSORN4curmx1fwBbHtLSJYSKg415JgzBcP.uXkmWky8by0_S8yV?startTime=1622555695000) Meeting Recording
 
 [05-25-2021](https://zoom.us/rec/share/it6TDct-KYOfsbM81boOr50CNLYSFdVY-wgxnSAHHYOAu0lxHqw4RlEX4G4FHu5o.WrijMCbCcQudXZG0?startTime=1621950960000) Github Actions
 
 [05-11-2021](https://zoom.us/rec/share/ilTMfJYuFdqtY7gFcRiyWWxZts5bbBWYN3I1aik_VRB77C6hBPSCbKo0OTNk_UdQ.JpK50uFk3BUrq_i4?startTime=1620741260000) SMP/E RECEIVE ORDER, z/OSMF portable software instances
 - [RECEIVE ORDER and the Automated Service Request Server Interface](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/SMPE%20ReceiveOrder%20ServerInterface.pdf)
 
-[05-05-2021](https://zoom.us/rec/share/IhaHsq_MumVcmqhqfYIx7tJu-vHHLLXQV-sq2aPVocxES40MFb6Xn7WP26CZNtd6.UH2xedMj8Hxlithk?startTime=1620136775000)
+[05-05-2021](https://zoom.us/rec/share/IhaHsq_MumVcmqhqfYIx7tJu-vHHLLXQV-sq2aPVocxES40MFb6Xn7WP26CZNtd6.UH2xedMj8Hxlithk?startTime=1620136775000) Meeting Recording
 
-[04-20-2021](https://zoom.us/rec/share/4RQrzsRPqAA2cjUhWf7MFHOdka7lu_qi9uuQA46jEgZ6glqDZwBC_PX32kEdJWFk.22uKwi0tkuZPVA23?startTime=1618926952000) (1) Zowe Slack bot and its technology (Watson Assistant and Watson Discovery) and give a demo of the bot. (2) Discussing the support of the SAF IDT token.
+[04-20-2021](https://zoom.us/rec/share/4RQrzsRPqAA2cjUhWf7MFHOdka7lu_qi9uuQA46jEgZ6glqDZwBC_PX32kEdJWFk.22uKwi0tkuZPVA23?startTime=1618926952000) Meeting Recording
+- Zowe Slack bot and its technology (Watson Assistant and Watson Discovery) and give a demo of the bot.
+- Discussing the support of the SAF IDT token.
 
 [03-16-2021](https://zoom.us/rec/share/vyHSxX-bSM7Q9vtdxiVK7H-_4PyOIcetW78LImyuBkvB3AIQCyKnmsqM8W-vqWcs.3lUMvyEY9AyceyTX?startTime=1615903089000) Caching and Redis Discussion
 
