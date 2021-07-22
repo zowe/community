@@ -2,16 +2,38 @@
 
 We release Zowe on a regular schedule. Major versions every two years. Minor versions on a schedule published in [Community repository](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md). The minor changes shouldn't introduce breaking changes. We introduce the breaking changes only on the border of the major releases. 
 
-As a Zowe community we have two types of releases:
+As a Zowe community we have three types of releases:
 
-- Maintenance - This release receives only security patches and fixes for the highest severity bugs. It's suitable for environment that prefers stability to new features.  
-- Active - This release receives updates regularly according to the schedule and it is for the users that are willing to invest a bit more time into upgrades to get the latest features. 
+- Maintenance - This release receives only security patches and fixes for the critical bugs as outlined below. It's suitable for environment that prefers stability to new features.  
+- Active - This release receives updates regularly according to the schedule, and it is for the users that are willing to invest a bit more time into upgrades to get the latest features. 
+- Nightly - The Zowe publishes bleeding edge state of the project on the nightly basis. There are no guarantees around the stability of the build. 
 
 The release will be active for 2 years. We will support release in the maintenance mode for 2.5 years. This means that at one point in time we will support one active release and up to two maintenance releases.   
 
 We will provide upgrade path from maintenance release to the maintenance release so that the users will be able to remain only on the maintenance releases. 
 
 ![Schedule for the nearest releases](major_releases.png)
+
+## Maintenance release
+
+It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance release, so this is not to be used as an exhaustive list. Characteristics of what is considered a “critical” bug or defect include:
+
+- Security vulnerabilities that compromise data or system integrity
+- Data corruption
+- Critical business function is affected
+
+## Active release
+
+This release gets updates every 6 weeks according to the published schedule. The release contains fixes and new functionalities. The community focuses on not introducing breaking changes during an Active phase of release. On top of what is considered critical for Maintenance release this is considered critical for Active release:
+
+- Unexpected downtime occurs or unacceptable performance
+- No viable workaround can be provided through configuration workarounds
+- Conformant applications no longer function as expected
+- A fix can be made available without incurring a greater risk of introducing additional defects
+
+## Unstable
+
+Development branch of the Zowe, which contains the code currently being worked on. We prepare the release every night and publish it. THe main reason is to run the full CICD pipeline and give feedback to the squads around the integration of the Zowe components. 
 
 # Zowe Release Process
 
