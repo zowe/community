@@ -132,7 +132,7 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: <insert link>
+- Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
 Squad Breakout 2
 - API ML Squad
@@ -172,7 +172,7 @@ Squad Breakout 4
 
 Squad Breakout 6
 - Onboarding Squad  
- - Zoom/Webex Link: <insert link>
+ - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
   </td>
                 <td></td>
@@ -256,7 +256,7 @@ Begins with squads presenting any changes to planning scope and resources.
 <br>
 Squad 1<br>
 Zowe Explorer Squad<br>
-Zoom/Webex Link: <br>
+Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 <br>
 Squad 2<br>
 API ML Squad<br>
@@ -271,7 +271,7 @@ WebUI Squad<br>
 Zoom/Webex Link: <insert link> <br>
 <br>
 Squad 6<br>
-Onboarding Squad<br>
+Onboarding Squad (no session scheduled) <br>
 Zoom/Webex Link: <insert link> <br>
 </td>
             <td>Continuation from Day 1</td>
