@@ -51,7 +51,7 @@ Zoom Meeting: <br>
             <td>2021-07-28</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee and the Technical Steering Committee</td>
+            <td>Updates from the Zowe Leadership Committee (ZLC) and the Technical Steering Committee (TSC)</td>
     </tbody>
     <tbody>
         <tr>
@@ -434,6 +434,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 1 - We're planning to fail.  
 
-[Confidence Vote]()
+[Confidence Vote](https://www.surveymonkey.com/r/97BMTJY)
 <br>
 [Confidence Vote Results]()
