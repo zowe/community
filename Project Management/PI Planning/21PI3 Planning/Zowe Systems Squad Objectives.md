@@ -1,10 +1,4 @@
 # Zowe Systems Squad - 21PI3 Objectives (July 2021 to October 2021)
-
-Final Plan Notes:
-- We will work the "Install without z/OSMF" story this PI
-- We will work on z/OS 2.4 testing, if the system is available
-- We will _not_ work on Sysplex Automated testing this PI.
-
 ## Containerization
 
 * [Epic - Containerise Zowe](https://github.com/zowe/zowe-install-packaging/issues/793) highlights:
