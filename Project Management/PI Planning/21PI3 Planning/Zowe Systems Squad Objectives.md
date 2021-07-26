@@ -14,6 +14,7 @@
 ### Pipeline and Distributed Infra
 
 * [Github Action Research](https://github.com/zowe/zowe-install-packaging/issues/1868)
+  - migrate more repositories
 
 ## Install and Configuration 
 
