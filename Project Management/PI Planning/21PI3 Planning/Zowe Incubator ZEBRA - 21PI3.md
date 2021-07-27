@@ -1,6 +1,6 @@
 # Zowe Incubator : ZEBRA  - 21PI3 Objectives (AUG 2021 to OCT 2021)
 
-## ZEBRA V1 API delivery with enhancement [#20](https://github.com/zowe/zebra/issues#:~:text=1%20by%20ykimvicom-,Support%20multiple%20LPAR/Sysplex%20for%20Grafana%20example,-enhancement) 
+## ZEBRA V1 API delivery with enhancement [#20](https://github.com/zowe/zebra/issues/20)
   
   Zebra API V1 would provide users to more strucutred API requests, and intuitive way to submit requests. It intends to help system programmers to invoke from the browers if needed (for SMF data). It is currently in draft version - we need to finish documentation on zowe.org and docsite and release code to main git repo
 
