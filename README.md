@@ -102,6 +102,14 @@ The Zowe Client SDK incubation sub-project is currently developing SDKs for Node
 * https://github.com/zowe/zowe-client-swift-sdk - The Zowe Client Swift SDK offers a swift library for programmatic access to z/OS services integrated with Zowe.
 * https://github.com/zowe/zowe-cli/tree/master/packages - The Zowe Node.js SDK is being developed for programmatic access to z/OS services integrated with Zowe.
 
+#### ZEBRA (Zowe Embedded Browser for RMF/SMF and APIs)
+
+ZEBRA is a set of NodeJS applications with a mission to provide re-usable and industry compliant JSON formatted RMF/SMF data records, so that many other ISV SW and users can exploit them using open-source SW for many ways.
+
+* https://github.com/zowe/zebra - Zebra can be installed using NodeJS v8.x and later and currently requires RMF GPMSERV(DDS) running on z/OS.
+* https://openmainframeproject.slack.com/archives/C01QWBJG3A4 Slack channel 
+* https://zebra.talktothemainframe.com/ Zebra test/trial site 
+
 ## Zowe Squads
 
 Zowe has a number of squads to maintain and grow the sub-projects as well as support the common operational functions across the subprojects. Refer to the [Communication Channels](#communication-channels) to get involved.
