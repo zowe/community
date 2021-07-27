@@ -16,11 +16,10 @@ We will provide upgrade path from maintenance release to the maintenance release
 
 ## Maintenance release
 
-It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance release, so this is not to be used as an exhaustive list. Characteristics of what is considered a “critical” bug or defect include:
+The maintenance release isn't planned regularly and unless absolutely needed for important security fix, it should never introduce breaking changes even more so than active release. It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance release, so this is not to be used as an exhaustive list. Characteristics of what is considered a “critical” bug or defect include:
 
 - Security vulnerabilities that compromise data or system integrity
 - Data corruption
-- Critical business function is affected
 
 ## Active release
 
@@ -30,6 +29,7 @@ This release gets updates every 6 weeks according to the published schedule. The
 - No viable workaround can be provided through configuration workarounds
 - Conformant applications no longer function as expected
 - A fix can be made available without incurring a greater risk of introducing additional defects
+- Critical business function is affected
 
 ## Unstable
 
