@@ -1,4 +1,4 @@
-# Zowe Explorer Squad - 21PI2 Objectives (May 2021 to July 2021)
+# Zowe Explorer Squad - 21PI3 Objectives (July 2021 to October 2021)
 
 
 ## Zowe Explorer V1 Conformance Criteria Technical Implementation
@@ -7,10 +7,10 @@
 Create a well-defined and documented extensibility conformance rules for extenders.
 
 ZE Squad Plan:  
-- [Zowe Explorer does not activate when there are issues with profiles or settings #1163](https://github.com/zowe/vscode-extension-for-zowe/issues/1163)  
 - [Ability to register APIs other than MVS, Job and USS](https://github.com/zowe/vscode-extension-for-zowe/issues/1387)
 - [Make the profilesCache available to extenders](https://github.com/zowe/vscode-extension-for-zowe/issues/1281)
   - Open PR [Load Profiles from ProfilesCache using Zowe Explorer APIs](https://github.com/zowe/vscode-extension-for-zowe/pull/1390)
+- [Add methods for returning tree views for a profile type](#)
 - [Stretch] [Centralized error handling - Technical Implementation](https://github.com/zowe/vscode-extension-for-zowe/issues/388)
 
 ## Zowe Explorer V1 Conformance Criteria Validation
@@ -33,13 +33,7 @@ Continue the development work for the team configuration file in Zowe Explorer
 ZE Squad Plan:  
 - [Address issues opened related to the validation of the `@next` version](https://github.com/zowe/vscode-extension-for-zowe/issues/1406)
 -  [Implement `zowe config init` to generate a configuration file #1289](https://github.com/zowe/vscode-extension-for-zowe/issues/1289)
--  [Stretch] [Show team configuration file Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1407)
 -  [Stretch] [Implement `zowe config secure` to store credentials #1288](https://github.com/zowe/vscode-extension-for-zowe/issues/1288)
-
-## Participate in OMP Mentorship program
-
-* [OMP Mentorship Program - Create Zowe VS Code Extension Templates #1216](https://github.com/zowe/vscode-extension-for-zowe/issues/1216)  
-
 
 ## Prioritized Feature Requests and High Impact Issues
 
