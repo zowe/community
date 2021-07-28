@@ -12,7 +12,6 @@ Subtasks:
   * Create documentation [#2250](https://github.com/zowe/zowe-install-packaging/issues/2250)
     * Document how to migrate from z/OS to containers
   * Satisfy legal requirements of dependencies [#2252](https://github.com/zowe/zowe-install-packaging/issues/2252)
-  - Objective: zowe.org download/install instructions for running Zowe on Kubernetes.
 - app asset import into app-server container automation
 - examples of how to have components that contain both in-app-server and standalone content to be shipped in containers
 - guidelines that let people guarantee that their component will be compatible with a zowe container and that the component itself is distributed as a container image.
@@ -89,7 +88,7 @@ Goal: Add a ZSS API that allows for getting a passticket provided you have alrea
 
 Status: Research not yet begun. Subject matter experts please reach out to us so we can more quickly learn the ways we can implement this.
 
-Also note:
+### Also note
 * High availability: We've yet to see it work 100% in testing environments, so bug fixes may be needed this PI if we identify issues and solutions.
 * IP explorer: Wasn't able to run in the tech preview container due to encoding, and does not appear upon upgrade. These are small issues to be fixed next release.
 * REST Compression: [#657](https://github.com/zowe/zlux/issues/657) was put on hold due to a ZSS-specific solution not being as useful as a solution at the APIML level that everyone can benefit from.
