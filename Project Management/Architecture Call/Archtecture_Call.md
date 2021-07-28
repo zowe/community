@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[07-27-2021](https://zoom.us/rec/share/E0NcNmVQm1GH_ncJ-h_8-27811VRkNu8XEbkE1-wEEJHDeuB_Y_nY6lkwkgrDqIQ.MzY8rlgY6-mAB3Aw?startTime=1627394413000) V1.23.0 Retrospective and Docker Container List of Work Items
+
 [07-20-2021](https://zoom.us/rec/share/iKM-YhYmnHWVhijVR6DJqRXHC5lB3zNQxO9mP0-Wxk4VC7x9eCq2ZTbE9uNhmMG2.FtYQxKQ7XLACAN25?startTime=1626789391000) Meeting Recording
 - [Docker Status Powerpoint Presentation by Sean Grady](https://github.com/zowe/community/blob/master/Project%20Management/Architecture%20Call/Charts/Docker_Status_July20.pdf)
 
