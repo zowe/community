@@ -214,6 +214,19 @@ Squad Breakout 8
             <td></td>
             <td>Day 1 End</td>
     </tbody>
+    <tbody>
+     <tr>
+          <td>Public Comment</td>
+          <td>2021-07-29</td>
+          <td>8:00 AM</td>
+     <td>
+
+Squad Breakout
+- Zowe Doc Squad
+- Zoom/Webex Link: <https://zoom.us/j/646062143>
+</td>
+                <td></td>
+    </tbody>
 <tbody>
         <tr>
             <td></td>
