@@ -7,6 +7,7 @@ Day 1\
 When: Wednesday, July 28th, 2021 (8:00am to 11:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/95693817477<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214905&calstart=2021-07-28
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/hUiYLhjgACtWrbbrKM03gmah9mUG7bkPGwhCLKBG4o1tLpR4bi_Wo-mzSbUCsFvS.LTAg1gVavK3XSJ74?startTime=1627473297000)
 <br>
 
 Day 2\
