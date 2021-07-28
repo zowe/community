@@ -10,7 +10,6 @@ ZE Squad Plan:
 - [Ability to register APIs other than MVS, Job and USS](https://github.com/zowe/vscode-extension-for-zowe/issues/1387)
 - [Make the profilesCache available to extenders](https://github.com/zowe/vscode-extension-for-zowe/issues/1281)
   - Open PR [Load Profiles from ProfilesCache using Zowe Explorer APIs](https://github.com/zowe/vscode-extension-for-zowe/pull/1390)
-- [Add methods for returning tree views for a profile type](#)
 - [Stretch] [Centralized error handling - Technical Implementation](https://github.com/zowe/vscode-extension-for-zowe/issues/388)
 
 ## Zowe Explorer V1 Conformance Criteria Validation
@@ -32,8 +31,9 @@ Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
 - [Address issues opened related to the validation of the `@next` version](https://github.com/zowe/vscode-extension-for-zowe/issues/1406)
--  [Implement `zowe config init` to generate a configuration file #1289](https://github.com/zowe/vscode-extension-for-zowe/issues/1289)
--  [Stretch] [Implement `zowe config secure` to store credentials #1288](https://github.com/zowe/vscode-extension-for-zowe/issues/1288)
+- [Extend the ProfilesCache class for the team config](https://github.com/zowe/vscode-extension-for-zowe/issues/1409)
+- [Implement `zowe config init` to generate a configuration file #1289](https://github.com/zowe/vscode-extension-for-zowe/issues/1289)
+- [Stretch] [Implement `zowe config secure` to store credentials #1288](https://github.com/zowe/vscode-extension-for-zowe/issues/1288)
 
 ## Prioritized Feature Requests and High Impact Issues
 
@@ -54,4 +54,4 @@ ZE Squad Plan:
 - [Prevent profiles leaking into Zosmf dropdown list](https://github.com/zowe/vscode-extension-for-cics/issues/51)
 - [Extension to appear properly in the extensions tab](https://github.com/zowe/vscode-extension-for-cics/issues/61)
 - [Filter text should support wildcards](https://github.com/zowe/vscode-extension-for-cics/issues/57)
-- [Theia Check for WebView compatability](https://github.com/zowe/vscode-extension-for-cics/issues/64)
+- [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
