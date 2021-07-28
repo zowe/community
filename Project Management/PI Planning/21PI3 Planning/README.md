@@ -157,7 +157,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: <https://zoom.us/j/99891777715>
+- Zoom/Webex Link: <https://zoom.us/j/98605751219>
 </td>
                 <td></td>
     </tbody>
