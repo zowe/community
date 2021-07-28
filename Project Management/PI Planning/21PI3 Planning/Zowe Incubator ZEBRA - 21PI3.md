@@ -9,7 +9,12 @@ Zebra API V1 would provide users to more strucutred API requests, and intuitive 
 
 ZOWE Desktop provides easy and useful z/OS management fucntions. We would like to do a showcase where Zebra can be exploited to do a real-time graphs within ZOWE Desktop.
 
+## Zowe API ML Integration
+
+Getting Zebra APIs available under the API Mediation Layer using valid authentication methods which will tie in nicely with the Desktop App.
+
+Have the Zebra API server take a JSON Web Token (JWT) from the API layer that will be passed as the bearer token on the REST PI request, and then have the API server call back to the API Mediation Layer to validate this. 
+
 ## Containerized Zebra 
 	
 Currently ZEBRA has beed tested with Docker but it was only in the early version. We will provide synchonized versions of ZEBRA containers when major releases happen in the git repo.
-
