@@ -158,7 +158,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: <https://zoom.us/j/99891777715>
+- Zoom/Webex Link: <https://zoom.us/j/98605751219>
 </td>
                 <td></td>
     </tbody>
@@ -189,7 +189,7 @@ Squad Breakout 6
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: <insert link>
+- Zoom/Webex Link: https://zoom.us/j/97973124410?pwd=a25JS21pOXpmMDJCSmJreWtXbndrZz09 <br>
 </td>
                 <td></td>
     </tbody>
@@ -214,6 +214,19 @@ Squad Breakout 8
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
+    </tbody>
+    <tbody>
+     <tr>
+          <td>Public Comment</td>
+          <td>2021-07-29</td>
+          <td>8:00 AM</td>
+     <td>
+
+Squad Breakout
+- Zowe Doc Squad
+- Zoom/Webex Link: <https://zoom.us/j/646062143>
+</td>
+                <td></td>
     </tbody>
 <tbody>
         <tr>
