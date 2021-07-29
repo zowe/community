@@ -62,3 +62,14 @@ ZE Squad Plan:
   - Update the course to add the VSCode CICS plugin
   - Install CICS in the zCOBOL system
 - [Stretch] Publish the CICS plugin to VSCode Marketplace.
+
+## Risks
+- Validation of the conformance criteria
+- Unexpected High Priority issues from ZE vNext - OWNED
+
+## Dependencies
+- CLI Squad
+- On-boarding Squad
+- CICS VSCode: Implementation of the profileCache for other Profile types
+
+### Confidence Vote Avg: 4.0
