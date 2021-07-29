@@ -15,7 +15,8 @@
 ### Pipeline and Distributed Infra
 
 * [Github Action Research](https://github.com/zowe/zowe-install-packaging/issues/1868)
-  - migrate more repositories
+  - Migrate Explorer Repositories
+  - Migrate zowe-install-packaging
 
 ### z/OS Infra
 
@@ -31,7 +32,9 @@
   - Work items to be created for future PI.
 ## Install and Configuration 
 
-* [Zowe PSI Support](https://github.com/zowe/zowe-install-packaging/issues/1174)
-  - Update Zowe automation to create the PSI, test it, and publish it
-* [Stretch: Zowe z/OSMF Workflow](https://github.com/zowe/zowe-install-packaging/issues/2136)
-  - Create z/OSMF Configuration Workflow
+* [Zowe PSI Delivery](https://github.com/zowe/zowe-install-packaging/issues/1174)
+  - Update Zowe automation to create the PSI, test it, and publish it on zowe.org
+  - [Stretch: PSI Distribution on FTP/SFTP](https://github.com/zowe/zowe-install-packaging/issues/2266)
+* [Zowe z/OSMF Configuration Workflow](https://github.com/zowe/zowe-install-packaging/issues/2136)
+  - Create z/OSMF Configuration Workflow w/ pre-populated variables from deployment
+  - Enhance configuration workflow with optional steps and detailed information
