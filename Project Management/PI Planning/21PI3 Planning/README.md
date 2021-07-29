@@ -8,17 +8,23 @@ When: Wednesday, July 28th, 2021 (8:00am to 11:00 am) (UTC-04:00) Eastern Time -
 Zoom Meeting: https://zoom.us/j/95693817477<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214905&calstart=2021-07-28
 <br>
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/hUiYLhjgACtWrbbrKM03gmah9mUG7bkPGwhCLKBG4o1tLpR4bi_Wo-mzSbUCsFvS.LTAg1gVavK3XSJ74?startTime=1627473297000)
+<br>
 
 Day 2\
 When: Thursday, July 29th, 2021 (9:00am to 10:30 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/97817452697<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214906&calstart=2021-07-29
 <br>
+Meeting Recordings: [Day 2]()
+<br>
 
 Day 3\
 When: Friday, July 30th, 2021 (9:00am to 12:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/92463864926<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214909&calstart=2021-07-30
+<br>
+Meeting Recordings: [Day 3]()
 
 </th>
         </tr>
@@ -157,7 +163,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: <https://zoom.us/j/99891777715>
+- Zoom/Webex Link: <https://zoom.us/j/98605751219>
 </td>
                 <td></td>
     </tbody>
@@ -188,7 +194,7 @@ Squad Breakout 6
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: <insert link>
+- Zoom/Webex Link: https://zoom.us/j/97973124410?pwd=a25JS21pOXpmMDJCSmJreWtXbndrZz09 <br>
 </td>
                 <td></td>
     </tbody>
@@ -283,7 +289,7 @@ Zoom/Webex Link: <https://zoom.us/j/99891777715> <br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: <insert link> <br>
+Zoom/Webex Link: https://zoom.us/j/95404524479?pwd=UWNkTGgrSU03TG9yeGg4eEh2MU5MQT09<br>
 <br>
 Squad 6<br>
 Onboarding Squad (no session scheduled) <br>
