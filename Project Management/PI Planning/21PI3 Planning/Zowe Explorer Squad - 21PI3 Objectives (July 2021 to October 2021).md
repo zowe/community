@@ -42,9 +42,9 @@ ZE Squad Plan:
 - [Issue TSO & MVS Commands Polish Work](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
 - [Multi-selection support for the dataset tree - Copy PDS and Members](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
 - [Deployment pipeline not posting release on GitHub](https://github.com/zowe/vscode-extension-for-zowe/issues/1186)
-- [Create a bot (and readme update) that describes up-voting to those who open issues](https://github.com/zowe/vscode-extension-for-zowe/issues/1169)
 - [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [Update Profile should not try to validate](https://github.com/zowe/vscode-extension-for-zowe/issues/1305)
+- [Stretch][Create a bot (and readme update) that describes up-voting to those who open issues](https://github.com/zowe/vscode-extension-for-zowe/issues/1169)
   
 # FTP VSCode Extension Objectives
 - [Add profile functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1284)
