@@ -7,9 +7,11 @@
 Create a well-defined and documented extensibility conformance rules for extenders.
 
 ZE Squad Plan:  
-- [Ability to register APIs other than MVS, Job and USS](https://github.com/zowe/vscode-extension-for-zowe/issues/1387)
+- [Extend ProfilesCache to deal with other Profile types](https://github.com/zowe/vscode-extension-for-zowe/issues/1387)
 - [Make the profilesCache available to extenders](https://github.com/zowe/vscode-extension-for-zowe/issues/1281)
   - Open PR [Load Profiles from ProfilesCache using Zowe Explorer APIs](https://github.com/zowe/vscode-extension-for-zowe/pull/1390)
+- [Document code samples that supports the Zowe Explorer Conformance Criteria](https://github.com/zowe/vscode-extension-for-zowe/issues/672)
+- [Standardize Zowe Explorer configuration property names to make them consistent with VS Code's format](https://github.com/zowe/vscode-extension-for-zowe/issues/1263)
 - [Stretch] [Centralized error handling - Technical Implementation](https://github.com/zowe/vscode-extension-for-zowe/issues/388)
 
 ## Zowe Explorer V1 Conformance Criteria Validation
@@ -42,6 +44,7 @@ ZE Squad Plan:
 - [Deployment pipeline not posting release on GitHub](https://github.com/zowe/vscode-extension-for-zowe/issues/1186)
 - [Create a bot (and readme update) that describes up-voting to those who open issues](https://github.com/zowe/vscode-extension-for-zowe/issues/1169)
 - [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
+- [Update Profile should not try to validate](https://github.com/zowe/vscode-extension-for-zowe/issues/1305)
   
 # FTP VSCode Extension Objectives
 - [Add profile functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1284)
@@ -55,3 +58,7 @@ ZE Squad Plan:
 - [Extension to appear properly in the extensions tab](https://github.com/zowe/vscode-extension-for-cics/issues/61)
 - [Filter text should support wildcards](https://github.com/zowe/vscode-extension-for-cics/issues/57)
 - [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
+- Work with OMP Cobol Training Course. 
+  - Update the course to add the VSCode CICS plugin
+  - Install CICS in the zCOBOL system
+- [Stretch] Publish the CICS plugin to VSCode Marketplace.
