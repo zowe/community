@@ -1,12 +1,13 @@
 # Zowe API ML & Security Squad - 21PI3 Objectives (August 2021 to October 2021)
 
 
-## Containerize Zowe
+## Containerize Zowe - API ML Objectives
 
-* [Containerise Zowe #793](https://github.com/zowe/zowe-install-packaging/issues/793)
-Support the Zowe containerization objective for 21PI3 by completing the remaining work for the API ML.
+* [Containerize Zowe (API ML part) #1648](https://github.com/zowe/zowe-install-packaging/issues/1648)  
+Support the Zowe containerization objective for 21PI3 by completing the remaining work for the API ML. Ensure the images produced by API ML satisfy the needs of the general Zowe images so that our tooling can work with them. 
 
-API ML Squad Plan:  
+in support of [Containerise Zowe #793](https://github.com/zowe/zowe-install-packaging/issues/793)
+
 [Create APIML component images #2240](https://github.com/zowe/zowe-install-packaging/issues/2240)  
 [Spike: investigate methods to improve component registration in Kubernetes #2244](https://github.com/zowe/zowe-install-packaging/issues/2244)
 
