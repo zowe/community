@@ -24,7 +24,7 @@ When: Friday, July 30th, 2021 (9:00am to 12:00 am) (UTC-04:00) Eastern Time - Ne
 Zoom Meeting: https://zoom.us/j/92463864926<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214909&calstart=2021-07-30
 <br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/GK-nHZgFtBo1EKXcaQgwpi8GJ7iMYU4uSfU-B3NNvK2X8DUKGuJ-ysylWkzIbL4.mbcrrpxVyM0tocz4?startTime=1627649690000)
 
 </th>
         </tr>
