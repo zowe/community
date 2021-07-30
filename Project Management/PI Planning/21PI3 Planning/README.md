@@ -16,7 +16,7 @@ When: Thursday, July 29th, 2021 (9:00am to 10:30 am) (UTC-04:00) Eastern Time - 
 Zoom Meeting: https://zoom.us/j/97817452697<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214906&calstart=2021-07-29
 <br>
-Meeting Recordings: [Day 2]()
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/q0wI0FzSFcKKL3TC8sud1L1G-N8hTYV788IR4OKusnhtvpTaxqEqERxfpfu5pcM3.PRewRF9meiQKHqQP?startTime=1627563320000)
 <br>
 
 Day 3\
