@@ -26,6 +26,17 @@ OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventi
 <br>
 Meeting Recordings: [Day 3](https://zoom.us/rec/share/GK-nHZgFtBo1EKXcaQgwpi8GJ7iMYU4uSfU-B3NNvK2X8DUKGuJ-ysylWkzIbL4.mbcrrpxVyM0tocz4?startTime=1627649690000)
 
+Squad PI Objectives<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Explorer%20Squad%20-%2021PI3%20Objectives%20(July%202021%20to%20October%202021).md)<br>
+[API-ML](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2021PI3%20Objectives%20(August%202021%20to%20October%202021).md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20CLI%20Squad%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Web%20UI%20Squad%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
+
+
+
 </th>
         </tr>
     </thead>
