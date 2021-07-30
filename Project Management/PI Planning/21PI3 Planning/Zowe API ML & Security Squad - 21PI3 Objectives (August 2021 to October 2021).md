@@ -45,7 +45,16 @@ API ML Squad Plan:
 New component level flag to instruct API ML to buffer response from ZSS & it can perform any compression supported by modern browser on received response.
 
 
-## Caching API - POC of Redis - On-platform
+## Improve testing on & off platform
+
+* [Improve testing on & off platform #1341](https://github.com/zowe/api-layer/issues/1341)
+Enhance and add functional tests for the Catalog, Discovery Service and Caching Service. 
+
+API ML Squad Plan:  
+We are currently either not testing the full functionality of services in separation or within the integration tests. Therefore we are missing some pieces such as tests of configuration from the code coverage. In a similar way as with the gateway tests create a separate package for functional tests, which starts the whole application and tests the full behavior of the app without the need to start all the interdependent services.  
+
+
+## Caching API - POC of Redis - On-platform (STRETCH)
 
 * [HA: Caching API - POC of Redis - On-platform #1192](https://github.com/zowe/api-layer/issues/1192)
 Validate whether the existing Redis solution (v5) can be used by the Caching API as an alternative on-Z storage option to VSAM. 
@@ -55,16 +64,7 @@ A PoC that verifies if the Redis option is viable.
 Performance comparison with VSAM.
 
 
-## Improve testing on & off platform
-
-* [Improve testing on & off platform #1341](https://github.com/zowe/api-layer/issues/1341)
-Enhance and add functional tests for the Catalog, Discovery Service and Caching Service. 
-
-API ML Squad Plan:  
-We are currently either not testing the full functionality of services in separation or within the integration tests. Therefore we are missing some pieces such as tests of configuration from the code coverage. In a similar way as with the gateway tests create a separate package for functional tests, which starts the whole application and tests the full behavior of the app without the need to start all the interdependent services.
-
-
-## Zowe API ML Metrics dashboard MVP
+## Zowe API ML Metrics dashboard MVP (Mentorship Program) 
 
 * [Metrics Dashboard for ML Services #820](https://github.com/zowe/api-layer/issues/820)
 Allow Tyler, the Zowe API ML administator, to track the health and performance of the API ML.
@@ -74,7 +74,7 @@ API ML Squad Plan:
 Continue supporting our mentee Saurabh as he builds out an mvp of the metrics service. 
 
 
-## Simplify onboarding of the services to the API ML
+## Simplify onboarding of the services to the API ML (Internship)
 
 * [Simplify onboarding of the services to the API ML #1592](https://github.com/zowe/api-layer/issues/1592)
 The onboarding of services to the API Mediation Layer is a manual, time consuming effort. There are many minor ways how to get it wrong and limited verification is available. This objective seeks to provide an intuitive and easy onboarding path that automates input where possible.
