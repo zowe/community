@@ -29,7 +29,10 @@
 
 * [Research - Zowe 2.x Requirements](https://github.com/zowe/zowe-install-packaging/issues/2262)
   - Review and present any process, systems, and pipeline changes to support a Zowe 2.x release.
-  - Work items to be created for future PI.
+    - Work items to be created for future PI.
+* Zowe v2 Conformance Preview
+  - Zowe z/OS extensions on Kubernetes 
+  - Zowe z/OS extension manifest and configuration review 
 ## Install and Configuration 
 
 * [Zowe PSI Delivery](https://github.com/zowe/zowe-install-packaging/issues/1174)
