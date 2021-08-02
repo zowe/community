@@ -16,7 +16,7 @@ We will provide upgrade path from maintenance release to the maintenance release
 
 ## Maintenance release
 
-The maintenance release isn't planned regularly and unless absolutely needed for important security fix, it should never introduce breaking changes even more so than active release. It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance release, so this is not to be used as an exhaustive list. Characteristics of what is considered a “critical” bug or defect include:
+The maintenance release is not a regularly planned release. Unless absolutely required for an important security fix, a maintenance release should never introduce breaking changes. While introducing breaking changes is to be generally avoided for active releases, such changes should be entirely avoided for maintenance releases. It is difficult to pre-determine all of the conditions that point to when a Maintenance release is to be created. As such, the following points so not comprise an exhaustive list. Characteristics of what is considered a “critical” bug or defect include the following points:
 
 - Security vulnerabilities that compromise data or system integrity
 - Data corruption
