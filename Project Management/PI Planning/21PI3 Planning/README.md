@@ -5,17 +5,36 @@
 
 Day 1\
 When: Wednesday, July 28th, 2021 (8:00am to 11:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
-Zoom Meeting: <br>
+Zoom Meeting: https://zoom.us/j/95693817477<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214905&calstart=2021-07-28
+<br>
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/hUiYLhjgACtWrbbrKM03gmah9mUG7bkPGwhCLKBG4o1tLpR4bi_Wo-mzSbUCsFvS.LTAg1gVavK3XSJ74?startTime=1627473297000)
 <br>
 
 Day 2\
 When: Thursday, July 29th, 2021 (9:00am to 10:30 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
-Zoom Meeting: <br>
+Zoom Meeting: https://zoom.us/j/97817452697<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214906&calstart=2021-07-29
+<br>
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/q0wI0FzSFcKKL3TC8sud1L1G-N8hTYV788IR4OKusnhtvpTaxqEqERxfpfu5pcM3.PRewRF9meiQKHqQP?startTime=1627563320000)
 <br>
 
 Day 3\
 When: Friday, July 30th, 2021 (9:00am to 12:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
-Zoom Meeting: <br>
+Zoom Meeting: https://zoom.us/j/92463864926<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1214909&calstart=2021-07-30
+<br>
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/GK-nHZgFtBo1EKXcaQgwpi8GJ7iMYU4uSfU-B3NNvK2X8DUKGuJ-ysylWkzIbL4.mbcrrpxVyM0tocz4?startTime=1627649690000)
+
+Squad PI Objectives<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Explorer%20Squad%20-%2021PI3%20Objectives%20(July%202021%20to%20October%202021).md)<br>
+[API-ML](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2021PI3%20Objectives%20(August%202021%20to%20October%202021).md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20CLI%20Squad%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Web%20UI%20Squad%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
+
 
 
 </th>
@@ -155,7 +174,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link: <https://zoom.us/j/99891777715>
+- Zoom/Webex Link: <https://zoom.us/j/98605751219>
 </td>
                 <td></td>
     </tbody>
@@ -186,7 +205,7 @@ Squad Breakout 6
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: <insert link>
+- Zoom/Webex Link: https://zoom.us/j/97973124410?pwd=a25JS21pOXpmMDJCSmJreWtXbndrZz09 <br>
 </td>
                 <td></td>
     </tbody>
@@ -211,6 +230,19 @@ Squad Breakout 8
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
+    </tbody>
+    <tbody>
+     <tr>
+          <td>Public Comment</td>
+          <td>2021-07-29</td>
+          <td>8:00 AM</td>
+     <td>
+
+Squad Breakout
+- Zowe Doc Squad
+- Zoom/Webex Link: <https://zoom.us/j/646062143>
+</td>
+                <td></td>
     </tbody>
 <tbody>
         <tr>
@@ -268,7 +300,7 @@ Zoom/Webex Link: <https://zoom.us/j/99891777715> <br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: <insert link> <br>
+Zoom/Webex Link: https://zoom.us/j/95404524479?pwd=UWNkTGgrSU03TG9yeGg4eEh2MU5MQT09<br>
 <br>
 Squad 6<br>
 Onboarding Squad (no session scheduled) <br>
@@ -436,4 +468,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 [Confidence Vote](https://www.surveymonkey.com/r/97BMTJY)
 <br>
-[Confidence Vote Results]()
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/21PI3%20Confidence%20Vote%20Results.png)

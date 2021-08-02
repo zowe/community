@@ -65,7 +65,7 @@ Sprint 6 - 2022/01/11 - 2022/01/24<br>
 #### 1.23<br>
 - Code Freeze 2021/07/14<br>
 - RC Build 2021/07/15<br>
-- System Demo 2021/08/02<br>
+- System Demo ~~2021/08/02~~ Changed to 2021/08/04<br>
 - Testing 2021/07/15 - 2021/07/26<br>
 - GA 2021/07/26<br>
 
