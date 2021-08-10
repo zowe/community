@@ -1,4 +1,4 @@
-# Zowe Release Schedule
+# Zowe Version Release Schedule
 
 We release Zowe on a regular schedule. Major versions every two years. Minor versions on a schedule published in [Community repository](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md). The minor changes shouldn't introduce breaking changes. We introduce the breaking changes only on the border of the major releases. 
 
@@ -31,9 +31,9 @@ This release gets updates every 6 weeks according to the published schedule. The
 - A fix can be made available without incurring a greater risk of introducing additional defects
 - Critical business function is affected
 
-## Unstable
+## Under development
 
-Development branch of the Zowe, which contains the code currently being worked on. We prepare the release every night and publish it. THe main reason is to run the full CICD pipeline and give feedback to the squads around the integration of the Zowe components. 
+Development branch of the Zowe, which contains the code currently being worked on. We prepare the release every night and publish it. The main reason is to run the full CICD pipeline and give feedback to the squads around the integration of the Zowe components. 
 
 # Zowe Release Process
 
