@@ -31,6 +31,7 @@ Squad must be proposed via a Community issue to [GitHub](https://github.com/zowe
 The newly formed squad:
 * is bound by the Code of Conduct as outlined in the TSC charter.
 * agrees to transfer any relevant trademarks to Zowe and to assist in filing for any relevant unregistered ones. This assignment will be reversed if the project does not remain in the Zowe, as described below. Note that no patent or copyright assignment is necessary because the [Eclipse Public License 2.0 (EPL-2.0)](https://spdx.org/licenses/EPL-2.0.html) provides sufficient protections for other developers and users.
+* follows best practices outlined by TSC in best_practices directory
 * starts at the agreed stage
 
 ### Incubation Stage
