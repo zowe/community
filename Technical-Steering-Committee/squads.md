@@ -18,7 +18,7 @@ This list contains squads currently known to be in an incubator stage
 
 This list contains squads currently known to be in an active stage
 
-- API Mediation Layer & Security
+- API Mediation Layer
 - CLI
 - Documentation
 - Explorers
