@@ -15,7 +15,7 @@ Thank you for being interested in becoming a squad within Zowe. To help you with
   *  
 * Statement on alignment with Zowe mission and principles
   * 
-* Sponsor from Zowe (sponsor helps mentor projects) - TSC member
+* Ambassador from Zowe (helps mentor projects) - Preferrably TSC or ZAC member
   * 
 * External dependencies (including licenses)
   * 
