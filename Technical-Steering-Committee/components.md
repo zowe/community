@@ -1,67 +1,54 @@
-Within the components we have two important axis with respect to the state of the components. First is whether they are already mature and the second whether regardless of their maturity components belong to core. 
+# Components
 
-Steps
-- Identify all components Zowe supports. 
-- Identify other components
-- Identify the state of the components
-  - Deprecated
+The code within the Zowe is structured into components. There are components that belong to the Core of the Zowe and components that are extensions of Zowe. Components together with their dedication and lifecycle status are described in the [list of components](list-of-components.md). 
+
+Every component follows semantic versioning. The component states for the relevant versions their status. Unless the status is defined, the status is archived. Therefore for every component it is possible to be in multiple stages based on the version.
+
+E.g. API Mediation Layer:
+- v0.x.x - Archived
+- v1.x.x - GA
+- v2.x.x - Under development
 
 
-How do I find all components that are delivered and developed within Zowe. 
 
-There are 122 https://github.com/orgs/zowe/repositories within Zowe. Do we consider each of them as a component? We have ownership of som e of the repositories by some of the squads. 
+## Lifecycle
 
-I believe that one of the issues is that there isn't 1:1 match for the components with the repositories. 
+The components are going through the four stages of their lifecycle. Under development -> Technical Preview -> Generally Avaliable -> Deprecated -> Archived. All the components as we understand them within Zowe are versioned and use semantic versioning. 
 
-# Lifecycle (Maturity)
-
-Can be installed and run via the Zowe technologies. Has the manifest and bin and 0 or more lifecycle scripts. 
-It ignores the API ML. 
-
-Units of software that they have. 
-
-Components
-- Under development - Not part of Zowe in any capacity. 
-- Technical Preview - Supported, the only difference is that there may be some breaking changed when the component reaches the Generally Available status. 
-- Generally Available - 
-- Deprecated - Remains part of the Zowe, it's going to be removed with next major release. 
-- Emeritus - Not part of Zowe in any capacity. Not supported. 
-
-From the support perspective 
-- Technical Preview, Generally Available and Deprecated are supported for the versions in which they are part of. 
-
-Features
-- In Progress (Under development)
-- Preview?
-- Generally Available
+- Under Development 
+- Technical Preview
+- Generally Available (GA)
 - Deprecated
-- Removed
+- Archived
 
-# Status
+### Under Development
 
-The components are either part of the Zowe core or the extensions. Do we have a concept of the component per repository?
+Component in this stage isn't yet ready to be deployed in production. The squad is working on it and preparing it for the deployment. In general this means that the component is in version 0.x.x 
 
-## Core
+### Technical Preview
 
-Core components are part of the base installation of the Zowe and as such will be available on every system with Zowe installed. 
+v1 for the component
 
-## Extension
+### Generally Available 
 
-Extension components aren't part of the base installation. They are delivered separately either via mechanism provided by Zowe or by some mechanism provided by 
+Guarantees support for all the versions within the Active releases and Maintenance releases since it came out. 
 
-### API-Layer example
+### Deprecated
 
-Core
+There will be no more support after this major version release enter the maintenance stage. The next active major release will have the component removed. 
 
-- Gateway Service
-- Discovery Service
-- API Catalog Service
-- Caching Service
-- Onboarding-enabler-java
-- Onboarding-enabler-spring
-- 
+### Archived
 
-Extensions
+Component in this stage doesn't receive any support. The code is still part of the Zowe and you can use it but ther is no guarantee nor support for such components. 
 
-- Discoverable Client - Extension
-- 
+## Dedication
+
+The components within Zowe are either part of the Zowe core or part of the Zowe extensions or Vendor based extensinos and components. 
+
+### Core
+
+The Core components together form the main parts of Zowe. Every system should have these components installed in order to have a full usage of the Zowe. There are server side and client side components that together orchestrate the whole Zowe functionality. The squads are responsible. 
+
+### Extension
+
+The extensions created by Zowe contains relevant functionalities that we believe that everyone should benefit from. 
