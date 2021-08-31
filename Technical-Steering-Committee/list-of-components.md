@@ -59,7 +59,7 @@ This file contains a list of components within Zowe with their position within e
 
 | Name                   | URL                                                             | State |
 | Zowe Install Packaging | https://github.com/zowe/zowe-install-packaging                  | GA |
-| perf-timing | https://github.com/zowe/perf-timing | GA |
+| perf-timing | https://github.com/zowe/perf-timing |  |
 | launcher | https://github.com/zowe/launcher | GA |
 | jenkins-library | https://github.com/zowe/jenkins-library | |
 | zowe-dependency-scan-pipeline | https://github.com/zowe/zowe-dependency-scan-pipeline | |
