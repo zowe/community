@@ -1,46 +1,41 @@
 # Principles
 
-Zowe is a project that aims at bringing modern interfaces and open source tools to the mainframe platform. What follows is a set of principles agreed upon by Zowe. In case of disagreement within the Zowe, the principles outlined here needs to be taken into account when mediating.
+Zowe is a project that aims to bring modern interfaces - API, command line, and visual – to z/OS via an open source community. In case of disagreement within the Zowe community, the principles outlined here need to be taken into account when mediating.
 
 ## Zowe simplifies the life of Modern Mainframers
 **Principle:** Modern and effective interfaces
 
-We introduce and integrate the interfaces such as Web, Mobile, APIs, Modern IDEs, Chat that simplifies work with the mainframe. We intend to provide the foundations and tools for all the vendors existing within the ecosystem to easily provide the interfaces with the Zowe capabilities. The users should be able to leverage the provided tools to get more value out of their mainframe environments. 
+We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs and modern IDEs.
 
-## We are't interested in technologies that didn't yet proved their value within either mainframe or distributed environment
-**Principle:** Proven technologies
+## Zowe does not compromise on z/OS security standards
+**Principle:** Security is paramount
 
-We introduce the tools that are standard and proven within the distributed environment. We learn the best that's there and make sure it is applicable within the mainframe environment. We don't intend to adopt unknown and niche technologies with limited benefit for teh whole mainframe ecosystem. 
-
-## Zowe keeps the zOS security Standards
-**Principle:** Secure
-
-We respect the high security of the mainframe environment and intend to keep the same level of security while being able to leverage modern open source libraries and tooling created outside of the mainframe platform and giving the key tools to the hands of the Zowe users. 
+We commit to secure development practices, source code scans and vulnerability testing. We will never introduce a feature or change that circumcents or allows circumvention of z/OS security infrastructure. If vulnerabilities are ever found they will be flagged with fix or workaround provided.
 
 ## Transparent and open implementation, processes and deliveries
-**Principle:** Open First
+**Principle:** Open first
 
-We intend to develop and plan transparently and in open. We will build inclusive environment where anyone willing to contribute can easily find a way how to do it. 
+We will plan and develop transparently and in open. We will build an inclusive environment where anyone willing can easily find a way to contribute. 
 
-## Collaboration between Mainframe and distributed is good and both sides benefit
+## Collaboration between z/OS and other platforms - both mainframe and distributed - benefits both sides
 **Principle:** Hybrid
 
-We intend to bring the lessons from the distributed environments to the MainFrame platform as well as providing the opportunity to the distributed environment to benefit from the knowledge gained in the MainFrame environment in order to build secure and performant hybrid environments in which the mainframe plays core role. 
+We will bring lessons from the non-z/OS world to the z/OS platform as well as providing the opportunity for the non-z/OS world to benefit from the knowledge gained in the z/OS world in order to build secure and performant hybrid environments in which z/OS plays core role. 
 
-## The decision made within the project whould be based on reality and supported by data
-** Principle:** Data drive
+## Decision made within the project are based on community participation and supported by data
+** Principle:** Agile and data driven
 
-We are data-driven project. When we need to make a major decision we will consult the data that we can access to help us reach the decision. 
+We believe in agile development practives with small teams, iterative development, etc. and we are data-driven with respect to quality and performance metrics.
 
-## We intend to listen to our users and elicit feedback from them.
-**Principle**: User centric
+## We will listen to our stakeholders and elicit feedback from them.
+**Principle**: Stakeholder-centric
 
-We are user-centric project. We intend to keep the best interests of ours users in our mind. We intend to get the feedback from them as much as possible and keep it in mind when planning future work. 
+We are stakeholder-centric project where stakeholders include end-users, exploiters, deploying enterprises or the Zowe Advisory Council. We will keep the best interests of our stakeholders in mind and elicit feedback from them as much as possible, incorporate feedback when planning future work, and keep our stakeholders informed on Zowe's evolution and how their feedback is received and responded to.
 
 ## The Zowe doesn't depend on and isn't owned by any specific Vendor
-**Principle:** Vendor Neutral Development
+**Principle:** Vendor Neutral
 
-We intend to keep Zowe vendor neutral. No company should be able to claim that it owns Zowe. If we use technology specific for a vendor or a company we need t ohave a very strong argument and a way to move away from them in case the cendor intends to levearge them against the Zowe.
+We will keep Zowe vendor neutral. No company can claim that it owns Zowe. If we use technology specific to a vendor or company we need a very strong argument and a means to move away from that technology if the vendor intends to leverage the technology counter to our principles.
 
 ## Squads are self-governing
 **Principle:** Minimal Viable Governance
