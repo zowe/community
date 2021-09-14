@@ -5,12 +5,12 @@ Zowe is a project that aims to bring modern interfaces - API, command line, and 
 ## Zowe simplifies the life of Modern Mainframers
 **Principle:** Modern and effective interfaces
 
-We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs and modern IDEs.
+We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs (C interfaces to HLASM, other programming interfaces, REST APIs, ...) and modern IDEs.
 
 ## Zowe does not compromise on z/OS security standards
 **Principle:** Security is paramount
 
-We commit to secure development practices, source code scans and vulnerability testing. We will never introduce a feature or change that circumcents or allows circumvention of z/OS security infrastructure. If vulnerabilities are ever found they will be flagged with fix or workaround provided.
+We commit to secure development practices, source code scans and vulnerability testing. We will never introduce a feature or change that circumvents or allows circumvention of z/OS security infrastructure. If vulnerabilities are ever found they will be flagged with fix or workaround provided.
 
 ## Transparent and open implementation, processes and deliveries
 **Principle:** Open first
