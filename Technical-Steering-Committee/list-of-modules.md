@@ -1,4 +1,4 @@
-This file contains a list of components within Zowe with their position within ecosystem and their maturity state.  To learn more about the components lifecycle and position within ecosystem go to the [Components](components.md)
+This file contains a list of modules within Zowe with their position within ecosystem and their maturity state.  To learn more about the modules lifecycle and position within ecosystem go to the [Modules](modules.md)
 
 # Core
 
