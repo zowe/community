@@ -20,6 +20,10 @@ This guide will help you navigate the Zowe community, and learn more on how to c
     - [Documentation Squad](#documentation-squad)
     - [Onboarding Squad](#onboarding-squad)
     - [Zowe Systems Squad](#zowe-systems-squad)
+  - [Incubators](#incubators)
+    - [Zowe Mobile](#zowe-mobile)
+    - [ZEBRA](zebra)
+    - [Zowe Workflow wiZard](zowe-workflow-wizard)
 
 ## Communication Channels
 
@@ -218,3 +222,17 @@ Maintains the Zowe installation tools and integration of Zowe components. The sy
 * https://github.com/zowe/ci-management - Management repository for Jenkins CI
 * https://github.com/zowe/jenkins-library - Jenkins pipeline library
 * https://github.com/zowe/release-management - Material and activities related to release management
+
+### Incubators
+
+#### Zowe Mobile (Joined 2019)
+
+Lets you interact with your Zowe instance running on the mainframe from your mobile. 
+
+#### ZEBRA (Joined 2020)
+
+Provides re-usable and industry compliant JSON formatted RMF/SMF data records, so that many other ISV SW and users can exploit them using open-source SW for many ways.
+
+#### Zowe Workflow wiZard (Joined 2021)
+
+The Workflow wiZard delivers a workflow builder which simplifies the creation of z/OSMF workflows. These workflows can be very helpful for automating workloads or guiding users through a set of ordered steps to complete a task, but they can also be complex and challenging to create. The workflow builder was created to address these challenges.
