@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[09-21-2021](https://zoom.us/rec/share/Xq-CZjM8VZGJeI24ZcjsCHVeKJo7ZexL5l1Dka1xFI6KZcljtXKh_UIaWPDP0_2a._BYpOC9eEMH8wzOp?startTime=1632232838000) Meeting Recording
+
 [09-07-2021](https://zoom.us/rec/share/NKAsAfIc5dJgVpCVslGPYSMag_DixiLmK7uWH2X3xaWrLDQ3AJS2ARSZg8bisgQG.nZx4DOueotjEJOAa?startTime=1631022782000) Meeting Recording
 
 [08-25-2021](https://zoom.us/rec/share/JwHjLMl20XvYcKB88sG1NOrCucBZ23Sv2TXrZQ4isuqPrimOSB68BF44MTz_Miw.d64pUE2pvd3uJdNe?startTime=1629813350000) Meeting Recording
