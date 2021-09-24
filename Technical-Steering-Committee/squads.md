@@ -45,7 +45,7 @@ The newly formed squad:
 
 #### Incubation Stage
 
-Every year after accepting into incubating stage Incubation Stage squad will come to a vote with the TSC. A majority vote is required to renew a squad at Incubation Stage for another year or move it to active stage. If there is not a majority, the squad is not renewed.
+Every year after accepting into incubating stage Incubation Stage squad will come to a vote with the TSC. A majority vote is required to renew a squad at Incubation Stage for another year or move it to active stage. If there is not a majority, the squad is not renewed. If there are too many squads in incubation stage, the TSC will group the renewals.
 
 In the case of an Incubation Stage squad that is not renewed with Zowe, the trademark will be returned to the project maintainers or an organization they designate.
 
