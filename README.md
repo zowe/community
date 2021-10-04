@@ -35,12 +35,11 @@ Register an account with Slack at https://slack.openmainframeproject.org
 
 Sub-project specific channels:
 
-* \#zowe-api - Ask questions about the API Mediation Layer, propose new ideas, or interact with the squad.
-* \#zowe-cli - Ask questions about Zowe CLI, propose new ideas, and interact with the Zowe CLI community.
-* \#zowe-core - Expand upon the base technologies being contributed to the project.
-* \#zowe-explorer - Ask questions about Zowe Explorer for VS Code, propose new ideas, and interact with the Zowe Explorer community.
-* \#zowe-python-client-sdk - Ask questions about the Zowe Python Client SDK (incubation) and get involved.
-* \#zowe-mobile - Ask questions about Zowe Mobile (incubation) and get involved.
+* \#zowe-api - Collaborate with channel members on the API Mediation Layer, propose new ideas, or interact with the squad.
+* \#zowe-cli - Collaborate with channel members on  Zowe CLI, propose new ideas, and interact with the Zowe CLI community.
+* \#zowe-explorer - Collaborate with channel members on  Zowe Explorer for VS Code, propose new ideas, and interact with the Zowe Explorer community.
+* \#zowe-python-client-sdk - Collaborate with channel members on Zowe Python Client SDK (incubation) and get involved.
+* \#zowe-mobile - Collaborate with channel members on Zowe Mobile (incubation) and get involved.
 
 Operations channels:
 
