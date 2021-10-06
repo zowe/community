@@ -7,7 +7,7 @@ assignees: balhar-jakub, armstro
 
 ---
 
-Thank you for being interested in becoming a squad within Zowe. To help you with the proposal we will need you to provide following information. To learn more about the whole process consult [lifecycle](../../Technical-Steering-Committee/lifecycle.md).
+Thank you for being interested in becoming a squad within Zowe. To help you with the proposal we will need you to provide following information. To learn more about the whole process, please consult [lifecycle](../../Technical-Steering-Committee/lifecycle.md).
 
 * Name of squad (must be unique within Zowe)
   * 
