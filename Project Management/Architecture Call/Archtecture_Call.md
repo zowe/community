@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[09-28-2021](https://zoom.us/rec/share/VIseaKsK4D2IepTAWUpnlGzXoWMSHzIHVgihCXIYYDdGCYXtim8W-LlSjPmaE3yW.Bc8gUZC90GS-SzRi?startTime=1632837317000)  V1.24.0 Retrospective and Update on Container Work Items
+
 [09-21-2021](https://zoom.us/rec/share/Xq-CZjM8VZGJeI24ZcjsCHVeKJo7ZexL5l1Dka1xFI6KZcljtXKh_UIaWPDP0_2a._BYpOC9eEMH8wzOp?startTime=1632232838000) Meeting Recording
 
 [09-07-2021](https://zoom.us/rec/share/NKAsAfIc5dJgVpCVslGPYSMag_DixiLmK7uWH2X3xaWrLDQ3AJS2ARSZg8bisgQG.nZx4DOueotjEJOAa?startTime=1631022782000) Meeting Recording
