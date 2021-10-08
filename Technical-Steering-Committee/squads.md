@@ -48,18 +48,16 @@ Every year after accepting into incubating stage Incubation Stage squad will com
 
 In the case of an Incubation Stage squad that is not renewed with Zowe, the trademark will be returned to the project maintainers or an organization they designate.
 
-In order to move to the active stage, following requirements must be met and demonstrated by the squad. The squad:
- * Have committers from at least two organizations.
- * Follow best practices outlined by TSC in [best_practices](https://github.com/zowe/community/tree/master/Technical-Steering-Committee/best-practices) directory.
- * Have a designated TSC representative. Provide updated Governance and Committers files where applicable. The current committers and contributors are in the GitHub as outlined in the TSC [Contributing guidelines](contributing.md)
-
-The squads are expected to move from the incubation stage within at most two major version releases. If agreed with TSC they can stay in the Incubation stage longer when needed. TSC will consult ZAC for guidance on whether the incubation should be longer  
+The squads are expected to move from the incubation stage within at most two years. If agreed with TSC they can stay in the Incubation stage longer when needed. TSC will consult ZAC for guidance on whether the incubation should be longer  
 
 #### Active Stage
 
 Active stage squad represents a mature squad working within the Zowe project who is actively collaborating with the other squads. Squads can remain in the active stage indefinitely. 
 
-We expect squads at this stage to follow best practices outlined by TSC in best_practices directory.
+In order to move to the active stage, following requirements must be met and demonstrated by the squad. The squad:
+ * Have committers from at least two organizations.
+ * Follow best practices outlined by TSC in [best_practices](https://github.com/zowe/community/tree/master/Technical-Steering-Committee/best-practices) directory.
+ * Have a designated TSC representative. Provide updated Governance and Committers files where applicable. The current committers and contributors are in the GitHub as outlined in the TSC [Contributing guidelines](contributing.md)
 
 #### Emeritus Stage
 
