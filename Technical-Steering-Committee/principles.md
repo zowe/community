@@ -15,12 +15,12 @@ We commit to secure development practices. We'll follow/comply/adhere to/obey wi
 ## Zowe simplifies the life of Modern Mainframers
 **Principle:** Modern and effective interfaces
 
-We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs (C interfaces to HLASM, other programming interfaces, REST APIs, ...) and modern IDEs.
+We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The tools should be simple, effective, actively used and developed. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs (C interfaces to HLASM, other programming interfaces, REST APIs, ...) and modern Developer Environments.
 
 ## Collaboration between mainframe and other platforms - both mainframe and distributed - benefits both sides
 **Principle:** Hybrid
 
-We will bring lessons from the non-mainframe world to the mainframe platform as well as providing the opportunity for the non-mainframe world to benefit from the knowledge gained in the mainframe world in order to build secure and performant hybrid environments in which mainframe plays core role. To do so we intend to lower the entry barrier to the mainframe environment by leveraging the technologies famililar to modern developers and where possible supporting mainframe education.
+We will bring lessons from the non-mainframe world to the mainframe platform as well as providing the opportunity for the non-mainframe world to benefit from the knowledge gained in the mainframe world in order to build secure and performant hybrid environments in which mainframe plays core role. To do so we intend to lower the entry barrier to the mainframe environment by leveraging the technologies famililar to modern developers and supporting mainframe education.
 
 ## We will listen to our stakeholders and elicit feedback from them.
 **Principle**: Stakeholder-centric
@@ -30,7 +30,7 @@ We are stakeholder-centric project where stakeholders include end-users, exploit
 ## The Zowe does not depend on and is not owned by any specific Vendor
 **Principle:** Vendor Neutral
 
-We will keep Zowe vendor neutral. No company can claim that it owns Zowe. If we use technology specific to a vendor or company we need a very strong argument and a means to move away from that technology if the vendor intends to leverage the technology counter to our principles. Such technology also needs to be accessible to anyone wanting to participate and contribute to the Zowe project. 
+We will keep Zowe vendor neutral. No company can claim that it owns Zowe. If we use technology owned by a vendor or company (e.g. z/OS) we need a very strong argument and a means to move away from that technology if the vendor intends to leverage the technology counter to our principles. Such technology also needs to be accessible to anyone wanting to participate and contribute to the Zowe project. 
 
 ## Squads are self-governing
 **Principle:** Minimal Viable Governance
@@ -38,6 +38,6 @@ We will keep Zowe vendor neutral. No company can claim that it owns Zowe. If we 
 We build only minimum necessary policies and governance and let the squads deliver the value in a way that fits them without endangering the whole project.
 
 ## Decision made within the project are based on community feedback supported by objective data
-** Principle:** Agile and data driven
+** Principle:** Learning and data driven
 
 We believe in development responding to change, done in collaboration with customers, always producing working software where individual and interactions are valued. We are also data-driven with respect to quality and performance metrics.
