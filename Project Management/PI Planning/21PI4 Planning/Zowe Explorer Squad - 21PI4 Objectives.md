@@ -10,7 +10,7 @@ ZE Squad Plan:
 - [Centralized error handling - Updates](https://github.com/zowe/vscode-extension-for-zowe/issues/388)
   - Include the Error Handling API in the Zowe Explorer codebase
   - Update the Error Handling API to accept buttons
-- [Login/Logout capability for extenders](#)
+- [Login/Logout capability for extenders](https://github.com/zowe/vscode-extension-for-zowe/issues/1255)
 - (Team-Discussion) [V2 Conformance Criteria ](https://github.com/zowe/vscode-extension-for-zowe/discussions/1534)
 
   
@@ -20,8 +20,8 @@ ZE Squad Plan:
 Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
-- [Allow Extenders to access the team configuration file](#)
-- [Implement the zowe config auto-init](#)
+- [Allow Extenders to access the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
+- [Implement the zowe config auto-init](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
 - (Team-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
 
 ## Prioritized Feature Requests and High Impact Issues
@@ -29,9 +29,9 @@ ZE Squad Plan:
 - [Issue TSO & MVS Commands Polish Work](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
 - [Multi-selection support for the dataset tree - Copy PDS and Members](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
 - [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
-- [Standardize the dialog boxes and proress bar](#)
-- [Change Password through z/OSMF Auth API](#)
-- [Remove Linked Profiles Feature](#)
+- [Standardize the dialog boxes and progress bar](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
+- [Change Password through z/OSMF Auth API](https://github.com/zowe/vscode-extension-for-zowe/issues/1538)
+- [Remove Linked Profiles Feature](https://github.com/zowe/vscode-extension-for-zowe/issues/1280)
   
 # FTP VSCode Extension Objectives
 - [Test automation for FTP package](https://github.com/zowe/vscode-extension-for-zowe/issues/1028)
