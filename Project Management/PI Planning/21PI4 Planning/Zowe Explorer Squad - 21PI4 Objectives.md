@@ -63,4 +63,4 @@ ZE Squad Plan:
 ## Dependencies
 
 
-### Confidence Vote Avg: 4.0
+### Confidence Vote Avg:
