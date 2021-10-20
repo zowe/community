@@ -11,7 +11,7 @@ ZE Squad Plan:
   - Include the Error Handling API in the Zowe Explorer codebase
   - Update the Error Handling API to accept buttons
 - [Login/Logout capability for extenders](https://github.com/zowe/vscode-extension-for-zowe/issues/1255)
-- (Team-Discussion) [V2 Conformance Criteria ](https://github.com/zowe/vscode-extension-for-zowe/discussions/1534)
+- (Squad-Discussion) [V2 Conformance Criteria ](https://github.com/zowe/vscode-extension-for-zowe/discussions/1534)
 
   
 ## Support the Team Configuration file in Zowe Explorer
@@ -22,7 +22,7 @@ Continue the development work for the team configuration file in Zowe Explorer
 ZE Squad Plan:  
 - [Allow Extenders to access the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
 - [Implement the zowe config auto-init](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
-- (Team-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
+- (Squad-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
 
 ## Prioritized Feature Requests and High Impact Issues
 
@@ -38,7 +38,7 @@ ZE Squad Plan:
 
 # CICS VSCode Extension Objectives
 
-- [Include CICS in Zowe Explorer Mono Repo](#)
+- (Squad-Discussion) [Include CICS in Zowe Explorer Mono Repo](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540)
 - [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
 - Work with [OMP Cobol Training Course](https://github.com/openmainframeproject/cobol-programming-course).
   - Update the course to add the VSCode CICS plugin
