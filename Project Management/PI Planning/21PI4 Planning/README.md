@@ -172,6 +172,11 @@ Squad Breakout 2
 Squad Breakout 3
 - Zowe CLI Squad
 - Zoom/Webex Link: https://zoom.us/j/99891777715 <br>
+    
+Squad Breakout 6
+- Onboarding Squad  
+- Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
+
 </td>
                 <td></td>
     </tbody>
@@ -185,10 +190,6 @@ Squad Breakout 3
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link:  <br>
-
-Squad Breakout 6
-- Onboarding Squad  
- - Zoom/Webex Link:  <br>
 
   </td>
                 <td></td>
