@@ -67,7 +67,7 @@ Squad PI Objectives<br>
             <td>2021-10-25</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee (ZLC) and the Technical Steering Committee (TSC)</td>
+            <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
     </tbody>
     <tbody>
         <tr>
