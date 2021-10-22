@@ -25,11 +25,11 @@ Meeting Recordings: [Day 3]()
 
 Squad PI Objectives<br>
 [Explorer]()<br>
-[API-ML]()<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2021PI4%20Objectives.md)<br>
 [CLI]()<br>
 [Systems]()<br>
 [WebUI]()<br>
-[Onboarding]()<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
 [Documentation]()<br>
 
 
