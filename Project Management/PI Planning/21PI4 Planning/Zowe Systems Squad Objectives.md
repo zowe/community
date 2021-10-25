@@ -13,8 +13,9 @@
 
 ## Install and Configuration 
 
-* [Zowe PSI Automation]()
+* [Zowe PSI]()
   - Complete integration of PSI into automated workflow
+  - Configuration Workflow
   - Move PSI to TSS/ACF systems?
 * [Zowe v2 Support](https://github.com/zowe/zowe-install-packaging/issues/2136)
   - Prepare for support of App/Plugin stores
