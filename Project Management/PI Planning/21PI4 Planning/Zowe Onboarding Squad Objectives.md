@@ -3,13 +3,23 @@
 
 (1) Goal:  Drive Continuous Community Outreach
 - Solicit Zowe Speakers / Generate Awareness of Upcoming Conference / Coordinate Submissions with OMP
+- - Plan & Execute an alternative to SHARE to help with Zowe V2 Awareness (if required)
 - Close, review, summarize, file the Semi-Annual Zowe Survey (October) 
 - Prep / Advertise / Deliver: OMP Zowe Quarterly Webinar: Focus Topic Survey Results & V2 Open Forum (Jan)
 
 (2) Goal:  Prepare V2 Conformance Program & Facilitate Transition of all V1 programs to V2
-- Drive collection of final V2 Conformance Candidates (from all squads) / incorporate all Ci-CD squad packaging requirements
-- Evaluate, Prepare and *draft* the PLAN for V2 conformance transition & extender communication (align publication with V2 GA)
-- PLAN and EXECUTE ON Extender notifications for V2 Conformance Requirements
+- Part I:  Make V2 program available
+- -Drive collection of final V2 Conformance Candidates (from all squads) / incorporate all Ci-CD squad packaging requirements
+- -Evaluate, Prepare and *draft* the PLAN for V2 conformance transition & extender communication (align publication with V2 GA)
+- -PLAN and EXECUTE ON Extender notifications for V2 Conformance Requirements
+- -Cleary DEFINE and PUBLISH V2 Compatibility
+- - -Will Zowe V2 plug-ins work with any Zowe V1 release?
+- - -Will Zowe V1 plug-ins work with Zowe V2?
+- - -Will all CORE Zowe plug-ins work with Zowe V1?  Zowe V2?
+- - -What is the "official" Zowe compatibility stance? What is the official Zowe deprecation stance?
+- - -Encourage compatability matrix (vendors)
+
+- Part II:  Revise/Improve the Conformance Process
 - Revise the Conformance Application process
 - - interactive vs. printing form
 - - individual forms, vs. 1 long form
