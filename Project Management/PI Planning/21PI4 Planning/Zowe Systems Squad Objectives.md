@@ -1,4 +1,4 @@
-# Zowe Systems Squad - 21PI3 Objectives (October 2021 to January 2022)
+# Zowe Systems Squad - 21PI4 Objectives (October 2021 to January 2022)
 
 ## Containerization
 
