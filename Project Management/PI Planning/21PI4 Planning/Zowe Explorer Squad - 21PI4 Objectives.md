@@ -29,11 +29,12 @@ ZE Squad Plan:
 ## Prioritized Feature Requests and High Impact Issues
 
 - [Issue TSO & MVS Commands Polish Work](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
-- [Multi-selection support for the dataset tree - Copy PDS and Members](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
+- [Multi-selection support for all applicable functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
 - [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [Standardize the dialog boxes and progress bar](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
 - [Change Password through z/OSMF Auth API](https://github.com/zowe/vscode-extension-for-zowe/issues/1538)
 - [Remove Linked Profiles Feature](https://github.com/zowe/vscode-extension-for-zowe/issues/1280)
+- [Add FTP and CICS VSC ext in the zowe technical preview page](https://github.com/zowe/vscode-extension-for-zowe/issues/1546)
   
 # FTP VSCode Extension Objectives
 - [Test automation for FTP package](https://github.com/zowe/vscode-extension-for-zowe/issues/1028)
