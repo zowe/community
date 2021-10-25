@@ -21,10 +21,10 @@ Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
 - [Allow Extenders to access the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
-- [Implement the zowe config auto-init](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
-- [Enable the usage of tokens](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
 - [Research refresh options after creation and update of config file](https://github.com/zowe/vscode-extension-for-zowe/issues/1514)
 - (Squad-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
+- [STRETCH] [Implement the zowe config auto-init](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
+- [STRETCH] [Enable the usage of tokens](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
 
 ## Prioritized Feature Requests and High Impact Issues
 
