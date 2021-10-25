@@ -25,11 +25,11 @@ Meeting Recordings: [Day 3]()
 
 Squad PI Objectives<br>
 [Explorer]()<br>
-[API-ML]()<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2021PI4%20Objectives.md)<br>
 [CLI]()<br>
 [Systems]()<br>
 [WebUI]()<br>
-[Onboarding]()<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
 [Documentation]()<br>
 
 
@@ -67,7 +67,7 @@ Squad PI Objectives<br>
             <td>2021-10-25</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee (ZLC) and the Technical Steering Committee (TSC)</td>
+            <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
     </tbody>
     <tbody>
         <tr>
@@ -172,6 +172,11 @@ Squad Breakout 2
 Squad Breakout 3
 - Zowe CLI Squad
 - Zoom/Webex Link: https://zoom.us/j/99891777715 <br>
+
+Squad Breakout 6
+- Onboarding Squad  
+- Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
+
 </td>
                 <td></td>
     </tbody>
@@ -184,11 +189,7 @@ Squad Breakout 3
 
 Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link:  <br>
-
-Squad Breakout 6
-- Onboarding Squad  
- - Zoom/Webex Link:  <br>
+- Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
   </td>
                 <td></td>
@@ -313,7 +314,7 @@ Zoom/Webex Link: <insert link> <br>
   <td>
   Squad 4 Breakout<br>
   Systems Squad<br>
-  Zoom/Webex Link:  <br>
+  Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
   Recordings: <br>
   </td>
             <td></td>
@@ -463,6 +464,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 1 - We're planning to fail.  
 
-[Confidence Vote](https://www.surveymonkey.com/r/97BMTJY)
+[Confidence Vote](https://www.surveymonkey.com/r/RC7FRF3)
 <br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI3%20Planning/21PI3%20Confidence%20Vote%20Results.png)
+[Confidence Vote Results]()
