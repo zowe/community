@@ -9,7 +9,7 @@
 Draft PR of initial work (does not yet include delivering the binary within the CLI package) - https://github.com/zowe/zowe-cli/pull/1114
 * Out of the box experience - documentation validated from both a fresh install/config and migration from v1 LTS perspective
 
-## Beyond MVP Considerations (Strech/Roadmap)
+## Beyond MVP Considerations (Stretch/Roadmap)
 * Work in Progress - Add Ecosystem (Zowe CLI conformant plug-in) web-help to Zowe.org ([zowe/zowe-cli #1080](https://github.com/zowe/zowe-cli/issues/1080))
 * Zowe CLI Installation and use in multi-tenant environments - this would include work to install plug-ins in a system directory instead of alongside profiles in a user 
 directory as well as ensuring daemon mode behaves as expected and securely in such an environment. ([zowe/zowe-cli #1076](https://github.com/zowe/zowe-cli/issues/1076))
