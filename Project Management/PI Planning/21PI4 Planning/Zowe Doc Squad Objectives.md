@@ -17,12 +17,11 @@
 
 ### 3. Other doc enhancements
 
-Collaborate with other squad on several doc enhancements: 
 - Glossary of terms that are linked to in doc so that people can understand the meaning of certain doc points 
 - Task sheets in-doc to reduce need to read paragraphs before taking action
 - More error codes for ZSS, app-server and desktop
 - Add documentation for new plug-ins and incubator projects (ZEBRA, VSCode CICS extension, etc.)
-
+- Support for Zowe v2 documentation
 
 ### 4. Consolidate Zowe API documentation [#1645](https://github.com/zowe/docs-site/issues/1645)
 
