@@ -32,9 +32,10 @@ ZE Squad Plan:
 - [Multi-selection support for all applicable functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
 - [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [Standardize the dialog boxes and progress bar](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
-- [Change Password through z/OSMF Auth API](https://github.com/zowe/vscode-extension-for-zowe/issues/1538)
 - [Remove Linked Profiles Feature](https://github.com/zowe/vscode-extension-for-zowe/issues/1280)
 - [Add FTP and CICS VSC ext in the zowe technical preview page](https://github.com/zowe/vscode-extension-for-zowe/issues/1546)
+- [Add FTP extension in the Zowe doc site](https://github.com/zowe/vscode-extension-for-zowe/issues/1562)
+- [STRETCH] [Change Password through z/OSMF Auth API](https://github.com/zowe/vscode-extension-for-zowe/issues/1538)
   
 # FTP VSCode Extension Objectives
 - [Test automation for FTP package](https://github.com/zowe/vscode-extension-for-zowe/issues/1028)
@@ -50,20 +51,22 @@ ZE Squad Plan:
 - [Include documentation on Zowe docs site](https://github.com/zowe/vscode-extension-for-cics/issues/106)
 - [Provide an API for other VS Code extension to access tree items and contribute implementations](https://github.com/zowe/vscode-extension-for-cics/issues/101).
 - [Create a test pipeline](https://github.com/zowe/vscode-extension-for-cics/issues/4)
-- [Investigate vNext for Zowe Explorer and Team Configuration support](https://github.com/zowe/vscode-extension-for-cics/issues/107)
-- [Investigate favourites](https://github.com/zowe/vscode-extension-for-cics/issues/92)
-- Categorise attributes into different sections like the CICS Explorer and make it more user-friendly
+- [STRETCH] [Investigate vNext for Zowe Explorer and Team Configuration support](https://github.com/zowe/vscode-extension-for-cics/issues/107)
+- [STRETCH] [Investigate favourites](https://github.com/zowe/vscode-extension-for-cics/issues/92)
+- [STRETCH] Categorise attributes into different sections like the CICS Explorer and make it more user-friendly
   - Include 'help' tab that gives more information about attributes.
-- Support CICS 'Web Services'
+- [STRETCH] Support CICS 'Web Services'
   - Web Service
   - TCP/IP Service
   - URI Maps
   - Note: May need to enhance CICS CLI capabilities for these additional resources
 
 ## Risks
-
+- Less capacity for this PI
 
 ## Dependencies
+- Zowe Explorer Squad (CICS extension)
+- Zowe CLI Team
+- Zowe Onboarding Team
 
-
-### Confidence Vote Avg:
+### Confidence Vote Avg: 4, 3, 4, 4, 4, 4, 3, 4, 4 = 3.78
