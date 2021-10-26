@@ -34,9 +34,7 @@
 
 ##### Dependency: Squad attention if we discover any issues during implementation
 
-## Pipelines and Systems
-
-### CI/CD 
+## CI/CD 
 
 * [Github Action Migrations](https://github.com/zowe/zowe-install-packaging/issues/1868)
   - Migrate zowe-install-packaging 
@@ -45,7 +43,7 @@
 
 ##### Dependency: Web UI Squad to help migrate pipelines
 
-### z/OS Infrastructure
+## z/OS Infrastructure
 
 * [Move RACF to 2.4]()
   * Shifting builds from zzow01 to zzow04 (RACF 2.4)
