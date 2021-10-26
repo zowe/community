@@ -69,4 +69,4 @@ ZE Squad Plan:
 - Zowe CLI Team
 - Zowe Onboarding Team
 
-### Confidence Vote Avg: 4, 3, 4, 4, 4, 4, 3, 4, 4 = 3.78
+### Confidence Vote Avg: 4, 3, 4, 4, 4, 4, 3, 4, 4, 5 = 3.9
