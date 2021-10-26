@@ -49,6 +49,7 @@
 
 * [Move RACF to 2.4]()
   * Shifting builds from zzow01 to zzow04 (RACF 2.4)
+  * configure DB2 for testing on v2.4 image
 
 * [z/OS Sysplex Setup](https://github.com/zowe/zowe-install-packaging/issues/1397)
   - Validation: Run HA tests against Sysplex
