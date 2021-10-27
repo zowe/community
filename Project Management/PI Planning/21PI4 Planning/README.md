@@ -7,21 +7,21 @@ Day 1\
 When: Monday, October 25, 2021 (8:00am to 11:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/92291581872<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293827&calstart=2021-10-25<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/6lNLx3zaAPxE8q1IeBozJP2S429sEuFbEXyBML7KmP-olzk9r5Ol_oINypgikq1F.qCu0TrfZzlBLZgWG?startTime=1635162752000)
 <br>
 
 Day 2\
 When: Tuesday, October 26, 2021 (9:00am to 10:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/95042714085<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293829&calstart=2021-10-26<br>
-Meeting Recordings: [Day 2]()
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/3lFM82nrp0mKucq4FsGUAKxr7vnKkR_7Qo5KjKeiyyQpKlqopxwrk7uoAJ-Cvzcs.4FQACw7PuyioexSk?startTime=1635252915000)
 <br>
 
 Day 3\
 When: Wednesday, October 27, 2021 (9:00am to 12:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/97264416043<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293830&calstart=2021-10-27<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/6nXsG3yY5hS7FNEGoA6KxBlf9u57XFxMw5WnjTFPX-9JufBZ0ZIFqAJdAbcC0ZpN.K3BVJHddgpKK8-My?startTime=1635339042000)
 
 Squad PI Objectives<br>
 [Explorer]()<br>
