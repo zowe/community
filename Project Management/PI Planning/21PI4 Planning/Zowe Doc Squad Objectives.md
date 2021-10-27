@@ -4,13 +4,10 @@
 
 - Zowe.org updates as needed
 - [Zowe documentation changes to support the v2 release](https://github.com/zowe/docs-site/issues/1826) 
-   - docuemntation for v2 features
-   - document the migration path
-   - archive the previous versions of docs
+   - documentation for v2 features
+   - migration path
 
-### 2. Improve installation documentation (Epic [#1624](https://github.com/zowe/docs-site/issues/1624)) 
-
-Doc Squad plan: 
+### 2. Improve installation documentation (Epic [#1624](https://github.com/zowe/docs-site/issues/1624))  
 
 - [Separate keyring/keystore instructions [#1818]](https://github.com/zowe/docs-site/issues/1818)
 - [Add more checklists and diagrams to guide users [#1619]](https://github.com/zowe/docs-site/issues/1619)
@@ -32,7 +29,7 @@ Doc Squad plan:
 - [Glossary of terms, key concepts that are linked to in doc so that people can understand the meaning of certain doc points](https://github.com/zowe/docs-site/issues/1319) 
 - Task sheets in-doc to reduce need to read paragraphs before taking action
   - Spike: Clarify the scope, whether this is for all components, topics that need task sheets
-  - Are there existing task sheets already? If so, we should follow the same style to be consistent
+  - If there are existing task sheets, ensure that the style is consistent.
   - Focus on server side tasks in PI4  (**Dependency:** WebUI squad) 
 - webUI specific: More error codes for ZSS, app-server and desktop 
   - **Dependency:** WebUI squad 
@@ -49,13 +46,14 @@ Doc Squad plan:
 
 - [Produce short videos of Zowe z/OS components installation - for specific steps/tasks [#38]](https://github.com/zowe/docs-site/issues/38)
   - Evaluate the steps that will unlikely change, comprise a list 
+  - Start with steps that are considered "stable" (unlikely to change)
 
-  **Dependency:** Joe
+  **Dependency:** Joe, webUI squad (for ZSS/Desktop specific configurations), APIML squad (for APIML specific configurations) 
+
+- Revisit the Zowe overview video 
+  - Ensure the Zowe overview video on zowe.org is up-to-date
+  - Explore component videos that focus on more technical details 
 
 - Define video management strategy
   - Assess the effort and whether each component has video requirements
-  - Evaluate resources for creating videos
-
-- Revisit the Zowe overview video 
-  - Ensure an up-to-date Zowe overview video first that introcuces the project
-  - Can have component videos that focus on more technical details
+  - Investigate the location for storing short demo videos and the process of maintaining them
