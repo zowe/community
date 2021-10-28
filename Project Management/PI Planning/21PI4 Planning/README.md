@@ -7,21 +7,21 @@ Day 1\
 When: Monday, October 25, 2021 (8:00am to 11:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/92291581872<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293827&calstart=2021-10-25<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/6lNLx3zaAPxE8q1IeBozJP2S429sEuFbEXyBML7KmP-olzk9r5Ol_oINypgikq1F.qCu0TrfZzlBLZgWG?startTime=1635162752000)
 <br>
 
 Day 2\
 When: Tuesday, October 26, 2021 (9:00am to 10:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/95042714085<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293829&calstart=2021-10-26<br>
-Meeting Recordings: [Day 2]()
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/3lFM82nrp0mKucq4FsGUAKxr7vnKkR_7Qo5KjKeiyyQpKlqopxwrk7uoAJ-Cvzcs.4FQACw7PuyioexSk?startTime=1635252915000)
 <br>
 
 Day 3\
 When: Wednesday, October 27, 2021 (9:00am to 12:00 am) (UTC-04:00) Eastern Time - New York (EDT)<br>
 Zoom Meeting: https://zoom.us/j/97264416043<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1293830&calstart=2021-10-27<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/6nXsG3yY5hS7FNEGoA6KxBlf9u57XFxMw5WnjTFPX-9JufBZ0ZIFqAJdAbcC0ZpN.K3BVJHddgpKK8-My?startTime=1635339042000)
 
 Squad PI Objectives<br>
 [Explorer]()<br>
@@ -67,7 +67,7 @@ Squad PI Objectives<br>
             <td>2021-10-25</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
-            <td>Updates from the Zowe Leadership Committee (ZLC) and the Technical Steering Committee (TSC)</td>
+            <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
     </tbody>
     <tbody>
         <tr>
@@ -203,7 +203,7 @@ Squad Breakout 4
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link:  <br>
+- Zoom/Webex Link:  https://zoom.us/j/98668867228?pwd=Z2JUZnQydlhWTnBzdUVCYXF0UU9XQT09<br>
 </td>
                 <td></td>
     </tbody>
@@ -238,7 +238,7 @@ Squad Breakout 8
 
 Squad Breakout
 - Zowe Doc Squad
-- Zoom/Webex Link: <br>
+- Zoom/Webex Link: https://zoom.us/j/646062143<br>
 </td>
                 <td></td>
     </tbody>
@@ -298,7 +298,7 @@ Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 <br>
 Squad 5<br>
 WebUI Squad<br>
-Zoom/Webex Link: <br>
+Zoom/Webex Link: https://zoom.us/j/94178483307?pwd=RFdIWUc4U2JHUjRjakRmRDlXa2dndz09<br>
 <br>
 Squad 6<br>
 Onboarding Squad (no session scheduled) <br>
@@ -466,4 +466,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 
 
 [Confidence Vote](https://www.surveymonkey.com/r/RC7FRF3)
 <br>
-[Confidence Vote Results]()
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/21PI4%20Confidence%20Vote%20Results.png)
