@@ -83,11 +83,20 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - compelling title and opening paragraph (discoverability is critical!)
    - featured image and visuals in place.  By default, the first image will be associated with the blog post, however you can choose to use a different headline image by navigating to the image while in edit mode, select it manually, and press `Shift + F`. 
    - appropriate links and tags
- - Include 5 tags like: `Zowe`, `Mainframe`, `DevOps`, `Open Source`, [specific technology like `COBOL`, `VSCode`], [specific roles like `Sysprog`], etc.
- - While editing the story, click “…”, click "Zowe and click “Add to Publication”
+ - Include 4 tags like: `Zowe`, `Mainframe`, `DevOps`, `Open Source`, [specific technology like `COBOL`, `VSCode`], [specific roles like `Sysprog`], etc.  There are 5 tags allowed per article, and one of them must be used to categorize the blog as `Zowecore`, `Zoweincubation` or `Zoweecosystem`.  See [Zowe Core](#zowe-core), [Zowe Ecosystem](#zowe-ecosytstem), and [Zowe Incubation](#zowe-incubation).
+
+ <p align="center">
+<img src="./images/choose_category.png" alt="Zowe Blog Categories" width="750px"/> 
+</p>
+
+ - While editing the story, click “…”, click "Zowe" and click “Add to Publication”
  - If applicable, uncheck “Allow curators to recommend my story to interested readers.”
  - Click “Submit to Publication”
  - The blog will remain Pending until the publication owner posts it
+
+<p align="center">
+<img src="./images/add_to_publication.png" alt="Zowe Blog Categories" width="750px"/> 
+</p>
 
 **Please do not publish your own post.**
 
