@@ -24,7 +24,7 @@ OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventi
 Meeting Recordings: [Day 3](https://zoom.us/rec/share/6nXsG3yY5hS7FNEGoA6KxBlf9u57XFxMw5WnjTFPX-9JufBZ0ZIFqAJdAbcC0ZpN.K3BVJHddgpKK8-My?startTime=1635339042000)
 
 Squad PI Objectives<br>
-[Explorer]()<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20Explorer%20Squad%20-%2021PI4%20Objectives.md)<br>
 [API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/21PI4%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2021PI4%20Objectives.md)<br>
 [CLI]()<br>
 [Systems]()<br>
@@ -148,7 +148,7 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link:  <br>
+- Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
 Squad Breakout 2
 - API ML Squad
@@ -286,7 +286,7 @@ Begins with squads presenting any changes to planning scope and resources.
 <br>
 Squad 1<br>
 Zowe Explorer Squad<br>
-Zoom/Webex Link: <br>
+Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 <br>
 Squad 2<br>
 API ML Squad<br>
