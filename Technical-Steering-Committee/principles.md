@@ -16,7 +16,7 @@ We will plan and develop transparently and in open. We will build an inclusive e
 
 We commit to secure development practices. We'll follow/comply/adhere to/obey with /conform to cybersecurity regulations requirements. We will strive to never introduce a feature or change that circumvents or allows circumvention of z/OS security infrastructure. We will regularly/continuously perform vulnerability testing of the Zowe project source code and any used third party libraries. If vulnerabilities are found they will be resolved with fix or workaround will be provided.
 
-## Zowe simplifies the life of anyone targeting mainframe as a platform
+## Zowe provides modern interfaces to access and exploit mainframe
 **Principle:** Modern and effective interfaces
 
 We will provide the foundations and tools for all the vendors existing within the ecosystem to easily interface to and develop more interfaces to z/OS. The tools should be simple, effective, actively used and developed. The users should be able to leverage the provided tools and interfaces to get more value out of their mainframe environments. Examples domains for such tools and interfaces include web, mobile, APIs (C interfaces to HLASM, other programming interfaces, REST APIs, ...) and modern Developer Environments.
