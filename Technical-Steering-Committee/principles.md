@@ -1,6 +1,6 @@
 # Principles
 
-The aim of this document is to collect important values that we as a Zowe identified. It should help us to figure out what is the right direction for the project. When we state we will do something it means to the best of our knowledge and none of the statements should be perceived as a valid reason for a legal action against Zowe. 
+The aim of this document is to collect important values from the Zowe community and to help us identify the right direction for the project. When we state we will do something it means to the best of our knowledge and none of the statements should be perceived as a valid reason for a legal action against Zowe. 
 
 
 Zowe is a project that aims to bring modern interfaces - API, command line, and visual – to z/OS via an open source community. In case of disagreement within the Zowe community, the principles outlined here need to be taken into account when mediating.
