@@ -20,11 +20,11 @@ ZE Squad Plan:
 Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
-- [Allow Extenders to access the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
-- [Research refresh options after creation and update of config file](https://github.com/zowe/vscode-extension-for-zowe/issues/1514)
+- [Allow extenders to update the team configuration file schema](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
+- [Research how to automatically refresh the ZE tree when you create a team config file](https://github.com/zowe/vscode-extension-for-zowe/issues/1514)
 - (Squad-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
-- [STRETCH] [Implement the zowe config auto-init](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
-- [STRETCH] [Enable the usage of tokens](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
+- [STRETCH] [Allow users to use their APIML instance to initialize a team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
+- [STRETCH] [Enable login and logout using team config](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
 
 ## Prioritized Feature Requests and High Impact Issues
 
