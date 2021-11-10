@@ -125,6 +125,8 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Alex Jin - @ajinrocket (ajin@rocketsoftware.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
 - Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
+- Arijit Kundu (Arijit) - @idontknowjs (kunduarijit55@gmail.com)
+
 
 ### Zowe CI/CD
 
