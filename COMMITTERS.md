@@ -87,6 +87,13 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Nan Tian (Tina) - @tiantn (tiantn@cn.ibm.com)
 - Qi Liang - @std4lqi (liangqi@cn.ibm.com)
 - Rudy Flores - @rudyflores (rudyflores@ibm.com)
+- Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
+
+## Zowe CICS Explorer Squad
+
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
+- Jeffin Siby - @JeffinSiby (Jeffin.Siby@ibm.com)
+- Andrew Twydell - @AndrewTwydell
 
 ## Zowe Operations Squads
 
