@@ -89,7 +89,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Rudy Flores - @rudyflores (rudyflores@ibm.com)
 - Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
 
-## Zowe CICS Explorer Squad
+### Zowe CICS Explorer Squad
 
 - Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
 - Jeffin Siby - @JeffinSiby (Jeffin.Siby@ibm.com)
