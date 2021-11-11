@@ -93,7 +93,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 - Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
 - Jeffin Siby - @JeffinSiby (Jeffin.Siby@ibm.com)
-- Andrew Twydell - @AndrewTwydell
+- Andrew Twydell - @AndrewTwydell (andrew.twydell@ibm.com)
 
 ## Zowe Operations Squads
 
