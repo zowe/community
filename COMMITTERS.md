@@ -69,7 +69,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-[**Core committers**](https://github.com/orgs/zowe/teams/zowe-explorer-administrators)
+[**Core committers**](https://github.com/orgs/zowe/teams/zowe-explorer-administrators/members)
 
 - Jessielaine Punongbayan - (Lead) @jellypuno (jessielaine.punongbayan@broadcom.com)
 - Richelle Anne Craw - @crawr (Scrum Master) (richelleanne.craw@broadcom.com)
@@ -77,7 +77,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Lauren Li - @lauren-li (lauren.li@ibm.com)
 - Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
 
-[**Other committers**](https://github.com/orgs/zowe/teams/zowe-explorer-committers)
+[**Other committers**](https://github.com/orgs/zowe/teams/zowe-explorer-committers/members)
 
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
