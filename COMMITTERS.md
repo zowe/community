@@ -84,7 +84,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 - Nikolay Imbirev - @nickImbirev (nikolay.imbirev@broadcom.com)
 - Deepali Chavan - @deepali-hub (deepali.chavan@broadcom.com)
-- Nan Tian (Tina) - @tiantn (tiantn@cn.ibm.com)
+- Na Tian (Tina) - @tiantn (tiantn@cn.ibm.com)
 - Qi Liang - @std4lqi (liangqi@cn.ibm.com)
 - Rudy Flores - @rudyflores (rudyflores@ibm.com)
 - Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
