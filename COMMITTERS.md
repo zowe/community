@@ -69,32 +69,31 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-[**Core committers**](https://github.com/orgs/zowe/teams/committers-vscode-extension/members)
+[**Core committers**](https://github.com/orgs/zowe/teams/zowe-explorer-administrators/members)
 
 - Jessielaine Punongbayan - (Lead) @jellypuno (jessielaine.punongbayan@broadcom.com)
 - Richelle Anne Craw - @crawr (Scrum Master) (richelleanne.craw@broadcom.com)
-- Zachariah Mullen - @zdmullen (zachariah.mullen@broadcom.com)
-- Mike Bauer - @MikeBauerCA (Michael.Bauer2@broadcom.com)
 - Fernando Rijo Cedeno - @zFernand0 (fernando.rijocedeno@broadcom.com)
 - Lauren Li - @lauren-li (lauren.li@ibm.com)
+- Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
 
-[**Other committers**](https://github.com/orgs/zowe/teams/vscode-team/members)
+[**Other committers**](https://github.com/orgs/zowe/teams/zowe-explorer-committers/members)
 
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
-- Stepan Zharychev - @stepanzharychevbroadcom (stepan.zharychev@broadcom.com)
-- Alexandru-Paul Dumitru - @Alexandru-Dumitru (alexandru.dumitru@broadcom.com)
-- Pranay Sodani - @Pranay154 (Pranay.Sodani@ibm.com)
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
-- Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
-- Craig Forrest - @CForrest97 (Craig.Forrest@ibm.com)
-- Rodney Wilson - @rodney-wilson (rodney.wilson@ibm.com)
-- Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
-- Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
-- John LaPlante - @jelaplan (john.laplante@broadcom.com)
 - Nikolay Imbirev - @nickImbirev (nikolay.imbirev@broadcom.com)
 - Deepali Chavan - @deepali-hub (deepali.chavan@broadcom.com)
+- Na Tian (Tina) - @tiantn (tiantn@cn.ibm.com)
+- Qi Liang - @std4lqi (liangqi@cn.ibm.com)
+- Rudy Flores - @rudyflores (rudyflores@ibm.com)
+- Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
+
+### Zowe CICS Explorer Squad
+
+- Joe Winchester - @Joe-Winchester (winchest@uk.ibm.com)
+- Jeffin Siby - @JeffinSiby (Jeffin.Siby@ibm.com)
+- Andrew Twydell - @AndrewTwydell (andrew@twydell.cloud)
 
 ## Zowe Operations Squads
 
