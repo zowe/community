@@ -52,33 +52,26 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 ## Sprint Cadence
 ### Releases
 
-#### 1.20<br>
-- Code Freeze 2021/03/03<br>
-- RC Build 2021/03/04<br>
-- System Demo 2021/03/08<br>
-- Testing 2021/03/04 - 2021/03/15<br>
-- GA 2021/03/15<br>
+#### 1.27<br>
+- Code Freeze 2022/01/11<br>
+- RC Build 2022/01/12<br>
+- System Demo 2022/01/31<br>
+- Testing 2022/01/12 - 2022/01/24<br>
+- GA 2022/01/24<br>
 
-#### 1.21<br>
-- Code Freeze 2021/04/14<br>
-- RC Build 2021/04/15<br>
-- System Demo 2021/05/03<br>
-- Testing 2021/04/15 - 2021/04/26<br>
-- GA 2021/04/26<br>
+#### 1.26<br>
+- Code Freeze 2021/11/30<br>
+- RC Build 2021/12/01<br>
+- System Demo 2021/12/20<br>
+- Testing 2021/12/01 - 2021/12/13<br>
+- GA 2021/12/13<br>
 
-##### 1.22<br>
-- Code Freeze 2021/06/02<br>
-- RC Build 2021/06/03<br>
-- System Demo 2021/06/21<br>
-- Testing 2021/06/03 - 2021/06/14<br>
-- GA 2021/06/14<br>
-
-#### 1.23<br>
-- Code Freeze 2021/07/14<br>
-- RC Build 2021/07/15<br>
-- System Demo ~~2021/08/02~~ Changed to 2021/08/04<br>
-- Testing 2021/07/15 - 2021/07/26<br>
-- GA 2021/07/26<br>
+#### 1.25<br>
+- Code Freeze 2021/10/13<br>
+- RC Build 2021/10/14<br>
+- System Demo 2021/11/01<br>
+- Testing 2021/10/14 - 2021/10/25<br>
+- GA 2021/10/25<br>
 
 #### 1.24<br>
 - Code Freeze 2021/09/01<br>
@@ -87,9 +80,30 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - Testing 2021/09/02 - 2021/09/13<br>
 - GA 2021/09/13<br>
 
-#### 1.25<br>
-- Code Freeze 2021/10/13<br>
-- RC Build 2021/10/14<br>
-- System Demo 2021/11/01<br>
-- Testing 2021/10/14 - 2021/10/25<br>
-- GA 2021/10/25<br>
+#### 1.23<br>
+- Code Freeze 2021/07/14<br>
+- RC Build 2021/07/15<br>
+- System Demo ~~2021/08/02~~ Changed to 2021/08/04<br>
+- Testing 2021/07/15 - 2021/07/26<br>
+- GA 2021/07/26<br>
+
+##### 1.22<br>
+- Code Freeze 2021/06/02<br>
+- RC Build 2021/06/03<br>
+- System Demo 2021/06/21<br>
+- Testing 2021/06/03 - 2021/06/14<br>
+- GA 2021/06/14<br>
+
+#### 1.21<br>
+- Code Freeze 2021/04/14<br>
+- RC Build 2021/04/15<br>
+- System Demo 2021/05/03<br>
+- Testing 2021/04/15 - 2021/04/26<br>
+- GA 2021/04/26<br>
+
+#### 1.20<br>
+- Code Freeze 2021/03/03<br>
+- RC Build 2021/03/04<br>
+- System Demo 2021/03/08<br>
+- Testing 2021/03/04 - 2021/03/15<br>
+- GA 2021/03/15<br>
