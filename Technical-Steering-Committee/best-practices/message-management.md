@@ -18,7 +18,7 @@ Z - ZEEBRA
 
 ### Message Format
 
-ZWEscccct - This is the structure of the message. 
+**ZWEscccct** - This is the structure of the message. 
 
 **ZWE** - static for Zowe messages. Represents the space that is assocaited with Zowe.
 
