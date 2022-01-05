@@ -1,6 +1,7 @@
-# Zowe Community
+# Zowe Secure Software Development - SDLC Policy
 
-This guide will help you navigate the Zowe community, and learn more on how to contribute and provide feedback. If you look for more information please take a look at [Zowe.org](https://www.zowe.org/), if you are user looking for help the documentation for the project lives [here](https://docs.zowe.org/)
+This SSD Policy defines requirements  
+that Organization contributing to Zowe must fulfil inorder to be compliant with Zowe security principles and vision.
 
 - [Zowe Community](#zowe-community)
   - [Communication Channels](#communication-channels)
