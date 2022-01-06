@@ -1,11 +1,11 @@
 # Zowe Secure Software Development Best Practices
 
-This document contains links to Zowe Secure SDLC Best practices organized in subfolders according to the development lifecycle stages.
-Best practices in genral document the best known way to perform tasks. As such they can change over time as underlying technology or infrastructire changes.
-Best Practices are mostly recommended, but in some cases could be required to follow by the contributors in order to 
-deliver their respective Zowe squad components with expected level of security as defined by the Zowe Secure [Software Development Policy]{link-to-ZoweSSDP-SDLC}.
+This document contains links to Zowe Secure SDLC Best practices organized in sub-folders according to the secure software development lifecycle phases.
+Best practices in general document the currently best known way to perform certain tasks. As such they can change over time as underlying technology or infrastructure changes.
+Best Practices are mostly recommended, but in some cases could be required to be followed by the contributors in order to 
+deliver their respective Zowe squad components with expected level of security as defined by the Zowe [Secure Software Development Policy]{link-to-ZoweSSDP-SDLC}.
 
-The structure:
+The Secure SDLC structure:
 
 - Plan
   - 
