@@ -1,23 +1,15 @@
 # Zowe Secure Software Development - Organization Policy 
 
-This document defines Zowe Secure Software Development Policy at organization level.
+This document defines Zowe Secure Software Development Policy at organizational level.
 This security policy states the requirements that an Organization/Squad/Team contributing to Zowe must fulfil in order to conform
 to Zowe security vision and principles. The fulfilment of these requirements [#CHOOSE-ONE: needs to/should be/must be/is] measurable and provable. 
 
-A guidance intended to help contributors to fulfil the requirements in form of [processes](Processes/processes.md), [best practices](./Best-Practices/best-practices.md) and [guidelines](./Guidelines/guidelines.md) is provided and is maintained in separate documents.
-Some guidelines are mandatory, while some are optional and the choice of tools and implementation technics used to fulfil the corresponding requirements is left to the contributing organization/squad/team.
-
-<span style="visibility: hidden">#TODO@PZA: Provide links to the BPs, Guidelines and other related documents.</span>
-A reference to standards and regulatory requirements is provided where relevant. 
-A mapping between Zowe Secure Software Development policy items (requirements, best/recommended practices and guidelines) 
-and relevant standards, regulatory requirements or benchmarks is provided in separate documents to simplify policy governance and help customers 
-audit suitability and provability of Zowe security   
- 
-
-**Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDPF-SDLC/Policy.md).  
-
-The requirements defined here are grouped into several categories related to Secure Software Development at organizational level.
+The requirements defined herein are grouped into two main categories further divided into several sub-categories each. 
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
+For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
+The structure corresponds the to Secure Software Development at organizational level.
+
+**Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDPF-SDLC/Policy.md).
 
 - [Prepare the organization (PO)](#prepare-the-organization)
 
