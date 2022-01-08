@@ -3,21 +3,16 @@
 This SSD Policy defines requirements  
 that Organization contributing to Zowe must fulfil inorder to be compliant with Zowe security principles and vision.
 
-- [Zowe Community](#zowe-community)
-  - [Communication Channels](#communication-channels)
-    - [Slack](#slack)
-    - [Mailing Lists](#mailing-lists)
-    - [Community Forums](#community-forums)
-  - [Contribute](#contribute)
-    - [Submit an issue](#submit-an-issue)
-      - [Pull Request Guidelines](#pull-request-guidelines)
-    - [Reporting Security Issues](#reporting-security-issues)
+The requirements defined herein are grouped into two main categories further divided into several sub-categories each.
+This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
+For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
+The structure corresponds the to Secure Software Development at organizational level.
 
+- [Produce Well-Secured Software (PW\)](#pw-produce-well-secured-software)
+- [Respond to Vulnerabilities (RV\)](#rv-respond-to-vulnerabilities)
 
-## Communication Channels
-
-
-## PW: Produce Well-Secured Software with minimal security vulnerabilities in its releases.
+## PW: Produce Well-Secured Software
+Produce Well-Secured Software with minimal security vulnerabilities in its releases.
 ### PW.1: Design Software to Meet Security Requirements and Mitigate Security Risks
 - PW.1.1: Use forms of risk modeling, such as threat modeling, attack modeling, or attack surface mapping, to help assess the security risk for the software.
 - PW.1.2: Document the software’s security requirements, risks, and design decisions.
@@ -51,7 +46,7 @@ that Organization contributing to Zowe must fulfil inorder to be compliant with 
 - PW.9.1: Define a secure baseline by determining how to configure each setting that has an effect on security so that the default settings are secure and do not weaken the security functions provided by the platform, network infrastructure, or services.
 - PW.9.2: Implement the default settings (or groups of default settings, if applicable\), and document each setting for software administrators.
 
-## Respond to Vulnerabilities (RV)
+## RV: Respond to Vulnerabilities 
 ### RV.1: Identify and Confirm Vulnerabilities on an Ongoing Basis
 - RV.1.1: Gather information from purchasers, consumers, and public sources on potential vulnerabilities in the software and third-party components that the software uses, and investigate all credible reports.
 - RV.1.2: Review, analyze, and/or test the software’s code to identify or confirm the presence of previously undetected vulnerabilities.
@@ -68,21 +63,6 @@ that Organization contributing to Zowe must fulfil inorder to be compliant with 
 - RV.3.4: Review the SDLC process, and update it if appropriate to prevent (or reduce the likelihood of\) the root cause recurring in updates to the software or in new software that is created.
 
 
+[// intentionally commented out]: <> (* ### Reporting Security Issues)
 
-### Submit an issue
-
-You can submit an issue (Bug or Feature) on Zowe in general at https://github.com/zowe/community/issues/new/choose. If you have an issue that is specific to a squad or specific repository, feel free to submit an issue against a specific repo.
-
-#### Pull Request Guidelines
-
-Pull requests cannot be merged without the approval of at least one maintainer, who will be looking for the pull request to meet requirements as follows:
-
-* The code in the pull request must adhere to the [general Code Style Guidelines](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/best-practices/coding-style.md) and those for the squads.
-* The code must compile/transpile (where applicable) and pass a smoke test such that the code is not known to break the current state of Zowe.
-* The pull request must describe the purpose and implementation to the extent that the maintainer understands what is being accomplished. Some pull requests need less details than others depending on novelty.
-* The pull request must state how to test this change, if applicable, such that the maintainer or a QA team can check correctness. The explanation may simply be to run included test code.
-* If a pull request depends upon a pull request from the same / another repository that is pending, this must be stated such that maintainers know in which order to merge open pull requests.
-
-### Reporting Security Issues
-
-Please direct all security issues to zowe-security@lists.openmainframeproject.org. A member of the security group will reply to acknowledge receipt of the vulnerability and coordinate remediation with the affected squad.
+[// intentionally commented out]: <> (* Please direct all security issues to zowe-security@lists.openmainframeproject.org. A member of the security group will reply to acknowledge receipt of the vulnerability and coordinate remediation with the affected squad.)

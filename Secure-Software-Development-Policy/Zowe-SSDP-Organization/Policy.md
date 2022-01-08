@@ -11,17 +11,18 @@ The structure corresponds the to Secure Software Development at organizational l
 
 **Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDPF-SDLC/Policy.md).
 
-- [Prepare the organization (PO)](#prepare-the-organization)
+- [Prepare the organization (PO)](#po-prepare-the-organization)
+- [Protect the Software (PS)](#ps-protect-the-software)
 
-- [Protect the Software (PS)](#protect-the-software)
+<span style="display: none">
+    #TODO@PZA: Discuss if all categories, subcategories and their structure reflect our needs. Maybe some should be skipped, moved etc.
+</span>
 
-[// intentionally commented out]: <> (* - [Produce Well-Secured Software (PW\)](#produce-well-secured-software\))
-
-[// intentionally commented out]: <> (* - [Respond to Vulnerabilities (RV\)](#respond-to-vulnerabilities\))
-
-<span style="display: none">#TODO@PZA: Discuss if all categories, subcategories and their structure reflect our needs. Maybe some should be skipped, moved etc.</span>
 
 ## PO: Prepare the organization
+*Note: PO.1 sub-category is skipped because describes the actual process of defining this policy framework: Policy, Processes and Guidelines. 
+Keywords/artifacts: Requirements, Policies, Processes, Best practices, development infrastructures: components, endpoints, etc.
+Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers  
 
 ### PO.2: Implement Roles and Responsibilities:
 - PO.2.1: Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
