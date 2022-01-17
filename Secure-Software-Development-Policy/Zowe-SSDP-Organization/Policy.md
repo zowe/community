@@ -1,11 +1,20 @@
 # Zowe Secure Software Development - Organization Policy 
 
-This document defines Zowe Secure Software Development Policy at organizational level.
-This security policy states the requirements that an Organization/Squad/Team contributing to Zowe must fulfil in order to conform
-to Zowe security vision and principles. The fulfilment of these requirements [#CHOOSE-ONE: needs to/should be/must be/is] measurable and provable. 
+This document defines Zowe Secure Software Development Policy at Zowe organizational level.
+This security policy comprises requirements that an every organization (Squad/Team) contributing to Zowe must fulfil in order to conform
+to Zowe security vision and principles(#TODO: Link). The fulfilment of these requirements [#CHOOSE-ONE: needs to/should be/must be/is] measurable and provable.
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each. 
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
+
+<span style="display: none">
+The Secure Software Development Framework (SSDF) defines and recommends a core set of high-level secure software development practices, that can be integrated into each SDLC implementation.
+It is structured in such a way to provide an interface between software producers (e.g.,commercial-off-the-shelf [COTS] product vendors, 
+government-off-the-shelf [GOTS] software developers, custom software developers) on one side and software purchasers and consumers, 
+both federal agencies and other organization on the other side. Therefore, it is desirable and beneficial for Zowe to map security the SLDC requirements to that Framework. 
+Herein we use the SSDF as a meta framework by mapping the high-level practices to security policy requirements applicable to the individual development SDLC phases.
+</span>
+
 For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
 The structure corresponds the to Secure Software Development at organizational level.
 
@@ -19,41 +28,75 @@ The structure corresponds the to Secure Software Development at organizational l
 </span>
 
 
-## PO: Prepare the organization
+## A. Prepare the organization (PO) / SSFD:PO Prepare the organization
 *Note: PO.1 sub-category is skipped because describes the actual process of defining this policy framework: Policy, Processes and Guidelines. 
 Keywords/artifacts: Requirements, Policies, Processes, Best practices, development infrastructures: components, endpoints, etc.
 Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers  
 
-### PO.2: Implement Roles and Responsibilities:
-- PO.2.1: Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
-- PO.2.2: Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training asneeded.
-- PO.2.3: Obtain upper management commitment to secure development, and convey that commitment to all with SSDF-related roles and responsibilities.
+### A1. Roles and Responsibilities (PO-RR) / SSDF:PO.2 Implement Roles and Responsibilities: 
+- Z-SSD-OP:A1.1.PO-RR-CAR (Create and Alter Roles) / (SSDF:PO.2.1): 
 
-### PO.3: Implement Supporting Toolchains
-- PO.3.1: Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
-- PO.3.2: Follow recommended security practices deploying and maintaining tools and toolchains
-- PO.3.3: Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by the organization.
+Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
 
-### PO.4: Define and Use Criteria for Software Security Checks
-- PO.4.1: Define criteria for software security checks and track throughout the SDLC.
-- PO.4.2: Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
+- Z-SSD-OP:A1.2.PO-RR-RBT (Role Based Training) / (SSDF:PO.2.2):
 
-### PO.5: Implement and Maintain Secure Environments for Software Development
-- PO.5.1: Separate and protect each environment involved in software development.
-- PO.5.2: Secure and harden development endpoints (i.e., endpoints for software designers, developers, testers, builders, etc.\) to perform development-related tasks using a risk-based approach.
+Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training asneeded.
+
+- Z-SSD-OP:A1.3.PO-RR-UMC (Upper Management Commitment) / (SSDF:PO.2.3): 
+
+Obtain upper management commitment to secure development, and convey that commitment to all with SSDF-related roles and responsibilities.
+
+### A2. Supporting Toolchains (ST) / SSFD:PO.3 Implement Supporting Toolchains
+- Z-SSD-OP:A2.1.PO-ST-TCI (Toolchain Components Integration) / (SSDF:PO.3.1): 
+ 
+Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
+
+- Z-SSD-OP:A2.2.PO-ST-DMT (Deploy and Maintain Tools) / (SSDF:PO.3.2):
+
+Follow recommended security practices deploying and maintaining tools and toolchains
+
+- Z-SSD-OP:A2.3.PO-ST-GEA (Generate Evidence and Artifacts) / (SSDF:PO.3.3): 
+ 
+Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by the organization.
+
+### A3. Security Criteria (SC) / SSFD:PO.4 Define and Use Criteria for Software Security Checks
+- Z-SSD-OP:A3.1.PO-SC-SSC (Software Security Checks) / (SSDF:PO.4.1): 
+ 
+Define criteria for software security checks and track throughout the SDLC.
+
+- Z-SSD-OP:A3.2.PO-SC-SNI (Safeguard the Necessary Information) / (SSDF:PO.4.2): 
+
+Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
+
+### A4. Secure Environments (SE) / SSFD:PO.5 Implement and Maintain Secure Environments for Software Development
+- Z-SSD-OP:A4.1.PO-SE-SPE (Separate and Protect the Environments) / (SSDF:PO.5.1): 
+ 
+Separate and protect each environment involved in software development.
+
+- Z-SSD-OP:A4.2.PO-SE-HDE (Harden Development Endpoints) / (SSDF:PO.5.2): 
+
+Secure and harden development endpoints (i.e., endpoints for software designers, developers, testers, builders, etc.\) to perform development-related tasks using a risk-based approach.
     
-## PS: Protect the Software
+## B. Protect the Software (PS) / PS: Protect the Software 
 
-### PS.1: Protect All Forms of Code from Unauthorized Access and Tampering
-- PS.1.1: Store all forms of code, including source code and executable code, based on the principle of least privilege so that only authorized personnel, tools,services, etc. have the necessary forms of access.
+### PS.1: Protect All Code (PAC) / SSDF:???? Protect All Forms of Code from Unauthorized Access and Tampering
+- Z-SSD-OP:5.1.PS-PAC-SAC (Store All Code) / (SSDF:PS.1.1): 
+ 
+Store all forms of code, including source code and executable code, based on the principle of least privilege so that only authorized personnel, tools,services, etc. have the necessary forms of access.
 
-### PS.2: Provide a Mechanism for Verifying Software Release Integrity
-  - PS.2.1: Make integrity verification information available to software purchasers and consumers.
+### PS.2: Software Release Integrity (SRI) / Provide a Mechanism for Verifying Software Release Integrity
+- Z-SSD-OP:PS-SRI-IIA (Integrity Information Availability) / (SSDF:PS.2.1): 
+ 
+Make integrity verification information available to software purchasers and consumers.
   
-### PS.3: Archive and Protect Each Software Release
-  - PS.3.1: Securely archive the necessary files and other data (e.g., integrity verification information, provenance data) to be retained for each software release.
+### PS.3: Protect Software Releases (PSR) / Archive and Protect Each Software Release
+- Z-SSD-OP:PS-PSR-ANF (Archive Necessary Files) / (SSDF:PS.3.1): 
+ 
+Securely archive the necessary files and other data (e.g., integrity verification information, provenance data) to be retained for each software release.
 
-  - PS.3.2: Collect, maintain, and share provenance data for all components and other dependencies of each software release (e.g., in a software bill of materials[SBOM]).
+- Z-SSD-OP:PS-PSR-MPD (Maintain Provenance Data) / (SSDF:PS.3.2): 
+ 
+Collect, maintain, and share provenance data for all components and other dependencies of each software release (e.g., in a software bill of materials[SBOM]).
 
 [// intentionally commented out]: <> (* ## PW: Produce Well-Secured Software with minimal security vulnerabilities in its releases.)
 [// intentionally commented out]: <> (* ### PW.1: Design Software to Meet Security Requirements and Mitigate Security Risks)
