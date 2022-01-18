@@ -1,4 +1,4 @@
-# Zowe - Secure Software Development (Z-SSD) - SDLC Policy (LP)
+# Zowe - Secure Software Development (ZSSD) - SDLC Policy (LP)
 
 This SSD Policy defines requirements  
 that Organization contributing to Zowe must fulfil inorder to be compliant with Zowe security principles and vision.
@@ -11,92 +11,92 @@ The structure corresponds the to Secure Software Development at organizational l
 - [Produce Well-Secured Software (PW\)](#pw-produce-well-secured-software)
 - [Respond to Vulnerabilities (RV\)](#rv-respond-to-vulnerabilities)
 
-# Z-SSD-LP Requirements 
+# ZSSD-LP Requirements 
 
 ##A. Produce Well-Secured Software (PW) / (SSFD:PW) Produce Well-Secured Software
 Produce Well-Secured Software with minimal security vulnerabilities in its releases.
 
 ### A1. Requirements to Mitigate security Risk (PW-RMR) / (SSDF:PW.1.1) Design Software to Meet Security Requirements and Mitigate Security Risks
-- Z-SSD-LP:A1.1.PW-RMR-RTA (Risk, Threat, Attack modelling) / SSFD:PW.1.1
+- A1.1:ZSSD-LP:PW-RMR-RTA (Risk, Threat, Attack modelling) / SSFD:PW.1.1
 
 Use forms of risk modeling, such as threat modeling, attack modeling, or attack surface mapping, to help assess the security risk for the software.
 
-- Z-SSD-LP:A1.2.PW-RMR-RRD (security Requirements, Risks and Design decisions) / SSFD:PW.1.2: 
+- A1.2:ZSSD-LP:PW-RMR-RRD (security Requirements, Risks and Design decisions) / SSFD:PW.1.2: 
  
 Document the software’s security requirements, risks, and design decisions.
 
-- Z-SSD-LP:A1.3.PW-RMR-SSF (Standardized security Features) / SSFD:PW.1.3: 
+- A1.3:ZSSD-LP:PW-RMR-SSF (Standardized security Features) / SSFD:PW.1.3: 
 
 Where appropriate, build in support for using standardized security features and services (e.g., integrating with existing log management, identity management, access control, and vulnerability management systems\) instead of creating proprietary implementations of security features and services.
 
 ### A2. Review Software Design (PW-RSD) / (SSDF:PW2) Review the Software Design to Verify Compliance with Security Requirements and Risk Information
 
-- Z-SSD-LP:A1.3.PW-RSD-DRP (Design Review Process) / SSFD:PW.2.1: 
+- A2.1:ZSSD-LP:PW-RSD-DRP (Design Review Process) / SSFD:PW.2.1: 
 
 Have either 1\) a qualified person (or people\) who were not involved with the design or 2\) adequate automated processes instantiated in the toolchain (or both\) review the software design to confirm and enforce that it meets all of the security requirements and satisfactorily addresses the identified risk information.
 
 ### A3. Reuse Well-Secured Software (PW-RWS) / (SSDF:PW.4) Reuse Existing, Well-Secured Software When Feasible Instead of Duplicating Functionality
 
-- Z-SSD-LP:A3.1.PW-RWS-AWC (Acquire Well-Secured software Components) / SSDF:PW.4.1: 
+- A3.1:ZSSD-LP:PW-RWS-AWC (Acquire Well-Secured software Components) / SSDF:PW.4.1: 
  
 Acquire well-secured software components (e.g., software libraries, modules, middleware, frameworks\) from commercial, open-source, and other third-party developers for use by the organization’s software.
 
-- Z-SSD-LP:A3.2.PW-RWS-CWC (Create Well-Secured software Components) / SSDF:PW.4.2: 
+- A3.2:ZSSD-LP:PW-RWS-CWC (Create Well-Secured software Components) / SSDF:PW.4.2: 
  
 Create and maintain well-secured software components in-house following SDLC processes to meet common internal software development needs that cannot be better met by third-party software components.
 
-- Z-SSD-LP:A3.3.PW-RWS-CRC (Components Requirements Compliance) / SSDF:PW.4.4: 
+- A3.3:ZSSD-LP:PW-RWS-CRC (Components Requirements Compliance) / SSDF:PW.4.4: 
 
 Verify that acquired commercial, open-source, and all other third-party software components comply with the requirements, as defined by the organization, throughout their life cycles.
 
-- Z-SSD-LP:A3.4.PW-RWS-VCI (Verify Components Integrity) / SSDF:PW.4.5: 
+- A3.4:ZSSD-LP:PW-RWS-VCI (Verify Components Integrity) / SSDF:PW.4.5: 
  
 Verify the integrity and check the provenance of all in-house and third-party software components before reusing them for the organization’s own software.
 
 
 ### A4. Secure Coding Practices (PW-SCP) / (SSDF:PW.5) Create Source Code by Adhering to Secure Coding Practices
 
-- Z-SSD-LP:A4.1.PW-SCP-LES (development Language and Environment Specific practices) / SSDF:PW.5.1: 
+- A4.1:ZSSD-LP:PW-SCP-LES (development Language and Environment Specific practices) / SSDF:PW.5.1: 
  
 Follow all secure coding practices that are appropriate to the development languages and environment to meet the organization’s requirements.
 
 ### A5. Integrated Development Environment (IDE) / (SSDF:PW.6) Configure the Integrated Development Environment, Compilation, Interpreter, and Build Processes to Improve Executable Security
  
-- Z-SSD-LP:A5.1.PW-IDE-CIB (Compiler Interpreter and Build tools) / SSDF:PW.6.1: 
+- A5.1:ZSSD-LP:PW-IDE-CIB (Compiler Interpreter and Build tools) / SSDF:PW.6.1: 
  
 Use compiler, interpreter, and build tools that offer features to improve executable security
  
-- Z-SSD-LP:A5.2.PW-IDE-CBT (Configure Build Tools) / SSDF:PW.6.2: 
+- A5.2:ZSSD-LP:PW-IDE-CBT (Configure Build Tools) / SSDF:PW.6.2: 
 
 Determine which compiler, interpreter, and build tool features should be used and how each should be configured, then implement and use the approved configurations.
 
 ### A6. Analyze Human-readable Code (AHC) / (SSDF:PW.7) Review and/or Analyze Human-Readable Code to Identify Vulnerabilities and Verify Compliance with Security Requirements
 
-- Z-SSD-LP:A6.1.PW-AHC-CRD (Code Review Decision) / SSDF:PW.7.1: 
+- A6.1:ZSSD-LP:PW-AHC-CRD (Code Review Decision) / SSDF:PW.7.1: 
 
 Determine whether code review (a person looks directly at the code to find issues\) and/or code analysis (tools are used to find issues in code, either in a fully automated way or in conjunction with a person\) should be used, as defined by the organization.
 
-- Z-SSD-LP:A6.2.PW-AHC-CRI (Code Review Implementation) / SSDF:PW.7.2: 
+- A6.2:ZSSD-LP:PW-AHC-CRI (Code Review Implementation) / SSDF:PW.7.2: 
 
 Perform the code review and/or code analysis based on the organization’s secure coding standards, and document and triage all discovered issues and recommended remediations in the development team’s workflow or issue tracking system.
 
 ### A7. Test Executable Code (TEC) / (SSDF:PW.8) Test Executable Code to Identify Vulnerabilities and Verify Compliance withSecurity Requirements
 
-- Z-SSD-LP:A7.1.PW-TEC-CTD (Code Testing Decisions) / SSDF:PW.8.1: 
+- A7.1:ZSSD-LP:PW-TEC-CTD (Code Testing Decisions) / SSDF:PW.8.1: 
 
 Determine if executable code testing should be performed to identify and eliminate classes of vulnerabilities not covered by previous reviews, analysis, or testing, and if so, which types should be used.
 
-- Z-SSD-LP:A7.2.PW-TEC-CTI (Code Testing Implementation) / SSDF:PW.8.2: 
+- A7.2:ZSSD-LP:PW-TEC-CTI (Code Testing Implementation) / SSDF:PW.8.2: 
  
 Design the tests, perform the testing, and document the results, including documenting and triaging all discovered issues and recommended remediations in the development team’s workflow or issue tracking system.
 
 ### A8. Secure Settings by Default (SSD) / (SSDF:PW.9) Configure Software to Have Secure Settings by Default
 
-- Z-SSD-LP:A8.1.PW-SSD-SBD (Secure Baseline Configuration) / SSDF:PW.9.1: 
+- A8.1:ZSSD-LP:PW-SSD-SBD (Secure Baseline Configuration) / SSDF:PW.9.1: 
 
 Define a secure baseline by determining how to configure each setting that has an effect on security so that the default settings are secure and do not weaken the security functions provided by the platform, network infrastructure, or services.
 
-- Z-SSD-LP:A8.2.PW-SSD-IDS (Implement Default Settings) / SSDF:PW.9.2: 
+- A8.2:ZSSD-LP:PW-SSD-IDS (Implement Default Settings) / SSDF:PW.9.2: 
  
 Implement the default settings (or groups of default settings, if applicable\), and document each setting for software administrators.
 
@@ -104,44 +104,44 @@ Implement the default settings (or groups of default settings, if applicable\), 
 ## B. Respond to Vulnerabilities (RV) / (SSDF:RV) Respond to Vulnerabilities 
 ### B1. Identify and Confirm Vulnerabilities (ICV) / (SSDF:RV.1:) Identify and Confirm Vulnerabilities on an Ongoing Basis
 
-- Z-SSD-LP:B1.1.PW-ICV-PVM (Potential Vulnerability sources Monitoring) / SSDF:RV.1.1:
+- B1.1:ZSSD-LP:PW-ICV-PVM (Potential Vulnerability sources Monitoring) / SSDF:RV.1.1:
 
 Gather information from purchasers, consumers, and public sources on potential vulnerabilities in the software and third-party components that the software uses, and investigate all credible reports.
 
-- Z-SSD-LP:B1.2.PW-ICV-CRT (Code Review and Tests) / SSDF:RV.1.2: 
+- B1.2:ZSSD-LP:PW-ICV-CRT (Code Review and Tests) / SSDF:RV.1.2: 
  
 Review, analyze, and/or test the software’s code to identify or confirm the presence of previously undetected vulnerabilities.
  
-- Z-SSD-LP:B1.3.PW-ICV-VDR (Vulnerabilities Disclosure and Remediation policy) / SSDF:RV.1.3: 
+- B1.3:ZSSD-LP:PW-ICV-VDR (Vulnerabilities Disclosure and Remediation policy) / SSDF:RV.1.3: 
  
 Have a policy that addresses vulnerability disclosure and remediation, and implement the roles, responsibilities, and processes needed to support that policy.
 
 
 ### B2. Assess, prioritize and Remediate Vulnerabilities (ARV) / (SSDF:RV.2) Assess, Prioritize, and Remediate Vulnerabilities
 
-- Z-SSD-LP:B2.1.PW-ARV-AEV (Analyse Each Vulnerability) / SSDF:RV.2.1: 
+- B2.1:ZSSD-LP:PW-ARV-AEV (Analyse Each Vulnerability) / SSDF:RV.2.1: 
  
 Analyze each vulnerability to gather sufficient information to plan its remediation.
 
-- Z-SSD-LP:B2.2.PW-ARV-DRI (Develop and Implement vulnerability Remediation plan) / SSDF:RV.2.2: 
+- B2.2:ZSSD-LP:PW-ARV-DRI (Develop and Implement vulnerability Remediation plan) / SSDF:RV.2.2: 
 
 Develop and implement a remediation plan for each vulnerability.
  
 
 ### B3. Vulnerabilities Root Cause Analysis (VRA) / (SSDF:RV.3) Analyze Vulnerabilities to Identify Their Root Causes. Help reduce the frequency of vulnerabilities in the future.
-- Z-SSD-LP:B3.1.PW-VRA-RCA (Root Cause Analysis) / SSDF:RV.3.1: 
+- B3.1:ZSSD-LP:PW-VRA-RCA (Root Cause Analysis) / SSDF:RV.3.1: 
  
 Analyze all identified vulnerabilities to determine the root cause of each vulnerability.
  
-- Z-SSD-LP:B3.2.PW-VRA-RCP (Root Cause Patterns identification) / SSDF:RV.3.2: 
+- B3.2:ZSSD-LP:PW-VRA-RCP (Root Cause Patterns identification) / SSDF:RV.3.2: 
  
 Analyze the root causes over time to identify patterns, such as a particular secure coding practice not being followed consistently.
  
-- Z-SSD-LP:B3.3.PW-VRA-FSV (Fix Similar Vulnerabilities) / SSDF:RV.3.3: 
+- B3.3:ZSSD-LP:PW-VRA-FSV (Fix Similar Vulnerabilities) / SSDF:RV.3.3: 
  
 Review the software for similar vulnerabilities, and proactively fix them rather than waiting for external reports.
  
-- Z-SSD-LP:B3.4.PW-VRA-RDP (Review Development lifecycle Process) / SSDF:RV.3.4:  
+- B3.4:ZSSD-LP:PW-VRA-RDP (Review Development lifecycle Process) / SSDF:RV.3.4:  
 
 Review the SDLC process, and update it if appropriate to prevent (or reduce the likelihood of\) the root cause recurring in updates to the software or in new software that is created.
 
@@ -149,9 +149,11 @@ Review the SDLC process, and update it if appropriate to prevent (or reduce the 
 
 * Some items look really rather as recommended practices instead of policy requirements
   * Create requirement to group such practices into a sound requirement
-  * Map M:N between Z-SSD and SSDF and others
+  * Map M:N between ZSSD and SSDF and others
 * Flag which requirements are mandatory
-* 
+* Automated tests to prove some policy requirements fulfilment
 
 [// intentionally commented out]: <> (* ### Reporting Security Issues)
 [// intentionally commented out]: <> (* Please direct all security issues to zowe-security@lists.openmainframeproject.org. A member of the security group will reply to acknowledge receipt of the vulnerability and coordinate remediation with the affected squad.)
+
+[// intentionally commented out]: <> ( PUT-COMMENTED-OUT-TEXT-HERE )
