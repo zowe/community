@@ -1,11 +1,22 @@
-# Zowe Secure Software Development - Organization Policy 
+# Zowe Secure Software Development (Z-SSD) - Organization Policy (OP) 
 
 This document defines Zowe Secure Software Development Policy at Zowe organizational level.
-This security policy comprises requirements that an every organization (Squad/Team) contributing to Zowe must fulfil in order to conform
+This security policy comprises requirements that an organization (Squad/Team) contributing to Zowe must fulfil in order to conform
 to Zowe security vision and principles(#TODO: Link). The fulfilment of these requirements [#CHOOSE-ONE: needs to/should be/must be/is] measurable and provable.
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each. 
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
+NIST SSDF recommended practices IDs are mapped to the Zowe SSDP (sub)categories where applicable.  
+Additionally, two other SSD frameworks are referenced in order to provide contributors and SW consumers with   
+
+<span style="display: none">
+    #TODO@PZA: Provide reference IDs coding legend:
+| Category      | Zowe          | SSDF  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+</span>
 
 <span style="display: none">
 The Secure Software Development Framework (SSDF) defines and recommends a core set of high-level secure software development practices, that can be integrated into each SDLC implementation.
@@ -27,7 +38,7 @@ The structure corresponds the to Secure Software Development at organizational l
     #TODO@PZA: Discuss if all categories, subcategories and their structure reflect our needs. Maybe some should be skipped, moved etc.
 </span>
 
-
+# Z-SSD-OP Requirements
 ## A. Prepare the organization (PO) / (SSFD:PO) Prepare the organization
 *Note: PO.1 sub-category is skipped because describes the actual process of defining this policy framework: Policy, Processes and Guidelines. 
 Keywords/artifacts: Requirements, Policies, Processes, Best practices, development infrastructures: components, endpoints, etc.
