@@ -1,15 +1,19 @@
-# Zowe - Secure Software Development (ZSSD) - SDLC Policy (LP)
+# Zowe - Secure Software Development (ZSSD) Lifecycle Policy (LP)
 
-This SSD Policy defines requirements  
-that Organization contributing to Zowe must fulfil inorder to be compliant with Zowe security principles and vision.
+The Zowe Secure Software Development Lifecycle Policy (ZSSD-LP) defines requirements that Organization contributing to Zowe 
+must satisfy in order to be compliant with Zowe SDLC security principles and vision.
+
+This policy is as much as possible SDLC model neutral. In consequence, it does not require from contributors to use any specific SDLC model.
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each.
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
 For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
-The structure corresponds the to Secure Software Development at organizational level.
+The structure of the document corresponds to the [Zowe Secure Software Development at organizational level](../Zowe-SSDP-Organization/Policy.md).
 
 - [Produce Well-Secured Software (PW\)](#pw-produce-well-secured-software)
 - [Respond to Vulnerabilities (RV\)](#rv-respond-to-vulnerabilities)
+
+
 
 # ZSSD-LP Requirements 
 

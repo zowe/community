@@ -29,7 +29,7 @@ Herein we use the SSDF as a meta framework by mapping the high-level practices t
 For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
 The structure corresponds the to Secure Software Development at organizational level.
 
-**Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDPF-SDLC/Policy.md).
+**Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDP-SDLC/Policy.md).
 
 - [Prepare the organization (PO)](#po-prepare-the-organization)
 - [Protect the Software (PS)](#ps-protect-the-software)
