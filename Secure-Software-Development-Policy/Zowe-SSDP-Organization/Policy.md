@@ -6,8 +6,9 @@ to Zowe security vision and principles(#TODO: Link). The fulfilment of these req
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each. 
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
-NIST SSDF recommended practices IDs are mapped to the Zowe SSDP (sub)categories where applicable.  
-Additionally, two other SSD frameworks are referenced in order to provide contributors and SW consumers with   
+NIST SSDF recommended practices IDs are mapped to the Zowe SSDP (sub)categories where applicable.
+
+Additionally, two other SSD frameworks are referenced in order to provide contributors and SW consumers with...TODO@PZA   
 
 <span style="display: none">
     #TODO@PZA: Provide reference IDs coding legend:
@@ -47,7 +48,7 @@ Keywords/artifacts: Requirements, Policies, Processes, Best practices, developme
 Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers  
 
 ### A1. Roles and Responsibilities (PO-RR) / (SSDF:PO.2) Implement Roles and Responsibilities: 
-- A1.1:ZSSD-OP:PO-RR-CAR (Create and Alter Roles) / (SSDF:PO.2.1): 
+- A1.1:ZSSD-OP:PO-RR-CRA (Create Roles and Alter responsibilities) / (SSDF:PO.2.1):  
 
 Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
 
@@ -112,3 +113,14 @@ Securely archive the necessary files and other data (e.g., integrity verificatio
 Collect, maintain, and share provenance data for all components and other dependencies of each software release (e.g., in a software bill of materials[SBOM]).
 
 [// intentionally commented out]: <> ( PUT-COMMENTED-OUT-TEXT-HERE )
+
+
+#Notes, TODOs
+
+* Consider organizations size - some just can't afford all the overhead and need to simplify. How then we maintain compliancy?
+* Flag which requirements are mandatory
+* Some items look as recommended practices rather than as policy requirements
+    * Option: Group such practices into a sound requirement
+* Map M:N between ZSSD and SSDF and others
+* Automated tests to prove some policy requirements fulfilment
+* Should we should prescribe requirements fulfillment report format - see current reports 
