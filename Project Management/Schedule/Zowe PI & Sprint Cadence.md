@@ -1,4 +1,4 @@
-# Zowe PI Schedule and Sprint Cadence
+# Zowe PI Schedule and sprint cadence
 
 ## 21PI4 - (2021/10/26 - 2021/01/24)
 Planning - 2021/10/26 - 2021/11/01<br>
@@ -49,59 +49,80 @@ Sprint 4 - 2022/12/13 - 2022/12/26<br>
 Sprint 5 - 2022/12/27 - 2023/01/09<br>
 Sprint 6 - 2023/01/10 - 2022/01/23<br>
 
-## Sprint Cadence
-### Releases
+# Releases
 
-#### 1.27<br>
+## V2
+
+The new active release as of March.
+
+### 2.0<br>
+Dates will be updated and announced on https://zowe.org/vNext.html. The dates below are proposals
+- Code Freeze 2022/03/01<br>
+- RC Build 2022/03/02<br>
+- System Demo 2022/03/31<br>
+- Testing 2022/03/01 - 2022/03/31<br>
+- GA 2022/03/31<br>
+
+## V1
+
+### 1.28 <br>
+First maintenance release of V1 major release.
+
+- Code Freeze 2022/04/04<br>
+- RC Build 2022/04/05<br>
+- Testing 2022/04/05 - 2022/04/19<br>
+- GA 2022/04/19<br>
+
+### 1.27<br>
 - Code Freeze 2022/01/11<br>
 - RC Build 2022/01/12<br>
 - System Demo 2022/01/31<br>
 - Testing 2022/01/12 - 2022/01/24<br>
 - GA 2022/01/24<br>
 
-#### 1.26<br>
+### 1.26<br>
 - Code Freeze 2021/11/30<br>
 - RC Build 2021/12/01<br>
 - System Demo ~~2021/12/20~~ 2022/01/05<br>
 - Testing 2021/12/01 - 2021/12/13<br>
 - GA 2021/12/13<br>
 
-#### 1.25<br>
+### 1.25<br>
 - Code Freeze 2021/10/13<br>
 - RC Build 2021/10/14<br>
 - System Demo 2021/11/01<br>
 - Testing 2021/10/14 - 2021/10/25<br>
 - GA 2021/10/25<br>
 
-#### 1.24<br>
+### 1.24<br>
 - Code Freeze 2021/09/01<br>
 - RC Build 2021/09/02<br>
 - System Demo 2021/09/20<br>
 - Testing 2021/09/02 - 2021/09/13<br>
 - GA 2021/09/13<br>
 
-#### 1.23<br>
+### 1.23<br>
 - Code Freeze 2021/07/14<br>
 - RC Build 2021/07/15<br>
 - System Demo ~~2021/08/02~~ Changed to 2021/08/04<br>
 - Testing 2021/07/15 - 2021/07/26<br>
 - GA 2021/07/26<br>
 
-##### 1.22<br>
+### 1.22<br>
 - Code Freeze 2021/06/02<br>
 - RC Build 2021/06/03<br>
 - System Demo 2021/06/21<br>
 - Testing 2021/06/03 - 2021/06/14<br>
 - GA 2021/06/14<br>
 
-#### 1.21<br>
+### 1.21<br>
 - Code Freeze 2021/04/14<br>
 - RC Build 2021/04/15<br>
 - System Demo 2021/05/03<br>
 - Testing 2021/04/15 - 2021/04/26<br>
 - GA 2021/04/26<br>
 
-#### 1.20<br>
+### 1.20<br>
 - Code Freeze 2021/03/03<br>
 - RC Build 2021/03/04<br>
 - System Demo 2021/03/08<br>
