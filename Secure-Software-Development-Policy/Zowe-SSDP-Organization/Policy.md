@@ -10,8 +10,13 @@ NIST SSDF recommended practices IDs are mapped to the Zowe SSDP (sub)categories 
 
 Additionally, two other SSD frameworks are referenced in order to provide contributors and SW consumers with...TODO@PZA   
 
+Organizational policy is intended to set up and govern the secure practices environment in which the requirements set by the Secure SDLC policy can be fulfilled.
+For example, creating security roles, acquiring upper management support, Protecting the code etc.
+Sometimes requirements from OP and DP can interfere or be complementary. Such relations are not tracked in the documents, but should be obvious (TODO: Should we track internal relations between requirements from OP and DP).   
+
 <span style="display: none">
-    #TODO@PZA: Provide reference IDs coding legend:
+
+#TODO@PZA: Provide reference IDs coding legend:
 | Category      | Zowe          | SSDF  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |

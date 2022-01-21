@@ -3,18 +3,29 @@
 The Zowe Secure Software Development Lifecycle Policy (ZSSD-LP) defines requirements that Organization contributing to Zowe 
 must satisfy in order to be compliant with Zowe SDLC security principles and vision.
 
-This policy is as much as possible SDLC model neutral. In consequence, it does not require from contributors to use any specific SDLC model.
+This policy is as much as possible SDLC model neutral. In consequence, it does not require from contributors to use any specific SDLC model and related technics, processes or flows.
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each.
 This categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
 For easier identification and linking, the categories and sub topics are assigned with IDs unique in the Zowe namespace.  
 The structure of the document corresponds to the [Zowe Secure Software Development at organizational level](../Zowe-SSDP-Organization/Policy.md).
 
-- [Produce Well-Secured Software (PW\)](#pw-produce-well-secured-software)
-- [Respond to Vulnerabilities (RV\)](#rv-respond-to-vulnerabilities)
+
+Basic principles for classifying a requirement as mandatory:
+* Not applying it would expose the sw to a significant security risk
+* There are ways to validate that the requirement was fulfilled
+* TODO: OTHERs?
+
+
+As the requirements are hierarchically structured, classifying a sub-category requirement as mandatory, implies that the parent category is mandatory as well while not some category' sub items may remain optional. 
+
+Shell a higher level category be marked as mandatory, but all sub-items are optional, then it is up to the organization to implement measure to fulfill the requirement and state method how this can be vaildated.
 
 
 # ZSSD-LP Requirements 
+
+- [Produce Well-Secured Software (PW\)](#pw-produce-well-secured-software)
+- [Respond to Vulnerabilities (RV\)](#rv-respond-to-vulnerabilities)
 
 ##C. Produce Well-Secured Software (PW) / (SSFD:PW) Produce Well-Secured Software
 Produce Well-Secured Software with minimal security vulnerabilities in its releases.
