@@ -18,7 +18,7 @@ Nice to have:
 ## Prioritized Jobs & Files Enhancements
 See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65) in Zowe CLI.
 
-*This functionality is available in Broadcom's extended files & jobs plug-ins. Broadcom has agreed to contribute these ideas and any applicable code to core Zowe CLI as part of Zowe V2 LTS.*
+*This functionality is available in Broadcom's extended files & jobs plug-ins. Broadcom has agreed to contribute these capabilities and any applicable code to core Zowe CLI as part of Zowe V2 LTS.*
 * [zowe files view data-set](https://github.com/zowe/zowe-cli/issues/1096)
 * [zowe files view uss-file](https://github.com/zowe/zowe-cli/issues/1283)
 * [View all spool content of a particular job](https://github.com/zowe/zowe-cli/issues/946)
