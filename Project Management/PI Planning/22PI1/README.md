@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>21PI4 PI Planning</H1><br>
+            <th colspan="5"><H1>22PI1 PI Planning</H1><br>
 
 Day 1\
 When: Wednesday, January 26th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
@@ -11,12 +11,11 @@ Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
-When: Thursday, January 27th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: https://zoom.us/j/96783652381<br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390142&calstart=2022-01-27<br>
-Meeting Recordings: [Day 2]()
-<br>
-
+When: Thursday, January 27th, 2022 10:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
+Zoom Meeting: https://zoom.us/j/99702386308?pwd=SFFadG5XbUVZcXdYY2dnT1M2ZXJUZz09<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390162&calstart=2022-01-28<br>
+Meeting Recordings: [Day 2]()                
+                
 Day 3\
 When: Friday, January 28th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/94220392766<br>
@@ -261,105 +260,10 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-01-27</td>
-            <td>9:05 AM</td>
-            <td>5 mins</td>
-            <td>Opening Announcements</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2022-01-27</td>
-            <td>9:10 AM</td>
-<td>Planning Adjustments</td>
-            <td>Squad Members, Stakeholders & Users.
-
-Begins with squads presenting any changes to planning scope and resources.
-            </td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Public Comment</td>
-            <td>2022-01-27</td>
+            <td>2022-01-28</td>
             <td>10:00 AM</td>
-<td>Squad Breakouts<br>
-<br>
-Squad 1<br>
-Zowe Explorer Squad<br>
-Zoom/Webex Link: <br>
-<br>
-Squad 2<br>
-API ML Squad<br>
-Zoom Link: <br>
-<br>
-Squad 3<br>
-Zowe CLI Squad<br>
-Zoom/Webex Link:  https://zoom.us/j/99891777715 (Breakout is 2-4pm EST)<br>
-<br>
-Squad 5<br>
-WebUI Squad<br>
-Zoom/Webex Link: <br>
-<br>
-Squad 6<br>
-Onboarding Squad (no session scheduled) <br>
-Zoom/Webex Link: <insert link> <br>
-</td>
-            <td>Continuation from Day 1</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Public Comment</td>
-            <td>2022-01-27</td>
-            <td>11:00 AM</td>
-  <td>
-  Squad 4 Breakout<br>
-  Systems Squad<br>
-  Zoom/Webex Link:  <br>
-  Recordings: <br>
-  </td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Public Comment</td>
-            <td>2022-01-27</td>
-            <td>12:00 PM</td>
-  <td>
-  Squad 8 Breakout<br>
-  Incubators Squad<br>
-  Zoom/Webex Link: <br>
-  Recordings: <br>
-  </td>
-            <td></td>
-    </tbody>
-    <tbody>
-    <tbody>
-        <tr>
-            <td>Public Comment</td>
-            <td>2022-01-27</td>
-            <td>1:00 PM</td>
-  <td>
-  ZLC Breakout<br>
-  Zoom/Webex Link: <insert link> <br>
-  Recordings: <br>
-  </td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td></td>
-            <td>2022-01-27</td>
-            <td>5:00 PM</td>
-            <td></td>
-            <td>Day 2 End</td>
-    </tbody>
-    <tbody>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+            <td>60 mins</td>
+            <td>Technical Steering Committee / Discussion over the problematic areas</td>
     </tbody>
     <tbody>
         <tr>
