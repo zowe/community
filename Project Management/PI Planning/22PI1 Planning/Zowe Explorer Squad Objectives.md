@@ -10,7 +10,7 @@ ZE Squad Plan:
 - [Centralized error handling - Updates](https://github.com/zowe/vscode-extension-for-zowe/issues/388)
   - Include the Error Handling API in the Zowe Explorer codebase
   - Update the Error Handling API to accept buttons
-- (Squad-Discussion) [V2 Conformance Criteria ](https://github.com/zowe/vscode-extension-for-zowe/discussions/1534)
+- Respond to Extender Feedback on our [V2 Conformance Criteria ](https://github.com/zowe/vscode-extension-for-zowe/discussions/1534)
 
   
 ## Support the Team Configuration file in Zowe Explorer
@@ -37,8 +37,14 @@ ZE Squad Plan:
   
 # FTP VSCode Extension Objectives
 
+- Add the FTP VSCode Extension to [zowe.org](https://www.zowe.org/) alongside Zowe Explorer similar to how the FTP Plug-in is mentioned alongside Zowe CLI. 
+- Provide a link to the FTP VSCode Extension in the marketplace on [zowe.org/download](https://www.zowe.org/download.html)
+- Mention the FTP VSCode Extension in Zowe Docs similar to how the Zowe Explorer CICS Extension is documented [here](https://docs.zowe.org/stable/user-guide/ze-cics).
+
 # CICS VSCode Extension Objectives
 
+- Add the CICS VSCode Extension to [zowe.org](https://www.zowe.org/) alongside Zowe Explorer similar to how the CICS Plug-in is mentioned alongside Zowe CLI. 
+- Provide a link to the CICS VSCode Extension in the marketplace on [zowe.org/download](https://www.zowe.org/download.html)
 - (Squad-Discussion) [Include CICS in Zowe Explorer Mono Repo](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540)
 - [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
 - Work with [OMP Cobol Training Course](https://github.com/openmainframeproject/cobol-programming-course).
