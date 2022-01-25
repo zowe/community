@@ -8,19 +8,13 @@ When: Wednesday, January 26th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time -
 Zoom Meeting: https://zoom.us/j/98212948882<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390138&calstart=2022-01-26<br>
 Meeting Recordings: [Day 1]()
-<br>
-
-Day 2\
-When: Thursday, January 27th, 2022 10:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: https://zoom.us/j/99702386308?pwd=SFFadG5XbUVZcXdYY2dnT1M2ZXJUZz09<br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390162&calstart=2022-01-28<br>
-Meeting Recordings: [Day 2]()                
+<br>            
                 
-Day 3\
+Day 2\
 When: Friday, January 28th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/94220392766<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390162&calstart=2022-01-28<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 2]()
 
 Squad PI Objectives<br>
 [Explorer]()<br>
@@ -261,22 +255,6 @@ Squad Breakout
         <tr>
             <td>Listen Only</td>
             <td>2022-01-28</td>
-            <td>10:00 AM</td>
-            <td>60 mins</td>
-            <td>Technical Steering Committee / Discussion over the problematic areas</td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td><H3>Day 3</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Listen Only</td>
-            <td>2022-01-28</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -349,7 +327,7 @@ During this session, all squads present their plans to the group. At the end of 
             <td>2022-01-28</td>
             <td>5:00 PM</td>
             <td></td>
-            <td>Day 3 End</td>
+            <td>Day 2 End</td>
     </tbody>
     </table>
 
