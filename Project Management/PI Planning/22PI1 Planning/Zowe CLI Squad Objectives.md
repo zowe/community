@@ -17,7 +17,8 @@ Nice to have:
 
 ## Prioritized Jobs & Files Enhancements
 See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65) in Zowe CLI.
-Contribute Broadcom zos-extended-files & zos-extended-jobs commands to core Zowe CLI V2 LTS
+
+*This functionality is available in Broadcom's extended files & jobs plug-ins. Broadcom has agreed to contribute these ideas and any applicable code to core Zowe CLI as part of Zowe V2 LTS.*
 * [zowe files view data-set](https://github.com/zowe/zowe-cli/issues/1096)
 * [zowe files view uss-file](https://github.com/zowe/zowe-cli/issues/1283)
 * [View all spool content of a particular job](https://github.com/zowe/zowe-cli/issues/946)
@@ -26,7 +27,7 @@ Contribute Broadcom zos-extended-files & zos-extended-jobs commands to core Zowe
 * [zowe files download data-sets-matching](https://github.com/zowe/zowe-cli/issues/1287)
 * [zowe jobs submit uss-file](https://github.com/zowe/zowe-cli/issues/1286)
 
-Stretch
+Stretch (this functionality is not available in the aforementioned plug-ins)
 * [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
 * [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
 * [zowe cli compare command](https://github.com/zowe/zowe-cli/issues/1095)
