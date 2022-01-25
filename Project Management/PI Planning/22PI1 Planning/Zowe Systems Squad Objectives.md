@@ -19,7 +19,7 @@
 
 ## z/OS Infrastructure
 
-*[Epic - Move RACF to 2.4
+* Epic - Move RACF to 2.4
   * [Complete testing zzow04](https://github.com/zowe/zowe-install-packaging/issues/1397)
 
 * [z/OS Sysplex Setup](https://github.com/zowe/zowe-install-packaging/issues/1479)
