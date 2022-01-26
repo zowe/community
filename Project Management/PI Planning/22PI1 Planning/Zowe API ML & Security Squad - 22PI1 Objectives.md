@@ -3,44 +3,42 @@
 
 ## {v2} Enhancements to support move to v2 #1510
 
-* [V2 release #1510](https://github.com/zowe/api-layer/issues/1510)
+* [V2 release #1510](https://github.com/zowe/api-layer/issues/1510)  
 Continued validation and bug fixing for Version 2 of Zowe.
 
-API ML Squad Plan:
-[Remove the old path pattern from supported #1770](https://github.com/zowe/api-layer/issues/1770)
-[SPIKE: Remove instance.env parameters in favour of spring env vars (manifest.yaml) #1583](https://github.com/zowe/api-layer/issues/1583)
-[Distinguish between sdk and core services in manifest #1498) #1583](https://github.com/zowe/api-layer/issues/1498)
-[Document and verify the installation of extensions to the API Mediation Layer #1067](https://github.com/zowe/api-layer/issues/1067)
-[Refactor security remapping #1051](https://github.com/zowe/api-layer/issues/1051)
-Improve API versioning to eliminate issues when parsing the ApiInfo in API Catalog
-Conformance criteria updated
+API ML Squad Plan:  
+[Service ID prefix change impact on Zowe v1 to v2 compatibility #1999](https://github.com/zowe/api-layer/issues/1999)  
+[Allow to define port offset instead arbitrary port number #2486](https://github.com/zowe/zowe-install-packaging/issues/2486)  
+[Migrate playbooks and installation/sanity test for v2 #2462](https://github.com/zowe/zowe-install-packaging/issues/2462)  
+[Investigate automatically generating reference documentation #2460](https://github.com/zowe/zowe-install-packaging/issues/2460)  
+[v1~v2 end-user migrate tool #2453](https://github.com/zowe/zowe-install-packaging/issues/2453)     
+[Certificate section confusion #2565](https://github.com/zowe/zowe-install-packaging/issues/2565)    
 
 
 ## Enhanced support for client certificate authentication in Zowe API ML #1750
 
-* [Enhanced support for client certificate authentication in Zowe API ML](https://github.com/zowe/api-layer/issues/1750)
-Add support for using client certificate to make API calls directly to service endpoints aka mTLS. This would enable users to securely make direct API calls from third party products to a service endpoint using certificate authentication.    
+* [Enhanced support for client certificate authentication in Zowe API ML](https://github.com/zowe/api-layer/issues/1750)  
+Add support for using client certificate to make API calls directly to service endpoints (aka mTLS). This would enable users to securely make direct API calls from third party products to a service endpoint using certificate authentication. This would unlock use cases for Services who were unable to leverage third party products due to their lack of support for token authentication.      
 
-API ML Squad Plan:
-tbd      
+API ML Squad Plan:  
+[SPIKE: client certificate authentication for all REST endpoints #2028](https://github.com/zowe/api-layer/issues/2028)        
 
 
-## {SPIKE} Migrate API ML Gateway from Spring Cloud Zuul to Spring Cloud Gateway (SCG)  
+## Build Spring Cloud Gateway as a replacement for the current Gateway #2029 
 
-* Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). The goal is to explore building a new gateway service on top of the SCG technology that will provide only basic functionality at the beginning. It will live next to the existing gateway and will replace it at some point in the future.  
+* [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future (not in this PI!).  
 
-API ML Squad Plan:
-Spike that will provide insight towards:    
-- key milestones of migration pathway to SCG with a highlight of breaking changes (if any)  
-- role of ZAAS client after migration  
+API ML Squad Plan:  
+[Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)    
 
 
 ## Caching API - Infinispan to production Zowe - On-platform  
 
 * Release Infinispan as a solution to be used by the Caching API as an alternative on-Z storage option to VSAM. 
 
-API ML Squad Plan:
-tbd  
+API ML Squad Plan:  
+[Tweak the infinispan storage #1982](https://github.com/zowe/api-layer/issues/1982)    
 
 
 ## Zowe API ML Metrics dashboard MVP to Zowe 1.26 (MENTEE)
