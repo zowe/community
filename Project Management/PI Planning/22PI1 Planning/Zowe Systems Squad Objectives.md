@@ -1,4 +1,4 @@
-# Zowe Systems Squad - 21PI4 Objectives (October 2021 to January 2022)
+# Zowe Systems Squad - 22PI1 Objectives (February 2022 to April 2022)
 
 ## Zowe v2 Work
 
