@@ -45,13 +45,14 @@ ZE Squad Plan:
 
 - Add the CICS VSCode Extension to [zowe.org](https://www.zowe.org/) alongside Zowe Explorer similar to how the CICS Plug-in is mentioned alongside Zowe CLI. 
 - Provide a link to the CICS VSCode Extension in the marketplace on [zowe.org/download](https://www.zowe.org/download.html)
+- [Support the Team Configuration File for Zowe vNext](https://github.com/zowe/vscode-extension-for-cics/issues/122)
 - (Squad-Discussion) [Include CICS in Zowe Explorer Mono Repo](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540)
 - [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
 - Work with [OMP Cobol Training Course](https://github.com/openmainframeproject/cobol-programming-course).
   - Update the course to add the VSCode CICS plugin
   - Install CICS in the zCOBOL system
-- [Provide an API for other VS Code extension to access tree items and contribute implementations](https://github.com/zowe/vscode-extension-for-cics/issues/101).
 - [Create a test pipeline](https://github.com/zowe/vscode-extension-for-cics/issues/4)
+- [STRETCH] [Provide an API for other VS Code extension to access tree items and contribute implementations](https://github.com/zowe/vscode-extension-for-cics/issues/101).
 - [STRETCH] [Investigate favourites](https://github.com/zowe/vscode-extension-for-cics/issues/92)
 - [STRETCH] Categorise attributes into different sections like the CICS Explorer and make it more user-friendly
   - Include 'help' tab that gives more information about attributes.
