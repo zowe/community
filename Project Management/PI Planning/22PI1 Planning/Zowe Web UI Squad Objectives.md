@@ -2,7 +2,7 @@
 
 ## In-squad tasks
 
-### V2 fixes, extender and user assistance
+### V2 fixes, extender and user assistance [community](https://github.com/zowe/community/labels/V2) [zlux](https://github.com/zowe/zlux/labels/V2) [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging/labels/v2)
 **Priority**: 1 
 
 **Description**: Resolve as many v2 bug tickets as possible from 'zlux', 'community', and 'zowe-install-packaging' with bug tag. Engage with known extenders to explain v2 and answer questions, troubleshoot, and gather feedback for improvement now or over time.
@@ -68,7 +68,7 @@ Subtasks:
 **Status**: Recently started
 
 
-### V2 Documentation
+### V2 Documentation [#1826](https://github.com/zowe/docs-site/issues/1826)
 **Priority**: 4
 
 **Squad to work with**: Documentation
@@ -101,13 +101,13 @@ Subtasks:
 ### Stretch tasks
 
 ### Shortcut and folder support for Desktop
-**Description**:
+**Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
 
 **Status**: Nearly complete
 
 
 ### Prototype app store via package manager
-**Description**:
+**Description**:  Prototype one or more package managers such as npm and conda where some Zowe components are put in these package manager registries and `zwe` v2 utility is used such that it is possible both to use a package manager to download components prior to running `zwe component install` on them, and that it's possible to drive the package manager through `zwe` as well such that only 1 command is needed for end-to-end install
 
 **Status**: Not started
 
