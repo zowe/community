@@ -2,8 +2,7 @@
 
 ## In-squad tasks
 
-### V2 fixes, extender and user assistance [community](https://github.com/zowe/community/labels/V2) [zlux](https://github.com/zowe/zlux/labels/V2) [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging/
-labels/v2)
+### V2 fixes, extender and user assistance [community](https://github.com/zowe/community/labels/V2) [zlux](https://github.com/zowe/zlux/labels/V2) [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging/labels/v2)
 **Priority**: 1 
 
 **Description**: Resolve as many v2 bug tickets as possible from 'zlux', 'community', and 'zowe-install-packaging' with bug tag. Engage with known extenders to explain v2 and answer questions, troubleshoot, and gather feedback for improvement now or over time.
