@@ -9,7 +9,7 @@ Zoom Meeting: https://zoom.us/j/98212948882<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390138&calstart=2022-01-26<br>
 Meeting Recordings: [Day 1]()
 <br>            
-                
+
 Day 2\
 When: Friday, January 28th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/94220392766<br>
@@ -17,13 +17,13 @@ OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventi
 Meeting Recordings: [Day 2]()
 
 Squad PI Objectives<br>
-[Explorer]()<br>
-[API-ML and Security]()<br>
-[CLI]()<br>
-[Systems]()<br>
-[WebUI]()<br>
-[Onboarding]()<br>
-[Documentation]()<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20Explorer%20Squad%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20API%20ML%20%26%20Security%20Squad%20-%2022PI1%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20CLI%20Squad%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20Web%20UI%20Squad%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/zowe%20onboarding%20squad%20objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
 
 
 
