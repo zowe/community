@@ -19,7 +19,7 @@ ZE Squad Plan:
 Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
-- [Allow extenders to update the team configuration file schema](https://github.com/zowe/vscode-extension-for-zowe/issues/1528)
+- [Update global config when a new extender registers with Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1642)
 - (Squad-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
 - [Allow users to use their APIML instance to initialize a team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
 - [Enable login and logout using team config](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
