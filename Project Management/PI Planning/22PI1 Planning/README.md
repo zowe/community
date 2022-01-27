@@ -182,7 +182,7 @@ Squad Breakout 4
 - Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
  Squad Breakout 6
-- Onboarding Squad  
+- Onboarding Squad  (NOTE: rescheduled to Thursday 1/27 at 8:00am ET same link)
 - Zoom/Webex Link:  https://zoom.us/j/94312528890<br>   
   </td>
                 <td></td>
