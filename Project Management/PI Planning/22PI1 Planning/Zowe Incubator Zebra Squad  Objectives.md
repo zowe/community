@@ -31,8 +31,13 @@
 
 ## Validate ZOWE API ML Token (https://github.com/zowe/zebra/issues/55)
 * Description: As part of additional function to support and truly embedded within Zowe, we started adding function to issueing/validating tokens. We will need to finish developing and integrate with sample app.
-* priority: Medium
+* priority: Low
 
+## Zebra repository
+* https://github.com/zowe/zebra
+
+## Zebra bi-weekly calendar invite
+* https://lists.openmainframeproject.org/g/zowe-dev/viewevent?repeatid=35519&eventid=1254075&calstart=2022-02-03
 
 
 
