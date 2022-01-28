@@ -19,20 +19,25 @@ ZE Squad Plan:
 Continue the development work for the team configuration file in Zowe Explorer
 
 ZE Squad Plan:  
-- [Update global config when a new extender registers with Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1642)
+- [Allow users to update securely stored values using the Zowe team config](https://github.com/zowe/vscode-extension-for-zowe/issues/1646)
+- [Allow users to update expired credentials](https://github.com/zowe/vscode-extension-for-zowe/issues/1647)
 - (Squad-Discussion) [Managing the team configuration file](https://github.com/zowe/vscode-extension-for-zowe/discussions/1535)
 - [Allow users to use their APIML instance to initialize a team configuration file](https://github.com/zowe/vscode-extension-for-zowe/issues/1536)
 - [Enable login and logout using team config](https://github.com/zowe/vscode-extension-for-zowe/issues/1541)
+- [Update global config when a new extender registers with Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1642)
+
+## Additional V2 Considerations
+* Ensure documentation is validated from a fresh install and migration perspective
+* Define and effectively communicate how multiple major releases (V1 & V2) will be managed on the marketplace
+* [Update dependencies & documentation regarding minimum VS Code version requirement](https://github.com/zowe/vscode-extension-for-zowe/issues/1527)
 
 ## Prioritized Feature Requests and High Impact Issues
 
-- [Pagination of Search Results in the dataset tree view](https://github.com/zowe/vscode-extension-for-zowe/issues/479)
 - [Issue TSO & MVS Commands Polish Work](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
-- [Multi-selection support for all applicable functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
-- [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [Standardize the dialog boxes and progress bar](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
-- [Add FTP and CICS VSC ext in the zowe technical preview page](https://github.com/zowe/vscode-extension-for-zowe/issues/1546)
-- [Add FTP extension in the Zowe doc site](https://github.com/zowe/vscode-extension-for-zowe/issues/1562)
+- [STRETCH] [Pagination of Search Results in the dataset tree view](https://github.com/zowe/vscode-extension-for-zowe/issues/479)
+- [STRETCH] [Multi-selection support for all applicable functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
+- [STRETCH] [Relative path for Zowe-Temp-Folder-Location](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [STRETCH] [Change Password through z/OSMF Auth API](https://github.com/zowe/vscode-extension-for-zowe/issues/1538)
   
 # FTP VSCode Extension Objectives
@@ -48,10 +53,10 @@ ZE Squad Plan:
 - [Support the Team Configuration File for Zowe vNext](https://github.com/zowe/vscode-extension-for-cics/issues/122)
 - (Squad-Discussion) [Include CICS in Zowe Explorer Mono Repo](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540)
 - [Theia Check for WebView compatibility](https://github.com/zowe/vscode-extension-for-cics/issues/64)
-- Work with [OMP Cobol Training Course](https://github.com/openmainframeproject/cobol-programming-course).
+- [Create a test pipeline](https://github.com/zowe/vscode-extension-for-cics/issues/4)
+- [STRETCH] Work with [OMP Cobol Training Course](https://github.com/openmainframeproject/cobol-programming-course).
   - Update the course to add the VSCode CICS plugin
   - Install CICS in the zCOBOL system
-- [Create a test pipeline](https://github.com/zowe/vscode-extension-for-cics/issues/4)
 - [STRETCH] [Provide an API for other VS Code extension to access tree items and contribute implementations](https://github.com/zowe/vscode-extension-for-cics/issues/101).
 - [STRETCH] [Investigate favourites](https://github.com/zowe/vscode-extension-for-cics/issues/92)
 - [STRETCH] Categorise attributes into different sections like the CICS Explorer and make it more user-friendly
