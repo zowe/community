@@ -346,6 +346,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.  
 
-[Confidence Vote]()
+[Confidence Vote](https://www.surveymonkey.com/r/TNC5JVN)
 <br>
 [Confidence Vote Results]()
