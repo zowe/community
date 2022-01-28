@@ -4,6 +4,10 @@
 
 Goal: Create and publish V2 release documentation. Help V1 users and extenders understand V2 changes and migrate smoothly. Allow V2 users to get started successfully. 
 
+Plan: Create a detailed V2 doc plan (topics, doc change owners, timeline, freeze date, review and GA dates) and make the V2 doc collaboration process clear. 
+
+Tasks:
+
 - Redesign the Get started section. 
   - Educate V1 users all the changes (what's new in V2)
   - Provide clear path for V1 users (migration path per component)
@@ -43,15 +47,20 @@ Goal: Create and publish V2 release documentation. Help V1 users and extenders u
   - Audit V2 documentation to identify any reference to V1 only config or feature
 
 - Publish V2 documentation
-  - Add a V2 option in the release drop-down list (paralell to V1 releases)
+  - Add a `v2.0 LTS preview` option in the version picker before GA
+  - Add a `v2.0 LTS` option in the release drop-down list (paralell to V1 releases) when GA
 
 ### Content enhancements
 
 Goal: Improve the documentation to provide better experience and help users find what they need more efficiently. 
 
-- Implement the doc filtering feature to allow users to browse documentation based on need (Status: PoC ready, needs implementation)
+- Implement the doc filtering feature to allow users to browse documentation based on need 
+   - Status: PoC ready, needs implementation
+   - Scope: Installation topics
 
-- Create a glossary of terms so that new users can understand the Zowe fundamentals (Status: in progress)
+- Create a glossary of terms so that new users can understand the Zowe fundamentals 
+   - Status: in progress
+   - Scope: Get started and Setup sections in 22PI1
 
 - webUI specific: More error codes for ZSS, app-server and desktop
 
@@ -69,21 +78,19 @@ Goal: Improve the documentation to provide better experience and help users find
 
 Goal: Educate users through more engaging content format - videos. 
 
-- Update the Zowe overview video on zowe.org to eensure that it is up-to-date.
-- Top secret and ACF2 videos for certificates (Joe's working on) 
-- Finalize the Zowe demo video management guidelines. 
-
-**Stretch**: 
-- Explore component introduction videos that focus on more technical details 
-- Create install videos per component
+- Update the Zowe overview video on zowe.org to eensure that it is up-to-date. (Owner: Sam)
+- Finalize the Zowe demo video management guidelines. (Owner: Ashley)
+- Top secret and ACF2 videos for certificates (Owner: Joe) 
 
 ### Content audit
 
-- Address content audit findings conducted in 21PI4 (style, experience, architecture, quality, etc.) 
-- Continue to audit content and work on user feedback in Zowe surveys.
+Address content audit findings conducted in 21PI4 (style, experience, architecture, quality, etc.) 
+
+- Scope: Get started and Setup sections in 22PI1
 
 ### High-impact GitHub issues
 
-Continue to address high-impact GitHub issues, such as
+Continue to address high-impact GitHub issues:
 
 - [Zowe Must Remain Vendor-Neutral #1963](https://github.com/zowe/docs-site/issues/1963)
+- Prioritize installation-related [issues](https://github.com/zowe/docs-site/issues?q=is%3Aopen+is%3Aissue+label%3A%22area%3A+zos-install-upgrade%22)
