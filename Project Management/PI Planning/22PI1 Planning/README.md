@@ -7,14 +7,14 @@ Day 1\
 When: Wednesday, January 26th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/98212948882<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390138&calstart=2022-01-26<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/ZdB0MOgzLyibAoA4bf3xZFRnPNS5FIslFQMCPCqKfHxObOCrkQYVdZU8d8wyU4rE.LCissPdd7qnlcuv2?startTime=1643201671000)
 <br>            
 
 Day 2\
 When: Friday, January 28th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/94220392766<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1390162&calstart=2022-01-28<br>
-Meeting Recordings: [Day 2]()
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/4pZExhzE9LWA4Yl8hOH_MrQHEJtwhKqbluRYolCV1vfbg65vJxTCl7-ygBMDyFdA.IGILRtXezDV7EiU2?startTime=1643377995000)
 
 Squad PI Objectives<br>
 [Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/Zowe%20Explorer%20Squad%20Objectives.md)<br>
@@ -348,4 +348,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 [Confidence Vote](https://www.surveymonkey.com/r/TNC5JVN)
 <br>
-[Confidence Vote Results]()
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI1%20Planning/22PI1_Confidence_Vote_Results.png)
