@@ -32,7 +32,7 @@ Herein we use the SSDF as a meta framework by mapping the high-level practices t
 The structure corresponds the to Secure Software Development at organizational level.
 </span>
 
-**Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDP-SDLC/Policy.md).
+>***Note: For our Secure SDLC Policy please visit [Zowe Secure Software Development Lifecycle Policy](../Zowe-SSDP-SDLC/Policy.md).***
 
 - [Prepare the organization (PO)](#po-prepare-the-organization)
 - [Protect the Software (PS)](#ps-protect-the-software)
@@ -45,72 +45,73 @@ The structure corresponds the to Secure Software Development at organizational l
 
 ## A. Prepare the organization (PO) / (SSFD:PO) Prepare the organization
 
-*Note: PO.1 sub-category is skipped because describes the actual process of defining this policy framework: Policy, Processes and Guidelines. 
+>***Note: PO.1 sub-category is skipped because it describes the actual process of defining this policy framework: Policy, Processes and Guidelines. 
 Keywords/artifacts: Requirements, Policies, Processes, Best practices, development infrastructures: components, endpoints, etc.
-Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers  
+Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers.***
 
-### A1. Roles and Responsibilities (PO-RR) / (SSDF:PO.2) Implement Roles and Responsibilities: 
-- A1.1:ZSSD-OP:PO-RR-CRA (Create Roles and Alter responsibilities) / (SSDF:PO.2.1):  
+### A1. Roles and Responsibilities (#ZSSD-OP:PO-RR &emsp;#SSDF:PO.2 Implement Roles and Responsibilities)
+
+- A1.1 Create Roles and Alter responsibilities (#ZSSD-OP:PO-RR-CRA &emsp;#SSDF:PO.2.1)  
 
 Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
 
-- A1.2:ZSSD-OP:PO-RR-RBT (Role Based Training) / (SSDF:PO.2.2):
+- A1.2 Role Based Training (#ZSSD-OP:PO-RR-RBT &emsp;#SSDF:PO.2.2)
 
 Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training asneeded.
 
-- A1.3:ZSSD-OP:PO-RR-UMC (Upper Management Commitment) / (SSDF:PO.2.3): 
+- A1.3 Upper Management Commitment (#ZSSD-OP:PO-RR-UMC #SSDF:PO.2.3)
 
 Obtain upper management commitment to secure development, and convey that commitment to all with SSDF-related roles and responsibilities.
 
-### A2. Supporting Toolchains (ST) / (SSFD:PO.3) Implement Supporting Toolchains
-- A2.1:ZSSD-OP:PO-ST-TCI (Toolchain Components Integration) / (SSDF:PO.3.1): 
+### A2. Supporting Toolchains (#ZSSD-OP:PO-ST &emsp;#SSFD:PO.3 Implement Supporting Toolchains)
+- A2.1 Toolchain Components Integration (#ZSSD-OP:PO-ST-TCI &emsp;#SSDF:PO.3.1) 
  
 Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
 
-- A2.2:ZSSD-OP:PO-ST-DMT (Deploy and Maintain Tools) / (SSDF:PO.3.2):
+- A2.2:Deploy and Maintain Tools (#ZSSD-OP:PO-ST-DMT &emsp;#SSDF:PO.3.2)
 
 Follow recommended security practices deploying and maintaining tools and toolchains
 
-- A2.3:ZSSD-OP:PO-ST-GEA (Generate Evidence and Artifacts) / (SSDF:PO.3.3): 
+- A2.3 Generate Evidence and Artifacts (#ZSSD-OP:PO-ST-GEA &emsp;#SSDF:PO.3.3) 
  
 Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by the organization.
 
-### A3. Security Criteria (SC) / (SSFD:PO.4) Define and Use Criteria for Software Security Checks
-- A3.1:ZSSD-OP:PO-SC-SSC (Software Security Checks) / (SSDF:PO.4.1): 
+### A3. Security Criteria (#ZSSD-OP:PO-SC &emsp;#SSFD:PO.4 Define and Use Criteria for Software Security Checks) 
+- A3.1 Software Security Checks (#ZSSD-OP:PO-SC-SSC &emsp;#SSDF:PO.4.1)
  
 Define criteria for software security checks and track throughout the SDLC.
 
-- A3.2:ZSSD-OP:PO-SC-SNI (Safeguard the Necessary Information) / (SSDF:PO.4.2): 
+- A3.2 Safeguard the Necessary Information (#ZSSD-OP:PO-SC-SNI &emsp;#SSDF:PO.4.2): 
 
 Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
 
-### A4. Secure Environments (SE) / (SSFD:PO.5) Implement and Maintain Secure Environments for Software Development
-- A4.1:ZSSD-OP:PO-SE-SPE (Separate and Protect the Environments) / (SSDF:PO.5.1): 
+### A4. Secure Environments (#ZSSD-OP:PO-SE &emps;SSFD:PO.5 Implement and Maintain Secure Environments for Software Development)
+- A4.1 Separate and Protect the Environments (#ZSSD-OP:PO-SE-SPE &emsp;#SSDF:PO.5.1): 
  
 Separate and protect each environment involved in software development.
 
-- A4.2:ZSSD-OP:PO-SE-HDE (Harden Development Endpoints) / (SSDF:PO.5.2): 
+- A4.2 Harden Development Endpoints (#ZSSD-OP:PO-SE-HDE &emsp;#SSDF:PO.5.2) 
 
 Secure and harden development endpoints (i.e., endpoints for software designers, developers, testers, builders, etc.\) to perform development-related tasks using a risk-based approach.
     
-## B. Protect the Software (PS) / (PS): Protect the Software 
+## B. Protect the Software (#ZSSD-OP:PS &emsp;#SSFD:PS Protect the Software) 
 
-### B1. Protect All Code (PAC) / (SSDF:????) Protect All Forms of Code from Unauthorized Access and Tampering
-- B1.1:ZSSD-OP:PS-PAC-SAC (Store All Code) / (SSDF:PS.1.1): 
+### B1. Protect All Code (#ZSSD-OP:PS-PAC &emsp;SSDF:PS.1 Protect All Forms of Code from Unauthorized Access and Tampering)
+- B1.1 Store All Code (#ZSSD-OP:PS-PAC-SAC &emsp;#SSDF:PS.1.1) 
  
 Store all forms of code, including source code and executable code, based on the principle of least privilege so that only authorized personnel, tools,services, etc. have the necessary forms of access.
 
-### B2: Software Release Integrity (SRI) / (SSDF:????) Provide a Mechanism for Verifying Software Release Integrity
-- B2.1:ZSSD-OP:PS-SRI-IIA (Integrity Information Availability) / (SSDF:PS.2.1): 
+### B2. Software Release Integrity (#ZSSD-OP:SRI &emsp;#SSDF:PS.2 Provide a Mechanism for Verifying Software Release Integrity)
+- B2.1 Integrity Information Availability (#ZSSD-OP:PS-SRI-IIA &emsp;#SSDF:PS.2.1) 
  
 Make integrity verification information available to software purchasers and consumers.
   
-### B3: Protect Software Releases (PSR) / (SSDF:????) Archive and Protect Each Software Release
-- B3.1:ZSSD-OP:PS-PSR-ANF (Archive Necessary Files) / (SSDF:PS.3.1): 
+### B3. Protect Software Releases (#ZSSD-OP:PSR  &emsp;#SSDF:PS3 Archive and Protect Each Software Release)
+- B3.1 Archive Necessary Files (#ZSSD-OP:PS-PSR-ANF &emsp;#SSDF:PS.3.1) 
  
 Securely archive the necessary files and other data (e.g., integrity verification information, provenance data) to be retained for each software release.
 
-- B3.2:ZSSD-OP:PS-PSR-MPD (Maintain Provenance Data) / (SSDF:PS.3.2): 
+- B3.2 Maintain Provenance Data (#ZSSD-OP:PS-PSR-MPD &emsp;SSDF:PS.3.2) 
  
 Collect, maintain, and share provenance data for all components and other dependencies of each software release (e.g., in a software bill of materials[SBOM]).
 
@@ -118,7 +119,6 @@ Collect, maintain, and share provenance data for all components and other depend
 
 
 #Notes, TODOs
-
 * Consider organizations size - some just can't afford all the overhead and need to simplify. How then we maintain compliancy?
 * Flag which requirements are mandatory
 * Some items look as recommended practices rather than as policy requirements
