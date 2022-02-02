@@ -68,6 +68,7 @@ Keywords/artifacts: Requirements, Policies, Processes, Best practices, developme
 Additionally, it requires: Maintaining the requirements over time, Documenting them, Communicating them to 3rd party SW components providers.***
 
 #### A1. Roles and Responsibilities (#ZSSD-OP:PO-RR #SSDF:PO.2 Implement Roles and Responsibilities)
+TODO: Consider skipping this in full as it makes no big sense to require individual contributors to get commitment and roles and trainings.
 
 - A1.1 Create Roles and Alter responsibilities (#ZSSD-OP:PO-RR-CRA) 
 
@@ -86,25 +87,34 @@ Provide role-based training for all personnel with responsibilities that contrib
 Obtain upper management commitment to secure development, and convey that commitment to all with SSDF-related roles and responsibilities.
 
 #### A2. Supporting Toolchains (#ZSSD-OP:PO-ST #SSFD:PO.3 Implement Supporting Toolchains)
+```TODO: #KEEP #RE-DEFINE```
 - A2.1 Toolchain Components Integration (#ZSSD-OP:PO-ST-TCI #SSDF:PO.3.1) 
  
 Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
 
 - A2.2:Deploy and Maintain Tools (#ZSSD-OP:PO-ST-DMT #SSDF:PO.3.2)
-
+```TIDID: consider removing or mergin with the previous one```
 Follow recommended security practices deploying and maintaining tools and toolchains
 
 - A2.3 Generate Evidence and Artifacts (#ZSSD-OP:PO-ST-GEA #SSDF:PO.3.3) 
- 
+ ```#KEEP````
 Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by the organization.
 
-#### A3. Security Criteria (#ZSSD-OP:PO-SC #SSFD:PO.4 Define and Use Criteria for Software Security Checks) 
+#### A3. Security Criteria (#ZSSD-OP:PO-SC #SSFD:PO.4 Define and Use Criteria for Software Security Checks)
+```TODO: Rephrase - maintain some criteria at Zowe level, while allowing projects to have additional specific criteria.
+Provide some automatic validation for the Zowe level criteria - validate during pipeline execution.
+Shuld we require projects to provide own checks for the criteria they declare?
+How to ensure, enforce?
+Code level security checks.
+Dependency level security checks.
+SonarCloud is already used. Hs some security checks.
+```
 - A3.1 Software Security Checks (#ZSSD-OP:PO-SC-SSC #SSDF:PO.4.1)
  
 Define criteria for software security checks and track throughout the SDLC.
 
 - A3.2 Safeguard the Necessary Information (#ZSSD-OP:PO-SC-SNI #SSDF:PO.4.2): 
-
+```#TOO-BROAD
 Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
 
 #### A4. Secure Environments (#ZSSD-OP:PO-SE &emps;SSFD:PO.5 Implement and Maintain Secure Environments for Software Development)
