@@ -1,6 +1,6 @@
 # Zowe Secure Software Development (Z-SSD) - Organization Policy (OP) 
 
-This document contains the Zowe Secure Software Development Policy at organizational level.
+This document contains the Zowe Secure Software Development Organizational Policy (ZSSD-OP).
 The organizational policy is intended to set up and govern the secure best practices for the environment in which the requirements set by the [Secure SDLC policy](../Zowe-SSDP-SDLC/Policy.md) can be fulfilled.
 Sometimes requirements from OP and DP can interfere or be complementary. Such relations are not tracked in the documents, but should be obvious (TODO: Should we track internal relations between requirements from OP and DP).
 
