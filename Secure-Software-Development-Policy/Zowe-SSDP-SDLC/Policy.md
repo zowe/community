@@ -103,7 +103,9 @@ Produce Well-Secured Software with minimal security vulnerabilities in its relea
  
 >Follow all secure coding practices that are appropriate to the development languages and environment to meet the organization’s requirements.
 
-
+- C4.2 Use basic good cryptographic practices
+```#OpenSSF-BP:SSF-A.2 Use basic good cryptographic practices```
+-  
 #### C5. Integrated Development Environment (#ZSSD-LP:IDE #SSDF:PW.6 Configure the Integrated Development Environment, Compilation, Interpreter, and Build Processes to Improve Executable Security)
  
 - C5.1 Compiler Interpreter and Build tools (#ZSSD-LP:PW-IDE-CIB #SSDF:PW.6.1)
@@ -146,6 +148,25 @@ Produce Well-Secured Software with minimal security vulnerabilities in its relea
  
 >Implement the default settings (or groups of default settings, if applicable\), and document each setting for software administrators.
 
+#### C9 Use Basic good Cryptographic Practices #ZSSD-LP:PW-TEC-BCP
+- SSF-A.2.1-B The software produced by the project MUST use, by default, only cryptographic protocols and algorithms that are publicly published and reviewed by experts (if cryptographic protocols and algorithms are used). {N/A allowed} [crypto_published]
+- SSF-A.2.2-B If the software produced by the project is an application or library, and its primary purpose is not to implement cryptography, then it SHOULD only call on software specifically designed to implement cryptographic functions; it SHOULD NOT re-implement its own. {N/A allowed} [crypto_call]
+- SSF-A.2.3-B All functionality in the software produced by the project that depends on cryptography MUST be implementable using FLOSS. {N/A allowed} [crypto_floss]
+- SSF-A.2.4-B The security mechanisms within the software produced by the project MUST use default key lengths that at least meet the NIST minimum requirements through the year 2030 (as stated in 2012). It MUST be possible to configure the software so that smaller keylengths are completely disabled. {N/A allowed} [crypto_keylength]
+- SSF-A.2.5-B The default security mechanisms within the software produced by the project MUST NOT depend on broken cryptographic algorithms (e.g., MD4, MD5, single DES, RC4, Dual_EC_DRBG), or use cipher modes that are inappropriate to the context, unless they are necessary to implement an interoperable protocol (where the protocol implemented is the most recent version of that standard broadly supported by the network ecosystem, that ecosystem requires the use of such an algorithm or mode, and that ecosystem does not offer any more secure alternative). The documentation MUST describe any relevant security risks and any known mitigations if these broken algorithms or modes are necessary for an interoperable protocol. {N/A allowed} [crypto_working]
+- SSF-A.2.6-B The default security mechanisms within the software produced by the project SHOULD NOT depend on cryptographic algorithms or modes with known serious weaknesses (e.g., the SHA-1 cryptographic hash algorithm or the CBC mode in SSH). {N/A allowed} [crypto_weaknesses]
+- SSF-A.2.7-B The security mechanisms within the software produced by the project SHOULD implement perfect forward secrecy for key agreement protocols so a session key derived from a set of long-term keys cannot be compromised if one of the long-term keys is compromised in the future. {N/A allowed} [crypto_pfs]
+- SSF-A.2.8-B If the software produced by the project causes the storing of passwords for authentication of external users, the passwords MUST be stored as iterated hashes with a per-user salt by using a key stretching (iterated) algorithm (e.g., Argon2id, Bcrypt, Scrypt, or PBKDF2). See also OWASP Password Storage Cheat Sheet). {N/A allowed} [crypto_password_storage]
+- SSF-A.2.9-B The security mechanisms within the software produced by the project MUST generate all cryptographic keys and nonces using a cryptographically secure random number generator, and MUST NOT do so using generators that are cryptographically insecure. {N/A allowed} [crypto_random]
+- SSF-A.2.10-B The default security mechanisms within the software produced by the project MUST NOT depend on cryptographic algorithms or modes with known serious weaknesses (e.g., the SHA-1 cryptographic hash algorithm or the CBC mode in SSH).
+- SSF-A.2.11-B The project SHOULD support multiple cryptographic algorithms, so users can quickly switch if one is broken. Common symmetric key algorithms include AES, Twofish, and Serpent. Common cryptographic hash algorithm alternatives include SHA-2 (including SHA-224, SHA-256, SHA-384 AND SHA-512) and SHA-
+- SSF-A.2.12-B The project MUST support storing authentication credentials (such as passwords and dynamic tokens) and private cryptographic keys in files that are separate from other information (such as configuration files, databases, and logs), and permit users to update and replace them without code recompilation. If the project never processes authentication credentials and private cryptographic keys, select "not applicable"
+- SSF-A.2.13-B The software produced by the project SHOULD support secure protocols for all of its network communications, such as SSHv2 or later, TLS1.2 or later (HTTPS), IPsec, SFTP, and SNMPv3. Insecure protocols such as FTP, HTTP, telnet, SSLv3 or earlier, and SSHv1 SHOULD be disabled by default, and only enabled if the user specifically configures it. If the software produced by the project does not support network communications, select "not applicable" (N/A).
+- SSF-A.2.14-B The software produced by the project SHOULD, if it supports or uses TLS, support at least TLS version 1.2. Note that the predecessor of TLS was called SSL. If the software does not use TLS, select "not applicable" (N/A).
+- SSF-A.2.15-B The software produced by the project MUST, if it supports TLS, perform TLS certificate verification by default when using TLS, including on subresources. If the software does not use TLS, select "not applicable" (N/A).
+- SSF-A.2.16-B The software produced by the project MUST, if it supports TLS, perform certificate verification before sending HTTP headers with private information (such as secure cookies). If the software does not use TLS, select "not applicable"
+- SSF-A.2.17-B The software produced by the project MUST support secure protocols for all of its network communications, such as SSHv2 or later, TLS1.2 or later (HTTPS), IPsec, SFTP, and SNMPv3. Insecure protocols such as FTP, HTTP, telnet, SSLv3 or earlier, and SSHv1 MUST be disabled by default, and only enabled if the user specifically configures it. If the software produced by the project does not support network communications, select "not applicable" (N/A).
+- SSF-A.2.18-B The software produced by the project MUST, if it supports or uses TLS, support at least TLS version 1.2. Note that the predecessor of TLS was called SSL. If the software does not use TLS, select "not applicable" (N/A).
 
 ### D. Respond to Vulnerabilities (#ZSSD-LP:RV #SSDF:RV Respond to Vulnerabilities) 
 #### D1. Identify and Confirm Vulnerabilities (#ZSSD-LP:ICV #SSDF:RV.1 Identify and Confirm Vulnerabilities on an Ongoing Basis)

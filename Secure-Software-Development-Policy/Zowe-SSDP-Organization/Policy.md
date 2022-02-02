@@ -69,11 +69,15 @@ Additionally, it requires: Maintaining the requirements over time, Documenting t
 
 #### A1. Roles and Responsibilities (#ZSSD-OP:PO-RR #SSDF:PO.2 Implement Roles and Responsibilities)
 
-- A1.1 Create Roles and Alter responsibilities (#ZSSD-OP:PO-RR-CRA #SSDF:PO.2.1)  
+- A1.1 Create Roles and Alter responsibilities (#ZSSD-OP:PO-RR-CRA) 
+
+```#SSDF:PO.2.1```  
 
 Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed
 
-- A1.2 Role Based Training (#ZSSD-OP:PO-RR-RBT #SSDF:PO.2.2)
+- A1.2 Role Based Training (#ZSSD-OP:PO-RR-RBT) 
+
+```#SSDF:PO.2.2 #SSF-A.1.1-B  #SSF-A.1.2-B```
 
 Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training asneeded.
 
