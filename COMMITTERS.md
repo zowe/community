@@ -69,16 +69,14 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-[**Core committers**](https://github.com/orgs/zowe/teams/zowe-explorer-administrators/members)
+Committers are tracked via [github teams](https://github.com/orgs/zowe/teams/zowe-explorer-committers/members),
+for permission management.
 
-- Jessielaine Punongbayan - (Lead) @jellypuno (jessielaine.punongbayan@broadcom.com)
-- Richelle Anne Craw - @crawr (Scrum Master) (richelleanne.craw@broadcom.com)
-- Fernando Rijo Cedeno - @zFernand0 (fernando.rijocedeno@broadcom.com)
+- Fernando Rijo Cedeno - (Lead) @zFernand0 (fernando.rijocedeno@broadcom.com)
+- Billie Jean Simmons - (Lead) @JillieBeanSim (BillieJean.Simmons@ibm.com)
+- Jessica Tonda (Scrum Master) @JTonda (jessica.tonda@broadcom.com)
+- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
 - Lauren Li - @lauren-li (lauren.li@ibm.com)
-- Billie Jean Simmons - @JillieBeanSim (BillieJean.Simmons@ibm.com)
-
-[**Other committers**](https://github.com/orgs/zowe/teams/zowe-explorer-committers/members)
-
 - Peter Haumer - @phaumer (phaumer@us.ibm.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
@@ -88,6 +86,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 - Qi Liang - @std4lqi (liangqi@cn.ibm.com)
 - Rudy Flores - @rudyflores (rudyflores@ibm.com)
 - Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
+- James Bauman - @JamesBauman (james.bauman@broadcom.com)
 
 ### Zowe CICS Explorer Squad
 
