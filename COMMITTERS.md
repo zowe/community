@@ -86,6 +86,8 @@ for permission management.
 - Qi Liang - @std4lqi (liangqi@cn.ibm.com)
 - Rudy Flores - @rudyflores (rudyflores@ibm.com)
 - Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
+- Roman Kupriyanov - @roman-kupriyanov (roman.kupriyanov@broadcom.com)
+- Kostadin Uzunov - @uzuko01 (kostadin.uzunov@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
 
 ### Zowe CICS Explorer Squad
