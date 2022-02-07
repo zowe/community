@@ -27,8 +27,33 @@ For easier identification and linking, the categories and sub topics are assigne
 These mappings are maintained to help the Zowe contributors be transparent about what level of security development practices was achieved 
 and to be able to easily answer requests from Zowe adopters about compliance with the respective best practices frameworks.   
 
+### Hashtags explanation
+```
+#MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
+#OPTIONAL - the requirement is not mandatory. 
+#MEASURABLE - it is possible to validate that the requiorement was met
+#ENFORCEABLE - Zowe has the right and power to enforce fulfilment of the gicen requirement 
+#DOCUMENT-IT - must be documented in detail on the project/produt pages 
+#EVIDENCE - evidence about how was a requirement met is required to be published and public
+#TOO-BROAD - definition is too broa/general. in consequence the requirement is hard to measure and enforce 
+#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
+#PRACTICE - rather a good practice than requirement
+#PROCESS - reference to process which helps to meet the requirement 
+#GUIDELINE-ABC - reference to a guideline which helps to meet given requirement 
+```
+
 >Common definitions:
 >
+> 1. Contributors' types and policy applicability
+> There are basically two kinds of Zowe contributors. 
+> - individuals contributing to one or multiple Zowe sub-projects/components
+> - squads owning a component 
+> They not only differ by size and ownership of the components, but consequently have different responsibilities 
+> and should be required to maintain different level of compliance with the policies. 
+> On the top of the responsibility chain is always Zowe represented by the TSC and Security Workgroup.
+> The question then is how to structure the policy statements so to assign them to corresponding entity (individual, squad, Zowe governance body)
+>
+> 2 . Policy statements 
 >Some requirements are strictly mandatory, while some others might not be enforceable in all cases and should be perceived as strong recommendations.
 >
 >*Note: Should we state next to each requirement if it is mandatory or not and under what conditions?*
@@ -151,7 +176,16 @@ Collect, maintain, and share provenance data for all components and other depend
 
 
 >##Notes, TODOs
-> 
+>
+> Consider the contributors level of autonomy to submit code depending on their contribution type.
+> There is difference between independent single developer and squad backed by a community member (company) 
+> Also it depends if cntribution is in form of PR (early validation) or a product version - available at time of  Zowe release.
+> In the later case it may happen that the code wil not pass TSC validation and this also may leasd to frustration and tensions.
+> Maybe we should distingquish policies for:
+>     - individual contributors to exisiting components
+>     - zowe members owning components
+>     - incubator projects not released yet as Zowe component 
+  
 >* Consider organizations size - some just can't afford all the overhead and need to simplify. How then we maintain compliancy?
 >* Flag which requirements are mandatory
 >* Some items look as recommended practices rather than as policy requirements
