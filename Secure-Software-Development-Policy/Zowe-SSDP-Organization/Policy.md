@@ -28,24 +28,30 @@ These mappings are maintained to help the Zowe contributors be transparent about
 and to be able to easily answer requests from Zowe adopters about compliance with the respective best practices frameworks.   
 
 ### Hashtags explanation
+
+TODO: Move following out of the policies to a separate reference file
 ```
+#KEEP - Keep in the policy 
+#DISCARD - remove from the policy
+
 #MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
 #OPTIONAL - the requirement is not mandatory. 
-#MEASURABLE - it is possible to validate that the requiorement was met
-#ENFORCEABLE - Zowe has the right and power to enforce fulfilment of the gicen requirement 
-#DOCUMENT-IT - must be documented in detail on the project/produt pages 
-#EVIDENCE - evidence about how was a requirement met is required to be published and public
-#TOO-BROAD - definition is too broa/general. in consequence the requirement is hard to measure and enforce 
-#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
-#PRACTICE - rather a good practice than requirement
 #PROCESS - reference to process which helps to meet the requirement 
+#PRACTICE - rather a recommended good practice than a requirement
 #GUIDELINE-ABC - reference to a guideline which helps to meet given requirement 
-#NOT-APPLICABLE
-#HARD-TO-PROVE
+
+#MEASURABLE - it is possible to validate that the requiorement was met
+#ENFORCEABLE - Zowe (TSC) has the right and the power to enforce fulfilment of the given requirement 
+#DOCUMENTED - the requirement fulfilment must be documented in detail on the project/produt pages 
+#EVIDENCE - evidence about how was a requirement was met is required to be published and be public
+
+#TOO-BROAD - definition is too general. Rework it or the requirement is hard to measure and enforce 
+#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
+#NOT-APPLICABLE - Not suitable for this policy. Consider cases when it might be applicable.
+#HARD-TO-PROVE - Good wish but can't be measured (the oposite to #MEASURABLE) 
 ```
 
 >Common definitions:
->
 > 1. Contributors' types and policy applicability
 > There are basically two kinds of Zowe contributors. 
 > - individuals contributing to one or multiple Zowe sub-projects/components
