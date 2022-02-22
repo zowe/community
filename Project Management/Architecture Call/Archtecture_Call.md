@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[02-22-2022](https://zoom.us/rec/share/JYhisBH2vnVF4vN_NHo8SORqBSEu0mwra3b848xStIIY6Al0k7h6mwlhAr9ZzUM.h4Rez9-y__ddBHDp?startTime=1645541902000) Zowe Install Observations - Jorn Thyssen
+
 [11-16-2021](https://zoom.us/rec/share/vrllhRORHNvh22a023hcJj3xLMMuX1Prq4A3UqK6cRIfLKx2dTStuMNh6hCECg4v.bR3CR5hmAsvsUssf?startTime=1637074422000) Meeting Recording
 
 [09-28-2021](https://zoom.us/rec/share/VIseaKsK4D2IepTAWUpnlGzXoWMSHzIHVgihCXIYYDdGCYXtim8W-LlSjPmaE3yW.Bc8gUZC90GS-SzRi?startTime=1632837317000)  V1.24.0 Retrospective and Update on Container Work Items
