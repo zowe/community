@@ -38,6 +38,7 @@ TODO: Move following out of the policies to a separate reference file
 ```
 #KEEP - Keep in the policy 
 #DISCARD - remove from the policy
+#RE-DEFINE
 
 #MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
 #OPTIONAL - the requirement is not mandatory. 
@@ -109,16 +110,17 @@ Additionally, it requires: Maintaining the requirements over time, Documenting t
 ```#REF: SSFD:PO Prepare the organization```
 
 #### A1. Roles and Responsibilities (#ID: ZSSD-OP:PO-RR)
-TODO: Consider skipping this in full as it probably makes no sense to require individual contributors to get commitment and roles and trainings.
-
 ```#REF: SSDF:PO.2 Implement Roles and Responsibilities```
+```#DISCARD```
+
+TODO: Consider skipping this in full as it probably makes no sense to require individual contributors to get commitment and roles and trainings.
 
 - A1.1 Create Roles and Alter responsibilities (#ID: ZSSD-OP:PO-RR-CRA) 
 
 Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. 
 Periodically review and maintain the defined roles and responsibilities, updating them as needed\
 
-```#REF: SSDF:PO.2.1```  
+```#REF: SSDF:PO.2.1```
 
 - A1.2 Role Based Training (#ID: ZSSD-OP:PO-RR-RBT)
   
@@ -132,82 +134,85 @@ Periodically review personnel proficiency and role-based training, and update th
 
 Obtain upper management commitment to secure development, and convey that commitment to all with SSDF related roles and responsibilities.
 
-`````#REF: SSDF:PO.2.3`````\
+```#REF: SSDF:PO.2.3```\
 ```#NOT-APPLICABLE for individuals and small organizations.```\
 ```#HARD-TO-PROVE```
 
 #### A2. Supporting Toolchains (#ID: ZSSD-OP:PO-ST)
 ```#REF: SSFD:PO.3 Implement Supporting Toolchains```\
-```TODO: #KEEP #RE-DEFINE```
+```#KEEP #RE-DEFINE```
 
 - A2.1 Toolchain Components Integration (#ID: ZSSD-OP:PO-ST-TCI)
+```#REF: SSDF:PO.3.1```
+```#KEEP```
 
 Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
 
+```TODO: The organization/contributors developing Zowe component, should either reuse the tools maintained by Zowe or shall use own tools adequate to the once provided by Zowe and providing consistent results to satisfy security criteria defined in both ZSSD policies.```     
 
-TODO: The organization/contributors developing Zowe component, should either reuse the tools maintained by Zowe or shall use own tools adequate to the once provided by Zowe
-and providing consistent results to satisfy security criteria defined in both ZSSD policies.     
-
-```#REF: SSDF:PO.3.1```
-
-- A2.2:Deploy and Maintain Tools (#ID: ZSSD-OP:PO-ST-DMT)
+- A2.2:Deploy and Maintain Tools (#ID: ZSSD-OP:PO-ST-DMT)\
+```#REF: SSDF:PO.3.2```
+```#KEEP```
 
 Follow recommended security practices deploying and maintaining tools and toolchains.
 
-```#REF: SSDF:PO.3.2```\
 ```TODO: consider removing or mergin with the previous one or be flexible enough to have an option for different kinds of contributors :individual, squad, company with own tool chains?```
 
-- A2.3 Generate Evidence and Artifacts (#ID: ZSSD-OP:PO-ST-GEA)
-
-Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by Zowe.
-
+- A2.3 Generate Evidence and Artifacts (#ID: ZSSD-OP:PO-ST-GEA)\
 ```#REF: SSDF:PO.3.3```\
 ```#KEEP```
 
+Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by Zowe.
+
 #### A3. Security Criteria (#ID: ZSSD-OP:PO-SC) 
+```#REF:  SSFD:PO.4 Define and Use Criteria for Software Security Checks)```\
+```#KEEP```
+
 Provide some kind of automatic validation for the Zowe Secure Development criteria - validate during pipeline execution.
 
-Should we require projects to provide own checks for the criteria they declare?
-How to ensure, enforce?
-Code level security checks.
-Dependency level security checks.
-SonarCloud is already used and has some security checks.
+```#Q: Should we require projects to provide own checks for the criteria they declare?```\
+```How to ensure, enforce?```\
+```Code level security checks.```\
+```Dependency level security checks.```\
+```SonarCloud is already used and has some security checks.```\
 
-```#REF:  SSFD:PO.4 Define and Use Criteria for Software Security Checks)```\
 ```TODO: Rephrase - maintain some criteria at Zowe level, while allowing projects to have additional specific criteria.```
 
 - A3.1 Software Security Checks (#ID: ZSSD-OP:PO-SC-SSC)
+```#REF: SSDF:PO.4.1```
+```#KEEP```  
 
 Define criteria for software security checks and track them throughout the SDLC.
 
-
-```#REF: SSDF:PO.4.1```
-
-- A3.2 Safeguard the Necessary Information (#ID: ZSSD-OP:PO-SC-SNI): 
+- A3.2 Safeguard the Necessary Information (#ID: ZSSD-OP:PO-SC-SNI):
+``` #REF: SSDF:PO.4.2```\
+```#KEEP```
+```#TOO-BROAD```
 
 Implement processes, mechanisms, etc. to gather and safeguard the necessary information in support of the criteria.
 
-``` #REF: SSDF:PO.4.2```\
-```#TOO-BROAD```
-
 #### A4. Secure Environments (#ID: ZSSD-OP:PO-SE)
-
 ```#REF: SSFD:PO.5 Implement and Maintain Secure Environments for Software Development```
 
-- A4.1 Separate and Protect the Environments (#ID: ZSSD-OP:PO-SE-SPE):
+- A4.1 Separate and Protect the Environments (#ID: ZSSD-OP:PO-SE-SPE):\
+```#REF: SSDF:PO.5.1```
 
 Separate and protect each environment involved in software development.
 
-```#REF: SSDF:PO.5.1```
+```#Q: What is Dev and Test in the Zowe understanding? Are the pipelines on separate environments?```\  
+```#Q: Do we have a Prod at all?```\
+```#Q Do we mix environments in any sense?```s
 
-- A4.2 Harden Development Endpoints (#ID: ZSSD-OP:PO-SE-HDE)
+
+- A4.2 Harden Development Endpoints (#ID: ZSSD-OP:PO-SE-HDE)\
+```#REF: SSDF:PO.5.2```
 
 Secure and harden development endpoints (i.e., endpoints for software designers, developers, testers, builders, etc.\) to perform development-related tasks using a risk-based approach.
 
-```#REF: SSDF:PO.5.2```
+```#Q: Can we require and enforce that? From organizations like IBM, BC and Rocket probably yes, but individuals and smaller teams may just not have resources or the will for that.```  
+
 
 ### B. Protect the Software (#ID: ZSSD-OP:PS)
-
 ```#REF: SSFD:PS Protect the Software```
 
 #### B1. Protect All Code (#ID: ZSSD-OP:PS-PAC)
