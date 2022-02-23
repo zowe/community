@@ -12,11 +12,16 @@ This document contains the Zowe Secure Software Development Organizational Polic
 The organizational policy is intended to set up requirements and govern the secure best practices for the environment (organizational level) in which the requirements set by the [Secure SDLC policy](../Zowe-SSDP-SDLC/Policy.md) can be fulfilled.
 Sometimes requirements from OP and DP can interfere or be complementary. Duplications will not be resolved for completeness and clarity of the respective policy.  
 
-The security policy comprises requirements that an organization (Squad/Team) contributing to Zowe must fulfil in order to conform to Zowe security vision and principles(#TODO: Link).
-Example of such requirements are: creating security roles, acquiring upper management support, Protecting the code etc.
+The security policy comprises requirements that any organization that contributes to Zowe should fulfil in order to conform to Zowe security vision and principles(#TODO: Link).
+When the contributor is a single person, the responsibility for conformance with the secure development policy is delegated to the squad owning the respective Zowe component/s.
+Every squad must emit at least one Zowe Security Workgroup member. SUch a members should guarantee fulfilment of the SDP requirementns. 
+
+Example of requirements are: creating security roles, acquiring upper management support, Protecting the code etc.
 The fulfilment of these requirements [#CHOOSE-ONE: needs to/should be/must be/is] measurable and provable, i.e. the contributors must provide evidence that corresponding measure have been performed and documented in a public space.
 
 The requirements defined herein are grouped into two main categories further divided into several sub-categories each. 
+
+
 The main categorization reflects the secure development practices grouping as defined by NIST [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf).
 NIST SSDF recommended practices IDs are those directly mapped to the Zowe SSDP (sub)categories and items.
 
@@ -79,7 +84,8 @@ TODO: Move following out of the policies to a separate reference file
 >Should a higher level category be marked as mandatory, but all sub-items are optional, then it is up to the organization to implement measure to fulfill the requirement and state method how this can be validated.
 
 <span style="display: none">
-The Secure Software Development Framework (SSDF) defines and recommends a core set of high-level secure software development practices, that can be integrated into each SDLC implementation.
+The Secure Software Development Framework (SSDF) defines and recommends a core set of high-level secure software development practices, 
+that can be integrated into each SDLC implementation.
 It is structured in such a way to provide an interface between software producers (e.g.,commercial-off-the-shelf [COTS] product vendors, 
 government-off-the-shelf [GOTS] software developers, custom software developers) on one side and software purchasers and consumers, 
 both federal agencies and other organization on the other side. Therefore, it is desirable and beneficial for Zowe to map security the SLDC requirements to that Framework. 
@@ -103,26 +109,28 @@ Additionally, it requires: Maintaining the requirements over time, Documenting t
 ```#REF: SSFD:PO Prepare the organization```
 
 #### A1. Roles and Responsibilities (#ID: ZSSD-OP:PO-RR)
-TODO: Consider skipping this in full as it makes no big sense to require individual contributors to get commitment and roles and trainings.
+TODO: Consider skipping this in full as it probably makes no sense to require individual contributors to get commitment and roles and trainings.
 
 ```#REF: SSDF:PO.2 Implement Roles and Responsibilities```
 
 - A1.1 Create Roles and Alter responsibilities (#ID: ZSSD-OP:PO-RR-CRA) 
 
-Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. Periodically review and maintain the defined roles and responsibilities, updating them as needed\
+Create new roles and alter responsibilities for existing roles as needed to encompass all parts of the SSDF. 
+Periodically review and maintain the defined roles and responsibilities, updating them as needed\
 
 ```#REF: SSDF:PO.2.1```  
 
 - A1.2 Role Based Training (#ID: ZSSD-OP:PO-RR-RBT)
-
-Provide role-based training for all personnel with responsibilities that contribute to secure development. Periodically review personnel proficiency and role-based training, and update the training asneeded.
+  
+Provide role-based training for all personnel with responsibilities that contribute to secure development. 
+Periodically review personnel proficiency and role-based training, and update the training as needed.
 
 ```#REF: SSDF:PO.2.2, SSF-A.1.1-B, SSF-A.1.2-B```\
 ```#NOT-APPLICABLE```
 
 - A1.3 Upper Management Commitment (#ID: ZSSD-OP:PO-RR-UMC)
 
-Obtain upper management commitment to secure development, and convey that commitment to all with SSDF-related roles and responsibilities.
+Obtain upper management commitment to secure development, and convey that commitment to all with SSDF related roles and responsibilities.
 
 `````#REF: SSDF:PO.2.3`````\
 ```#NOT-APPLICABLE for individuals and small organizations.```\
@@ -136,36 +144,42 @@ Obtain upper management commitment to secure development, and convey that commit
 
 Specify which tools or tool types must or should be included in each toolchain to mitigate identified risks, as well as how the toolchain components are to be integrated with each other
 
+
+TODO: The organization/contributors developing Zowe component, should either reuse the tools maintained by Zowe or shall use own tools adequate to the once provided by Zowe
+and providing consistent results to satisfy security criteria defined in both ZSSD policies.     
+
 ```#REF: SSDF:PO.3.1```
 
 - A2.2:Deploy and Maintain Tools (#ID: ZSSD-OP:PO-ST-DMT)
 
-Follow recommended security practices deploying and maintaining tools and toolchains
+Follow recommended security practices deploying and maintaining tools and toolchains.
 
 ```#REF: SSDF:PO.3.2```\
-```TODO: consider removing or mergin with the previous one```
+```TODO: consider removing or mergin with the previous one or be flexible enough to have an option for different kinds of contributors :individual, squad, company with own tool chains?```
 
 - A2.3 Generate Evidence and Artifacts (#ID: ZSSD-OP:PO-ST-GEA)
 
-Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by the organization.
+Configure tools to generate evidence and artifacts of their support of secure software development practices as defined by Zowe.
 
 ```#REF: SSDF:PO.3.3```\
 ```#KEEP```
 
 #### A3. Security Criteria (#ID: ZSSD-OP:PO-SC) 
-Provide some automatic validation for the Zowe level criteria - validate during pipeline execution.
+Provide some kind of automatic validation for the Zowe Secure Development criteria - validate during pipeline execution.
+
 Should we require projects to provide own checks for the criteria they declare?
 How to ensure, enforce?
 Code level security checks.
 Dependency level security checks.
-SonarCloud is already used. Hs some security checks.
+SonarCloud is already used and has some security checks.
 
 ```#REF:  SSFD:PO.4 Define and Use Criteria for Software Security Checks)```\
 ```TODO: Rephrase - maintain some criteria at Zowe level, while allowing projects to have additional specific criteria.```
 
 - A3.1 Software Security Checks (#ID: ZSSD-OP:PO-SC-SSC)
 
-Define criteria for software security checks and track throughout the SDLC.
+Define criteria for software security checks and track them throughout the SDLC.
+
 
 ```#REF: SSDF:PO.4.1```
 
@@ -238,17 +252,17 @@ Collect, maintain, and share provenance data for all components and other depend
 >
 > Consider the contributors level of autonomy to submit code depending on their contribution type.
 > There is difference between independent single developer and squad backed by a community member (company) 
-> Also it depends if cntribution is in form of PR (early validation) or a product version - available at time of  Zowe release.
-> In the later case it may happen that the code wil not pass TSC validation and this also may leasd to frustration and tensions.
-> Maybe we should distingquish policies for:
->     - individual contributors to exisiting components
->     - zowe members owning components
->     - incubator projects not released yet as Zowe component 
+> Also it depends on contribution form - a PR (early validation), or a full product version - available aa part of a Zowe release.
+> In the later case it may happen that the code wil not pass TSC validation and this also may lead to frustration and tensions.
+> Maybe we should distinguish policies for:
+>     - Individual contributors to existing components
+>     - Zowe members owning components
+>     - Incubator projects not released yet as Zowe component 
   
->* Consider organizations size - some just can't afford all the overhead and need to simplify. How then we maintain compliancy?
+>* Consider organizations size - individuals and smaller teams just can't afford the overhead. How then we maintain the compliancy?
 >* Flag which requirements are mandatory
 >* Some items look as recommended practices rather than as policy requirements
 >    * Option: Group such practices into a sound requirement
 >* Map M:N between ZSSD and SSDF and others
 >* Automated tests to prove some policy requirements fulfilment
->* Should we should prescribe requirements fulfillment report format - see current reports 
+>* Should we prescribe requirements fulfillment report format - see current reports 
