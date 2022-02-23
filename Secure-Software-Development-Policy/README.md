@@ -8,7 +8,9 @@ Provides a top level security vision and aims(#TODO@PZA: Link to Manifesto).
 
 - A set of polices defining sets of requirements needed to fulfil the Manifesto vision    
   
-Different policies are needed to govern different aspects of the software development such as Organization level Policy and SLDC Policy.
+A set of two policies is maintained to govern different aspects of the software development such as:
+  - Zowe Secure Software Development - Organization Policy - abbreviated ZSSD-OP
+  - Zowe Secure Software Development - Lifecycle Policy - abbreviated ZSSD-LP
 
 - Processes definition 
 Used to achieve the policy requirements fulfilment 
