@@ -9,8 +9,8 @@
 
 ##Introduction
 This document contains the Zowe Secure Software Development Organizational Policy (ZSSD-OP).
-The organizational policy is intended to set up and govern the secure best practices for the environment (organizational level) in which the requirements set by the [Secure SDLC policy](../Zowe-SSDP-SDLC/Policy.md) can be fulfilled.
-Sometimes requirements from OP and DP can interfere or be complementary. Such relations are not tracked in the documents, but should be obvious (TODO: Should we track internal relations between requirements from OP and DP).
+The organizational policy is intended to set up requirements and govern the secure best practices for the environment (organizational level) in which the requirements set by the [Secure SDLC policy](../Zowe-SSDP-SDLC/Policy.md) can be fulfilled.
+Sometimes requirements from OP and DP can interfere or be complementary. Duplications will not be resolved for completeness and clarity of the respective policy.  
 
 The security policy comprises requirements that an organization (Squad/Team) contributing to Zowe must fulfil in order to conform to Zowe security vision and principles(#TODO: Link).
 Example of such requirements are: creating security roles, acquiring upper management support, Protecting the code etc.

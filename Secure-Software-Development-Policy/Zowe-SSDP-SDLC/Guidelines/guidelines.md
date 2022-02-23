@@ -1,4 +1,4 @@
-# Zowe Secure SDLC Guidelines
+# Zowe Secure SDLC Policy - Guidelines
 
 This document contains links to Zowe Secure SDLC guidelines addressing challenges in the development lifecycle.
 The guidelines are located in the subfodlers corresponding to the respective SDLC stages.
