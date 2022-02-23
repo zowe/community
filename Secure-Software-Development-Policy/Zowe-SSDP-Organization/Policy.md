@@ -40,6 +40,14 @@ TODO: Move following out of the policies to a separate reference file
 #DISCARD - remove from the policy
 #RE-DEFINE
 
+#MANIFESTOs
+#POLICY
+#BEST-PRACTICE
+#GUIDELINE
+#PROCESS
+#STANDARD
+
+
 #MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
 #OPTIONAL - the requirement is not mandatory. 
 #PROCESS - reference to process which helps to meet the requirement 

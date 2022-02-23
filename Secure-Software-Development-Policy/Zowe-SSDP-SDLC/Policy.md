@@ -23,8 +23,19 @@ The structure of the document is similar to the other Zowe Security Policy docum
 
 TODO: Move following out of the policies to a separate reference file
 ```
+#OP - Organization Policy
+#LP - SDLC Policy
+
 #KEEP - Keep in the policy 
 #DISCARD - remove from the policy
+#RE-DEFINE
+
+#MANIFESTOs
+#POLICY
+#BEST-PRACTICE
+#GUIDELINE
+#PROCESS
+#STANDARD
 
 #MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
 #OPTIONAL - the requirement is not mandatory. 
@@ -72,31 +83,38 @@ TODO: Move following out of the policies to a separate reference file
 ## Requirements (#ID: ZSSD-LP) 
 
 ### C. Produce Well-Secured Software (#ID: ZSSD-LP:PW)
-Produce Well-Secured Software with minimal security vulnerabilities in its releases.
 
-```#REF: SSFD:PW Produce Well-Secured Software```
+```#REF: SSFD:PW Produce Well-Secured Software```\
+```#MANIFESTO```
+
+Produce Well-Secured Software with minimal security vulnerabilities in its releases.
 
 #### C1. Requirements to Mitigate security Risk (#ID: ZSSD-LP:PW-RMR)
 
-```#REF: SSDF:PW.1.1 Design Software to Meet Security Requirements and Mitigate Security Risks```
+```#REF: SSDF:PW.1.1 Design Software to Meet Security Requirements and Mitigate Security Risks```\
 
-- C1.1 Risk, Threat, Attack modelling (#ID: ZSSD-LP:PW-RMR-RTA)
+
+- C1.1 Apply Risk, Threat and Attack modelling (#ID: ZSSD-LP:PW-RMR-RTA)
+
+```#REF:  SSFD:PW.1.1```\
+````#POLICY````
 
 >Use forms of risk modeling, such as threat modeling, attack modeling, or attack surface mapping, to help assess the security risk for the software.
 
-```#REF:  SSFD:PW.1.1```
+- C1.2 Security Requirements, Risks and Design decisions (#ID: ZSSD-LP:PW-RMR-RRD) 
 
-- C1.2 security Requirements, Risks and Design decisions (#ID: ZSSD-LP:PW-RMR-RRD) 
+```#REF: SSFD:PW.1.2```
+```#POLICY #OP```
  
 >Document the software’s security requirements, risks, and design decisions.
 
-```#REF: SSFD:PW.1.2```
+``` #Q: This is related to the OP requirement that each contributor would have a member in the Zowe Security Workgroup. How this applies to individuals?```  
 
-- C1.3 Standardized security Features (#ID: ZSSD-LP:PW-RMR-SSF) 
-
->Where appropriate, build in support for using standardized security features and services (e.g., integrating with existing log management, identity management, access control, and vulnerability management systems\) instead of creating proprietary implementations of security features and services.
+- C1.3 Standardized security Features (#ID: ZSSD-LP:PW-RMR-SSF)
 
 ```#REF: SSFD:PW.1.3```
+
+>Where appropriate, build in support for using standardized security features and services (e.g., integrating with existing log management, identity management, access control, and vulnerability management systems\) instead of creating proprietary implementations of security features and services.
 
 #### C2. Review Software Design (#ID: ZSSD-LP:PW-RSD)
 
