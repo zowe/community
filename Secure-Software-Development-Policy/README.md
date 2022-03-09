@@ -1,6 +1,11 @@
 # Zowe Secure Software Development Policy Framework
 
 This document describes a framework used to abstract a meta definition of the Zowe Secure Development Policy/ies.
+``` 
+The policies described bellow are titled "Meta-Policy", because they serve as a container to collect all the requirements for a given area of governance (eg. Organization, SDLC, etc).
+Such meta policy can/should be split into smaller interrelated policies targeting specific security topics, which need to be governed/published separately (e.g. Security issues disclosure etc.).
+Such target, publishable policies need to be distilled from a Meta Policy. while keeping track to the original statements for easier maintenance and assessment of policy fulfilment.
+```
 
 ### Goals:
 - Keep it simple and extensible as much as possible
@@ -26,6 +31,8 @@ The directory structure of the framework is as follows:
   - Manifesto.md
 ```
 
+Further the Best-Practices, Guidelines and Processes may contain multiple sub-folders to separate different aspects or stags of the modelled policies. 
+
 The contents of the framework include:
 - A [Manifesto](./Manifesto.md) file, which provides a top level security vision and aims(#TODO@PZA: Link to Manifesto).
 
@@ -43,13 +50,6 @@ Currently, a set of two meta policies is provided to govern two major aspects of
 
   - (TODO: Move this one level deeper in hte MD) SDLC Policy (Zowe Secure Software Development - Lifecycle Policy, abbreviated ZSSD-LP)\
   , is a meta policy defining requirements related to individual SDLC stages. 
-
-``` 
-Note:
-The two policies above are titled "Meta-Policy", because they serve as a container to collect all the requirements for a given area of governance (eg. Organization, SDLC, etc).
-Such meta policy can/should be split into smaller interrelated policies targeting specific security topics, which need to be governed/published separately.
-Such target, publishable policies need to be distilled from a Meta Policy. while keeping track to the original statements for easier maintenance and assessment of policy fulfilment.
-```
 
 Currently, the requirements included in the two policies described above are based on NIST SSDF (Secure Software Development Framework).
 A mapping between Zowe Secure Software Development policies' items requirements is maintained in the policy meta definitions  
