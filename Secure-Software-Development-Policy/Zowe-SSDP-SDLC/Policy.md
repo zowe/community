@@ -82,6 +82,7 @@ TODO: Move following out of the policies to a separate reference file
 
 ## Requirements (#ID: ZSSD-LP) 
 
+The topics letters start from 'C' to reflect continuation of the from and provide uniqueness when referencing them in the  
 ### C. Produce Well-Secured Software (#ID: ZSSD-LP:PW)
 
 ```#REF: SSFD:PW Produce Well-Secured Software```\
