@@ -21,65 +21,6 @@ For easier identification and linking, the categories and sub topics are assigne
 
 The structure of the document is similar to the other Zowe Security Policy document [Zowe Secure Software Development at organizational level](../Zowe-SSDP-Organization/Policy.md).
 
-TODO: Move following out of the policies to a separate reference file
-```
-#OP - Organization Policy
-#LP - SDLC Policy
-
-#KEEP - Keep in the policy 
-#DISCARD - remove from the policy
-#RE-DEFINE
-
-#MANIFESTOs
-#POLICY
-#BEST-PRACTICE
-#GUIDELINE
-#PROCESS
-#STANDARD
-
-#MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
-#OPTIONAL - the requirement is not mandatory. 
-#PROCESS - reference to process which helps to meet the requirement 
-#PRACTICE - rather a recommended good practice than a requirement
-#GUIDELINE-ABC - reference to a guideline which helps to meet given requirement 
-
-#MEASURABLE - it is possible to validate that the requiorement was met
-#ENFORCEABLE - Zowe (TSC) has the right and the power to enforce fulfilment of the given requirement 
-#DOCUMENTED - the requirement fulfilment must be documented in detail on the project/produt pages 
-#EVIDENCE - evidence about how was a requirement was met is required to be published and be public
-
-#TOO-BROAD - definition is too general. Rework it or the requirement is hard to measure and enforce 
-#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
-#NOT-APPLICABLE - Not suitable for this policy. Consider cases when it might be applicable.
-#HARD-TO-PROVE - Good wish but can't be measured (the oposite to #MEASURABLE) 
-```
-
->Common definitions:
-> 1. Contributors' types and policy applicability\
-> There are basically two kinds of Zowe contributors.
-> - individuals contributing to one or multiple Zowe sub-projects/components
-> - squads owning a component
-> They not only differ by size and ownership of the components, but consequently have different responsibilities
-> and should be required to maintain different level of compliance with the policies.
-> On the top of the responsibility chain is always Zowe represented by the TSC and Security Workgroup.
-> The question then is how to structure the policy statements so to assign them to corresponding entity (individual, squad, Zowe governance body)
->
-> 2 . Policy statements\
->Some requirements are strictly mandatory, while some others might not be enforceable in all cases and should be perceived as strong recommendations.   
->
->* Note: Should we state next to each requirement if it is mandatory or not and under what conditions?
->* Note: Where is the right place to state what evidence is required to prove fulfilment of mandatory requirements?
->
->Basic principles for classifying a requirement as mandatory:
->
->* Not applying it would expose the SW to a significant security risk
->* There are ways to validate that the requirement was fulfilled
->* TODO: OTHER?
->
->As the requirements are hierarchically structured, classifying a sub-category requirement as mandatory, implies that the parent category is mandatory as well, while some category' sub items may remain optional. 
->
->Should a higher level category be marked as mandatory, but all sub-items are optional, then it is up to the organization to implement measure to fulfill the requirement and state method how this can be validated.
-
 ## Requirements (#ID: ZSSD-LP) 
 
 The topics letters start from 'C' to reflect continuation of the from and provide uniqueness when referencing them in the  
