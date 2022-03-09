@@ -13,39 +13,7 @@ Such target, publishable policies need to be distilled from a Meta Policy. while
 - Maintain reference to external requirements for approval of compliance and conformity
 ```
 
-### Hashtags explanation
-
-```
-#OP - Organization Policy
-#LP - SDLC Policy
-
-#KEEP - Keep in the policy 
-#DISCARD - remove from the policy
-#RE-DEFINE
-
-#MANIFESTO - rather belongs to Manifesto 
-#POLICY  - Certainly a Policy Requirement
-#BEST-PRACTICE - Sounds more like a Best-Practice rather than a requirement
-#GUIDELINE - A guideline based on Best-Practices
-#PROCESS - Full process to implement a requirement
-#STANDARD - Standard reference
-
-#MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
-#OPTIONAL - the requirement is not mandatory. 
-#PROCESS - reference to process which helps to meet the requirement 
-#PRACTICE - rather a recommended good practice than a requirement
-#GUIDELINE-ABC - reference to a guideline which helps to meet given requirement 
-
-#MEASURABLE - it is possible to validate that the requiorement was met
-#ENFORCEABLE - Zowe (TSC) has the right and the power to enforce fulfilment of the given requirement 
-#DOCUMENTED - the requirement fulfilment must be documented in detail on the project/produt pages 
-#EVIDENCE - evidence about how was a requirement was met is required to be published and be public
-
-#TOO-BROAD - definition is too general. Rework it or the requirement is hard to measure and enforce 
-#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
-#NOT-APPLICABLE - Not suitable for this policy. Consider cases when it might be applicable.
-#HARD-TO-PROVE - Good wish but can't be measured (the oposite to #MEASURABLE) 
-```
+![alt text](http://url/to/img.png)
 
 ###Common definitions:
 > 1. Contributors' types and policy applicability\
@@ -143,6 +111,40 @@ under the corresponding "Processes" sub-folder.
 
 <span style="display: none">#TODO@PZA: Provide links to the BPs, Guidelines and other related documents.</span>
 
+
+### Hashtags explanation
+
+```
+#OP - Organization Policy
+#LP - SDLC Policy
+
+#KEEP - Keep in the policy 
+#DISCARD - remove from the policy
+#RE-DEFINE
+
+#MANIFESTO - rather belongs to Manifesto 
+#POLICY  - Certainly a Policy Requirement
+#BEST-PRACTICE - Sounds more like a Best-Practice rather than a requirement
+#GUIDELINE - A guideline based on Best-Practices
+#PROCESS - Full process to implement a requirement
+#STANDARD - Standard reference
+
+#MANDATORY - mandatory requirement. Implies it is measureable and enforceable.
+#OPTIONAL - the requirement is not mandatory. 
+#PROCESS - reference to process which helps to meet the requirement 
+#PRACTICE - rather a recommended good practice than a requirement
+#GUIDELINE-ABC - reference to a guideline which helps to meet given requirement 
+
+#MEASURABLE - it is possible to validate that the requiorement was met
+#ENFORCEABLE - Zowe (TSC) has the right and the power to enforce fulfilment of the given requirement 
+#DOCUMENTED - the requirement fulfilment must be documented in detail on the project/produt pages 
+#EVIDENCE - evidence about how was a requirement was met is required to be published and be public
+
+#TOO-BROAD - definition is too general. Rework it or the requirement is hard to measure and enforce 
+#TOO-DETAILED - definition is too dtailed to the extend that it could be confusing or misleading 
+#NOT-APPLICABLE - Not suitable for this policy. Consider cases when it might be applicable.
+#HARD-TO-PROVE - Good wish but can't be measured (the oposite to #MEASURABLE) 
+```
 
 ### Open questions:
 >- Do all components must fulfill same security requirements? If not, how we decide (or who is in charge to decide) the level of security.

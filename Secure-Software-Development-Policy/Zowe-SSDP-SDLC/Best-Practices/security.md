@@ -5,7 +5,7 @@ The following list is based on the [Core Infrastructure Initiative](https://best
 ## Secure development knowledge
 
 * The squad has at least one developer involved in the Security workgroup.  
-
+``` #OP```
 ## Use basic good cryptographic practices
 
 * The software produced by the squad MUST use, by default, only cryptographic protocols and algorithms that are publicly published and reviewed by experts (if cryptographic protocols and algorithms are used).
