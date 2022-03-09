@@ -13,7 +13,7 @@ Such target, publishable policies need to be distilled from a Meta Policy. while
 - Maintain reference to external requirements for approval of compliance and conformity
 ```
 
-![alt text](http://url/to/img.png)
+![Secure Software Development Policy Framework]("./img/SecurityPolicyFramework.png")
 
 ###Common definitions:
 > 1. Contributors' types and policy applicability\
