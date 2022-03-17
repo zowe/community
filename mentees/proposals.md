@@ -20,6 +20,25 @@ integration with the SSO for Zowe. In this project we want to prepare a tool, wh
 of the service and the running service and will verify that the claims from conformance are actually 
 satisfied.
 
+## Display System Metrics for Containerized API ML Services
+
+**Mentor:** Carson Cook
+
+**Owner squad**: API Mediation Layer Squad
+
+**Relevant skills:** Java, Spring, Gradle, Docker, Kubernetes
+
+**Description:** Retrieve information about the pods and containers running the containerized API ML services.
+Kubernetes provides a metrics server with APIs to querying for system metrics such as CPU cores and memory usage
+used by each pod. These metrics will be retrieved by the API ML Metrics Service and displayed in its existing UI.
+The Metrics Service will also transform the metrics as appropriate, for example aggregated metrics between pods running
+the same service containers. Ideally metrics could be dis-aggregated into per container metrics within each pod as well.
+These system metrics would be displayed in addition to HTTP metrics collected from each service instance.
+
+A further step would be to generize this functionality to fit into generic configuration for the Metrics Service,
+allowing these metrics to be displayed alongside metrics from containers not running in Kubernetes, or from services
+not running in containers at all.
+
 ## Editor
 
 **Mentor:** Leanid (Lenny)
