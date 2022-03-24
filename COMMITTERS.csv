@@ -17,7 +17,7 @@ Pavel,Jares,pj892031,pavel.jares@broadcom.com, Zowe API Squad,
 Jordan,Cain,jordanCain,Jordan.Cain1@uk.ibm.com, Zowe API Squad,
 Carson,Cook,CarsonCook,Carson.Cook@ibm.com, Zowe API Squad,
 Mike,Bauer,MikeBauerCA,Michael.Bauer2@broadcom.com,Zowe CLI Squad, Lead
-Jessica,Tonda,JTonda,jessica.tonda@broadcom.com,Zowe CLI Squad and Zowe Explorer Squad, Scrum Master
+Jessica,Tonda,JTonda,jessica.tonda@broadcom.com,Zowe CLI Squad, Scrum Master
 Fernando,Rijo Cedeno,zFernando0,fernando.rijocedeno@broadcom.com,Zowe CLI Squad,
 Eugene,Johnston,gejohnston,eugene.johnston@broadcom.com,Zowe CLI Squad,
 Jason,Tucker,tucker01,jason.tucker@broadcom.com,Zowe CLI Squad,
@@ -34,6 +34,7 @@ Vit,Gottwald,VitGottwald,vit.gottwald@broadcom.com,Zowe CLI Squad,
 Dan,Kelosky,dkelosky,daniel.kelosky@broadcom.com,Zowe CLI Squad,
 Igor,Kazmyr,IgorCATech,igor.kazmyr@broadcom.com,Zowe CLI Squad,
 Naman,Patel,namanpatel1112,Naman.Patel@ibm.com,Zowe CLI Squad,
+Bauman,James,JamesBauman,james.bauman@broadcom.com, Zowe CLI Squad,
 Sean,Grady,1000TurquoisePogs,sgrady@rocketsoftware.com,Zowe App Framework Squad,Lead
 JP,Linardon,jplinardon,jlinardon@rocketsoftware.com,Zowe App Framework Squad,Lead
 Timothy,Gerstel,timgerstel,tgerstel@rocketsoftware.com,Zowe App Framework Squad,
@@ -47,11 +48,12 @@ Matt,Hogstrom,hogstrom,matt@hogstrom.org,Zowe App Framework Squad,
 Irek,Fakhrutdinov,ifakhrutdinov,ifakhrutdinov@rocketsoftware.com,Zowe App Framework Squad,
 James,Struga,struga0258,jstruga@rocketsoftware.com,Zowe App Framework Squad,
 Joe,Pun,joepun76,Joe.Pun@ibm.com,Zowe App Framework Squad,
-Jessielaine,Punongbayan,jellypuno,jessielaine.punongbayan@broadcom.com,Zowe Explorer Squad - Core Committer, Lead
+Jessielaine,Punongbayan,jellypuno,jessielaine.punongbayan@broadcom.com,Zowe Explorer Squad - Core Committer,
 Richelle Anne,Craw,crawr,richelleanne.craw@broadcom.com,Zowe Explorer Squad - Core Committer,
 Lauren,Li,lauren-li,lauren.li@ibm.com,Zowe Explorer Squad - Core Committer, Zowe Security Representative
-Billie Jean,Simmons,JillieBeanSim,BillieJean.Simmons@ibm.com,Zowe Explorer Squad - Core Committer, TSC Representative
-Fernando Rijo,Cedeno,zFernand0,fernando.rijocedeno@broadcom.com,Zowe Explorer Squad - Core Committer,
+Billie Jean,Simmons,JillieBeanSim,BillieJean.Simmons@ibm.com,Zowe Explorer Squad - Core Committer, Lead & TSC Representative
+Fernando Rijo,Cedeno,zFernand0,fernando.rijocedeno@broadcom.com,Zowe Explorer Squad - Core Committer, Lead
+Jessica,Tonda,JTonda,jessica.tonda@broadcom.com,Zowe Explorer Squad, Scrum Master
 Peter,Haumer,phaumer,phaumer@us.ibm.com,Zowe Explorer Squad,
 Igor,Kazmyr,IgorCATech,igor.kazmyr@broadcom.com,Zowe Explorer Squad,
 Vit,Gottwald,VitGottwald,vit.gottwald@broadcom.com,Zowe Explorer Squad,
@@ -63,6 +65,7 @@ Rudy,Flores,rudyflores,rudyflores@ibm.com,Zowe Explorer Squad,
 Anokhi,Kastia,anokhikastiaIBM,anokhi.kastia@ibm.com,Zowe Explorer Squad,
 Roman,Kupriyanov,roman-kupriyanov,roman.kupriyanov@broadcom.com,Zowe Explorer Squad,
 Kostadin,Uzunov,uzuko01,kostadin.uzunov@broadcom.com,Zowe Explorer Squad,
+Bauman,James,JamesBauman,james.bauman@broadcom.com, Zowe CLI Squad,
 Joe,Winchester,Joe-Winchester,winchest@uk.ibm.com, Zowe CICS Explorer Squad,
 Jeffin,Siby,JeffinSiby,Jeffin.Siby@ibm.com, Zowe CICS Explorer Squad,
 Andrew,Twydell,AndrewTwydell,andrew@twydell.cloud,Zowe CICS Explorer Squad,
