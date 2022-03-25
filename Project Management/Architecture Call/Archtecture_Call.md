@@ -1,6 +1,10 @@
 # Architecture Call Recordings
 
 
+[03-22-2022](https://zoom.us/rec/share/5jXLvvxJ8w_74Mb6qtRyISYTm1feL1lZJqSMURn7c0OjdhfgtfUr1Geq_YC2Wh6Q.zg5B4QL5ghBoO0Nu?startTime=1647957600000) Meeting Recording
+
+[03-15-2022](https://zoom.us/rec/share/QbyNwtSTWMw9JqEkPb_wH-6OTsO26uYgSEkQ3zw0zsxTiypc2l3muklFB4DIyAg_.AubaypuZXkqukx2z?startTime=1647352646000) Meeting Recording
+
 [03-01-2022](https://zoom.us/rec/share/3QSEEM-uHRo1vTaUyaXr99jVgp08VwUsq_LE73LobIpKmVjgEHRRJh4a73mWSs8K.QHqV47dRSiwIK3ok?startTime=1646146900000) Meeting Recording
 
 [02-22-2022](https://zoom.us/rec/share/JYhisBH2vnVF4vN_NHo8SORqBSEu0mwra3b848xStIIY6Al0k7h6mwlhAr9ZzUM.h4Rez9-y__ddBHDp?startTime=1645541902000) Zowe Install Observations - Jorn Thyssen
