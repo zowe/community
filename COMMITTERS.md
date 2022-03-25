@@ -53,6 +53,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
 - Naman Patel - @namanpatel1112 (Naman.Patel@ibm.com)
+- James Bauman - @JamesBauman (james.bauman@broadcom.com)
 
 ### Zowe App Framework Squad
 Committers are tracked via github teams, for permission management
