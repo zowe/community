@@ -162,11 +162,18 @@ None. Don’t use the projects in this stage.
 
 #### Possible transitions
 
-- None.
+- To Under Development in case the product attracts developers and users for creating new version
+- To Technical Preview in case the product was inactive and the last released version is seeking for feedback when the project becomes active again
 
-### Examples
+### Example
 
-// TODO 
+#### Standard Lifecycle process
 
-Zowe Chatbot in version 1 starts in the Under Development. After a year or two. 
-
+Zowe Acme project is proposed by one of the TSC members and is accepted as incubating project. The group of developers behind the project
+works on the first version which means the product is Under Development. After half of year of the development the technival preview for 
+the first version is prepared and published as Technical Preview to gather more feedback from the users. The developers get feedback
+from the users and update the project. Afterwards they publish the first version as the Generally Available. The Generally Available
+version of the project gains traction and users and as such the project is moved to the Long Term Support. This way it joins currently Active 
+major version of Zowe. After two major versions the programming landscape changes and as such the project isn't used much anymore and 
+the group of developers working on the project gets smaller and smaller. The project is therefore Deprecated for the next major version 
+and after the maintenance time of this major version passes it gets deprecated. 
