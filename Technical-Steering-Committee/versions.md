@@ -7,7 +7,7 @@ There is going to be a table with the project, owner squad and current highest a
 The current situation with respect to the major Zowe versions
 
 | Version | State |
-|-----------------|
+|---------|-------|
 | V0 | Archived          |
 | V1 | Maintenance       |
 | V2 | Active            |
@@ -16,7 +16,7 @@ The current situation with respect to the major Zowe versions
 ### 1.28
 
 | Component | Version |
-|---------------------|
+|-----------|---------|
 | API ML | 1.28.0 |
 | CLI   | 6.12.0 |
 | Jobs and Datasets | 1.12.0 |
