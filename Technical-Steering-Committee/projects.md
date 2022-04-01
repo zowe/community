@@ -52,7 +52,7 @@ Help with the development of the functionality.
 
 #### Purpose
 
-To gather feedback on the project from potential future users and extenders. 
+To gather feedback on the project from potential future users and extenders. The further minor releases to the projects in technical preview may contain breaking changes. 
 
 #### Timeline
 
@@ -76,7 +76,7 @@ Put the project in testing and validation environments and provide feedback to Z
 
 #### Purpose
 
-To gather more feedback and improve the project before stabilizing it for Long Term Support. The project is stable, and we don't expect major changes, but unlike for Long Term Support, the changes may be needed. We believe that it's ok for GA products to become part of the production environments. 
+To gather more feedback and improve the project before stabilizing it for Long Term Support. The project is stable, and we don't expect major changes, but unlike for Long Term Support, the changes may be needed. We believe that it's ok for GA products to become part of the production environments. The project may need to release major versions with breaking changes more often than the projects in Long Term Support. There should be no breaking changes in the minor releases.
 
 #### Timeline
 
@@ -112,6 +112,8 @@ Much longer window and well-defined calendar. The active phase of the project de
 
 ![Major releases support schedule](https://www.zowe.org/assets/img/major_releases.png)
 
+**Note:** Projects that are part of the Core and reach Long Term Support needs to be supported by the conformant support providers. 
+
 #### Recommended Use
 
 Put the project in the Production environment. The project is stable and mature. 
@@ -124,7 +126,7 @@ Put the project in the Production environment. The project is stable and mature.
 
 #### Purpose
 
-To provide more extended support and give the customers time to prepare before sunsetting a specific project. 
+To provide more extended support and give the customers time to prepare before sunsetting a specific project. There are no breaking changes allowed within the major release boundary.
 
 #### Timeline
 
