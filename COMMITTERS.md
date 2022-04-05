@@ -117,15 +117,15 @@ for permission management.
 
 ### Documentation
 
-- Nan Nan (Ashley) Li - (Lead) @nannanli (nannanli@cn.ibm.com)
+- Nan Nan Li (Ashley)  - (Lead) @nannanli (nannanli@cn.ibm.com)
 - Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
 - Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
 - Michael Aimino - @MichaelABroadcom (michael.aimino@broadcom.com)
 - Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Alex Jin - @ajinrocket (ajin@rocketsoftware.com)
+- Wen Ting Su (Samantha) - @samanthasusu (wen.ting.su@ibm.com)
+- Lobhas Paradkar - @lparadkar-rocket (lparadkar@rocketsoftware.com)
 - Ting Chen (Cathy) - @chentingcathy (bjct@cn.ibm.com)
-- Neng Zhang (Pluto) - @PlutoZhang (znzhn@cn.ibm.com)
 - Arijit Kundu (Arijit) - @idontknowjs (kunduarijit55@gmail.com)
 
 
