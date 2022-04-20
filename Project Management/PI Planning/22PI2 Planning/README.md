@@ -141,7 +141,7 @@ Squad vision<br>
 
 Squad Breakout 1
 - Zowe Explorer Squad
-- Zoom/Webex Link: <br>
+- Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
 Squad Breakout 2
 - API ML Squad
@@ -164,7 +164,7 @@ Squad Breakout 2
 
 Squad Breakout 3
 - Zowe CLI Squad
-- Zoom/Webex Link:  <br>
+- Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 
 
 </td>
