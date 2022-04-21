@@ -46,7 +46,6 @@ As a modern developer I inherited CICD pipeline for build and deployment of one 
 ## Upgrade the major versions of dependencies #2211
 
 * [Upgrade the major versions of dependencies #2211](https://github.com/zowe/api-layer/issues/2211)
-
 As an API ML developer I want to upgrade to the supported versions of the dependencies and platforms used within the API ML to prevent unnecessary risks coming from older versions. 
 
 The key platform dependencies got major upgrades. To make sure we properly support the new versions we need to update the dependencies and test the compatibility. This applies to multiple tools such as Node (v14 related upgrades), Java (Java 11 is availale on platform), Gradle (V7 is supported). On top of that we need to replace a few libraries that aren't developed anymore such as SpringFox for the Open API documentation processing.
@@ -63,7 +62,6 @@ API ML Squad Plan:
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029 {STRETCH}
 
 * [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-
 Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future (not in this PI!).  
 
 In this PI we intend to create new service based on SCG and deploy it alongside the existing Gateway. 
