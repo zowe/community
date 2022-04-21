@@ -76,10 +76,10 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - GA 2022/08/22<br>
   
 #### 1.28<br>
-- Code Freeze 2022/04/26<br>
-- RC Build 2022/04/27<br>
-- Testing 2022/04/27 - 2022/05/09<br>
-- GA 2022/05/09<br>
+- Code Freeze 2022/05/10<br>
+- RC Build 2022/05/11<br>
+- Testing 2022/05/11 - 2022/05/23<br>
+- GA 2022/05/23<br>
 
 #### 1.27<br>
 - Code Freeze 2022/01/11<br>
