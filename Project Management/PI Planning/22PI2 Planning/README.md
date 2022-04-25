@@ -5,15 +5,15 @@
 
 Day 1\
 When: Wednesday, April 27th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: <br>
-OMP Calendar: <br>
+Zoom Meeting: https://zoom.us/j/98669896143<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508922&calstart=2022-04-27<br>
 Meeting Recordings: [Day 1]()
 <br>            
 
 Day 2\
 When: Friday, April 29th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: <br>
-OMP Calendar: <br>
+Zoom Meeting: https://zoom.us/j/99756887303<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508923&calstart=2022-04-29<br>
 Meeting Recordings: [Day 2]()
 
 Squad PI Objectives<br>
