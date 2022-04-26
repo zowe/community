@@ -83,16 +83,15 @@ Zowe uses three Deprecation levels. For all deprecated APIs, the API documentati
 
 1. Documentation-Only Deprecation
 
-    - A deprecation notice appears in the documentation at the reference documentation and places where the functionality is described for the active and under development
-    releases.
+    - A deprecation notice appears in the documentation in the API reference documentation and places where the functionality is described for the active and under development releases.
+    - In the case of programmatic Java or Node.js APIs, deprecation mechanisms provided in the programming language are used (e.g. `@Deprecated` annotation)
     - Release notes mention the deprecation.
     - There are no functional changes.
     - By default, there will be no warnings emitted for such deprecations at runtime.
 
 2. Runtime Deprecation
 
-    - Emits a warning at runtime on first use of
-    the deprecated API or when CLI is used
+    - Emits a warning at runtime on first use of the deprecated API or when CLI is used
     - Can be disabled (environment variable `ZOWE_DEPRECATION_WARN=0` for CLI and  configuration option `zowe.setup.deprecation.warning` in `zowe.yaml` for z/OS Components).
     - Can be changed to cause an runtime error (by `ZOWE_DEPRECATION_RUNTIME_ERROR=1` and configuration option `zowe.setup.deprecation.runtime-error` in `zowe.yaml` for z/OS Components).
 
