@@ -4,14 +4,14 @@
             <th colspan="5"><H1>22PI2 PI Planning</H1><br>
 
 Day 1\
-When: Wednesday, April 27th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
+When: Wednesday, May 4th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/98669896143<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508922&calstart=2022-05-04<br>
 Meeting Recordings: [Day 1]()
 <br>            
 
 Day 2\
-When: Friday, April 29th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
+When: Friday, May 6th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/99756887303<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508923&calstart=2022-05-06<br>
 Meeting Recordings: [Day 2]()
