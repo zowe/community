@@ -4,16 +4,16 @@
             <th colspan="5"><H1>22PI2 PI Planning</H1><br>
 
 Day 1\
-When: Wednesday, April 27th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: <br>
-OMP Calendar: <br>
+When: Wednesday, May 4th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
+Zoom Meeting: https://zoom.us/j/98669896143<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508922&calstart=2022-05-04<br>
 Meeting Recordings: [Day 1]()
 <br>            
 
 Day 2\
-When: Friday, April 29th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
-Zoom Meeting: <br>
-OMP Calendar: <br>
+When: Friday, May 6th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
+Zoom Meeting: https://zoom.us/j/99756887303<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508923&calstart=2022-05-06<br>
 Meeting Recordings: [Day 2]()
 
 Squad PI Objectives<br>
@@ -49,7 +49,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -57,7 +57,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
@@ -65,7 +65,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td></td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -73,7 +73,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -113,7 +113,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -121,7 +121,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -135,7 +135,7 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-04-27</td>
+                <td>2022-05-04</td>
                 <td>11:05 AM</td>
 <td>
 
@@ -158,7 +158,7 @@ Squad Breakout 2
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-04-27</td>
+                <td>2022-05-04</td>
                 <td>12:00 PM</td>
 <td>
 
@@ -173,7 +173,7 @@ Squad Breakout 3
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-04-27</td>
+                <td>2022-05-04</td>
                 <td>1:00 PM</td>
 <td>
 
@@ -190,7 +190,7 @@ Squad Breakout 4
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-04-27</td>
+                <td>2022-05-04</td>
                 <td>2:00 PM</td>
 <td>
 
@@ -203,7 +203,7 @@ Squad Breakout 5
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-04-27</td>
+                <td>2022-05-04</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -217,7 +217,7 @@ Squad Breakout 8
     <tbody>
         <tr>
             <td></td>
-            <td>2022-04-27</td>
+            <td>2022-05-04</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -225,7 +225,7 @@ Squad Breakout 8
     <tbody>
      <tr>
           <td>Public Comment</td>
-          <td>2022-01-27</td>
+          <td>2022-05-04</td>
           <td>8:00 AM</td>
      <td>
 
@@ -254,7 +254,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -262,7 +262,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>9:15 AM</td>
 <td>
 Squad Final Readouts
@@ -300,7 +300,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>11:00 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -308,7 +308,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Break</td>
@@ -316,7 +316,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>12:00 PM</td>
             <td></td>
             <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -324,7 +324,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2022-04-29</td>
+            <td>2022-05-06</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 2 End</td>
