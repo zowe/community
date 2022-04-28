@@ -11,13 +11,15 @@ https://github.com/zowe/community/tree/master/Project%20Management/System%20Demo
 
 
 
-| Time | Squad | Links/Comments
-  | 9:00 - 9:15  |  Squad 1 | Comment 1
-  |   |  
-  |   |  
-  |   |  
-  |   |  
-  |   |  
-  |   |  
-  |   |  
-  |   |  
+| Time       | Squad              | Topic                                                |
+| ---------- | ------------------ | ---------------------------------------------------- |
+| 9:00-9:10  | Zowe CLI           | Team Configuration                                   |
+| 9:10-9:20  | Zowe CLI           | Daemon Mode                                          |
+| 9:20-9:25  | Zowe CLI           | Migrating from V1 to V2 LTS                          |
+| 9:25-9:35  | Zowe Explorer      | Team Configuration                                   |
+|            |                    |                                                      |
+|            |                    |                                                      |
+|            |                    |                                                      |
+|            |                    |                                                      |
+|            |                    |                                                      |
+|            |                    |                                                      |
