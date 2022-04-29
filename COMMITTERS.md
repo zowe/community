@@ -15,23 +15,9 @@ The following is a list of all the Zowe Committers on the project organized by s
 
 ### Zowe API Squad
 
-- Elliot Jalley (Lead) - @jalel01 (elliot.jalley@broadcom.com)
-- Anton Brezina (Scrum Master) - @anton-brezina (anton.brezina@broadcom.com)
-- Michal Supak - @supmi01 (michal.supak@broadcom.com)
-- Andrea Tabone - @taban03 (andrea.tabone@broadcom.com)
-- Christos Zikos - @cZikos (christos.zikos@broadcom.com)
-- Jiri Aichler - @JirkaAichler (jiri.aichler@broadcom.com)
-- David Janda - @jandadav (david.janda@broadcom.com)
-- Elena Kubantseva - @arxioly (elena.kubantseva@broadcom.com)
-- Pavlin Zahariev - @pinpan (pavlin.zahariev@broadcom.com)
-- Jakub Balhar - @balhar-jakub (jakub.balhar@broadcom.com)
-- Andrew Jandacek - @janan07 (andrew.jandacek@broadcom.com)
-- Petr Plavjanik - @plavjanik (petr.plavjanik@broadcom.com)
-- Andrej Chmelo - @achmelo (andrej.chmelo@broadcom.com)
-- John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Pavel Jares - @pj892031 (pavel.jares@broadcom.com)
-- Jordan Cain - @jordanCain (Jordan.Cain1@uk.ibm.com)
-- Carson Cook - @CarsonCook (Carson.Cook@ibm.com)
+The list of committers is here: [https://github.com/orgs/zowe/teams/api-mediation-committers](https://github.com/orgs/zowe/teams/api-mediation-committers)
+
+The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediation-contributors](https://github.com/orgs/zowe/teams/api-mediation-contributors)
 
 ### Zowe CLI Squad
 
@@ -55,7 +41,7 @@ The following is a list of all the Zowe Committers on the project organized by s
 - Naman Patel - @namanpatel1112 (Naman.Patel@ibm.com)
 - James Bauman - @JamesBauman (james.bauman@broadcom.com)
 
-### Zowe App Framework Squad
+### Zowe Web UI Squad
 Committers are tracked via github teams, for permission management
 Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
 Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
@@ -129,7 +115,7 @@ for permission management.
 - Arijit Kundu (Arijit) - @idontknowjs (kunduarijit55@gmail.com)
 
 
-### Zowe CI/CD
+### Systems
 
 - Mark Ackert (Lead) - @MarkAckert (mark.ackert@broadcom.com)
 - Steven Horsman - @stevenhorsman (steven@uk.ibm.com)
@@ -142,3 +128,23 @@ for permission management.
 - Tom Zhang - @FlappiTomic (t.yczhang@ibm.com)
 - Edward Roche - @edroche-IBM (Edward.Roche@ibm.com)
 - Adarshdeep Cheema - @AdarshdeepCheema (Adarshdeep.Cheema@ibm.com)
+
+## Zowe Incubation Squads
+
+### Zebra
+
+The list of committers is here: [https://github.com/orgs/zowe/teams/zebra-committers](https://github.com/orgs/zowe/teams/zebra-committers)
+
+### zOS interface
+
+The list of committers is here: [https://github.com/orgs/zowe/teams/zos-interface](https://github.com/orgs/zowe/teams/zos-interface)
+
+### Zowe Chat
+
+The list of committers is here: [https://github.com/orgs/zowe/teams/zowe-chat-committers](https://github.com/orgs/zowe/teams/zowe-chat-committers)
+
+The list of contributors is here: [https://github.com/orgs/zowe/teams/zowe-chat-contributors](https://github.com/orgs/zowe/teams/zowe-chat-contributors)
+
+### Intellij Squad
+
+### Zowe on the Go
