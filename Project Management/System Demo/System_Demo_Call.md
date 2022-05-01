@@ -17,7 +17,7 @@ https://github.com/zowe/community/tree/master/Project%20Management/System%20Demo
 | 9:10-9:20  | Zowe CLI           | Team Configuration                                   |
 | 9:20-9:30  | Zowe Explorer      | Team Configuration                                   |
 | 9:30-9:40  | Zowe CLI           | Daemon Mode                                          |
-|            |                    |                                                      |
+| 9:40-9:50  | Systems            | V2 server components install and configure           |
 |            |                    |                                                      |
 |            |                    |                                                      |
 |            |                    |                                                      |
