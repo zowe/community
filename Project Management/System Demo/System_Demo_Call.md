@@ -10,16 +10,15 @@ Upload your supporting material here:
 https://github.com/zowe/community/tree/master/Project%20Management/System%20Demo/Folder
 
 
-| Time       | Squad              | Topic                                                |
-| ---------- | ------------------ | ---------------------------------------------------- |
-| 9:00-9:05  | Zowe CLI           | Migrating from V1 to V2 LTS                          |
-| 9:05-9:10  | Zowe Explorer      | Migrating from V1 to V2 LTS                          |
-| 9:10-9:20  | Zowe CLI           | Team Configuration                                   |
-| 9:20-9:30  | Zowe Explorer      | Team Configuration                                   |
-| 9:30-9:40  | Zowe CLI           | Daemon Mode                                          |
-| 9:40-9:50  | Systems            | V2 server components install and configure           |
-|            |                    |                                                      |
-|            |                    |                                                      |
-|            |                    |                                                      |
-|            |                    |                                                      |
-|            |                    |                                                      |
+| Time        | Squad              | Topic                                                |
+| ----------- | ------------------ | ---------------------------------------------------- |
+| 9:00-9:05   | Zowe CLI           | Migrating from V1 to V2 LTS                          |
+| 9:05-9:10   | Zowe Explorer      | Migrating from V1 to V2 LTS                          |
+| 9:10-9:20   | Zowe CLI           | Team Configuration                                   |
+| 9:20-9:30   | Zowe Explorer      | Team Configuration                                   |
+| 9:30-9:40   | Zowe CLI           | Daemon Mode                                          |
+| 9:40-9:50   | Systems            | V2 server components install and configure           |
+| 9:50-9:55   | API ML             | Change the password via the API Catalog              |
+| 9:55-10:05  | API ML             | Onboarding Wizard Improvements                       |
+|             |                    |                                                      |
+|             |                    |                                                      |
