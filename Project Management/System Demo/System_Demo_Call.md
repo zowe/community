@@ -20,5 +20,5 @@ https://github.com/zowe/community/tree/master/Project%20Management/System%20Demo
 | 9:40-9:50   | Systems            | V2 server components install and configure           |
 | 9:50-9:55   | API ML             | Change the password via the API Catalog              |
 | 9:55-10:05  | API ML             | Onboarding Wizard Improvements                       |
-|             |                    |                                                      |
+| 10:05-10:15 | App Framework      | App Framework Improvements                           |
 |             |                    |                                                      |
