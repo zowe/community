@@ -145,7 +145,7 @@ Squad Breakout 1
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: <br>
+- Zoom Link: https://zoom.us/j/97194221474<br>
 
 </td>
 <td>Squad Breakouts
