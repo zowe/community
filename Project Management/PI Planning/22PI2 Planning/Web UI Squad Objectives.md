@@ -2,7 +2,7 @@
 
 ## In-squad tasks
 
-### V2.1, 2.2 enhancements: Schema validation, parmlib support, speedup
+### V2.1, 2.2 enhancements: Schema validation, [parmlib support](https://github.com/zowe/zlux/issues/777), [speedup](https://github.com/zowe/zowe-install-packaging/issues/2825)
 **Priority**: 1
 **Status**: In the last PI we discussed making a utility that can read schema files, and also read config file(s). One or more files, parmlib or unix files.
 That utility exists now and works well. https://zowe.jfrog.io/zowe/libs-snapshot-local/org/zowe/configmgr/0.3.0-feature_build-deps/
