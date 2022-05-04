@@ -21,7 +21,7 @@
 ## CI/CD 
 
 * [Expand Install Tests](https://github.com/zowe/zowe-install-packaging/issues/2267)
-  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
+  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2251)
   - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2270)
 * [Backport SBOM to 1.28.x](https://github.com/zowe/zowe-dependency-scan-pipeline/issues/104)
 
