@@ -26,3 +26,8 @@ See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zow
 ## Upvoted Issues
 Review, prioritize, and implement highly upvoted issues in our repository
 https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+
+## Golden CII Badge Analysis
+[Golden CII Badge](https://github.com/zowe/community/issues/1279)
+
+This is a goal shared across all the Zowe active squads. In the context of this PI, the goal is to understand what needs to be done in order to achieve the conformance. 
