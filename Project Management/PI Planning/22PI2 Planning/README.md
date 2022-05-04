@@ -186,7 +186,7 @@ Squad Breakout 4
  
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: <br>
+- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 </td>
                 <td></td>
     </tbody>
