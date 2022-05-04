@@ -10,10 +10,10 @@ As extenders seek V2 LTS conformance, we are actively responding to incoming que
 For a more detailed list of the issues there were deferred, please see [Zowe Explorer #1717](https://github.com/zowe/vscode-extension-for-zowe/issues/1717)
 
 ### Bug Fixes
-- [ ] Refresh required after Login operation [ZE#1750]](https://github.com/zowe/vscode-extension-for-zowe/issues/1750)
+- [ ] Refresh required after Login operation [ZE#1750](https://github.com/zowe/vscode-extension-for-zowe/issues/1750)
 - [ ] Requests are issued to z/OS when a tree item is being closed [ZE#754](https://github.com/zowe/vscode-extension-for-zowe/issues/754)
 - [ ] Quick-key Delete not working in USS tree [ZE#1510](https://github.com/zowe/vscode-extension-for-zowe/issues/1510)
-- [ ] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692
+- [ ] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692)
 - [ ] Handle profile creation/update for ZE extender profiles requiring credentials when the user leaves them blank [ZE#1619](https://github.com/zowe/vscode-extension-for-zowe/issues/1619)
 - [ ] [STRETCH] Issues with USS files having "same name", but different case [ZE#1484](https://github.com/zowe/vscode-extension-for-zowe/issues1484)
 - [x] Saving file gets FTP error and deletes file on mainframe side [ZE-FTP#1707](https://github.com/zowe/vscode-extension-for-zowe/issues/1707)
@@ -48,4 +48,3 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 
 ### Upvoted issues
 Continue to review, prioritize, and implement highly upvoted issues in our repository for [Zowe Explorer, Zowe Explorer for FTP](https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and [Zowe Explorer for CICS](https://github.com/zowe/vscode-extension-for-cics/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
-https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
