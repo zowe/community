@@ -10,7 +10,7 @@ Determine development technology stack including runtime, programming language, 
 Set up a suitable environment to develop the technology including servers for building/testing.
 
 ## Extensible architecture
-Review initial architecture of contribution and nsure framework will support future extenders
+Review initial architecture of contribution and ensure framework will support future extenders
 
 ## Review, align on, and implement an MVP
 Review our hills and decide on an MVP use case to implement and validate with our sponsor users
