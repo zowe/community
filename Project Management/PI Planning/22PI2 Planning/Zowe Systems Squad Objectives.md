@@ -24,3 +24,7 @@
   - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
   - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2270)
 * [Backport SBOM to 1.28.x](https://github.com/zowe/zowe-dependency-scan-pipeline/issues/104)
+
+## CII Badge Analysis
+
+* [CII Badge Investigation]()
