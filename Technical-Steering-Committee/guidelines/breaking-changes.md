@@ -6,6 +6,8 @@ Breaking changes are sometimes necessary to keep the Zowe project in a good shap
 
 This policy will be affective with the Zowe V2 release. It will affect how changes to V2 are introduced. Breaking changes to V2 APIs and behavior can be made in V3 at earliest.
 
+The policy applies to projects that are a part of the Zowe Long Term Support (LTS) release. It does not apply to projects in incubation.
+
 ## Public and internal API
 
 The term API in this document means any type of programmatic API including REST APIs, Java APIs, TypeScript APIs, and CLIs.
@@ -121,9 +123,9 @@ Communicate pending deprecations and associated mitigations with the ecosystem a
 
 ## Squad Responsibilities
 
-Each squad documents for the components owned by the squads in [Zowe Docs](https://docs.zowe.org/):
+Each squad decides and documents in [Zowe Docs](https://docs.zowe.org/):
 
- - What is public and internal API
+ - What is public and internal API of the projects owned by the squad.
  - What is breaking change together with examples of breaking and non-breaking change.
  - How runtime warnings and errors are handled.
 
