@@ -16,7 +16,7 @@ Any undocumented command, endpoint, object, property, method, argument, behavior
 
 Exceptions are undocumented behaviors that are relied on by the community (e.g. `zowe jobs submit` command returns the job ID without other data or messages). Such occurrences should be reported via issues and documented over time.
 
-Sometimes, there is disagreement about whether functionality is internal or public. In those cases, the TSC makes a determination.
+Each squad determines whether functionality is internal or public. If there is an disagreement with the squads decision, one can make an appeal to the TSC.
 
 ## Breaking changes
 
@@ -111,7 +111,7 @@ Communicate pending deprecations and associated mitigations with the ecosystem a
 
 1. A planned breaking change is discussed at Zowe architecture call and Zowe playback demo event.
 
-2. The breaking change is brought to TSC and approved.
+2. Each squad decides about breaking changes of their projects. Squad needs to inform other squads at Zowe Architecture Call. If there is an disagreement about the breaking change, one can make an appeal to the TSC.
 
 3. The documentation of active and development releases is updated and the change is now Documentation-Only Deprecation. If there is a new functionality that replaces the deprecated one, it needs to be made available on active and development branches at least at this moment.
 
