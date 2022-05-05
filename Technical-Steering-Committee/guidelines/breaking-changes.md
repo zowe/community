@@ -107,17 +107,17 @@ Documentation-Only Deprecations can land in a minor release. They can change to 
 
 No API can change to End-of-Life without going through a Runtime Deprecation cycle. There is no rule that deprecated code must progress to End-of-Life. Documentation-Only and Runtime Deprecations can remain in place for an unlimited duration.
 
-Communicate pending deprecations and associated mitigations with the ecosystem as soon as possible. If possible, do it before the pull request adding the deprecation lands on the master branch.
+Communicate pending deprecations and associated mitigation with the ecosystem as soon as possible. If possible, do it before the pull request adding the deprecation lands on the master branch.
 
 ### Example
 
 1. A planned breaking change is discussed at Zowe architecture call and Zowe playback demo event.
 
-2. Each squad decides about breaking changes of their projects. Squad needs to inform other squads at Zowe Architecture Call. If there is an disagreement about the breaking change, one can make an appeal to the TSC.
+2. Each squad decides about breaking changes of their projects. If there is an disagreement about the breaking change, one can make an appeal to the TSC.
 
 3. The documentation of active and development releases is updated and the change is now Documentation-Only Deprecation. If there is a new functionality that replaces the deprecated one, it needs to be made available on active and development branches at least at this moment.
 
-4. After at least six months and no push back of the community, the planned change moves to  Runtime Deprecation.
+4. After at least six months and no push back of the community, the planned change moves to Runtime Deprecation.
 
 5. The API or functionality can be removed at the new major release if that happens at least after six months since Runtime Deprecation and no concerns from the community. This requires another TSC review.
 
