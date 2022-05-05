@@ -292,7 +292,8 @@ Squad Final Readouts
 - Documentation Squad
 
 11:00 Squad 8
-- Incubators
+- zOS
+- Chat
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
