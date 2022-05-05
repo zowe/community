@@ -8,9 +8,7 @@ As a modern developer I depend on API documentation in my daily work. I would li
 
 API ML Squad Plan:
 - [API Coding Samples / Snippets to facilitate programmatic use of APIs](https://github.com/zowe/api-layer/issues/2082)
-- [As a modern programmer I want to easily find the APIs relevant to my work](https://github.com/zowe/api-layer/issues/2253 )
-- [Spike: As a modern programmer I want to verify the usage of the specific endpoint before using it in my implementation](https://github.com/zowe/api-layer/issues/2256)
-- [Spike: As a modern programmer I want to be aware of the endpoints that are deprecated and as such I shouldn't be using them](https://github.com/zowe/api-layer/issues/2255)
+- [Spike: What solutions exist for snippet generation for the APIs](https://github.com/zowe/api-layer/issues/2273)
 
 ### Use Case
 
@@ -32,6 +30,7 @@ It's possible that manual approval will be needed to actually deploy the version
 As a modern developer I want to be able to use tokens with limited access and limited but extended expiration within my automation scenarios. 
 
 API ML Squad Plan:
+- [Spike: Explore the format of tokens and storage of tokens](https://github.com/zowe/api-layer/issues/2310)
 - [As a modern developer I want to revoke existing token](https://github.com/zowe/api-layer/issues/2306)
 - [As a modern developer or system integrator, I want to be able to create a token valid only for specific services for a limited amount of time.](https://github.com/zowe/api-layer/issues/2276)
 - [As a modern developer or system integrator I want to be able to limit scope of the personal access token](https://github.com/zowe/api-layer/issues/2277)
@@ -54,10 +53,7 @@ API ML Squad Plan:
 - [Upgrade SpringBoot to 2.5](https://github.com/zowe/api-layer/issues/1972)
 - [Node 14 related upgrades](https://github.com/zowe/api-layer/issues/2030)
 - [Replace SpringFox with another solution](https://github.com/zowe/api-layer/issues/1971)
-- [Upgrade Gradle to V7](https://github.com/zowe/api-layer/issues/1973)
-- [API ML should support Java 11 even for building](https://github.com/zowe/api-layer/issues/1294)
 - [Deprecated RestTemplate](https://github.com/zowe/api-layer/issues/1981)
-- [Remove deprecated classes from v2](https://github.com/zowe/api-layer/issues/2171)
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029 {STRETCH}
 
