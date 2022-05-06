@@ -9,6 +9,22 @@ https://lists.openmainframeproject.org/g/zowe-dev
 Upload your supporting material here:
 https://github.com/zowe/community/tree/master/Project%20Management/System%20Demo/Folder
 
+Zowe V2.0.x
+
+| Time        | Squad              | Topic                                                |
+| ----------- | ------------------ | ---------------------------------------------------- |
+| 9:00-9:05   |                    |                                                      |
+| 9:05-9:10   |                    |                                                      |
+| 9:10-9:20   |                    |                                                      |
+| 9:20-9:30   |                    |                                                      |
+| 9:30-9:40   |                    |                                                      |
+| 9:40-9:50   |                    |                                                      |
+| 9:50-9:55   |                    |                                                      |
+| 9:55-10:05  |                    |                                                      |
+| 10:05-10:15 |                    |                                                      |
+|             |                    |                                                      |
+
+Zowe V2.0.0
 
 | Time        | Squad              | Topic                                                |
 | ----------- | ------------------ | ---------------------------------------------------- |
