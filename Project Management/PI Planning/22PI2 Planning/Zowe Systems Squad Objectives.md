@@ -18,7 +18,6 @@
   
 * [Infrastructure Support for ChatOps](https://github.com/zowe/zowe-chat/issues/1)
 
-* [Testing on z/OS]()
 
 ## CI/CD 
 
