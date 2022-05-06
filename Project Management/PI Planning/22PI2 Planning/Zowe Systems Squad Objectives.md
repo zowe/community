@@ -18,6 +18,7 @@
   
 * [Infrastructure Support for ChatOps](https://github.com/zowe/zowe-chat/issues/1)
 
+* [Zowe CLI Smoke Tests on Marist]()
 
 ## CI/CD 
 
