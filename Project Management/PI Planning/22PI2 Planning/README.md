@@ -8,7 +8,7 @@ When: Wednesday, May 4th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New 
 Zoom Meeting: https://zoom.us/j/98669896143<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508922&calstart=2022-05-04<br>
 Meeting Recordings: [Day 1](https://zoom.us/rec/share/tiiBvg6Nto_xCDTnrRb4pEdUkYI8owCBrDSgWOV-VnKxraZZeRZNT6uZC_ByCbaB.jspq6zLCQxDa1MFJ?startTime=1651665133000)
-<br>            
+<br>
 
 Day 2\
 When: Friday, May 6th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
@@ -81,28 +81,28 @@ Squad PI Objectives<br>
 Squad vision<br>
 10-15 mins each:
 
-<br>9:05 Squad Breakout 1
+<br>9:05 Squad Readout 1
 - Zowe Explorer Squad
 
-9:20 Squad Breakout 2
+9:20 Squad Readout 2
 - API ML Squad
 
-9:35 Squad Breakout 3
+9:35 Squad Readout 3
 - Zowe CLI Squad
 
-9:50 Squad Breakout 4
+9:50 Squad Readout 4
 - Systems Squad (includes CI-CD, HA, Performance)
 
-10:05 Squad Breakout 5
+10:05 Squad Readout 5
 - WebUI Squad
 
-10:20 Squad Breakout 6
+10:20 Squad Readout 6
 - Onboarding Squad
 
-10:35 Squad Breakout 7
+10:35 Squad Readout 7
 - Documentation Squad
 
-10:50 Squad Breakout 8
+10:50 Squad Readout 8
 - Incubators - Zebra
 
 </td>
@@ -147,7 +147,7 @@ Squad Breakout 1
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: <br>
+- Zoom Link: https://zoom.us/j/97194221474<br>
 
 </td>
 <td>Squad Breakouts
@@ -168,6 +168,8 @@ Squad Breakout 3
 - Zowe CLI Squad
 - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 
+- Zowe Onboarding Squad
+- Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
 
 </td>
                 <td></td>
@@ -183,22 +185,10 @@ Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
- Squad Breakout 6
-- Onboarding Squad  (NOTE: rescheduled to Thursday 1/27 at 8:00am ET same link)
-- Zoom/Webex Link:  <br>   
-  </td>
-                <td></td>
-    </tbody>
-    <tbody>
-            <tr>
-                <td>Public Comment</td>
-                <td>2022-05-04</td>
-                <td>2:00 PM</td>
-<td>
 
 Squad Breakout 5
 - WebUI Squad
-- Zoom/Webex Link: <br>
+- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 </td>
                 <td></td>
     </tbody>
@@ -223,19 +213,6 @@ Squad Breakout 8
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
-    </tbody>
-    <tbody>
-     <tr>
-          <td>Public Comment</td>
-          <td>2022-05-04</td>
-          <td>8:00 AM</td>
-     <td>
-
-Squad Breakout
-- Zowe Doc Squad
-- Zoom/Webex Link: <br>
-</td>
-                <td></td>
     </tbody>
 <tbody>
         <tr>
@@ -294,6 +271,7 @@ Squad Final Readouts
 11:00 Squad 8
 - zOS
 - Chat
+- Mobile
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
@@ -347,7 +325,7 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 2 - Not very confident.  The PI might be successful, but we really need to discuss a few thing.
 
-1 - We're planning to fail.  
+1 - We're planning to fail.
 
 [Confidence Vote](https://www.surveymonkey.com/r/K9PRG2R)
 <br>
