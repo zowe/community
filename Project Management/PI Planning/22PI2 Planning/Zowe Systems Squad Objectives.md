@@ -27,9 +27,13 @@
   - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2271)
 * [Github Actions Currency]
   - [Miscellaneous Github Actions Library Updates - v1 vs v2, better change detection]()
-  - [Zowe Install Packaging Test Migrations](https://github.com/zowe/zowe-install-packaging-tools/issues/31)
+  - [Zowe Install Packaging Tools Migrations](https://github.com/zowe/zowe-install-packaging-tools/issues/31)
 * [Backport SBOM to 1.28.x](https://github.com/zowe/zowe-dependency-scan-pipeline/issues/104)
 
 ## CII Badge Analysis
 
 * [CII Badge Investigation]()
+
+### Risks
+
+* We need Sysplex expertise to implement Sysplex on Marist
