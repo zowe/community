@@ -6,7 +6,7 @@ Breaking changes are sometimes necessary to keep the Zowe project in a good shap
 
 This policy will be affective with the Zowe V2 release. It will affect how changes to V2 are introduced. Breaking changes to V2 APIs and behavior can be made in V3 at earliest.
 
-The policy applies to projects that are a part of the Zowe Long Term Support (LTS) release. It does not apply to projects in incubation.
+The policy applies to projects that have reached the Generally Available (GA) and Long Term Support (LTS) stages of their lifecycle as defined in [Projects](Technical-Steering-Committee/projects.md). It does not apply to projects in earlier stages: Under Development or Technical Preview.
 
 ## Public and internal API
 
@@ -26,7 +26,9 @@ See [Zowe Version Release Schedule](/Technical-Steering-Committee/release.md) fo
 
 ![Schedule for the nearest releases](/Technical-Steering-Committee/major_releases.png)
 
-At least two TSC members must approve backward-incompatible changes to the under development branch or current active or maintenance release. Changes to the development branch will be breaking changes in the upcoming active release. Breaking changes to active or maintenance release should be avoided unless necessary (for example critical fixes or security vulnerabilities).
+At least two squad members must approve backward-incompatible changes to the under development branch or current active or maintenance release. Changes to the development branch will be breaking changes in the upcoming active release. Breaking changes to active or maintenance release should be avoided unless necessary (for example critical fixes or security vulnerabilities).
+
+If there is an disagreement about the breaking change, one can make an appeal to the TSC and request the change to be revisited.
 
 **Examples of breaking changes include:**
 
@@ -59,6 +61,11 @@ At least two TSC members must approve backward-incompatible changes to the under
     - Adding or removing errors
     - Altering expected timing of an event
 
+4. Web UI-specific breaking changes:
+
+    - Removing a UI component without adding an alternative way how to access the functionality.
+    - Altering an icon’s pictogram significantly while retaining the icon name.
+
 **Examples of non-breaking changes:**
 
 1. CLI-specific non-breaking changes:
@@ -73,11 +80,20 @@ At least two TSC members must approve backward-incompatible changes to the under
     - Adding a response field
     - Adding optional query parameters
 
-3. Programmatic API-specific breaking changes:
+3. Programmatic API-specific non-breaking changes:
 
     - Adding a class or a method
     - Adding a optional parameter
     - Adding a field to a class
+
+4. Web UI-specific non-breaking changes:
+
+    - Adding a new UI components that do not prevent existing components from being used.
+    - Adding a new icon or updates to the icon’s appearance that don’t alter its meaning.
+    Updates to the icon’s appearance that don’t alter its meaning.
+    - Fixing defects that are preventing a UI component from functioning.
+    - Fixing styling defects causing issues with legibility or display.
+    - Updating or expanding documentation.
 
 ## Deprecations
 
@@ -93,9 +109,9 @@ Zowe uses three Deprecation levels. For all deprecated APIs, the API documentati
 
 2. Runtime Deprecation
 
-    - Emits a warning at runtime on first use of the deprecated API or when CLI is used
-    - Can be disabled (environment variable `ZOWE_DEPRECATION_WARN=0` for CLI and  configuration option `zowe.setup.deprecation.warning` in `zowe.yaml` for z/OS Components).
-    - Can be changed to cause an runtime error (by `ZOWE_DEPRECATION_RUNTIME_ERROR=1` and configuration option `zowe.setup.deprecation.runtime-error` in `zowe.yaml` for z/OS Components).
+    - Emits a warning at runtime on first use of the deprecated API or when CLI is used. This the default behavior (corresponds to environment variable `ZOWE_DEPRECATION=warning` for CLI and configuration option `zowe.setup.runtimeDeprecation: warning` in `zowe.yaml` for z/OS Components).
+    - Can be disabled (by environment variable `ZOWE_DEPRECATION=silent` for CLI and configuration option `zowe.setup.runtimeDeprecation: silent` in `zowe.yaml` for z/OS Components).
+    - Can be changed to cause an runtime error (by `ZOWE_DEPRECATION=error` and configuration option `zowe.setup.runtimeDeprecation: error` in `zowe.yaml` for z/OS Components).
 
 3. End-of-Life
 
@@ -135,4 +151,4 @@ New page *Breaking changes* under [Getting Started](https://docs.zowe.org/stable
 
 Each squad documents internal information for contributors about technical steps how to introduce breaking change and deprecations. This will documented in a document inside the GitHub repositories and linked from the main README document of the repository.
 
-Each squad actively seeks for methods how to detect unintentional breaking changes.
+Each squad actively seeks for methods how to detect unintentional breaking changes including adding compatibility-related conformance criteria.
