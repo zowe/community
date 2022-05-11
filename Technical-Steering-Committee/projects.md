@@ -171,9 +171,7 @@ None. Don't use the projects in this stage.
 
 #### Standard Lifecycle process
 
-Zowe Acme project was proposed by one of the TSC members and is accepted as an incubating project. The group of developers behind the project
-works on the first version, which means the product is Under Development. After half of the year of development, the technical preview for 
-the first version is prepared and published as Technical Preview to gather more feedback from the users. The developers get feedback
+Zowe Acme project was proposed by one of the TSC members and is accepted as a new project by one of the active squads or has its own Incubator Squad. The group of developers behind the project works on the first version, which means the product is Under Development. After half of the year of development, the technical preview for the first version is prepared and published as Technical Preview to gather more feedback from the users. The developers get feedback
 from the users and update the project. Afterward, they publish the first version as the Generally Available. The Generally Available
 version of the project gains traction and users, and as such, the project is moved to Long Term Support. This way, it joins the currently Active 
 major version of Zowe. After two major versions, the programming landscape changes, and as such, the project isn't used much anymore, and 
