@@ -1,10 +1,16 @@
 # Zowe Secure Software Development Policy Framework
 
-This document describes a framework used to model a meta definition of the Zowe Secure Development Policy/ies.
+This document tree defines a framework used to model a meta definition of the Zowe Secure Development Policy/ies.
 
 The policies described bellow are titled "Meta-Policy", because they serve as a container to collect all the requirements for a given area of governance (eg. Organization, SDLC, etc).
+
 Such meta policy can/should be split into smaller interrelated policies targeting specific security topics, which need to be governed/published separately (e.g. Security issues disclosure etc.).
-Such target, publishable policies need to be distilled from a Meta Policy. while keeping the relation to the original statements for easier maintenance and assessment of policy fulfilment.
+
+Such target, publishable policies need to be distilled from a Meta Policy.
+
+The individual policy statements are assigned a unique code, so they can be reffered to in other documents or assessments of this policy fulfilment.
+
+Where apropriate the policy statements refer to the topics and paragraphs in related extendal security development frameworks, such as NIST SDF.
 
 ```
 ### Goals:
@@ -13,7 +19,7 @@ Such target, publishable policies need to be distilled from a Meta Policy. while
 - Maintain reference to external requirements for approval of compliance and conformity
 ```
 
-![Secure Software Development Policy Framework]("./img/SecurityPolicyFramework.png")
+![Secure Software Development Policy Framework](img/SecurityPolicyFramework.png)
 
 ###Common definitions:
 > 1. Contributors' types and policy applicability\
