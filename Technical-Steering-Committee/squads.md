@@ -88,7 +88,10 @@ This list contains squads currently known to be in an incubator stage
 
 - ZEEBRA
 - Wizard Workflow
-- Zowe Mobile
+- Zowe Mobile (Zowe on the go)
+- Intellij Plugin
+- Zowe Chat
+- zOS Squad
 
 ### Active
 

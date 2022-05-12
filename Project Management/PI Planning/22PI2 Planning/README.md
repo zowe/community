@@ -8,13 +8,13 @@ When: Wednesday, May 4th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New 
 Zoom Meeting: https://zoom.us/j/98669896143<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508922&calstart=2022-05-04<br>
 Meeting Recordings: [Day 1](https://zoom.us/rec/share/tiiBvg6Nto_xCDTnrRb4pEdUkYI8owCBrDSgWOV-VnKxraZZeRZNT6uZC_ByCbaB.jspq6zLCQxDa1MFJ?startTime=1651665133000)
-<br>            
+<br>
 
 Day 2\
 When: Friday, May 6th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: https://zoom.us/j/99756887303<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1508923&calstart=2022-05-06<br>
-Meeting Recordings: [Day 2]()
+Meeting Recordings: [Day 2](https://zoom.us/rec/share/vFAWC84moEvAJWwkiQRddd2yblqQEEdfjjUXkTad17KzulonPuExViKwqdAWFHMM._XnQo-s4ARr-G9Ww?startTime=1651841567000)
 
 Squad PI Objectives<br>
 [Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI2%20Planning/Zowe%20Explorer%20Objectives.md)<br>
@@ -185,7 +185,7 @@ Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
- 
+
 Squad Breakout 5
 - WebUI Squad
 - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
@@ -271,6 +271,7 @@ Squad Final Readouts
 11:00 Squad 8
 - zOS
 - Chat
+- Mobile
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
@@ -324,8 +325,8 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 2 - Not very confident.  The PI might be successful, but we really need to discuss a few thing.
 
-1 - We're planning to fail.  
+1 - We're planning to fail.
 
 [Confidence Vote](https://www.surveymonkey.com/r/K9PRG2R)
 <br>
-[Confidence Vote Results]()
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI2%20Planning/22PI2%20Confidence%20Vote.png)
