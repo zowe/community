@@ -99,7 +99,7 @@ for permission management.
 - Bill Pereira - @billpereira (william.pereira@me.com)
 - Murali Panchalingam - @mpanch59 (panchali@uk.ibm.com)
 - Ilya Kreynin - @IlyaKreynin (ilya.kreynin@ibm.com)
-- Michael DuBois - @pdubz3 (michael.dubois@broadcom.com)
+- Michael DuBois - @pdubz3 (michael.dubois@broadcom.com) 
 
 ### Documentation
 
