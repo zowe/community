@@ -121,6 +121,8 @@ Apply the `notable change` label to all pull requests that introduce Documentati
 
 Documentation-Only Deprecations can land in a minor release. They can change to a Runtime Deprecation after six months. They can not change to a End-of-Life until the next major release and need to be in End-of-Life at least for another six months.
 
+All deprecations receive a unique and immutable identifier with format `DEPZWEcnnnn` where `c` is a component as defined in [Message Management](/Technical-Steering-Committee/best-practices/message-management.md) and `nnnn` is a number starting from `0001` (for example, `ZWEDEPC0001`). Documentation, warnings, and errors use the identifier when referring to the deprecation. The documentation for the deprecation identifier must always remain in the documentation. This is true even if the deprecation is no longer in use (for example, due to removal of an End-of-Life deprecated API).
+
 No API can change to End-of-Life without going through a Runtime Deprecation cycle. There is no rule that deprecated code must progress to End-of-Life. Documentation-Only and Runtime Deprecations can remain in place for an unlimited duration.
 
 Communicate pending deprecations and associated mitigation with the ecosystem as soon as possible. If possible, do it before the pull request adding the deprecation lands on the master branch.
