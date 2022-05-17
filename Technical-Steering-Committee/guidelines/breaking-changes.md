@@ -95,6 +95,17 @@ If there is an disagreement about the breaking change, one can make an appeal to
     - Fixing styling defects causing issues with legibility or display.
     - Updating or expanding documentation.
 
+## Extension Compatibility
+
+Zowe components can be extended by plug-ins, API service, or extensions. These extensions can use code from Zowe to be built (for example client libraries to access some API).
+Both forward and backward compatibility is expected. Older versions of client libraries are expected to compatible with higher versions of Zowe and, as well, newer versions 
+of client libraries are expected to work with old versions of Zowe (except for the functionality that has been added to the Zowe in newer versions).
+
+Changes to this backward and forward compatibility needs to be treated as a breaking change. 
+
+When different versions of Zowe and client libraries are expected, the client library should detect if it connects to a compatible server to prevent runtime failures 
+that are difficult to diagnose.
+
 ## Deprecations
 
 Zowe uses three Deprecation levels. For all deprecated APIs, the API documentation must state the deprecation status.
