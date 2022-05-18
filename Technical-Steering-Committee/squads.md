@@ -1,19 +1,19 @@
 # Squads
 
-The squad is a group of people contributing and participating in the Zowe project. The group owns either some piece of functionality or one or more modules. Every squad needs to have a representative in TSC and participate in relevant working groups. 
+A squad is a group of people contributing and participating in the Zowe project. Such a group owns one or more modules or some piece of functionality. Every squad needs to have a representative in TSC and participate in relevant working groups. 
 
 ## Maturity
 
-This chapter outlines what levels of maturity are to be found within the Zowe project and the ways to transition between the different stages within the lifecycle.
+A squad maturity is given by the squad's lifecycle stage. This chapter outlines the maturity levels associated with the corresponding stages and the possible transitions between them.
 
-## Squads
+### Lifecycle stages / Maturity levels
 
 - **Proposal** - Idea presented to the TSC and ZAC based on the process outlined in [Proposal Process](#proposal-acceptance-process)
 - **Incubator** - Squad accepted to the incubator stage. The squad is provisionally part of the Zowe project but doesn't have voting rights including the committers of the squad  
 - **Active** - Demonstrated sustainability and sufficient maturity. The squad has regular meetings, there is a TSC representative from the squad and the squad committers can vote on Zowe wide topics.
 - **Emeritus** - No new development is expected to be done by the squad. The squad is disbanded and the TSC representative leaves the TSC. The created artifacts are retained under Zowe. 
 
-### Stages
+### Squad maturity
 
 Every Zowe squad has an associated stage. The current state of the squads is reflected in the [List of current chapter](#list-of-current). The squad states the preferred stage (incubator, active). The TSC reaches out to the ZAC for guidance about the new squad. ZAC provides timely guidance on whether the squad should be accepted and at what maximum stage. The TSC then votes on accepting the project and with which stage based on the squads preference and ZAC guidance. The resolution could be either: accept the proposal, reject the proposal or in case active stage is requested offer acceptance in an incubator stage. 
 
@@ -74,7 +74,7 @@ For squads in the emeritus phase and the associated artifacts and code Zowe does
 
 A squad can move back to Active Stage following the guidelines for a project being accepted at the Active Stage above.
 
-## List of Current
+## Current squads
 
 In this list we outline the current squads and their level of maturity. 
 
