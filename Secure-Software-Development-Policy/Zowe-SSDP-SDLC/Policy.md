@@ -35,15 +35,23 @@ Produce Well-Secured Software with minimal security vulnerabilities in its relea
 
 ```#REF: SSDF:PW.1.1 Design Software to Meet Security Requirements and Mitigate Security Risks```\
 
+``` 
+  #QUESTIONS
+  - Who will define requirements and validate their fulfilment? 
+  - How should be the review formalized and performed? 
+  - Who will perform - contributor or Zowe Security group?
+  - What size/importance of feature should trigger security modelling and analysis?
+  - How to validate and document outcomes?
+```
 
-- C1.1 Apply Risk, Threat and Attack modelling (#ID: ZSSD-LP:PW-RMR-RTA)
+  - C1.1 Apply Risk, Threat and Attack modelling (#ID: ZSSD-LP:PW-RMR-RTA)
 
 ```#REF:  SSFD:PW.1.1```\
 ````#POLICY````
 
 >Use forms of risk modeling, such as threat modeling, attack modeling, or attack surface mapping, to help assess the security risk for the software.
 
-- C1.2 Security Requirements, Risks and Design decisions (#ID: ZSSD-LP:PW-RMR-RRD) 
+  - C1.2 Security Requirements, Risks and Design decisions (#ID: ZSSD-LP:PW-RMR-RRD) 
 
 ```#REF: SSFD:PW.1.2```
 ```#POLICY #OP```
@@ -93,6 +101,9 @@ Produce Well-Secured Software with minimal security vulnerabilities in its relea
 - C3.4 Verify Components Integrity (#ID: ZSSD-LP:PW-RWS-VCI) 
  
 >Verify the integrity and check the provenance of all in-house and third-party software components before reusing them for the organization’s own software.
+
+>##Notes, TODOs
+>This should happen prior to add dependency to the code project. Can we  require it? How we ensure it was done?
 
 ```#REF: SSDF:PW.4.5```
 
