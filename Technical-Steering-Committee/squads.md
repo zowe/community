@@ -1,6 +1,6 @@
 # Squads
 
-A squad is a group of people contributing and participating in the Zowe project. Such a group owns one or more modules. Every squad is required to have a representative on the Technical Steering Committee (TSC), and participate in relevant working groups. 
+A squad is a group of people contributing and participating in the Zowe project. Such a group owns one or more projects. Every squad is required to have a representative on the Technical Steering Committee (TSC), and participate in relevant working groups. 
 
 ## Squad maturity
 A squad's maturity is determined by its lifecycle stage. This section outlines the maturity levels associated with the corresponding lifecycle stages and the possible transitions between stages.
