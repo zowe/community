@@ -4,7 +4,7 @@ Having a reliable platform that can evolve is vital for the success of Zowe. We 
 
 Breaking changes are sometimes necessary to keep the Zowe project in a good shape. This document provides guidelines and policy about what is breaking change, how it can be introduced so the change will have minimal disruptive effects on the Zowe users and extenders.
 
-This policy will be affective with the Zowe V2 release. It will affect how changes to V2 are introduced. Breaking changes to V2 APIs and behavior can be made in V3 at earliest.
+This policy will be effective with the Zowe V2 release. It will affect how changes to V2 are introduced. Breaking changes to V2 APIs and behavior can be made in V3 at earliest.
 
 The policy applies to projects that have reached the Generally Available (GA) and Long Term Support (LTS) stages of their lifecycle as defined in [Projects](Technical-Steering-Committee/projects.md). It does not apply to projects in earlier stages: Under Development or Technical Preview.
 
