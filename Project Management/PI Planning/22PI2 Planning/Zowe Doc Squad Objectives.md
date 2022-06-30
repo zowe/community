@@ -11,10 +11,10 @@ Work items:
   - Create a "How digital certificates work" article to help users understand the certificate essentials
   - Gather feedback on installation doc in various channels (such as Slack, GitHub repo) and address any potential issues
 - Components related
-  - Zowe CLI: Recreate install CLI @next if a CLI @next package is available
+  - [Stretch] Zowe CLI: Recreate install CLI @next only if a CLI @next package is available
   - API ML: Document endpoints to be deprecated
   - web UI: Work with webUI squad on adding more error messages
-  - **[Strecth]** Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
+  - **[Stretch]** Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
 
 > Dependency: Zowe CLI squad, web UI squad, API ML squad
 
