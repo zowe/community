@@ -2,7 +2,7 @@
 
 The code within the Zowe is structured into projects. Some projects belong to the Core of the Zowe and projects that are Extensions of Zowe. Every project is owned by one of the squads. A squad may own more than one project. The project consists of one or more components. 
 
-The information about the highest achieved lifecycle stage and the information about versions are [here](../PROJECTS.md).
+The information about the highest achieved lifecycle stage and the information about versions are [here](versions.md).
 
 ## Versioning
 
@@ -181,7 +181,7 @@ the group of developers working on the project gets smaller and smaller. Therefo
 
 Within Zowe we recognize two types of projects. The Core projects and extension projects. This policy focuses on projects Zowe is responsible for. The projects created by other 3rd parties can follow different policies based on the policies of their creators. The core and extensions are supported by the community in the way explained above. 
 
-Each squad is responsible for maintaining the list of the projects under their guidance. The project list also outlines for the project whether it's Core or Extension.  
+Each squad is responsible for maintaining the list of the projects under their guidance. The project list available [here](../PROJECTS.md) also outlines for the project whether it's Core or Extension.  
 
 ### Core
 
