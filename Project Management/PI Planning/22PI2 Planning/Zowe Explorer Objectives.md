@@ -15,6 +15,7 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 - [ ] Quick-key Delete not working in USS tree [ZE#1510](https://github.com/zowe/vscode-extension-for-zowe/issues/1510)
 - [ ] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692)
 - [ ] Handle profile creation/update for ZE extender profiles requiring credentials when the user leaves them blank [ZE#1619](https://github.com/zowe/vscode-extension-for-zowe/issues/1619)
+- [ ] Missing or wrong schema files can prevent ZE or extenders of ProfilesCache from initializing [ZE#1781](https://github.com/zowe/vscode-extension-for-zowe/issues/1781)
 - [ ] [STRETCH] Issues with USS files having "same name", but different case [ZE#1484](https://github.com/zowe/vscode-extension-for-zowe/issues1484)
 - [x] Saving file gets FTP error and deletes file on mainframe side [ZE-FTP#1707](https://github.com/zowe/vscode-extension-for-zowe/issues/1707)
 - [ ] FTP Extension - Numerous FTP tasks started on the host [ZE-FTP#1196](https://github.com/zowe/vscode-extension-for-zowe/issues/1196)
@@ -25,6 +26,7 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 - [ ] [STRETCH] Standardize the dialog boxes and progress bar [ZE#1537](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
 - [ ] [STRETCH] Relative path for Zowe-Temp-Folder-Location [ZE#1053](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
 - [ ] [STRETCH] Issue TSO & MVS Commands Polish Work [ZE#1297](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
+- [ ] [STRETCH] Research possible integration with Zowe ChatBot [ZE#1782](https://github.com/zowe/vscode-extension-for-zowe/issues/1782)
 - [ ] Add more resource types [ZE-CICS#191](https://github.com/zowe/vscode-extension-for-cics/issues/191)
   - Web Service
   - TCP/IP Service

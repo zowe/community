@@ -1,7 +1,7 @@
 # Zowe CLI Squad - 22PI2 Objectives
 
 ## Respond to feedback from the community as V2 LTS is adopted
-As Zowe V2 LTS is adopted, we are actively responding to incoming questions on Slack as users transition. In addition to installation, we are helping the community adopt best practices such as team configuration.
+As Zowe V2 LTS is adopted, we are actively responding to incoming questions on Slack as users transition. In addition to installation, we are helping the community adopt best practices such as team configuration. We will also add some samples leveraging team configuration to https://github.com/zowe/zowe-cli-sample-scripts.
 
 ## Assist extenders meet V2 LTS conformance standards
 As extenders seek V2 LTS conformance, we are actively responding to incoming questions on Slack to ensure our broader suite of plug-ins work very well together.
