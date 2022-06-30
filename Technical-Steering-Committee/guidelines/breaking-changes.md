@@ -12,6 +12,8 @@ The policy applies to projects that have reached the Generally Available (GA) an
 
 The term API in this document means any type of programmatic API including REST APIs, Java APIs, TypeScript APIs, and CLIs.
 
+The user-facing configuration of Zowe components is considered as a part of their public API.
+
 All functionality in the official Zowe documentation is part of the public API.
 
 Any undocumented command, endpoint, object, property, method, argument, behavior, or event is internal API.
@@ -66,6 +68,14 @@ If there is an disagreement about the breaking change, one can make an appeal to
     - Removing a UI component without adding an alternative way how to access the functionality.
     - Altering an icon’s pictogram significantly while retaining the icon name.
 
+5. Configuration-specific breaking changes:
+
+    - The configuration file format used by Zowe's software changes (for example, from JSON to YAML)
+    - A property in the configuration changes to a more restrictive type (for example, from number to boolean)
+    - A property in the configuration changes meaning (for example, the meaning of an integer is changed, or a boolean swaps - meaning)
+    - A property becomes required that was previously optional
+    - A property is removed which prevents a previous behavior (for example, no longer being able to customize ciphers)
+
 **Examples of non-breaking changes:**
 
 1. CLI-specific non-breaking changes:
@@ -88,12 +98,19 @@ If there is an disagreement about the breaking change, one can make an appeal to
 
 4. Web UI-specific non-breaking changes:
 
-    - Adding a new UI components that do not prevent existing components from being used.
-    - Adding a new icon or updates to the icon’s appearance that don’t alter its meaning.
-    Updates to the icon’s appearance that don’t alter its meaning.
-    - Fixing defects that are preventing a UI component from functioning.
-    - Fixing styling defects causing issues with legibility or display.
-    - Updating or expanding documentation.
+    - Adding a new UI components that do not prevent existing components from being used
+    - Adding a new icon or updates to the icon’s appearance that don’t alter its meaning
+    - Updates to the icon’s appearance that don’t alter its meaning
+    - Fixing defects that are preventing a UI component from functioning
+    - Fixing styling defects causing issues with legibility or display
+    - Updating or expanding documentation
+
+5. Configuration-specific non-breaking changes:
+
+    - Adding new file formats without removing existing ones
+    - Adding new properties that do not interfere with existing ones
+    - Correcting documentation about the meaning of a property to reflect how it has been being used
+    - Breaking changes in a new version of schema that are accompanied by functionality that enables using existing configuration files without any intervention (e.g. by automated migration during the update)
 
 ## Extension Compatibility
 
@@ -157,6 +174,8 @@ Each squad decides and documents in [Zowe Docs](https://docs.zowe.org/):
  - What is public and internal API of the projects owned by the squad.
  - What is breaking change together with examples of breaking and non-breaking change.
  - How runtime warnings and errors are handled.
+
+User-facing configuration of Zowe code should be documented by use of a schema, shipped with the code or present in the [Zowe Docs](https://docs.zowe.org/).
 
 This information is to help users and extenders to understand what is can be expected to be changed and how deprecations will be done.
 
