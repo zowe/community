@@ -9,44 +9,92 @@ As extenders seek V2 LTS conformance, we are actively responding to incoming que
 ## Issues
 For a more detailed list of the issues there were deferred, please see [Zowe Explorer #1717](https://github.com/zowe/vscode-extension-for-zowe/issues/1717)
 
-### Bug Fixes
-- [ ] Refresh required after Login operation [ZE#1750](https://github.com/zowe/vscode-extension-for-zowe/issues/1750)
-- [ ] Requests are issued to z/OS when a tree item is being closed [ZE#754](https://github.com/zowe/vscode-extension-for-zowe/issues/754)
-- [ ] Quick-key Delete not working in USS tree [ZE#1510](https://github.com/zowe/vscode-extension-for-zowe/issues/1510)
-- [ ] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692)
-- [ ] Handle profile creation/update for ZE extender profiles requiring credentials when the user leaves them blank [ZE#1619](https://github.com/zowe/vscode-extension-for-zowe/issues/1619)
-- [ ] Missing or wrong schema files can prevent ZE or extenders of ProfilesCache from initializing [ZE#1781](https://github.com/zowe/vscode-extension-for-zowe/issues/1781)
-- [ ] [STRETCH] Issues with USS files having "same name", but different case [ZE#1484](https://github.com/zowe/vscode-extension-for-zowe/issues1484)
-- [x] Saving file gets FTP error and deletes file on mainframe side [ZE-FTP#1707](https://github.com/zowe/vscode-extension-for-zowe/issues/1707)
-- [ ] FTP Extension - Numerous FTP tasks started on the host [ZE-FTP#1196](https://github.com/zowe/vscode-extension-for-zowe/issues/1196)
+<details>
+ <summary>Additional Issues Post V2</summary>
+
+- [x] #1732
+- [x] #1701
+- [x] #1780
+- [x] #1789
+- [x] #1774
+- [x] #1776
+- [x] FTP: #1813
+- [x] #1801
+- [x] #1803
+- [x] #1811
+- [x] #1819
+- [x] #1824
+- [x] #1823
+- [x] #1822
+- [x] #1821
+- [x] #1665
+- [x] #1840
+- [x] #1827
+- [x] #1804
+- [x] #1826
+- [x] #1751
+- [x] #1799
+- [x] #1842
+- [x] #1841
+- [x] #1837
+</details>
+
+### BugFixes
+
+- Zowe Explorer:
+  - [x] #1750
+  - [x] #754
+  - [x] #1510
+  - [x] #1692
+  - [x] #1619 
+  - [x] #1781
+  - [ ] [STRETCH] #1484 
+
+- FTP:
+  - [x] #1707 
+  - [x] #1196
 
 ### Enhancements
-- [ ] Issue UNIX Command Capability [ZE#1326](https://github.com/zowe/vscode-extension-for-zowe/issues/1236)
-- [ ] Ability to Organize Datasets into projects [ZE#1568](https://github.com/zowe/vscode-extension-for-zowe/issues/1568)
-- [ ] [STRETCH] Standardize the dialog boxes and progress bar [ZE#1537](https://github.com/zowe/vscode-extension-for-zowe/issues/1537)
-- [ ] [STRETCH] Relative path for Zowe-Temp-Folder-Location [ZE#1053](https://github.com/zowe/vscode-extension-for-zowe/issues/1053)
-- [ ] [STRETCH] Issue TSO & MVS Commands Polish Work [ZE#1297](https://github.com/zowe/vscode-extension-for-zowe/issues/1297)
-- [ ] [STRETCH] Research possible integration with Zowe ChatBot [ZE#1782](https://github.com/zowe/vscode-extension-for-zowe/issues/1782)
-- [ ] Add more resource types [ZE-CICS#191](https://github.com/zowe/vscode-extension-for-cics/issues/191)
-  - Web Service
-  - TCP/IP Service
-  - URI Maps
-  - Library
-  - Note: May need to enhance CICS CLI capabilities for these additional resources
-- [ ] [STRETCH] Update the OMP Cobol Training Course course to add the VSCode CICS plugin [ZE-CICS#189](https://github.com/zowe/vscode-extension-for-cics/issues/189)
-  - Update the course to add the VSCode CICS plugin
-  - Install CICS in the zCOBOL system
-- [ ] [STRETCH] Categorise attributes into different sections to make it more user-friendly [ZE-CICS#190](https://github.com/zowe/vscode-extension-for-cics/issues/190)
-  - Include 'help' tab that gives more information about attributes.
-- [ ] [DEFERRED] Update global config when a new extender registers with Zowe Explorer [ZE#1642](https://github.com/zowe/vscode-extension-for-zowe/issues/1642)
-  - Dependency: Architecture/Design discussion between Zowe Client Components (CLI, VSCEs, IntelliJ, ...)
+
+- Zowe Explorer:
+  - [ ] #1326
+  - [ ] #1568
+  - [ ] [STRETCH] #1537
+  - [ ] [STRETCH] #1053
+  - [ ] [STRETCH] #1297
+  - [ ] [STRETCH] #1782
+  - [ ] [DEFERRED] #1286 
+  - [ ] [DEFERRED] #1642
+  - [ ] [DEFERRED] #1536
+  - [ ] [DEFERRED] #1538
+  - [ ] [DEFERRED] #246
+
+- CICS:
+  - [ ] https://github.com/zowe/vscode-extension-for-cics/issues/191
+    - _Web Service_
+    - _TCP/IP Service_
+    - _URI Maps_
+    - _Library_
+    - __Note_: May need to enhance CICS CLI capabilities for these additional resources_
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-cics/issues/189
+    - _Update the course to add the VSCode CICS plugin_
+    - _Install CICS in the zCOBOL system_
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-cics/issues/190
+    - _Include 'help' tab that gives more information about attributes._
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-cics/issues/92)
 
 ### Technical Debt
-- [ ] Make Zowe a verified publisher on VS Code Marketplace [ZE#1570](https://github.com/zowe/vscode-extension-for-zowe/issues/1570)
-  - Dependency: Help needed to get DNS
-- [ ] `zowe-explorer-api` distributes src folder [ZE#1482](https://github.com/zowe/vscode-extension-for-zowe/issues/1482)
-- [ ] [STRETCH] Zowe CII Badge items for Zowe Explorer [ZE#1705](https://github.com/zowe/vscode-extension-for-zowe/issues/1705)
-- [ ] Test the CICS extension on Eclipse Che [ZE-CICS#64](https://github.com/zowe/vscode-extension-for-cics/issues/64)
+
+- Zowe Explorer:
+  - [x] #1570 
+    - **Dependency:** Help needed to get DNS
+  - [x] #1482
+  - [ ] [STRETCH] #1705
+
+- CICS: 
+  - [ ] https://github.com/zowe/vscode-extension-for-cics/issues/64
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-cics/issues/4
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/1540
 
 ### Upvoted issues
 Continue to review, prioritize, and implement highly upvoted issues in our repository for [Zowe Explorer, Zowe Explorer for FTP](https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and [Zowe Explorer for CICS](https://github.com/zowe/vscode-extension-for-cics/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
