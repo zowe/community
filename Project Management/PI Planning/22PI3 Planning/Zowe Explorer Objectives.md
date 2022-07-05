@@ -1,63 +1,106 @@
 # Zowe Explorer Squad - 22PI3 Objectives
 
 ## Respond to feedback from the community as V2 LTS is adopted
+
 As Zowe V2 LTS is adopted, we are actively responding to incoming questions on Slack as users transition. In addition to installation, we are helping the community adopt best practices such as team configuration.
 
 ## Assist extenders meet V2 LTS conformance standards
+
 As extenders seek V2 LTS conformance, we are actively responding to incoming questions on Slack to ensure our broader suite of extensions work very well together.
 
 ## Issues
+
 For a more detailed list of the issues there were deferred, please see [Zowe Explorer #1833](https://github.com/zowe/vscode-extension-for-zowe/issues/1833)
 
-
-### BugFixes
-
-- Zowe Explorer:
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1807
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1825
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1858
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1857
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1849
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1846
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1839
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1814 Dependency on Imperative updates
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1802
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1747
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1663
-
-- FTP:
-
-- CICS:
-
-
-### Enhancements
-
-- Zowe Explorer:
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1832
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1852
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1667
-  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1791
-  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1024
-  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1862
-
-- FTP:
-
-- CICS:
-
-
-### Technical Debt
-
-- Zowe Explorer:
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1851
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1850
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1843
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1796
-  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1676
-
-- FTP:
-
-- CICS: 
-
+<td class="d-block comment-body markdown-body  js-comment-body">
+          <h3 dir="auto">BugFixes</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">Zowe Explorer:</p>
+<ul class="contains-task-list">
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1235569267" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1807" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1807" style="box-shadow: transparent 0px 0px;">ZE silent refresh and quick keys doesn't work in Che<span class="issue-shorthand">&nbsp;#1807</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1256985543" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1825" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1825" style="box-shadow: transparent 0px 0px;">ZE API registerCustomProfileType not recognizing EnvVar <span class="issue-shorthand">&nbsp;#1825</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1280789935" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1858" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1858, Check Credentials info update failed for Submit Job">Check Credentials info update failed for Submit Job<span class="issue-shorthand">&nbsp;#1858</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1280786959" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1857" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1857, Refresh Job doesn't update status">Refresh Job doesn't update status<span class="issue-shorthand">&nbsp;#1857</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0" draggable="false">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1276698846" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1849" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1849, Control of member names">Control of member names<span class="issue-shorthand">&nbsp;#1849</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1270975175" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1846" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1846, Fails to load nested global config when project config has secure base profile">Fails to load nested global config when project config has secure base profile<span class="issue-shorthand">&nbsp;#1846</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0" draggable="false">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1264900895" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1839" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1839, ZE(logout): Icon changes to a project profile icon (instead of the home - for global profiles)">ZE(logout): Icon changes to a project profile icon (instead of the home - for global profiles)<span class="issue-shorthand">&nbsp;#1839</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1238760386" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1814" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1814, Unable to delete v1 profiles">Unable to delete v1 profiles<span class="issue-shorthand">&nbsp;#1814</span></a></span> Dependency on Imperative updates</li>
+<li class="task-list-item enabled position-relative border-right-0" draggable="false">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered tooltipped-ne" data-error-text="Failed to load title" data-id="1234353635" data-permission-text="Title is private" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1802" style="box-shadow: transparent 0px 0px;" aria-label="zowe/vscode-extension-for-zowe#1802, Project profiles loaded when no workspace folder is open">Project profiles loaded when no workspace folder is open<span class="issue-shorthand">&nbsp;#1802</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1203293037" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1747" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1747" style="box-shadow: transparent 0px 0px;">[team-profiles] <code>ZOWE_CLI_HOME</code> not considered if there is a workspace/folder opened<span class="issue-shorthand">&nbsp;#1747</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1128568401" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1663" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1663" style="box-shadow: transparent 0px 0px;">[next] Custom secure properties not loaded<span class="issue-shorthand">&nbsp;#1663</span></a></span></li>
+</ul>
+</li>
+<li>
+<p dir="auto">FTP:</p>
+</li>
+<li>
+<p dir="auto">CICS:</p>
+</li>
+</ul>
+<h3 dir="auto">Enhancements</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">Zowe Explorer:</p>
+<ul class="contains-task-list">
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1263301074" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1832" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1832" style="box-shadow: transparent 0px 0px;">Display PROCSTEP in the Jobs tree view<span class="issue-shorthand">&nbsp;#1832</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1278963241" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1852" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1852" style="box-shadow: transparent 0px 0px;">ZE API credential prompt that updates the profilesCache for extender's use<span class="issue-shorthand">&nbsp;#1852</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1131258627" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1667" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1667" style="box-shadow: transparent 0px 0px;">zowe profiles create zosmf-profile allow specification of --console-name <span class="issue-shorthand">&nbsp;#1667</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> Epic: <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1229725091" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1791" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1791" style="box-shadow: transparent 0px 0px;">Enhancements to Extensibility APIs<span class="issue-shorthand">&nbsp;#1791</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> Epic: <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="708046773" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1024" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1024" style="box-shadow: transparent 0px 0px;">Improve logging and potential output view to better support end users<span class="issue-shorthand">&nbsp;#1024</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> Epic: <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1294541928" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1862" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1862" style="box-shadow: transparent 0px 0px;">Supported Environments<span class="issue-shorthand">&nbsp;#1862</span></a></span></li>
+</ul>
+</li>
+<li>
+<p dir="auto">FTP:</p>
+</li>
+<li>
+<p dir="auto">CICS:</p>
+</li>
+</ul>
+<h3 dir="auto">Technical Debt</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">Zowe Explorer:</p>
+<ul class="contains-task-list">
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1278928693" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1851" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1851" style="box-shadow: transparent 0px 0px;">Refactor instances of CliProfileManager to use newer ProfileInfo<span class="issue-shorthand">&nbsp;#1851</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1278554407" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1850" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1850" style="box-shadow: transparent 0px 0px;">ZE: create all <code>.zowe</code> subfolders needed (e.g. <code>~/.zowe/settings</code>)<span class="issue-shorthand">&nbsp;#1850</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1266544442" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1843" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1843" style="box-shadow: transparent 0px 0px;">ZE(imperative-import): Use the imperative instance provided by the CLI package<span class="issue-shorthand">&nbsp;#1843</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1231392174" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1796" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1796" style="box-shadow: transparent 0px 0px;">doc(ze-v1): Document <code>How to stay on Zowe Explorer v1</code><span class="issue-shorthand">&nbsp;#1796</span></a></span></li>
+<li class="task-list-item enabled position-relative border-right-0">
+  <input type="checkbox" id="" class="task-list-item-checkbox"> <span class="reference"><svg class="octicon octicon-issue-opened open mr-1" title="Open" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg><a class="issue-link js-issue-link ghh-issue-x tooltipstered" data-error-text="Failed to load title" data-id="1145740794" data-permission-text="Title is private" data-url="https://github.com/zowe/vscode-extension-for-zowe/issues/1676" data-hovercard-type="issue" href="https://github.com/zowe/vscode-extension-for-zowe/issues/1676" style="box-shadow: transparent 0px 0px;">VSCode zowe extension: job delete closes Jobs list<span class="issue-shorthand">&nbsp;#1676</span></a></span></li>
+</ul>
+</li>
+<li>
+<p dir="auto">FTP:</p>
+</li>
+<li>
+<p dir="auto">CICS:&nbsp;</p>
+</li>
+</ul>
+      </td>
 
 ### Upvoted issues
+
 Continue to review, prioritize, and implement highly upvoted issues in our repository for [Zowe Explorer, Zowe Explorer for FTP](https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and [Zowe Explorer for CICS](https://github.com/zowe/vscode-extension-for-cics/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
