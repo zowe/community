@@ -12,62 +12,62 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 <details>
  <summary>Additional Issues Post V2</summary>
 
-- [x] #1732
-- [x] #1701
-- [x] #1780
-- [x] #1789
-- [x] #1774
-- [x] #1776
-- [x] FTP: #1813
-- [x] #1801
-- [x] #1803
-- [x] #1811
-- [x] #1819
-- [x] #1824
-- [x] #1823
-- [x] #1822
-- [x] #1821
-- [x] #1665
-- [x] #1840
-- [x] #1827
-- [x] #1804
-- [x] #1826
-- [x] #1751
-- [x] #1799
-- [x] #1842
-- [x] #1841
-- [x] #1837
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1732
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1701
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1780
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1789
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1774
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1776
+- [x] FTP: https://github.com/zowe/vscode-extension-for-zowe/issues/1813
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1801
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1803
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1811
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1819
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1824
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1823
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1822
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1821
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1665
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1840
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1827
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1804
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1826
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1751
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1799
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1842
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1841
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1837
 </details>
 
 ### BugFixes
 
 - Zowe Explorer:
-  - [x] #1750
-  - [x] #754
-  - [x] #1510
-  - [x] #1692
-  - [x] #1619 
-  - [x] #1781
-  - [ ] [STRETCH] #1484 
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1750
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/754
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1510
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1692
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1619
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1781
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1484
 
 - FTP:
-  - [x] #1707 
-  - [x] #1196
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1707
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1196
 
 ### Enhancements
 
 - Zowe Explorer:
-  - [ ] #1326
-  - [ ] #1568
-  - [ ] [STRETCH] #1537
-  - [ ] [STRETCH] #1053
-  - [ ] [STRETCH] #1297
-  - [ ] [STRETCH] #1782
-  - [ ] [DEFERRED] #1286 
-  - [ ] [DEFERRED] #1642
-  - [ ] [DEFERRED] #1536
-  - [ ] [DEFERRED] #1538
-  - [ ] [DEFERRED] #246
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1326
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1568
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1537
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1053
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1297
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1782
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/1286
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/1642
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/1536
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/1538
+  - [ ] [DEFERRED] https://github.com/zowe/vscode-extension-for-zowe/issues/246
 
 - CICS:
   - [ ] https://github.com/zowe/vscode-extension-for-cics/issues/191
@@ -86,10 +86,10 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 ### Technical Debt
 
 - Zowe Explorer:
-  - [x] #1570 
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1570
     - **Dependency:** Help needed to get DNS
-  - [x] #1482
-  - [ ] [STRETCH] #1705
+  - [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1482
+  - [ ] [STRETCH] https://github.com/zowe/vscode-extension-for-zowe/issues/1705
 
 - CICS: 
   - [ ] https://github.com/zowe/vscode-extension-for-cics/issues/64

@@ -13,17 +13,17 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 ### BugFixes
 
 - Zowe Explorer:
-  - [ ] #1807
-  - [ ] #1825
-  - [ ] #1858
-  - [ ] #1857
-  - [ ] #1849
-  - [ ] #1846
-  - [ ] #1839
-  - [ ] #1814 Dependency on Imperative updates
-  - [ ] #1802
-  - [ ] #1747
-  - [ ] #1663
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1807
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1825
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1858
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1857
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1849
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1846
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1839
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1814 Dependency on Imperative updates
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1802
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1747
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1663
 
 - FTP:
 
@@ -33,12 +33,12 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 ### Enhancements
 
 - Zowe Explorer:
-  - [ ] #1832
-  - [ ] #1852
-  - [ ] Support for Github Codespaces? #1854
-  - [ ] #1791
-  - [ ] #1788
-  - [ ] #1667
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1832
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1852
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1667
+  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1791
+  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1024
+  - [ ] Epic: https://github.com/zowe/vscode-extension-for-zowe/issues/1862
 
 - FTP:
 
@@ -48,11 +48,11 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 ### Technical Debt
 
 - Zowe Explorer:
-  - [ ] #1851
-  - [ ] #1850
-  - [ ] #1843
-  - [ ] #1796
-  - [ ] #1676
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1851
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1850
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1843
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1796
+  - [ ] https://github.com/zowe/vscode-extension-for-zowe/issues/1676
 
 - FTP:
 
