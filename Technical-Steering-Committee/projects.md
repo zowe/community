@@ -195,8 +195,8 @@ The distribution differs for different parts of Zowe. We guarantee that all core
 
 #### Support
 
-Every core project is a part of the Conformance Support Program. Comprehensive Support Provider provided capable support for the given authenticated binary(s) of the Zowe core component(s) being attested to for the
-version(s) of Zowe defined in this version of the Zowe Support Provider Conformance program it conforms to. Capable Support is defined as having necessary hardware, software, and persons to diagnose issues, code solutions, test solutions, and provide fixes for
+Every core project is a part of the Conformance Support Program. Comprehensive Support Provider provides capable support for the given authenticated binary(s) of the Zowe core component(s) being attested to for the
+version(s) of Zowe defined in the version of the Zowe Support Provider Conformance program it conforms to. Capable Support is defined as having necessary hardware, software, and persons to diagnose issues, code solutions, test solutions, and provide fixes for
 issues in a reasonable timeframe.
 
 #### Marketing
