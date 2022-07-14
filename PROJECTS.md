@@ -38,6 +38,7 @@ This document reflects the current state of the projects with respect to their d
 - Explorers
   - Explorer for IBM CICS 
 - Intellij Explorer
+- ZEBRA
 - ZSS
 
 ## Version 1 (Maintenance)
@@ -78,5 +79,8 @@ This document reflects the current state of the projects with respect to their d
 - Explorers
   - Explorer for IBM CICS 
   - Explorer for FTP
+- Workflow Wizard
+- ZEBRA
+- Zowe on the go
 - ZSS
 
