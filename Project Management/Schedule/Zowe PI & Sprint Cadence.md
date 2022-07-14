@@ -28,13 +28,15 @@ Planning - (2022/07/26 - 2022/08/01)<br>
 - Wednesday, July 27 - Opening (Day 1)<br>
 - Thursday, July 28 - Breakouts (Optional) (Day 2)<br>
 - Friday, July 29 - Final Readouts (Day 3)<br>
+
 Sprint 1 - 2022/08/02 - 2022/08/15 (Innovation Sprint)<br>
 - Open Source (week 1)<br>
-- Tuesday, July 26 - Kickoff Meeting (Repurpose Architecture Call)<br>
-- Tuesday, August 9 - Final presentations (Repurpose Architecture Call)<br>
+-- Tuesday, July 26 - Kickoff Meeting (Repurpose Architecture Call)<br>
+-- Tuesday, August 9 - Final presentations (Repurpose Architecture Call)<br>
 - Internal Innovation (week 2)<br>
-- Monday, August 8 - Kickoff Meeting<br>
-- Friday, August 11 - Final presentations<br>
+-- Monday, August 8 - Kickoff Meeting<br>
+-- Friday, August 11 - Final presentations<br>
+
 Sprint 2 - 2022/08/16 - 2022/08/29<br>
 Sprint 3 - 2022/08/30 - 2022/09/12<br>
 Sprint 4 - 2022/09/13 - 2022/09/26<br>
