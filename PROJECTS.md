@@ -1,46 +1,82 @@
 # State of the Zowe projects
 
+This document reflects the current state of the projects with respect to their dedication. 
 ## Version 2 (Active)
 
+### Core projects
 
+- App Framework (Virtual Desktop)
+  - Editor
+  - IP Information
+  - JES Explorer
+  - MVS Explorer
+  - SSH App
+  - TN3270 App
+- API Mediation Layer
+  - Gateway Service
+  - Discovery Service
+  - API Catalog Service
+  - Caching Service
+  - Files
+  - Datasets
+- CLI
+- Explorer
+- ZSS
+
+### Extensions
+
+- App Framework
+- API Mediation Layer
+  - Metrics Service
+- Chat
+- CLI
+  - CICS plugin
+  - DB2 plugin
+  - IMS plugin
+  - MQ plugin
+  - FTP plugin
+- Explorers
+  - Explorer for IBM CICS 
+- Intellij Explorer
+- ZSS
 
 ## Version 1 (Maintenance)
 
+### Core projects
 
-## Core projects V2
-App Framework (Virtual Desktop)
-Editor
-IP Information
-JES Explorer
-MVS Explorer
+- App Framework (Virtual Desktop)
+  - Editor
+  - IP Information
+  - JES Explorer
+  - MVS Explorer
+  - SSH App
+  - TN3270 App
+- API Mediation Layer
+  - Gateway Service
+  - Discovery Service
+  - API Catalog Service
+  - Caching Service
+  - Files
+  - Datasets
+- CLI
+- Explorer
+- ZSS
 
-API Mediation Layer
-Gateway Service
-Discovery Service
-API Catalog Service
-Caching Service
-CLI
-Explorer
-ZSS
+### Extensions
 
-## Extensions V2
-API Mediation Layer
-Metrics Service
-CLI
-CICS plugin
-DB2 plugin
-IMS plugin
-MQ plugin
-FTP plugin
-Explorer
-Explorer for IBM CICS
-The API ML is without any doubt core project, but it has multiple components and not all of them are core
-Files
-Data sets
-Metrics service
-Caching service??
+- App Framework
+- API Mediation Layer
+  - Metrics Service
+  - IMS Operations API
+- CLI
+  - CICS plugin
+  - DB2 plugin
+  - IMS plugin
+  - MQ plugin
+  - FTP plugin
+  - Secure Credentials Store
+- Explorers
+  - Explorer for IBM CICS 
+  - Explorer for FTP
+- ZSS
 
-But the things aren’t separate projects. But maybe actually they are. 
-
---- Mark --- 
-Virtual Desktop comes with SSH App and TN3270 App - imo these are core?
