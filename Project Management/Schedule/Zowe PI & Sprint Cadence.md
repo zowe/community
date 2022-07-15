@@ -24,13 +24,25 @@ Sprint 6 - 2022/07/12 - 2022/07/25<br>
 
 ### 22PI3 - (2022/07/26 - 2022/10/24)
 
-Planning - 2022/07/26 - 2022/08/01<br>
+Planning - (2022/07/26 - 2022/08/01)<br>
+- Wednesday, July 27 - Opening (Day 1)<br>
+- Thursday, July 28 - Breakouts (Optional) (Day 2)<br>
+- Friday, July 29 - Final Readouts (Day 3)<br>
+
 Sprint 1 - 2022/08/02 - 2022/08/15 (Innovation Sprint)<br>
+- Open Source (week 1)<br>
+-- Tuesday, July 26 - Kickoff Meeting (Repurpose Architecture Call)<br>
+-- Tuesday, August 9 - Final presentations (Repurpose Architecture Call)<br>
+- Internal Innovation (week 2)<br>
+-- Monday, August 8 - Kickoff Meeting<br>
+-- Friday, August 11 - Final presentations<br>
+
 Sprint 2 - 2022/08/16 - 2022/08/29<br>
 Sprint 3 - 2022/08/30 - 2022/09/12<br>
 Sprint 4 - 2022/09/13 - 2022/09/26<br>
 Sprint 5 - 2022/09/27 - 2022/10/10<br>
 Sprint 6 - 2022/10/11 - 2022/10/24<br>
+
 
 ### 22PI4 - (2022/10/25 - 2023/01/23)
 
@@ -46,19 +58,19 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 
 ### V2
 
-#### 2.0 <br/>
-- Code Freeze 2022/04/12<br>
-- RC Build 2022/04/13<br>
-- System Demo 2022/05/02<br>
-- Testing 2022/04/13 - 2022/04/25<br>
-- GA 2022/04/25<br>
+#### 2.4 </br>
+- Code Freeze 2022/10/04<br>
+- RC Build 2022/10/05<br>
+- System Demo 2022/08/01<br>
+- Testing 2022/10/05 - 2022/10/17<br>
+- GA 2022/10/17<br>
 
-#### 2.1 <br/>
-- Code Freeze 2022/05/31<br>
-- RC Build 2022/06/01<br>
-- System Demo 2022/06/20<br>
-- Testing 2022/06/01 - 2022/06/13<br>
-- GA 2022/06/13<br>
+#### 2.3 </br>
+- Code Freeze 2022/08/23<br>
+- RC Build 2022/08/24<br>
+- System Demo 2022/09/12<br>
+- Testing 2022/08/24 - 2022/09/06<br>
+- GA ~~2022/09/05~~ Changed to 2022/09/06<br>
 
 #### 2.2 </br>
 - Code Freeze 2022/07/12<br>
@@ -67,7 +79,28 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - Testing 2022/07/13 - 2022/07/25<br>
 - GA 2022/07/25<br>
 
+#### 2.1 <br/>
+- Code Freeze 2022/05/31<br>
+- RC Build 2022/06/01<br>
+- System Demo 2022/06/20<br>
+- Testing 2022/06/01 - 2022/06/13<br>
+- GA 2022/06/13<br>
+
+#### 2.0 <br/>
+- Code Freeze 2022/04/12<br>
+- RC Build 2022/04/13<br>
+- System Demo 2022/05/02<br>
+- Testing 2022/04/13 - 2022/04/25<br>
+- GA 2022/04/25<br>
+
+
 ### V1
+
+#### 1.28.2 <br/>
+- Code Freeze 2022/11/29<br>
+- RC Build 2022/11/30<br>
+- Testing 2022/11/30 - 2022/12/12<br>
+- GA 2022/12/12<br>
 
 #### 1.28.1 <br/>
 - Code Freeze 2022/08/15<br>
