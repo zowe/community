@@ -6,7 +6,7 @@
 Day 1\
 When: Wednesday, May 4th, 2022 8:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: <br>
-OMP Calendar: <br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589886&calstart=2022-07-27<br>
 Meeting Recordings: [Day 1]()
 <br>
 
@@ -20,7 +20,7 @@ Meeting Recordings: Squads will manage recordings (if needed)
 Day 3\
 When: Friday, May 6th, 2022 9:00am to 11:00am (UTC-05:00) Eastern Time - New York (EST)<br>
 Zoom Meeting: <br>
-OMP Calendar: <br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589887&calstart=2022-07-29<br>
 Meeting Recordings: [Day 3]()
 <br>
 
