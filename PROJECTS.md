@@ -17,10 +17,15 @@ This document reflects the current state of the projects with respect to their d
   - Discovery Service
   - API Catalog Service
   - Caching Service
-  - Files
-  - Datasets
+  - Files {Deprecated}
+  - Datasets {Deprecated}
 - CLI
-- Explorer
+- Zowe VSCode Explorer
+  - Zowe Explorer VS Code Extensions
+  - Extender APIs (NPM package)
+- SDK
+  - Node.js
+- ZIS
 - ZSS
 
 ### Extensions
@@ -28,18 +33,23 @@ This document reflects the current state of the projects with respect to their d
 - App Framework
 - API Mediation Layer
   - Metrics Service
-- Chat
 - CLI
   - CICS plugin
   - DB2 plugin
   - IMS plugin
   - MQ plugin
   - FTP plugin
-- Explorers
+- Zowe VSCode Explorer
+  - Explorer for FTP 
   - Explorer for IBM CICS 
+- SDK
+  - Python
+
+#### Incubators
+
+- Chat
 - Intellij Explorer
 - ZEBRA
-- ZSS
 
 ## Version 1 (Maintenance)
 
@@ -60,12 +70,16 @@ This document reflects the current state of the projects with respect to their d
   - Files
   - Datasets
 - CLI
-- Explorer
+- Zowe VSCode Explorer
+  - Zowe Explorer VS Code Extensions
+  - Extender APIs (NPM package)
+- SDK
+  - Node.js
+- ZIS
 - ZSS
 
 ### Extensions
 
-- App Framework
 - API Mediation Layer
   - Metrics Service
   - IMS Operations API
@@ -76,11 +90,14 @@ This document reflects the current state of the projects with respect to their d
   - MQ plugin
   - FTP plugin
   - Secure Credentials Store
-- Explorers
+- Zowe VSCode Explorer
   - Explorer for IBM CICS 
   - Explorer for FTP
+- SDK
+  - Python
+
+#### Incubators
+
 - Workflow Wizard
 - ZEBRA
 - Zowe on the go
-- ZSS
-
