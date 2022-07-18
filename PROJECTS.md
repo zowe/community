@@ -23,7 +23,7 @@ This document reflects the current state of the projects with respect to their d
 - Zowe VSCode Explorer
   - Zowe Explorer VS Code Extensions
   - Extender APIs (NPM package)
-- SDK
+- Client SDK
   - Node.js
 - ZIS
 - ZSS
@@ -42,8 +42,10 @@ This document reflects the current state of the projects with respect to their d
 - Zowe VSCode Explorer
   - Explorer for FTP 
   - Explorer for IBM CICS 
-- SDK
+- Client SDK
   - Python
+  - Kotlin
+  - SWIFT
 
 #### Incubators
 
@@ -73,7 +75,7 @@ This document reflects the current state of the projects with respect to their d
 - Zowe VSCode Explorer
   - Zowe Explorer VS Code Extensions
   - Extender APIs (NPM package)
-- SDK
+- Client SDK
   - Node.js
 - ZIS
 - ZSS
@@ -93,7 +95,7 @@ This document reflects the current state of the projects with respect to their d
 - Zowe VSCode Explorer
   - Explorer for IBM CICS 
   - Explorer for FTP
-- SDK
+- Client SDK
   - Python
 
 #### Incubators
