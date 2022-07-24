@@ -12,21 +12,6 @@ As extenders seek V2 LTS conformance, we are actively responding to incoming que
 
 See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65) in Zowe CLI.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
 
 * [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
