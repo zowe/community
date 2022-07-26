@@ -43,8 +43,6 @@ The Gateway service needs to provide the protection to the southbound services a
 ## Issues
 
 - [Register API service to multiple different API ML instances #2425](https://github.com/zowe/api-layer/issues/2425)
-- [Support for multiple ports for the onboarded service #2478](https://github.com/zowe/api-layer/issues/2478)
-- [Support passticket generation in the API header to support IMS Operations API v2 Conformance #2305](https://github.com/zowe/api-layer/issues/2305)
 
 ## Bugs
 
