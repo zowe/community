@@ -1,0 +1,60 @@
+# Zowe Web UI - 22PI2 Objectives (2022/04/26 - 2022/07/25)
+
+### Shortcut and folder support for Desktop
+**Priority**: 1
+
+**Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
+
+**Status**: Nearly complete from v1, but needs to be migrated to v2 and then needs code cleanup and bug fixes.
+
+### Document app-server and desktop messges [#732](https://github.com/zowe/zlux/issues/732) [#733](https://github.com/zowe/zlux/issues/733)
+**Priority**: 2
+
+**Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
+
+**Status**: Approximately 100/500 messages have been explained, estimate that if we do 100 per sprint we'll be done in this PI.
+Subtasks:
+* [app-server](https://github.com/zowe/zlux/issues/732)
+* [desktop](https://github.com/zowe/zlux/issues/733)
+
+
+### Golden CII Badge Analysis
+**Priority**: 3
+
+**Description**: [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
+This is a goal shared across all the Zowe active squads. In the context of this PI the goal is to understand what needs to be done in order to achieve the conformance. 
+t
+
+### Web browser app enhancements
+**Priority**: 4
+
+**Description**: Utilize the shortcuts enhancement to save websites as if they were apps, to allow easier onboarding of non-native websites into zowe.
+Some websites need a proxy, such as the APIML or the web browser's builtin proxy. We will work on the backlog of web browser app proxy bugs to broaden compatibility.
+
+
+
+## Ongoing background tasks
+
+
+
+### V2 fixes and user assistance [community](https://github.com/zowe/community/labels/V2) [zlux](https://github.com/zowe/zlux/labels/V2) [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging/labels/v2)
+**Description**: Including ensuring containers are working as intended. Resolve as many v2 bug tickets as possible from 'zlux', 'community', and 'zowe-install-packaging' with bug tag. Engage with known extenders to explain v2 and answer questions, troubleshoot, and gather feedback for improvement now or over time.
+
+
+### Server setup wizard research
+**Description**: Last year, ZAC was shown a UI wizard that helps you to install & configure Zowe server components. v2 simplification and schemas should be used to make such a UI more powerful and lower maintenance.
+
+We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
+
+### z/OS Squad maturity
+**Description**: Web UI squad members will continue to work to get z/OS squad the maturity items they need to succeed, such as helping them get all sorts of github assets like PR templates and contributing guides, to helping enhance existing automation.
+
+
+# How to get involved
+### Other tasks
+The Web UI squad has more ideas than listed here, and can be seen at our [github issue page](github.com/zowe/zlux/issues). Several issues are listed as *Help Wanted*, as well as *Good First Issue*
+
+### Contact us
+Please find us in the #zowe-dev slack if you wish to become involved!
+
+Join us every Friday at 9am EST on Zoom at https://zoom.us/j/99494243697 where we give weekly standup, demos, and discussions.
