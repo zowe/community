@@ -1,4 +1,4 @@
-# Zowe Systems Squad - 22PI2 Objectives (May 2022 to August 2022)
+# Zowe Systems Squad - 22PI3 Objectives (August 2022 to October 2022)
 
 ## Zowe v2.x 
 
@@ -8,6 +8,7 @@
   - [zwe components uninstall](https://github.com/zowe/zowe-install-packaging/issues/2727)
 * Note: "zwe" config enhancements to support typescript implementation
   - Support ZSS Squad
+  - [WTO feature discussion](https://github.com/zowe/community/issues/1521)
 
 ## Infrastructure
 
@@ -23,8 +24,7 @@
 
 ## Containerization
 
-* [Verify deployment on AWS/Azure]
-* [Improve security setup]
+* [Research - Kustomize/Helm](https://github.com/zowe/zowe-install-packaging/compare/users/jack/kustomization)
 
 ## Blocked
 
