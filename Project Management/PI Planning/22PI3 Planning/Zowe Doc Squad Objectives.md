@@ -1,14 +1,14 @@
 # Zowe Doc Squad - 22PI3 Objectives
 
-## New doc
+## Add new documentation
 
-- Zowe Chat documentation on the doc site
-- Deployment guide for security hardening
-- IntelliJ documentation if any
+- Add Zowe Chat documentation on the doc site
+- Add IntelliJ documentation on the doc site
+- Create a deployment guide for security hardening
 
 > Dependency: Zowe Chat squad, IntelliJ squad, Security squad
 
-## Doc improvement
+## Improve content experience
 
 - Add an installation diagram for z/OS components
 - Rewrite the Getting started with using Zowe tutorial
@@ -17,12 +17,14 @@
 
 ## Videos
 
-- Zowe V2 certificates configuration videos
+- Create Zowe V2 certificates configuration videos
+  
+  > Dependency: Joe W
 - Revamp the overview/introduction video
 
-> Dependency: Joe W
 
 ## Content quality and efficiency
 
-- Perform content auditing to identify and fix quality and user experience issues
-- Issue triage and PR review guide, set up automation
+- Perform content auditing to identify and fix quality and user experience issues if any
+- Create Zowe docs-site issue triage and PR review guides, set up automation
+- Continue to address doc site issues
