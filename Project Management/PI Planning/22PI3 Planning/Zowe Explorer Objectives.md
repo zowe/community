@@ -74,6 +74,10 @@ n/a
 
 n/a
 
+### Roll over from last PI
+
+- [ ] [Zowe CII Badge Items for Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1705)
+
 
 ### Upvoted issues
 Continue to review, prioritize, and implement highly upvoted issues in our repository for [Zowe Explorer, Zowe Explorer for FTP](https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and [Zowe Explorer for CICS](https://github.com/zowe/vscode-extension-for-cics/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
