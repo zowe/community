@@ -30,7 +30,7 @@ Squad PI Objectives<br>
 [CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20CLI%20Objectives.md)<br>
 [Systems]()<br>
 [WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Web%20UI%20Squad%20Objectives.md)<br>
-[Onboarding]()<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
 [Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/ZOS%20Squad%20PI%20Notes.md)<br>
 [Chat]()<br>
