@@ -109,6 +109,8 @@ The [z/OS Console Commands Epic](https://github.com/zowe/zowe-chat/15)  covers a
   * Ongoing initiatives for infrastructure pieces like public MS Teams environment. We have workarounds.
 - Documentation Squad
   * Large documentation spike this PI
+- Onboarding Squad
+  * Webinar delivery
 
 ## Risks
 
