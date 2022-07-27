@@ -17,11 +17,8 @@ This section represents cross-cutting or foundational aspects of the technology 
 The [Documentation Spike](https://github.com/zowe/zowe-chat/issues/19) covers the minimum documentation requirements for technical preview readiness. This includes the following:
 
 - [Installation and Configuration Guide](https://github.com/zowe/zowe-chat/issues/70)
-
 - [Administration Guide](https://github.com/zowe/zowe-chat/issues/71)
-
 - [User Documentation](https://github.com/zowe/zowe-chat/issues/17)
-
 - [Stretch: Extender Documentation](https://github.com/zowe/zowe-chat/issues/73)
 
 #### Automation Spike
@@ -48,11 +45,8 @@ The [Technical Preview Research Epic](https://github.com/zowe/zowe-chat/issues/7
 
 - [Research - Command Parsing](https://github.com/zowe/zowe-chat/issues/76)
   * The first technical preview of the Zowe ChatBot will support users entering commands in Zowe CLI based format. We would like to find a way to leverage existing Zowe CLI code to support this while using the Zowe CLI Node.JS SDK to execute the commands. 
-
 - [Research - Supporting a subset of commands](https://github.com/zowe/zowe-chat/issues/77)
-
 - [Research - Inline Help using Zowe CLI Node.JS SDK](https://github.com/zowe/zowe-chat/issues/78)
-
 - [Research - Event-driven notifications](https://github.com/zowe/zowe-chat/issues/79)
   * This research item's output will probably be implemented some time after the first technical preview.
 
@@ -102,8 +96,6 @@ The [z/OS Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z
 
 - [Zowe Quarterly Webinar]()
   * We'd like to sync with the onboarding squad on what content we can provide for the webinar
-
-
 
 
 ## Dependencies
