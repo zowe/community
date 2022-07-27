@@ -157,6 +157,10 @@ Squad Breakout 2
 - API ML Squad
 - Zoom Link: https://zoom.us/j/97194221474<br>
 
+Squad Breakout 5
+- WebUI Squad
+- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+
 </td>
 <td>Squad Breakouts
 <ul>
@@ -193,10 +197,6 @@ Squad Breakout 4
 - Systems Squad (includes CI-CD, HA, Performance
 - Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
-
-Squad Breakout 5
-- WebUI Squad
-- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 </td>
                 <td></td>
     </tbody>

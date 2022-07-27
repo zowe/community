@@ -1,5 +1,4 @@
-# Zowe Onboarding Squad - 22PI3 Objectives (May 2022 to August 2022)
-
+# Zowe Onboarding Squad - 22PI3 Objectives (August 2022 to November 2022)
 ## (1) Goal:  Drive Continuous Community Outreach:  Support Existing practices & programs to improve communication
 - Continue Actively Securing Content & Speakers for CY22 Conferences
 - Quarterly Webinars (Sept)
