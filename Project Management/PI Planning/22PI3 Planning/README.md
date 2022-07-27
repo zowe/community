@@ -90,7 +90,7 @@ Squad vision<br>
 10-15 mins each:
 
 <br>9:05 Squad Readout 1
-- Zowe Explorer Squad
+- Documentation Squad
 
 9:20 Squad Readout 2
 - API ML Squad
@@ -107,8 +107,8 @@ Squad vision<br>
 10:20 Squad Readout 6
 - Onboarding Squad
 
-10:35 Squad Readout 7
-- Documentation Squad
+<br>10:35 Squad Readout 7
+- Zowe Explorer Squad
 
 10:50 Squad Readout 8
 - Incubators - Zebra
