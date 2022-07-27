@@ -292,31 +292,32 @@ Squad Breakout
 Squad Final Readouts
 <br><br>
 9:15 Squad 1
-
-- Zowe Explorer Squad
-
-9:30 Squad 2
-- API ML Squad
-
-9:45 Squad 3
-- Zowe CLI Squad
-
-10:00 Squad 4
-- Systems Squad (includes CI-CD, HA, Performance
-
-10:15 Squad 5
-- WebUI Squad
-
-10:30 Squad 6
-- Onboarding Squad
-
-10:45 Squad 7
 - Documentation Squad
 
-11:00 Squad 8
-- zOS
+9:30 Squad 2
 - Chat
-- Mobile
+
+9:45 Squad 3
+- zOS Squad
+
+10:00 Squad 4
+- Zowe CLI Squad
+
+10:15 Squad 5
+- Systems Squad
+
+10:30 Squad 6
+- WebUI Squad
+
+10:45 Squad 7
+- Onboarding Squad
+
+11:00 Squad 8
+- Zowe Explorer Squad
+
+11:15 Squad 9
+- API ML Squad
+
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
