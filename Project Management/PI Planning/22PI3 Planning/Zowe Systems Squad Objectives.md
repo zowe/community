@@ -1,5 +1,7 @@
 # Zowe Systems Squad - 22PI3 Objectives (August 2022 to October 2022)
 
+The goal for the Systems Squad this quarter is to maintain Zowe operations, support other squads, and respond to issues.
+
 ## Zowe v2.x 
 
 * Review and address incoming issues
@@ -19,8 +21,9 @@
 * [Carrying Over - Expand Install Tests](https://github.com/zowe/zowe-install-packaging/issues/2267)
   - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
 
-* [wash.zowe.org Jenkins decommissioning]()
+* wash.zowe.org Jenkins decommissioning
   - Target date: End of 22PI3 (10.24)
+  - If you think you can't migrate your builds by the end of 22PI3, please let us know.
 
 ## Containerization
 
