@@ -5,8 +5,9 @@
 - Add Zowe Chat documentation on the doc site
 - Add IntelliJ documentation on the doc site
 - Create a deployment guide for security hardening
+- Add documentation for API ML Personal Access Tokens, Identity Federation, Spring Cloud Gateway, API Rate Limiting (Spike)
 
-> Dependency: Zowe Chat squad, IntelliJ squad, Security squad
+> Dependency: Zowe Chat squad, IntelliJ squad, Security squad, APIML squad
 
 ## Improve content experience
 
