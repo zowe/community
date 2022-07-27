@@ -1,6 +1,6 @@
-# Zowe Web UI - 22PI2 Objectives (2022/04/26 - 2022/07/25)
+# Zowe Web UI - 22PI2 Objectives (August 2022 to October 2022)
 
-### Shortcut and folder support for Desktop
+### Shortcut and folder support for Desktop [#821](https://github.com/zowe/zlux/issues/821)
 **Priority**: 1
 
 **Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
@@ -12,13 +12,13 @@
 
 **Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
 
-**Status**: Approximately 100/500 messages have been explained, estimate that if we do 100 per sprint we'll be done in this PI.
+**Status**: [Approximately 100/500 messages](https://github.com/zowe/docs-site/blob/feature/v2/appserver-messageids/docs/troubleshoot/app-framework/appserver-error-codes.md) have been explained, estimate that if we do 100 per sprint we'll be done in this PI.
 Subtasks:
 * [app-server](https://github.com/zowe/zlux/issues/732)
 * [desktop](https://github.com/zowe/zlux/issues/733)
 
 
-### Golden CII Badge Analysis
+### Golden CII Badge Analysis [#840](https://github.com/zowe/zlux/issues/840)
 **Priority**: 3
 
 **Description**: [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
