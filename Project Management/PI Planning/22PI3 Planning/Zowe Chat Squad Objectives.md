@@ -2,11 +2,11 @@
 
 ## PI Goal
 
-Our goal this quarter is to deliver a Zowe ChatBot Technical Preview by the end of 22PI3 with a strong foundation for future expansion of features and capabilities. We want to use the technical preview to gather quality end-user feedback, which we'll use to define and prioritize Zowe ChatBot's future work. We have split this PIs development work into two parts: foundation spikes and capability / feature development.
+Our goal this quarter is to deliver a Zowe ChatBot Technical Preview by the end of 22PI3 with a strong foundation for future expansion of features and capabilities. We want to use the technical preview to gather quality end-user feedback, which we'll use to define and prioritize Zowe ChatBot's future work. We have split this PIs development work into two parts: enablement spikes and capability / feature development.
 
 <br />  
 
-### Foundational Work 
+### Enablement Spikes 
 
 This section represents cross-cutting or foundational aspects of the technology that require a large one-time effort to be implemented, which are expected to shift into definition of done criteria for future work items.
 
@@ -101,8 +101,20 @@ The [z/OS Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z
 - [Present design mockups to users]()
 
 - [Zowe Quarterly Webinar]()
-  * We'd like to sync with the onboarding squad on what content we can provide.
+  * We'd like to sync with the onboarding squad on what content we can provide for the webinar
 
+
+
+
+## Dependencies
+
+- 
+
+## Risks
+
+- Some of the research results may result in a larger than expected stories.
+- High story volume this PI
+  * Impact for both of the above: some lower priority features may not make it into the technical preview.
 
 ## Not in Scope
 
@@ -118,9 +130,3 @@ The [z/OS Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z
 - Hands-on ChatBot Trials
   - Investigate a test/demo environment we can have users register for to try out the bot
   - Idea: links / model from OMP COBOL Learning Course?
-
-## Dependencies
-
-- 
-
-## Risks
