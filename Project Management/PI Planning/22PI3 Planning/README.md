@@ -190,8 +190,7 @@ Squad Breakout 3
 <td>
 
 Squad Breakout 4
-- Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
+
 
 
 Squad Breakout 5
@@ -246,6 +245,23 @@ Squad Breakout 8
             <td>8:00 AM</td>
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
+    </tbody>
+
+
+<tbody>
+            <tr>
+                <td>Public Comment</td>
+                <td>2022-07-27</td>
+                <td>11:00 AM</td>
+<td>
+
+Squad Breakout
+- Zowe Systems Squad<br>
+- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+
+
+</td>
+                <td></td>
     </tbody>
 
 
