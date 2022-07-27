@@ -9,16 +9,47 @@ As extenders seek V2 LTS conformance, we are actively responding to incoming que
 ## Issues
 For a more detailed list of the issues there were deferred, please see [Zowe Explorer #1717](https://github.com/zowe/vscode-extension-for-zowe/issues/1717)
 
+
+<details>
+ <summary>Additional Issues Post V2</summary>
+
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1732
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1701
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1780
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1789
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1774
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1776
+- [x] FTP: https://github.com/zowe/vscode-extension-for-zowe/issues/1813
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1801
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1803
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1811
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1819
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1824
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1823
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1822
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1821
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1665
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1840
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1827
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1804
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1826
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1751
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1799
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1842
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1841
+- [x] https://github.com/zowe/vscode-extension-for-zowe/issues/1837
+</details>
+
 ### Bug Fixes
-- [ ] Refresh required after Login operation [ZE#1750](https://github.com/zowe/vscode-extension-for-zowe/issues/1750)
-- [ ] Requests are issued to z/OS when a tree item is being closed [ZE#754](https://github.com/zowe/vscode-extension-for-zowe/issues/754)
-- [ ] Quick-key Delete not working in USS tree [ZE#1510](https://github.com/zowe/vscode-extension-for-zowe/issues/1510)
-- [ ] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692)
-- [ ] Handle profile creation/update for ZE extender profiles requiring credentials when the user leaves them blank [ZE#1619](https://github.com/zowe/vscode-extension-for-zowe/issues/1619)
-- [ ] Missing or wrong schema files can prevent ZE or extenders of ProfilesCache from initializing [ZE#1781](https://github.com/zowe/vscode-extension-for-zowe/issues/1781)
+- [x] Refresh required after Login operation [ZE#1750](https://github.com/zowe/vscode-extension-for-zowe/issues/1750)
+- [x] Requests are issued to z/OS when a tree item is being closed [ZE#754](https://github.com/zowe/vscode-extension-for-zowe/issues/754)
+- [x] Quick-key Delete not working in USS tree [ZE#1510](https://github.com/zowe/vscode-extension-for-zowe/issues/1510)
+- [x] Log4js disrupts Zowe Explorer's initialization process in Eclipse Che [ZE#1692](https://github.com/zowe/vscode-extension-for-zowe/issues/1692)
+- [x] Handle profile creation/update for ZE extender profiles requiring credentials when the user leaves them blank [ZE#1619](https://github.com/zowe/vscode-extension-for-zowe/issues/1619)
+- [x] Missing or wrong schema files can prevent ZE or extenders of ProfilesCache from initializing [ZE#1781](https://github.com/zowe/vscode-extension-for-zowe/issues/1781)
 - [ ] [STRETCH] Issues with USS files having "same name", but different case [ZE#1484](https://github.com/zowe/vscode-extension-for-zowe/issues1484)
 - [x] Saving file gets FTP error and deletes file on mainframe side [ZE-FTP#1707](https://github.com/zowe/vscode-extension-for-zowe/issues/1707)
-- [ ] FTP Extension - Numerous FTP tasks started on the host [ZE-FTP#1196](https://github.com/zowe/vscode-extension-for-zowe/issues/1196)
+- [x] FTP Extension - Numerous FTP tasks started on the host [ZE-FTP#1196](https://github.com/zowe/vscode-extension-for-zowe/issues/1196)
 
 ### Enhancements
 - [ ] Issue UNIX Command Capability [ZE#1326](https://github.com/zowe/vscode-extension-for-zowe/issues/1236)
@@ -42,9 +73,9 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
   - Dependency: Architecture/Design discussion between Zowe Client Components (CLI, VSCEs, IntelliJ, ...)
 
 ### Technical Debt
-- [ ] Make Zowe a verified publisher on VS Code Marketplace [ZE#1570](https://github.com/zowe/vscode-extension-for-zowe/issues/1570)
+- [x] Make Zowe a verified publisher on VS Code Marketplace [ZE#1570](https://github.com/zowe/vscode-extension-for-zowe/issues/1570)
   - Dependency: Help needed to get DNS
-- [ ] `zowe-explorer-api` distributes src folder [ZE#1482](https://github.com/zowe/vscode-extension-for-zowe/issues/1482)
+- [x] `zowe-explorer-api` distributes src folder [ZE#1482](https://github.com/zowe/vscode-extension-for-zowe/issues/1482)
 - [ ] [STRETCH] Zowe CII Badge items for Zowe Explorer [ZE#1705](https://github.com/zowe/vscode-extension-for-zowe/issues/1705)
 - [ ] Test the CICS extension on Eclipse Che [ZE-CICS#64](https://github.com/zowe/vscode-extension-for-cics/issues/64)
 
