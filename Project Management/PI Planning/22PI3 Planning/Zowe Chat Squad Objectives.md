@@ -43,11 +43,11 @@ The [Installation Research](https://github.com/zowe/zowe-chat/issues/62) spike w
 
 The [Technical Preview Research Epic](https://github.com/zowe/zowe-chat/issues/75) covers all of the the research items we must complete to finish implementation for the technical preview.
 
-- [Research - Command Parsing](https://github.com/zowe/zowe-chat/issues/76)
-  * The first technical preview of the Zowe ChatBot will support users entering commands in Zowe CLI based format. We would like to find a way to leverage existing Zowe CLI code to support this while using the Zowe CLI Node.JS SDK to execute the commands. 
+- [Research - Command Syntax, Parsing, and Logic](https://github.com/zowe/zowe-chat/issues/76)
+  * The first technical preview of the Zowe ChatBot will support users entering commands in Zowe CLI based format. The Zowe CLI SDK does not support command parsing, so we would like to evaluate our options for defining command structure in Zowe ChatBot. In the future, we may support different commands from Zowe CLI.
 - [Research - Supporting a subset of commands](https://github.com/zowe/zowe-chat/issues/77)
-- [Research - Inline Help using Zowe CLI Node.JS SDK](https://github.com/zowe/zowe-chat/issues/78)
-- [Research - Event-driven notifications](https://github.com/zowe/zowe-chat/issues/79)
+- [Stretch: Research - Inline Help using Zowe CLI Node.JS SDK](https://github.com/zowe/zowe-chat/issues/78)
+- [Stretch: Research - Event-driven notifications](https://github.com/zowe/zowe-chat/issues/79)
   * This research item's output will probably be implemented some time after the first technical preview.
 
 #### Security Implementation
@@ -63,9 +63,9 @@ The [Jobs Commands Epic](https://github.com/zowe/zowe-chat/10) covers all the jo
 
 - [View Job Output](https://github.com/zowe/zowe-chat/81)
 - [List Jobs](https://github.com/zowe/zowe-chat/80)
-- [Submit / Re-Submit Jobs](https://github.com/zowe/zowe-chat/22)
-- [Stop Jobs](https://github.com/zowe/zowe-chat/22)
-- [Delete Job Output](https://github.com/zowe/zowe-chat/82)
+- [Stretch: Submit / Re-Submit Jobs](https://github.com/zowe/zowe-chat/22)
+- [Stretch: Stop Jobs](https://github.com/zowe/zowe-chat/22)
+- [Stretch: Delete Job Output](https://github.com/zowe/zowe-chat/82)
 
 
 #### Datasets Commands
@@ -74,25 +74,25 @@ The [Dataset Commands Epic](https://github.com/zowe/zowe-chat/16) covers all the
 
 - [List Datasets](https://github.com/zowe/zowe-chat/83)
 - [List USS Files](https://github.com/zowe/zowe-chat/84)
-- [Create Dataset](https://github.com/zowe/zowe-chat/85)
+- [Stretch: Create Dataset](https://github.com/zowe/zowe-chat/85)
 
 #### Knowledge Base Commands
 
 The [Knowledge Base Commands Epic](https://github.com/zowe/zowe-chat/14) covers all the knowledge base functionality we are planning for the technical preview. This is a new suite of functionality we would like to donate to Zowe CLI directly, not just as a plugin. We plan to bring this up with the team during the PI! This functionality lets users to take an error code they may see as part of a response to a given command, and query the z/OS Knowledge Center (public domain) for information on the error. This can be valuable when using the CLI interactively, and can be a contextual action within Zowe Chat. 
 
-- [Knowldege Base API Implementation](https://github.com/zowe/zowe-chat/86)
-- [Knowledge Base Command Structure / CLI Integration](https://github.com/zowe/zowe-chat/87)
+- [Stretch: Knowldege Base API Implementation](https://github.com/zowe/zowe-chat/86)
+- [Stretch: Knowledge Base Command Structure / CLI Integration](https://github.com/zowe/zowe-chat/87)
 
 #### z/OS Commands
 
-The [z/OS Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z/OS functionality we are planning for the technical preview.
+The [z/OS Console Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z/OS functionality we are planning for the technical preview.
 
-- [Issue Command and Collect Response](https://github.com/zowe/zowe-chat/88)
-
+- [Stretch: Issue Console Command and Collect Response](https://github.com/zowe/zowe-chat/88)
 
 ### User Engagement
 
 - [Present design mockups to users]()
+  * Upcoming SHARE feedback
 
 - [Zowe Quarterly Webinar]()
   * We'd like to sync with the onboarding squad on what content we can provide for the webinar
@@ -100,13 +100,20 @@ The [z/OS Commands Epic](https://github.com/zowe/zowe-chat/15)  covers all the z
 
 ## Dependencies
 
-- 
+- Zowe CLI Squad 
+  * We will have questions related to SDK functionality since we're using this to implement our first set of commands.
+  * Questions about command handling and parsing, seeing if we canuse any existing technology.
+  * Donating z/OS Knowledge Center functionality to the CLI SDK / CLI Core
+- Zowe Systems Squad and Infrastructure
+  * Help define automation
+  * Ongoing initiatives for infrastructure pieces like public MS Teams environment. We have workarounds.
+- Documentation Squad
+  * Large documentation spike this PI
 
 ## Risks
 
-- Some of the research results may result in a larger than expected stories.
-- High story volume this PI
-  * Impact for both of the above: some lower priority features may not make it into the technical preview.
+- Some of the research results may result in a larger than expected stories, and there is high overall story volume this PI
+  * Impact for both of the above: stretch items may not make it into the technical preview.
 
 ## Not in Scope
 
