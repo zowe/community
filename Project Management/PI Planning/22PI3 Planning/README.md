@@ -347,7 +347,7 @@ During this session, all squads present their plans to the group. At the end of 
             <td>2022-07-29</td>
             <td>11:15 AM</td>
             <td></td>
-            <td>Closing Comments</td>
+            <td>Closing Comments </td>
     </tbody>
     <tbody>
         <tr>
@@ -383,3 +383,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 [Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
 [Confidence Vote Results]()<br>
+[Closing Comments](https://docs.google.com/presentation/d/1xdOcD57pIXLQRc7pOypBuBBLsXIWoM9b/edit#slide=id.p1)<br>
