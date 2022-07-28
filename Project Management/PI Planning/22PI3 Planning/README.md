@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, July 27th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: <br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589886&calstart=2022-07-27<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/Qjwx5MwFQGil63rmVGfcjeMIViapMpn5uGJCdy5kqA4_L1DyEf3y0FmGSVRGIT_R.0UCSt4SpAKwmAXN5?startTime=1658922684000)
 <br>
 
 Day 2\
@@ -374,6 +374,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote]()
+[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)
 <br>
 [Confidence Vote Results]()
