@@ -329,7 +329,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Public Comment</td>
             <td>2022-07-29</td>
-            <td>11:00 AM</td>
+            <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -338,24 +338,31 @@ During this session, all squads present their plans to the group. At the end of 
             <td></td>
             <td>2022-07-29</td>
             <td>11:15 AM</td>
-            <td>15 mins</td>
-            <td>Break</td>
+            <td>10 mins</td>
+            <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
             <td>Listen Only</td>
             <td>2022-07-29</td>
-            <td>12:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td>Closing Comments</td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
             <td>2022-07-29</td>
-            <td>5:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Day 2 End</td>
+            <td>Day 3 End</td>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>2022-07-29</td>
+            <td>11:30 AM</td>
+            <td></td>
+            <td></td>
     </tbody>
     </table>
 
@@ -374,6 +381,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)
-<br>
-[Confidence Vote Results]()
+[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
+[Confidence Vote Results]()<br>
