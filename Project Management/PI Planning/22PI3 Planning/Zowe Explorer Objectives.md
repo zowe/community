@@ -71,12 +71,16 @@ For a more detailed list of the issues there were deferred, please see [Zowe Exp
 n/a
 
 - CICS: 
-
-n/a
+  - [ ] Integrate yarn into the CICs extension
+        - Part `To do`'s in the [Include CICS in Zowe Explorer Mono Repo](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540) discussion.
 
 ### Roll over from last PI
 
-- [ ] [Zowe CII Badge Items for Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1705)
+- Zowe Explorer: 
+  - [ ] [Zowe CII Badge Items for Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/1705)
+
+- CICS:
+  - [ ] [Test the CICS ext in Eclipse Che](https://github.com/zowe/vscode-extension-for-cics/issues/64)
 
 
 ### Upvoted issues
