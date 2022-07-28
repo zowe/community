@@ -31,7 +31,6 @@ Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spr
 In this PI we intend to create new service based on SCG and deploy it alongside the existing Gateway. 
 
 API ML Squad Plan:  
-- [Secure communication between SCG and API ML #2036](https://github.com/zowe/api-layer/issues/2036)  
 - [Package, configure and deploye SCG alongside API Gateway. #2037](https://github.com/zowe/api-layer/issues/2037)  
 
 ### API Rate Limiting {SPIKE} 
@@ -39,10 +38,6 @@ API ML Squad Plan:
 * [API Rate Limiting #2371](https://github.com/zowe/api-layer/issues/2371)
 
 The Gateway service needs to provide the protection to the southbound services aimed at drainage of their resources by limiting the amount of requests coming to the specific request. 
-
-## Issues
-
-- [Register API service to multiple different API ML instances #2425](https://github.com/zowe/api-layer/issues/2425)
 
 ## Bugs
 
