@@ -55,3 +55,82 @@ The Gateway service needs to provide the protection to the southbound services a
 ## Zowe / api-layer backlog management
 
 * [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI3)
+
+## Roadmap
+
+### Seamless upgrade to API ML
+
+- What problem are you solving?
+  - The update od Zowe and especially API ML can break the extensions of the API ML and break the configuration
+- What are you doing to solve it? 
+  - Provide customers with alternative path that does the upgrade
+- When do you plan to start the work? 
+  - 22PI4
+- When do you plan to deliver the solution? 
+  - 22PI4
+
+### API Documentation - Search and Try It Out Improvements
+
+- What problem are you solving?
+  - The user has a hard time understanding and finding the rigth API within the enterprise to use. 
+- What are you doing to solve it? 
+  - Improving the search and try it out experience
+- When do you plan to start the work? 
+  - 22PI4
+- When do you plan to deliver the solution? 
+  - 22PI4
+
+### Report API ML State to MF System Programmer
+
+- What problem are you solving?
+  - The System Programmers can't automate the reaction to API ML going down
+- What are you doing to solve it? 
+  - Publish properly the messages about the start and stop of the API ML
+- When do you plan to start the work? 
+  - 22PI4
+- When do you plan to deliver the solution? 
+  - 22PI4
+
+### Enable API ML to validate Conformance
+
+- What problem are you solving?
+  - The users, extenders and Zowe can't verify the claims in the conformance program
+- What are you doing to solve it? 
+  - Provide endpoint to verify for running and onboarded service whether it fulfils conformance criteria
+- When do you plan to start the work? 
+  - 22PI2
+- When do you plan to deliver the solution? 
+  - 22PI4
+
+### Build Spring CLoud Gateway
+
+- What problem are you solving?
+  - The Zuul gateway component is not supported anymore
+- What are you doing to solve it? 
+  - Implement new Gateway based on the supported technologies
+- When do you plan to start the work? 
+  - 22PI2
+- When do you plan to deliver the solution? 
+  - 22PI4
+
+### True Dynamic Discovery
+
+- What problem are you solving?
+  - The current discovery service is just a registry where someone needs to register the services. 
+- What are you doing to solve it? 
+  - Explore the available services and landscape and discover all the services that can be onboarded to the API ML. 
+- When do you plan to start the work? 
+  - 23PI1
+- When do you plan to deliver the solution? 
+  - 23PI1
+
+### Supportability of Zowe
+
+- What problem are you solving?
+  - Getting the information to support properly the Zowe is complicated and unfriendly
+- What are you doing to solve it? 
+  - Update the tools, configuration and documentation to simplify the work. 
+- When do you plan to start the work? 
+  - 23PI1
+- When do you plan to deliver the solution? 
+  - 23PI1
