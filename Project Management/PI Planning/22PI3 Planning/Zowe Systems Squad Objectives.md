@@ -5,11 +5,13 @@ The goal for the Systems Squad this quarter is to maintain Zowe operations, supp
 ## Zowe v2.x 
 
 * Review and address incoming issues
-  - [zwe install -c fails](https://github.com/zowe/zowe-install-packaging/issues/2944)
+  - [verify-fingerprint fails](https://github.com/zowe/community/issues/1606)
   - [add support on relative path](https://github.com/zowe/zowe-install-packaging/issues/2964)
   - [zwe components uninstall](https://github.com/zowe/zowe-install-packaging/issues/2727)
+    * waiting for innovation sprint to continue grooming, this may change based on app store results
+  - [zwe install -c fails](https://github.com/zowe/zowe-install-packaging/issues/2944)
 * Note: "zwe" config enhancements to support typescript implementation
-  - Support ZSS Squad
+  - Support zOS Squad
   - [WTO feature discussion](https://github.com/zowe/community/issues/1521)
 
 ## Infrastructure
@@ -18,8 +20,7 @@ The goal for the Systems Squad this quarter is to maintain Zowe operations, supp
 
 ## CI/CD 
 
-* [Carrying Over - Expand Install Tests](https://github.com/zowe/zowe-install-packaging/issues/2267)
-  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
+* [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
 
 * wash.zowe.org Jenkins decommissioning
   - Target date: End of 22PI3 (10.24)
@@ -27,7 +28,18 @@ The goal for the Systems Squad this quarter is to maintain Zowe operations, supp
 
 ## Containerization
 
-* [Research - Kustomize/Helm](https://github.com/zowe/zowe-install-packaging/compare/users/jack/kustomization)
+* [Deliver Kustomize](https://github.com/zowe/zowe-install-packaging/compare/users/jack/kustomization)
+
+## Innovation / Futures
+
+* [generate zowe.yaml documentation from schema](https://github.com/zowe/zowe-install-packaging/issues/2603)
+  - Innovation effort for this
+
+## On our radar
+
+* [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+* [Java 11 Testing Support](https://github.com/zowe/zowe-install-packaging/issues/2975)
+  - Marist vs OMP Environment?
 
 ## Blocked
 
