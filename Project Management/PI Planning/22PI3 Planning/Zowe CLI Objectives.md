@@ -22,7 +22,7 @@ See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zow
 
 ## Zowe CLI In-Memory Credential Management
 
-Our goal is to  overcome the Zowe CLI installation challenges by offering a viable alternative to the core Zowe credential management feature.
+Our goal is to complete the research and design this PI. Implementation to happen in a future PI.
 
 ## Upvoted Issues
 
@@ -35,3 +35,9 @@ https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-
 [Golden CII Badge](https://github.com/zowe/community/issues/1279)
 
 This is a goal shared across all the Zowe active squads. In the context of this PI, the goal is to understand what needs to be done in order to achieve the conformance. 
+
+## Generate and use personal access tokens through APIML
+
+## Migrate use of Jenkins pipelines to Github Actions
+
+## Reserve consulting time to assist Chat team with CLI SDK
