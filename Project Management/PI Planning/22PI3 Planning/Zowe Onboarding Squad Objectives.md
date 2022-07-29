@@ -13,12 +13,15 @@
 
 ## (3) Goal:  Introduce Zowe Education & Certification / Pilot and evaluate a single course 
 - Advance E&C efforts to a documented progression PLAN
-  - Pilot a CLI Education Course (leverage LF T&E staff for guidance and assistance)
+  - Pilot a CLI Education Course* (leverage LF T&E staff for guidance and assistance)
   - Document learning "outcomes" with clear understanding of "success"
   - Lead the efforts to deliver a Proposed (Roadmap) Curriculum with maintenance model
   - TSC approval of plan 
 
-## Dependencies
-> ZAC:  Collaborate on Quarterly Webinar Roadmap, Zowe Extender Diversity Effort, E&C  
+*Cannot be dependent on the zBOX
+
+## Dependencies  
+> All Squads:  Submit Roadmap Items  
+> ZAC:  Collaborate on Quarterly Webinar, Deliver Roadmap Template, Discuss Zowe Extender Diversity Changes/Improvements, E&C Review  
+> Chat: Colloborate on Quarterly Webinar  
 > ZAC / TSC (all squad approval):  E&C, Improved Conformance Program  
-> Systems: zBox configuration 
