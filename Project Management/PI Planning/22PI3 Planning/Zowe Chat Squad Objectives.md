@@ -27,8 +27,8 @@ The [Automation / Pipelines Spike](https://github.com/zowe/zowe-chat/issues/12) 
 
 - [Project build and testing with npm scripts, gulp](https://github.com/zowe/zowe-chat/issues/42)
 - [Build and Test Pipeline](https://github.com/zowe/zowe-chat/issues/43)
-- [Deployment Pipline](https://github.com/zowe/zowe-chat/issues/74)
-- [Quality Gates](https://github.com/zowe/zowe-chat/issues/41)
+- [Stretch: Deployment Pipline](https://github.com/zowe/zowe-chat/issues/74)
+- [Stretch: Quality Gates](https://github.com/zowe/zowe-chat/issues/41)
 
 #### Install Experience - Spike
 
@@ -116,18 +116,3 @@ The [z/OS Console Commands Epic](https://github.com/zowe/zowe-chat/15)  covers a
 
 - Some of the research results may result in a larger than expected stories, and there is high overall story volume this PI
   * Impact for both of the above: stretch items may not make it into the technical preview.
-
-## Not in Scope
-
-- Internationalization and Localization
-- [API Reference Documentation](https://github.com/zowe/zowe-chat/issues/72)
-
-### Extender engagement
-
-- Sample extender module
-
-### User Engagement
-
-- Hands-on ChatBot Trials
-  - Investigate a test/demo environment we can have users register for to try out the bot
-  - Idea: links / model from OMP COBOL Learning Course?
