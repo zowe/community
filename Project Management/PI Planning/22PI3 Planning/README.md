@@ -29,11 +29,11 @@ Squad PI Objectives<br>
 [Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Explorer%20Objectives.md)<br>
 [API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20API%20ML%20Squad%20Objectives.md)<br>
 [CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20CLI%20Objectives.md)<br>
-[Systems]()<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
 [WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Web%20UI%20Squad%20Objectives.md)<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/ZOS%20Squad%20PI%20Notes.md)<br>
-[Chat]()<br>
+[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Chat%20Squad%20Objectives.md)<br>
 
 
 
