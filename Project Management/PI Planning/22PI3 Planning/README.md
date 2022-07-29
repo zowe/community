@@ -21,7 +21,7 @@ Day 3\
 When: Friday, July 29th, 2022 9:00am to 12:00pm (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: <br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589887&calstart=2022-07-29<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/m2wvPdC2oBSFPUvxeqteVUQBQpbGfZmFpxlL4bzAuKoNTunF8BnQ9zvbjEedS-Iv.wwbfhSewqd4FprhY?startTime=1659099396000)
 <br>
 
 Squad PI Objectives<br>
