@@ -21,11 +21,11 @@ Subtasks:
 ### Golden CII Badge Analysis [#840](https://github.com/zowe/zlux/issues/840)
 **Priority**: 3
 
-**Description**: [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
+**Description**: [Get Golden CII Badge](https://github.com/zowe/community/issues/1279) [#840](https://github.com/zowe/zlux/issues/840)
 This is a goal shared across all the Zowe active squads. In the context of this PI the goal is to understand what needs to be done in order to achieve the conformance. 
 t
 
-### Web browser app enhancements
+### Web browser app enhancements [#880](https://github.com/zowe/zlux/issues/880)
 **Priority**: 4
 
 **Description**: Utilize the shortcuts enhancement to save websites as if they were apps, to allow easier onboarding of non-native websites into zowe.
@@ -33,12 +33,12 @@ Some websites need a proxy, such as the APIML or the web browser's builtin proxy
 
 ## Stretch Items
 
-### Editor: Download option for datasets
+### Editor: Download option for datasets [#534](https://github.com/zowe/zlux/issues/534)
 **Priority**: 5
 
 Description: Add a Right-click -> download option for datasets. This can utilize ZSS apis where available, but in the absence of ZSS abilities, it should be ok to use the explorer service apis when they are found to exist in the environment.
 
-### DB Browser app release
+### DB Browser app release [#870](https://github.com/zowe/zlux/issues/870)
 **Priority**: 6
 
 **Description**: There are currently 2 repositories covering a "db browser" app https://github.com/zowe/?q=db-browser&type=all&language=&sort=
