@@ -31,6 +31,18 @@ t
 **Description**: Utilize the shortcuts enhancement to save websites as if they were apps, to allow easier onboarding of non-native websites into zowe.
 Some websites need a proxy, such as the APIML or the web browser's builtin proxy. We will work on the backlog of web browser app proxy bugs to broaden compatibility.
 
+## Stretch Items
+
+### Editor: Download option for datasets
+**Priority**: 5
+
+Description: Add a Right-click -> download option for datasets. This can utilize ZSS apis where available, but in the absence of ZSS abilities, it should be ok to use the explorer service apis when they are found to exist in the environment.
+
+### DB Browser app release
+**Priority**: 6
+
+**Description**: There are currently 2 repositories covering a "db browser" app https://github.com/zowe/?q=db-browser&type=all&language=&sort=
+They are structured so that you can have plugins for different DB endpoints, like db2, mysql, postgres, whatever is different enough that it needs a distinct plugin to handle its communication. But it hasnt been updated to work in v2, and lacks UX polish and features. By making it work in v2 and adding features that are end-user valuable, we believe this is something we should get in front of users soon.
 
 
 ## Ongoing background tasks
