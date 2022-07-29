@@ -29,7 +29,7 @@ Community interest in adding syslog support to our servers has been discussed he
 
 ## "Single-user Zowe" completion
 
-A demo-ed capablity that allows a zero-config ZSS server run should be completed shortly.  
+A demo-ed capablity that allows a zero-config ZSS server run should be completed shortly.  The Zowe ZSS can run in a mode that is only uses the security context of a single SAF userid and only serves queries though an SSH tunnel.  This eliminates all complex configuration.  
 
 ## Education
 
