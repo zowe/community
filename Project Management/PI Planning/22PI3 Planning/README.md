@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, July 27th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: <br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589886&calstart=2022-07-27<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/Qjwx5MwFQGil63rmVGfcjeMIViapMpn5uGJCdy5kqA4_L1DyEf3y0FmGSVRGIT_R.0UCSt4SpAKwmAXN5?startTime=1658922684000)
 <br>
 
 Day 2\
@@ -155,7 +155,7 @@ Squad Breakout 1
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: https://zoom.us/j/93232199035<br>
+- Zoom Link: https://zoom.us/j/98404818292<br>
 
 Squad Breakout 5
 - WebUI Squad
@@ -329,7 +329,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Public Comment</td>
             <td>2022-07-29</td>
-            <td>11:00 AM</td>
+            <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -338,24 +338,31 @@ During this session, all squads present their plans to the group. At the end of 
             <td></td>
             <td>2022-07-29</td>
             <td>11:15 AM</td>
-            <td>15 mins</td>
-            <td>Break</td>
+            <td>10 mins</td>
+            <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
             <td>Listen Only</td>
             <td>2022-07-29</td>
-            <td>12:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td>Closing Comments </td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
             <td>2022-07-29</td>
-            <td>5:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Day 2 End</td>
+            <td>Day 3 End</td>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>2022-07-29</td>
+            <td>11:30 AM</td>
+            <td></td>
+            <td></td>
     </tbody>
     </table>
 
@@ -374,6 +381,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote]()
-<br>
-[Confidence Vote Results]()
+[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
+[Confidence Vote Results]()<br>
+[Closing Comments](https://docs.google.com/presentation/d/1xdOcD57pIXLQRc7pOypBuBBLsXIWoM9b/edit#slide=id.p1)<br>
