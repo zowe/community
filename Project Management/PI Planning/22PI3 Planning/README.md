@@ -383,4 +383,4 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 [Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
 [Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/22PI3_ConfidenceVote.png)<br>
-[Closing Comments](https://docs.google.com/presentation/d/1xdOcD57pIXLQRc7pOypBuBBLsXIWoM9b/edit#slide=id.p1)<br>
+[Closing Comments](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%2022PI3%20Planning%20End.pptx.pdf)<br>
