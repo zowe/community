@@ -1,15 +1,16 @@
 # Vnext guidelines
 
-The preparation for Vnext starts two PIs (half a year) before the actual GA date. 
+The preparation for Vnext starts two PIs (half a year) before the actual GA date. The GA date
+is expected to be aligned with an end of a PI. 
 
 ## Key Milestones
 
 Let's assume we will have release on the end of 24PI1. This would mean that the preparation for the major 
 release will start with 23PI4 and continue through 24PI1.  
 
-- Day 0 represents the GA date for the release
 - PI - 1 (Approximately 180 days before the release, In an example this means 23PI4)
 - Release PI (Approximately 90 days before release, In an example this means 24PI1)
+- Day 0 represents the GA date for the release
 
 ### The key events
 
@@ -20,38 +21,56 @@ release will start with 23PI4 and continue through 24PI1.
 
 ## PI - 1
 
-What are the key parts of the work?
+What needs to be ready by the end of the planning?
 
-- Staging docs-site is available for customization and preparation for the next release. 
-- Prepare new Vnext page for the coming release
-- Publish dates for Extenders office hours.
-- During this PI hold the Extenders office hours
+- Staging docs-site is available for customization and preparation for the next release
+- New Vnext page for the coming release is ready
+- Dates for Extenders office hours are published
+- The Community board contains Epic for Vnext and all the squads have their Epics linked to this one
+
+What changes within our processes?
+
 - TSC calls starts to involve 15 minutes for update on Vnext after the general update
 - The architecture call starts with 30 minutes time slot for the Vnext
-- The Community board contains Epic for Vnext and all the squads have their Epics linked to this one
-- The planned breaking changes will be public and known to everyone.
+- The Extenders office hours are happening
+
+What needs to happen by the end of the PI?
+
+- The planned breaking changes are public and known to everyone
+- Technical Preview build and the infrastructure for RC is in place. 
+- First version of documentation for installation and breaking changes is available
 
 ## Release PI
 
-- Technical Preview build and the infrastructure for RC is in place. 
-- We should have first version of documentation for installation and breaking changes
+What needs to be ready by the end of the planning?
+
 - Publish dates for Customers office hours. 
+
+What changes within out processes?
+
 - During this PI hold the Customer office hours
 
-## Day - 10
+What needs to happen by the end of the PI?
 
-- Final version ready. 
+- Final version is ready for GA
+- The blog for OMP is ready for publishing
+- The blog for Medium is ready for publishing
+- Prepare text to share on LinkedIn and Twitter
 
 ## Day 0
 
-- The major PR for the release starts
-- The blog for the OMP is published
-- The medium blog is published
-- The social communication is prepared 
-- Press release from OMP
-- The people for interviews around the Vnext release are selected
-- TechStrong TV - Advance time to prepare
-- All the squads keep capacity for the changes based on the feedback for the Vnext
+What changes within our processes
+
+- Remove the release dedicated sections from TSC and Architecture call
+- During PI planning the squads keep capacity to adapt to requests for change by the users
 - The regular channels in Slack are watched by people from the squads and the feedback is addressed within 1 business day. 
-- Conferences
-- Take advantage of the fact that there is a major release
+
+What needs to happen by the end of the PI?
+
+- Release the latest Release Candidate as the Generally Available version
+- Publish the Medium blog
+- Publish the OMP blog
+- Share the news on LinkedIn and Twitter
+- Publish the press release by Open Mainframe Project
+- Publish the interview with the Zowe team on TechStrong TV
+- Propose sessions for the major release on important conferences
