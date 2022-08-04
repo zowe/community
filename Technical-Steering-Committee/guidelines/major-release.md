@@ -17,7 +17,7 @@ release will start with 23PI4 and continue through 24PI1.
 - The zowe.org/vNext contains basic information for the new major release (Start of PI - 1)
   - Includes the dates for the Office Hours for Extenders
 - Documentation for next major version is available on staging (During the PI - 1)
-- Technical preview build is available to the general public (Start of Release PI)
+- Technical preview build is available to the general public (Start of Release PI, could be earlier)
 
 ## PI - 1
 
@@ -27,6 +27,8 @@ What needs to be ready by the end of the planning?
 - New Vnext page for the coming release is ready
 - Dates for Extenders office hours are published
 - The Community board contains Epic for Vnext and all the squads have their Epics linked to this one
+- The Core projects for the Vnext are agreed upon by TSC
+- The folder with the files for conformance for each of the Projects is available
 
 What changes within our processes?
 
@@ -37,8 +39,9 @@ What changes within our processes?
 What needs to happen by the end of the PI?
 
 - The planned breaking changes are public and known to everyone
-- Technical Preview build and the infrastructure for RC is in place. 
+- Technical Preview build and the infrastructure for RC is in place (Could be earlier). 
 - First version of documentation for installation and breaking changes is available
+- The conformance criteria is ready to review and the last round of updates
 
 ## Release PI
 
@@ -52,10 +55,14 @@ What changes within out processes?
 
 What needs to happen by the end of the PI?
 
-- Final version is ready for GA
+- Conformance Criteria is published by the end of the Sprint 3
+- Security workgroup examines RC weekly and as the GA is approaching, it can have additional meetings to speedup the process. 
+- Final RC is ready for GA at least 10 days before the GA date
+- The TSC votes on the RC to become GA at lease 5 days before the GA date after the final RC is ready
 - The blog for OMP is ready for publishing
 - The blog for Medium is ready for publishing
-- Prepare text to share on LinkedIn and Twitter
+- Text is ready for sharing on LinkedIn and Twitter
+- Additional Marketing preparations are done
 
 ## Day 0
 
