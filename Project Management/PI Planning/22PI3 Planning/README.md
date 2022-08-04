@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, July 27th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: <br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589886&calstart=2022-07-27<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/Qjwx5MwFQGil63rmVGfcjeMIViapMpn5uGJCdy5kqA4_L1DyEf3y0FmGSVRGIT_R.0UCSt4SpAKwmAXN5?startTime=1658922684000)
 <br>
 
 Day 2\
@@ -21,19 +21,19 @@ Day 3\
 When: Friday, July 29th, 2022 9:00am to 12:00pm (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: <br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589887&calstart=2022-07-29<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/m2wvPdC2oBSFPUvxeqteVUQBQpbGfZmFpxlL4bzAuKoNTunF8BnQ9zvbjEedS-Iv.wwbfhSewqd4FprhY?startTime=1659099396000)
 <br>
 
 Squad PI Objectives<br>
-[Explorer]()<br>
-[API-ML and Security]()<br>
-[CLI]()<br>
-[Systems]()<br>
-[WebUI]()<br>
-[Onboarding]()<br>
-[Documentation]()<br>
-[zOS]()
-[Chat]()
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Explorer%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20API%20ML%20Squad%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20CLI%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Web%20UI%20Squad%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
+[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/ZOS%20Squad%20PI%20Notes.md)<br>
+[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Chat%20Squad%20Objectives.md)<br>
 
 
 
@@ -90,7 +90,7 @@ Squad vision<br>
 10-15 mins each:
 
 <br>9:05 Squad Readout 1
-- Zowe Explorer Squad
+- Documentation Squad
 
 9:20 Squad Readout 2
 - API ML Squad
@@ -107,8 +107,8 @@ Squad vision<br>
 10:20 Squad Readout 6
 - Onboarding Squad
 
-10:35 Squad Readout 7
-- Documentation Squad
+<br>10:35 Squad Readout 7
+- Zowe Explorer Squad
 
 10:50 Squad Readout 8
 - Incubators - Zebra
@@ -155,7 +155,11 @@ Squad Breakout 1
 
 Squad Breakout 2
 - API ML Squad
-- Zoom Link: https://zoom.us/j/97194221474<br>
+- Zoom Link: https://zoom.us/j/98404818292<br>
+
+Squad Breakout 5
+- WebUI Squad
+- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 
 </td>
 <td>Squad Breakouts
@@ -190,13 +194,8 @@ Squad Breakout 3
 <td>
 
 Squad Breakout 4
-- Systems Squad (includes CI-CD, HA, Performance
-- Zoom/Webex Link:  https://zoom.us/my/zowe.cicd<br>
 
 
-Squad Breakout 5
-- WebUI Squad
-- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 </td>
                 <td></td>
     </tbody>
@@ -249,6 +248,23 @@ Squad Breakout 8
     </tbody>
 
 
+<tbody>
+            <tr>
+                <td>Public Comment</td>
+                <td>2022-07-27</td>
+                <td>11:00 AM</td>
+<td>
+
+Squad Breakout
+- Zowe Systems Squad<br>
+- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+
+
+</td>
+                <td></td>
+    </tbody>
+
+
 
 </tbody>
     <tbody>
@@ -275,32 +291,34 @@ Squad Breakout 8
 <td>
 Squad Final Readouts
 <br><br>
+
 9:15 Squad 1
-
-- Zowe Explorer Squad
-
-9:30 Squad 2
-- API ML Squad
-
-9:45 Squad 3
-- Zowe CLI Squad
-
-10:00 Squad 4
-- Systems Squad (includes CI-CD, HA, Performance
-
-10:15 Squad 5
-- WebUI Squad
-
-10:30 Squad 6
-- Onboarding Squad
-
-10:45 Squad 7
 - Documentation Squad
 
-11:00 Squad 8
-- zOS
+9:30 Squad 2
 - Chat
-- Mobile
+
+9:45 Squad 3
+- zOS Squad
+
+10:00 Squad 4
+- Zowe CLI Squad
+
+10:15 Squad 5
+- Systems Squad
+
+10:30 Squad 6
+- WebUI Squad
+
+10:45 Squad 7
+- Onboarding Squad
+
+11:00 Squad 8
+- Zowe Explorer Squad
+
+11:15 Squad 9
+- API ML Squad
+
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
@@ -311,7 +329,7 @@ During this session, all squads present their plans to the group. At the end of 
         <tr>
             <td>Public Comment</td>
             <td>2022-07-29</td>
-            <td>11:00 AM</td>
+            <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
     </tbody>
@@ -320,24 +338,31 @@ During this session, all squads present their plans to the group. At the end of 
             <td></td>
             <td>2022-07-29</td>
             <td>11:15 AM</td>
-            <td>15 mins</td>
-            <td>Break</td>
+            <td>10 mins</td>
+            <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
     </tbody>
     <tbody>
         <tr>
             <td>Listen Only</td>
             <td>2022-07-29</td>
-            <td>12:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
+            <td>Closing Comments </td>
     </tbody>
     <tbody>
         <tr>
             <td></td>
             <td>2022-07-29</td>
-            <td>5:00 PM</td>
+            <td>11:15 AM</td>
             <td></td>
-            <td>Day 2 End</td>
+            <td>Day 3 End</td>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>2022-07-29</td>
+            <td>11:30 AM</td>
+            <td></td>
+            <td></td>
     </tbody>
     </table>
 
@@ -356,6 +381,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote]()
-<br>
-[Confidence Vote Results]()
+[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/22PI3_ConfidenceVote.png)<br>
+[Closing Comments](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%2022PI3%20Planning%20End.pptx.pdf)<br>
