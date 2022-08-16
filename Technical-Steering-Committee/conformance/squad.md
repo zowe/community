@@ -1,18 +1,18 @@
 # Squads
 
-This table contains the conformance criteria that a squad needs to fullfill before being accepted as the active squad. 
-It is mainly intended for the use by the squad. The TSC may decide to accept even the squad that doesn't fullfil
-all the criteria. 
+This table contains the conformance criteria that a squad needs to fulfill before being accepted as an active squad. 
+It is mainly intended for use by the squad. The TSC may decide to accept a squad even if it does not fulfill
+all of the criteria. 
 
 | Criteria                                                                                             | Followed |
 |------------------------------------------------------------------------------------------------------|----------|
-| The information about the squad is available on zowe.org page                                        |          |
-| OMP Slack contains squad related channel                                                             |          |
-| Appointed TSC representative is joining regularly TSC calls                                          |          |
-| Appointed person is joining the security workgroup                                                   |          |
-| Appointed person participates in the release workgroup if it applies                                 |          |
-| Appointed person is joining the architecture workgroup                                               |          |
-| The squad is using the Common Zenhub board to track the state of the issues related to it's projects |          |
+| The information about the squad is available on the zowe.org page                                        |          |
+| OMP Slack contains a squad related channel                                                             |          |
+| An appointed TSC representative is regularly joining TSC calls                                          |          |
+| An appointed person is joining the security workgroup                                                   |          |
+| An Appointed person participates in the release workgroup if it applies                                 |          |
+| An appointed person is joining the architecture workgroup                                               |          |
+| The squad is using the Common Zenhub board to track the state of  issues related to its projects    |          |
 | The squad has at least one weekly call to discuss issues                                             |          |
 | The squad has committers from at least two different companies                                       |          |
 | The squad has at least three committers                                                              |          |
