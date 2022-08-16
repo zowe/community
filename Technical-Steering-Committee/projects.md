@@ -2,7 +2,7 @@
 
 The code within the Zowe is structured into projects. Some projects belong to the Core of the Zowe and projects that are Extensions of Zowe. Every project is owned by one of the squads. A squad may own more than one project. A project consists of one or more components. 
 
-See the [versions](versions.md) documentation for information about the highest achieved lifecycle stage, as well as information about versions.
+See the [PROJECTS](../PROJECTS.md) documentation for information about the highest achieved lifecycle stage, as well as information about versions.
 
 ## Versioning
 
