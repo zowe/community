@@ -1,6 +1,8 @@
 # Squads
 
-This table contains the conformance criteria that a squad needs to fullfill before being accepted as the active squad.
+This table contains the conformance criteria that a squad needs to fullfill before being accepted as the active squad. 
+It is mainly intended for the use by the squad. The TSC may decide to accept even the squad that doesn't fullfil
+all the criteria. 
 
 | Criteria                                                                                             | Followed |
 |------------------------------------------------------------------------------------------------------|----------|
