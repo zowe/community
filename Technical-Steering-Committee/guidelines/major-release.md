@@ -8,6 +8,7 @@ is expected to be aligned with an end of a PI.
 Let's assume we will have release on the end of 24PI1. This would mean that the preparation for the major 
 release will start with 23PI4 and continue through 24PI1.  
 
+- PI - 2 (Approximately 270 days before the release, In an example this means 23PI3)
 - PI - 1 (Approximately 180 days before the release, In an example this means 23PI4)
 - Release PI (Approximately 90 days before release, In an example this means 24PI1)
 - Day 0 represents the GA date for the release
@@ -18,6 +19,10 @@ release will start with 23PI4 and continue through 24PI1.
   - Includes the dates for the Office Hours for Extenders
 - Documentation for next major version is available on staging (During the PI - 1)
 - Technical preview build is available to the general public (Start of Release PI, could be earlier)
+
+## PI - 2
+
+- Create in a Community repository new page for the squads to share upcoming and planned changes for vNext
 
 ## PI - 1
 
