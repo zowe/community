@@ -38,6 +38,9 @@ The current situation with respect to the major Zowe versions
 | Client SDK - Node.js                       | Long Term Support (LTS) | CLI                 |
 | ZIS                                        | Long Term Support (LTS) | zOS                 |  
 | ZSS                                        | Long Term Support (LTS) | zOS                 |  
+| Install and Packaging - PAX                | Long Term Support (LTS) | Systems             |
+| Install and Packaging - SMP/E              | Long Term Support (LTS) | Systems             |
+| Install and Packaging - Workflow           | Long Term Support (LTS) | Systems             |
 
 ### Extensions
 
@@ -54,6 +57,8 @@ The current situation with respect to the major Zowe versions
 | Client SDK - Python                          | Under Development       | CLI                 |
 | Client SDK - Kotlin                          | Under Development       | CLI                 |
 | Client SDK - SWIFT                           | Under Development       | CLI                 |
+| Install and Packaging - PSWI                 | Long Term Support (LTS) | Systems             |
+| Install and Packaging - Containerization     | Long Term Support (LTS) | Systems             |
 
 
 #### Incubators
@@ -89,6 +94,8 @@ The current situation with respect to the major Zowe versions
 | Client SDK - Node.js                       | Long Term Support (LTS) | CLI                 |
 | ZIS                                        | Long Term Support (LTS) | zOS                 |  
 | ZSS                                        | Long Term Support (LTS) | zOS                 |
+| Install and Packaging - PAX                | Long Term Support (LTS) | Systems             |
+| Install and Packaging - SMP/E              | Long Term Support (LTS) | Systems             |
 
 ### Extensions
 
@@ -105,6 +112,10 @@ The current situation with respect to the major Zowe versions
 | Zowe VSCode Explorer - Explorer for FTP      | Long Term Support (LTS)  | Explorers           |
 | Zowe VSCode Explorer - Explorer for IBM CICS | Long Term Support (LTS)  | Explorers           |
 | Client SDK - Python                          | Under Development        | CLI                 |
+| Install and Packaging - Containerization (Kubernetes)    | Generally Available (GA) | Systems             |
+| Install and Packaging - Containerization (Server-Bundle) | Technical Preview        | Systems             |
+| Install and Packaging - Workflow                         | Generally Available (GA) | Systems             |
+| Install and Packaging - PSWI                             | Technical Preview        | Systems             |
 
 
 #### Incubators
