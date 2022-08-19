@@ -47,3 +47,18 @@ The goal for the Systems Squad this quarter is to maintain Zowe operations, supp
   - [Complete validating Marist Sysplex setup (stretch)](https://github.com/zowe/zowe-install-packaging/issues/2594)
 
 * [Open Mainframe - new mainframe environment]()
+
+
+
+
+## Roadmap Items
+
+### Expand Build and Test Infrastructure
+- What problem are you solving? 
+  * Configure additional MF infrastructure to support demos, labs, and test requirements.
+- What are you doing to solve it?
+  * Working with OMP to define and validate systems.
+- When do you plan to start the work? 
+  * CY23Q1
+- When do you plan to deliver the solution? 
+  * CY23Q3
