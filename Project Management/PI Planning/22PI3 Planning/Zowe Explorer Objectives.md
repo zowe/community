@@ -85,3 +85,41 @@ n/a
 
 ### Upvoted issues
 Continue to review, prioritize, and implement highly upvoted issues in our repository for [Zowe Explorer, Zowe Explorer for FTP](https://github.com/zowe/vscode-extension-for-zowe/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and [Zowe Explorer for CICS](https://github.com/zowe/vscode-extension-for-cics/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+
+
+# Roadmap
+
+## [Multi-selection support for all applicable functionalities](https://github.com/zowe/vscode-extension-for-zowe/issues/1286)
+
+Users would like more tree view actions in Zowe Explorer to have multi-select functionality.
+-	This work has already begun, but is a large amount of work to do across all 3 tree views within Zowe Explorer.
+- Plan to fully complete epic items by end of 4th quarter of 2022.
+
+## [Zowe Explorer Supported Environments](https://github.com/zowe/vscode-extension-for-zowe/issues/1862)
+
+Users are submitting issues about Zowe Explorer not working in different environments.
+1. First we plan to create a maintained list of supported environments.  
+- This work has already begun with our discussion, https://github.com/zowe/vscode-extension-for-zowe/discussions/1691.
+- We plan to deliver this work in the 3rd quarter PI of 2022.
+2. Secondly, we plan to consider other environments requested by users, this will require research and depending on the research we will decide if support is feasible.  
+- Research will being in the 3rd quarter PI of 2022.
+- Decisions made to continue the work will happen in the 1st quarter PI of 2023.
+
+## [Updating GUI to use other types of notifications vs all pop ups](https://github.com/zowe/vscode-extension-for-zowe/issues/1517)
+
+Users would like to see less pop up notifications from Zowe Explorer to lessen the distractions that they cause in VS Code.
+-	We plan to start this work in the 3rd quarter PI of 2022.
+-	Plan to fully complete epic items by end of 1st quarter of 2023.
+
+## [Improve logging and potential output view to better support end users](https://github.com/zowe/vscode-extension-for-zowe/issues/1024)
+
+Users would like better Loggins from Zowe Explorer to help troubleshoot issues.
+- We plan to start this work in the 3rd quarter PI of 2022 with additional logging added to log files and look into adding the logs to a newly created Zowe Explorer Output view as well so users don’t have to leave the VS Code space to see logging.
+- Plan to fully complete epic items by end of 1st quarter of 2023.
+
+## [Enhancements to Extensibility APIs](https://github.com/zowe/vscode-extension-for-zowe/issues/1791)
+
+Extenders would like more robust Extensibility APIs to adopt for their VS Code Zowe Explorer extensions.
+We have a long list of requested extensibility APIs for extenders. 
+- Plan to start the work in the 3rd quarter PI of 2022.
+- Plan to fully complete epic items by end of 2nd quarter of 2023.
