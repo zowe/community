@@ -66,11 +66,11 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - GA 2022/10/17<br>
 
 #### 2.3 </br>
-- Code Freeze 2022/08/23<br>
-- RC Build 2022/08/24<br>
-- System Demo 2022/09/12<br>
-- Testing 2022/08/24 - 2022/09/06<br>
-- GA ~~2022/09/05~~ Changed to 2022/09/06<br>
+- Code Freeze 2022/08/31
+- RC Build 2022/09/01
+- System Demo 2022/09/19
+- Testing 2022/09/01 - 2022/09/12
+- GA 2022/09/12
 
 #### 2.2 </br>
 - Code Freeze 2022/07/12<br>

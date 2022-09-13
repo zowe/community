@@ -66,12 +66,12 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
 ### Include OMP Branding
 
- - At the first mention of Zowe use the branding phrase `Open Mainframe Project's Zowe`  with hyperlinks to https://www.openmainframeproject.org/ and https://www.openmainframeproject.org/projects/zowe.  An example of this is the sentence below as it should appear in the blog.
- - "This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/projects/zowe) command line interface."
+ - At the first mention of Zowe use the branding phrase `Open Mainframe Project's Zowe`  with hyperlinks to https://www.openmainframeproject.org/ and https://www.openmainframeproject.org/all-projects/zowe.  An example of this is the sentence below as it should appear in the blog.
+ - "This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/all-projects/zowe) command line interface."
    ```
    Raw markdown for the OMP branding example:
    
-   This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/projects/zowe) command line interface.  
+   This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/all-projects/zowe) command line interface.  
    ```
 
 **Please do not publish your own post.**
