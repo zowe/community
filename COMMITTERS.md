@@ -21,31 +21,28 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 
 ### Zowe CLI Squad
 
-- Mike Bauer (Lead) - @MikeBauerCA (Michael.Bauer2@broadcom.com)
-- Jessica Tonda (Scrum Master) - @JTonda (jessica.tonda@broadcom.com)
-- Fernando Rijo Cedeno - @zFernando0 (fernando.rijocedeno@broadcom.com)
-- Eugene Johnston - @gejohnston (eugene.johnston@broadcom.com)
-- Timothy Johnson - @t1m0thyj (timothy.johnson@broadcom.com)
-- Andrew Harn - @awharn (andrew.harn@broadcom.com)
-- Dan Kelosky - @dkelosky (daniel.kelosky@broadcom.com)
-- Andrew Twydell - @AndrewTwydell (andrew.twydell@ibm.com)
-- Guilherme Cartier - @gcartier94 (gcartier@br.ibm.com)
-- John LaPlante - @jelaplan (john.laplante@broadcom.com)
-- Brandon Jenkins - @BrandonJenkins14 (brandon.jenkins@broadcom.com)
-- Jason Tucker - @tucker01 (jason.tucker@broadcom.com)
-- Chris Boehm - @ChrisBoehmCA (christopher.boehm@broadcom.com)
-- Kristina Mayo - @kristinochka (ktopchi@us.ibm.com)
-- Katelyn Nienaber - @katelynienaber (katelyn.nienaber@broadcom.com)
-- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
-- Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Naman Patel - @namanpatel1112 (Naman.Patel@ibm.com)
-- James Bauman - @JamesBauman (james.bauman@broadcom.com)
+| Name | GitHub ID | Email | Roles |
+|-|-|-|-|
+| Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
+| Andrew Harn | @awharn |andrew.harn@broadcom.com | Developer |
+| Eugene Johnston | @gejohnston | eugene.johnston@broadcom.com | Architect, Developer |
+| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Lead, TSC Rep, Developer |
+| James Bauman | @JamesBauman | james.bauman@broadcom.com | Tech Writer |
+| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
+| Kevin Loesch | @KevinLoesch1 | kevin.loesch@broadcom.com | Architect, Developer |
+| Mike Bauer | @MikeBauerCA | Michael.Bauer2@broadcom.com | Consultant |
+| Naman Patel | @namanpatel1112 | Naman.Patel@ibm.com | Developer |
+| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
+
+See the full lists below:
+- https://github.com/orgs/zowe/teams/zowe-cli-administrators
+- https://github.com/orgs/zowe/teams/zowe-cli-committers
+- https://github.com/orgs/zowe/teams/zowe-cli-contributors
 
 ### Zowe Web UI Squad
 Committers are tracked via github teams, for permission management
 Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
 Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
-
 
 - Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
 - JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
@@ -56,26 +53,25 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-Committers are tracked via [github teams](https://github.com/orgs/zowe/teams/zowe-explorer-committers/members),
-for permission management.
+| Name | GitHub ID | Email | Roles |
+|-|-|-|-|
+| Billie Jean Simmons | @JillieBeanSim | BillieJean.Simmons@ibm.com | Lead, TSC Rep, Developer |
+| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Co-Lead, Developer |
+| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
+| Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
+| Anokhi Kastia | @anokhikastiaIBM | anokhi.kastia@ibm.com | Developer |
+| James Bauman | @JamesBauman | james.bauman@broadcom.com | Tech Writer |
+| Kutlu Ozel | @KutluOzel-b | kutlu.ozel@broadcom.com | Developer |
+| Lauren Li | @lauren-li | lauren.li@ibm.com | Developer |
+| Na Tian (Tina) | @tiantn | tiantn@cn.ibm.com | Developer |
+| Peter Haumer | @phaumer | phaumer@us.ibm.com | Developer |
+| Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer |
+| Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer |
 
-- Fernando Rijo Cedeno - (Lead) @zFernand0 (fernando.rijocedeno@broadcom.com)
-- Billie Jean Simmons - (Lead) @JillieBeanSim (BillieJean.Simmons@ibm.com)
-- Jessica Tonda (Scrum Master) @JTonda (jessica.tonda@broadcom.com)
-- Richelle Anne Craw - @crawr (richelleanne.craw@broadcom.com)
-- Lauren Li - @lauren-li (lauren.li@ibm.com)
-- Peter Haumer - @phaumer (phaumer@us.ibm.com)
-- Igor Kazmyr - @IgorCATech (igor.kazmyr@broadcom.com)
-- Vit Gottwald - @VitGottwald (vit.gottwald@broadcom.com)
-- Nikolay Imbirev - @nickImbirev (nikolay.imbirev@broadcom.com)
-- Deepali Chavan - @deepali-hub (deepali.chavan@broadcom.com)
-- Na Tian (Tina) - @tiantn (tiantn@cn.ibm.com)
-- Qi Liang - @std4lqi (liangqi@cn.ibm.com)
-- Rudy Flores - @rudyflores (rudyflores@ibm.com)
-- Anokhi Kastia - @anokhikastiaIBM (anokhi.kastia@ibm.com)
-- Roman Kupriyanov - @roman-kupriyanov (roman.kupriyanov@broadcom.com)
-- Kostadin Uzunov - @uzuko01 (kostadin.uzunov@broadcom.com)
-- James Bauman - @JamesBauman (james.bauman@broadcom.com)
+See the full lists below:
+- https://github.com/orgs/zowe/teams/zowe-explorer-administrators
+- https://github.com/orgs/zowe/teams/zowe-explorer-committers
+- https://github.com/orgs/zowe/teams/zowe-explorer-contributors
 
 ### Zowe CICS Explorer Squad
 
