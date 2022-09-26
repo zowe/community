@@ -19,16 +19,16 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 ## Squads<br>
 - [ZAC]()<br>
 - [Technical Steering Committee]()<br>
-- [Documentation Squad]()<br>
-- [Systems Squad (includes CI-CD, HA, Performance)]()<br>
-- [Zowe Explorer Squad]()<br>
-- [WebUI Squad]()<br>
-- [API ML Squad]()<br>
-- [Onboarding Squad]()<br>
-- [CLI Squad]()<br>
+- [Documentation Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [Systems Squad (includes CI-CD, HA, Performance)](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [Zowe Explorer Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [WebUI Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [API ML Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [Onboarding Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [CLI Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2022PI4%20Objectives.md)<br>
 
 ## Incubators<br>
 - [Zebra]()<br>
 - [IntelliJ]()<br>
-- [zOS]()<br>
-- [Zowe Chat]()<br>
+- [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2022PI4%20Objectives.md)<br>
+- [Zowe Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2022PI4%20Objectives.md)<br>
