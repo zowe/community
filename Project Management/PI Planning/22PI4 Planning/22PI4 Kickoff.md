@@ -17,8 +17,8 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - Squad surveys (optional)
 
 ## Squads<br>
-- [ZAC]()<br>
-- [Technical Steering Committee]()<br>
+- [Zowe Advisory Council (ZAC)]()<br>
+- [Technical Steering Committee (TSC)]()<br>
 - [Documentation Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2022PI4%20Objectives.md)<br>
 - [Systems Squad (includes CI-CD, HA, Performance)](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2022PI4%20Objectives.md)<br>
 - [Zowe Explorer Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2022PI4%20Objectives.md)<br>
