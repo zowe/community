@@ -34,6 +34,11 @@ The goal is shared across the whole Zowe and it represents requirements from the
 
 API ML Squad Plan:
 
+- [Increase coverage of branches to 80% #2488](https://github.com/zowe/api-layer/issues/2488)  
+- [Increase coverage of statements to 90% #2487](https://github.com/zowe/api-layer/issues/2487)  
+- [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)  
+- [Increasing number of WARN logs #2429](https://github.com/zowe/api-layer/issues/2429)  
+
 ## Zowe / api-layer backlog management
 
 * [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI1)
