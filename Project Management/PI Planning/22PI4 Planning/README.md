@@ -4,43 +4,43 @@
             <th colspan="5"><H1>22PI4 PI Planning</H1><br>
 
 Day 1\
-When: Wednesday, July 27th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
-Zoom Meeting: <br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589886&calstart=2022-07-27<br>
-Meeting Recordings: [Day 1](https://zoom.us/rec/share/Qjwx5MwFQGil63rmVGfcjeMIViapMpn5uGJCdy5kqA4_L1DyEf3y0FmGSVRGIT_R.0UCSt4SpAKwmAXN5?startTime=1658922684000)
+When: Tuesday, October 25th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
+Zoom Meeting: https://zoom.us/j/97943899447<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1666897&calstart=2022-10-25<br>
+Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
-When: Thursday, July 28th, 2022 8:00am to 12:00pm (UTC-04:00) Eastern Time - New York<br>
+When: Wednesday, October 26th, 2022<br>
 Zoom Meeting: None. Squads will book breakouts (as needed)<br>
 OMP Calendar: None<br>
 Meeting Recordings: Squads will manage recordings (if needed)
 <br>
 
 Day 3\
-When: Friday, July 29th, 2022 9:00am to 12:00pm (UTC-04:00) Eastern Time - New York<br>
-Zoom Meeting: <br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1589887&calstart=2022-07-29<br>
-Meeting Recordings: [Day 3](https://zoom.us/rec/share/m2wvPdC2oBSFPUvxeqteVUQBQpbGfZmFpxlL4bzAuKoNTunF8BnQ9zvbjEedS-Iv.wwbfhSewqd4FprhY?startTime=1659099396000)
+When: Thursday, October 27th, 2022 9:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
+Zoom Meeting: https://zoom.us/j/99014996765<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1666898&calstart=2022-10-27<br>
+Meeting Recordings: [Day 3]()
 <br>
 
 Innovation Sprint Meeting Recordings
 
-[Day 1](https://zoom.us/rec/share/nr3vNgC7CNu1REO8v3aDiVia6QjJTiM9FRDpGQmLBxhK7TSkSyouZChFj1_KB9yv.9WXsaqPT3orSNwC0?startTime=1658843869000)<br>
-[Day 2](https://zoom.us/rec/share/Ptfb0I_S94mwukQu5eLScu4H3HjzVaLsuQyh8ciOD68rp0FTVaVaPLAVgLyph90V.JXcVtto_8UvmoE8o?startTime=1660053548000)<br>
-
+[Day 1]()<br>
+[Day 2]()<br>
+[Day 3]()<br>
 
 
 Squad PI Objectives<br>
-[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Doc%20Squad%20Objectives.md)<br>
-[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Explorer%20Objectives.md)<br>
-[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20API%20ML%20Squad%20Objectives.md)<br>
-[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20CLI%20Objectives.md)<br>
-[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Systems%20Squad%20Objectives.md)<br>
-[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Web%20UI%20Squad%20Objectives.md)<br>
-[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Onboarding%20Squad%20Objectives.md)<br>
-[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/ZOS%20Squad%20PI%20Notes.md)<br>
-[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%20Chat%20Squad%20Objectives.md)<br>
+[Documentation]()<br>
+[Explorer]()<br>
+[API-ML and Security]()<br>
+[CLI]()<br>
+[Systems]()<br>
+[WebUI]()<br>
+[Onboarding]()<br>
+[zOS]()<br>
+[Chat]()<br>
 
 
 
@@ -66,7 +66,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -74,7 +74,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
@@ -82,7 +82,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td></td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -90,7 +90,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -130,7 +130,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -138,7 +138,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -152,7 +152,7 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-07-27</td>
+                <td>2022-10-25</td>
                 <td>11:05 AM</td>
 <td>
 
@@ -175,7 +175,7 @@ Squad Breakout 2
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-07-27</td>
+                <td>2022-10-25</td>
                 <td>12:00 PM</td>
 <td>
 
@@ -192,7 +192,7 @@ Squad Breakout 3
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-07-27</td>
+                <td>2022-10-25</td>
                 <td>1:00 PM</td>
 <td>
 
@@ -209,7 +209,7 @@ Squad Breakout 5
     <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-07-27</td>
+                <td>2022-10-25</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -223,7 +223,7 @@ Squad Breakout 8
     <tbody>
         <tr>
             <td></td>
-            <td>2022-07-27</td>
+            <td>2022-10-25</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -258,7 +258,7 @@ Squad Breakout 8
 <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-07-27</td>
+                <td>2022-10-25</td>
                 <td>11:00 AM</td>
 <td>
 
@@ -285,7 +285,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -293,7 +293,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>9:15 AM</td>
 <td>
 Squad Final Readouts
@@ -335,7 +335,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -343,7 +343,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>11:15 AM</td>
             <td>10 mins</td>
             <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -351,7 +351,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Closing Comments </td>
@@ -359,14 +359,14 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Day 3 End</td>
     <tbody>
         <tr>
             <td></td>
-            <td>2022-07-29</td>
+            <td>2022-10-27</td>
             <td>11:30 AM</td>
             <td></td>
             <td></td>
