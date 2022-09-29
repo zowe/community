@@ -1,7 +1,7 @@
 # Issues
 
 All the squads within the Zowe projects use GitHub to track the issues raised against the projects
-they are responsible for. The issues cold be questions, bug reports, request for enhancements and others.
+they are responsible for. The issues could be questions, bug reports, request for enhancements and others.
 Every squad responds to the new issues within the 90 days of the creation of the issue. 
 
 The squads can specify the details of the issue processing for specific project within the project
@@ -38,5 +38,5 @@ epic within Zenhub is shown on the figure 2.
 ![Epic view](issues-epic.png "Figure 2: Epic view")
 
 The isues that are older than 180 days will be triaged at least once every PI unless they are associated with 
-existing Epic. The issues are either kept, linked to an epic or closed if they aren't considered relevant by the squad 
+existing Epic, Milestone or other means squad uses to organize the issues into larger projects. The issues are either kept, linked to an epic, milestone or closed if they aren't considered relevant by the squad 
 anymore. 
