@@ -18,9 +18,22 @@
   
 * [Infrastructure Support for ChatOps](https://github.com/zowe/zowe-chat/issues/1)
 
+* [Zowe CLI Smoke Tests on Marist]()
+
 ## CI/CD 
 
 * [Expand Install Tests](https://github.com/zowe/zowe-install-packaging/issues/2267)
-  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
-  - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2270)
+  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2251)
+  - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2271)
+* [Github Actions Currency]()
+  - [Miscellaneous Github Actions Library Updates - v1 vs v2, better change detection]()
+  - [Zowe Install Packaging Tools Migrations](https://github.com/zowe/zowe-install-packaging-tools/issues/31)
 * [Backport SBOM to 1.28.x](https://github.com/zowe/zowe-dependency-scan-pipeline/issues/104)
+
+## CII Badge Analysis
+
+* [CII Badge Investigation]()
+
+## Risks
+
+* We need Sysplex expertise to implement Sysplex on Marist
