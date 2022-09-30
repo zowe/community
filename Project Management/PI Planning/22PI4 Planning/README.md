@@ -248,7 +248,7 @@ Squad Breakout 8
     <tbody>
         <tr>
             <td>Breakouts (Optional)</td>
-            <td>2022-07-28</td>
+            <td>2022-10-26</td>
             <td>8:00 AM</td>
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
@@ -258,7 +258,7 @@ Squad Breakout 8
 <tbody>
             <tr>
                 <td>Public Comment</td>
-                <td>2022-10-25</td>
+                <td>2022-10-26</td>
                 <td>11:00 AM</td>
 <td>
 
