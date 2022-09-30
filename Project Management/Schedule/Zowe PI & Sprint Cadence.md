@@ -47,6 +47,11 @@ Sprint 6 - 2022/10/11 - 2022/10/24<br>
 ### 22PI4 - (2022/10/25 - 2023/01/23)
 
 Planning - 2022/10/25 - 2022/10/31<br>
+
+- Tuesday, October 25 - Opening (Day 1)<br>
+- Wednesday, October 26 - Breakouts (Optional) (Day 2)<br>
+- Friday, October 27 - Final Readouts (Day 3)<br>
+
 Sprint 1 - 2022/11/01 - 2022/11/14 (Innovation Sprint)<br>
 Sprint 2 - 2022/11/15 - 2022/11/28<br>
 Sprint 3 - 2022/11/29 - 2022/12/12<br>
