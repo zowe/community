@@ -1,4 +1,4 @@
-# Zowe Chat Squad - 22PI2 Objectives
+# Zowe Chat Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## Onboard initial code contribution
 Initial common bot framework contribution is scanned and moved into https://github.com/zowe/zowe-chat

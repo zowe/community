@@ -1,4 +1,4 @@
-# Zowe ZOS Squad 22PI2 Planning
+# Zowe ZOS Squad 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## Security 
 
