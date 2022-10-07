@@ -1,4 +1,4 @@
-# Zowe Doc Squad - 22PI2 Objectives (2022/04/26 - 2022/07/25)
+# Zowe Doc Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## V2 documentation enhancements
 

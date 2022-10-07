@@ -1,4 +1,4 @@
-# Zowe Web UI - 22PI2 Objectives (2022/04/26 - 2022/07/25)
+# Zowe Web UI - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## In-squad tasks
 

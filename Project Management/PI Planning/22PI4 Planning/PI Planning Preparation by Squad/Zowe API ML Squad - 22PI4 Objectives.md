@@ -1,4 +1,4 @@
-# Zowe API ML Squad - 22PI2 Objectives (May 2022 to Aust 2022)
+# Zowe API ML Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## API Documentation - Snippets, Automation and Improvements #2208
 
