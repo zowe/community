@@ -8,6 +8,10 @@ As a Mainframe user, I want to log in just once to a corporate-wide IAM solution
 
 As a Mainframe user, I want to be able to access all the Mainframe services protected by SAF and to which I'm entitled, in the same way as the non-mainframe services protected by the central IAM, using only my network (aka distributed) identity. Additionally, I want API ML to validate that the client application I'm using to access the mainframe resources is authorized for such access.
 
+- [Package and publish BPXSMF as java API #2583](https://github.com/zowe/api-layer/issues/2583)
+- [Use SMF Java API in Gateway to write a record #2584](https://github.com/zowe/api-layer/issues/2584)
+- [SMF records cleanup #2585](https://github.com/zowe/api-layer/issues/2585)
+
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 * [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
