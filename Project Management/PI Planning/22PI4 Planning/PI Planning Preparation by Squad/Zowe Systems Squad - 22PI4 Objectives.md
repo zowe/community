@@ -1,6 +1,6 @@
 # Zowe Systems Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-Themes - maintaining release operations, with tactical improvements
+Themes - maintaining release operations with tactical improvements
 
 ## Support Infrastructure and Releases
 - Maintain mainframe systems
@@ -10,3 +10,8 @@ Themes - maintaining release operations, with tactical improvements
 - PR Labels allow triggering longer-running builds
 - Improve internal documentation for making changes which impact datasets or dataset members
   * i.e. Updating SMP/e, PSWI, Hold Data, and so on
+
+## On our radar
+
+* [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+* [Java 11 Testing Support](https://github.com/zowe/zowe-install-packaging/issues/2975)
