@@ -1,55 +1,34 @@
 # Zowe Doc Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-## V2 documentation enhancements
+## Documentation enhancements
 
-Goal: Improve the V2 documentation to onboard users more efficiently
+Goal: Improve the documentation to onboard users more efficiently
 
 Work items: 
 
-- Installation related
-  - Create a pre-installation checklist and a clickable roadmap diagram about z/OS component installation
-  - Create a "How digital certificates work" article to help users understand the certificate essentials
-  - Gather feedback on installation doc in various channels (such as Slack, GitHub repo) and address any potential issues
+- Review and refactor the documentation to clarify usuage content versus extend content
+  - Oragnize the content correctly per category. For example, move the current "Installing server component" topic from Extend to Use
+  - Clarify confusing concepts like "component". For example, "Installing Zowe z/OS core components" and "Installing extended z/OS components" 
 - Components related
+  - [Stretch] Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
   - [Stretch] Zowe CLI: Recreate install CLI @next only if a CLI @next package is available
-  - API ML: Document endpoints to be deprecated
-  - web UI: Work with webUI squad on adding more error messages
-  - **[Stretch]** Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
 
 > Dependency: Zowe CLI squad, web UI squad, API ML squad
 
-## [Zowe glossary #2182](https://github.com/zowe/docs-site/issues/2182) 
+## User testing
 
-Goal: Document and unify Zowe terminology to educate users and ensure consistensy across documentation
+Perform user testing of the Zowe server component installation documentation to ensure that the documentation provide accurate and complete information and is easy to use from user's perspective. 
 
-Work items: 
+## V2 documentation issues
 
-- Create a glossary of Zowe specific terms and publish it on the doc site 
-- Split the terms into proper sections (such as Main Components, Architecture, Installation & Configuration, and so on)
-
-Status: A draft already in progress
-
-> Dependency: Component squads (review and contribute terms)
+Goal: Continue to address high-impact V2 documentation GitHub issues. 
 
 ## Videos
 
 Goal: Educate users through more engaging content format - videos. 
 
 Work items: 
+- Record the new Zowe introduction video on zowe.org. New design was proposed in 22PI3. In this PI, create the video and refresh the website. 
 
-- Continue to convert office hours recordings into videos and publish on the doc site
-- **[Strecth]** Revamp the Zowe introduction video on zowe.org to showcase latest Zowe capabilities and higjlight Zowe value propositions. In this PI, propose a new design/storyline of the video.
-
-> Dependency: Onboarding squad (provide office hour recordings and review new videos)
-
-## High-impact GitHub issues
-
-Goal: Continue to address high-impact GitHub issues, such as: 
-
-- [Zowe Must Remain Vendor-Neutral #1963](https://github.com/zowe/docs-site/issues/1963)
-
-  > Dependency: ZAC (Need a thorough review by ZAC)
-
-- Prioritize V2 documentation issues
-- Prioritize V1 installation-related [issues](https://github.com/zowe/docs-site/issues?q=is%3Aopen+is%3Aissue+label%3A%22area%3A+zos-install-upgrade%22)
+> Dependency: Onboarding squad (review new videos)
 
