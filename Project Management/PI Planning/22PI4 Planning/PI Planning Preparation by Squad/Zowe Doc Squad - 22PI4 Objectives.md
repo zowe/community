@@ -1,55 +1,40 @@
 # Zowe Doc Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-## V2 documentation enhancements
+## Add and improve the documentation
 
-Goal: Improve the V2 documentation to onboard users more efficiently
+Goal: Onboard users efficiently with complete and easy to use content
 
 Work items: 
 
-- Installation related
-  - Create a pre-installation checklist and a clickable roadmap diagram about z/OS component installation
-  - Create a "How digital certificates work" article to help users understand the certificate essentials
-  - Gather feedback on installation doc in various channels (such as Slack, GitHub repo) and address any potential issues
+- Review and refactor the documentation to clarify usuage content and extend content
+  - Check and organize the content per category. For example, move the current "Installing server component" topic from Extend to Use.
+  - Clarify confusing concept "Zowe component". For example, "Installing Zowe z/OS core components" and "Installing extended z/OS components"
+  - Refactor the server-side components installation doc. For example, move "Installing Zowe containers" to "Installing Zowe z/OS components", add introduction topic about the different installation methods to clarify confusion.
 - Components related
+  - [Stretch] Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
+  - Zowe Chat: Define chat response messages and complete the documentation covering Get started, Setup, Use, Extend, Troubleshoot, and Reference doc.   
   - [Stretch] Zowe CLI: Recreate install CLI @next only if a CLI @next package is available
-  - API ML: Document endpoints to be deprecated
-  - web UI: Work with webUI squad on adding more error messages
-  - **[Stretch]** Zowe CLI: Complete part 2 of the installation checklist for V2 - an article named "Day One Checklist". This list will include a list of tasks that users can/should complete after Zowe CLI is installed and deployed. 
 
 > Dependency: Zowe CLI squad, web UI squad, API ML squad
 
-## [Zowe glossary #2182](https://github.com/zowe/docs-site/issues/2182) 
+## Usability testing of V2 installation documentation
 
-Goal: Document and unify Zowe terminology to educate users and ensure consistensy across documentation
+Goal: Identify and address blocking issues to help users install the Zowe server component successfully
 
 Work items: 
 
-- Create a glossary of Zowe specific terms and publish it on the doc site 
-- Split the terms into proper sections (such as Main Components, Architecture, Installation & Configuration, and so on)
-
-Status: A draft already in progress
-
-> Dependency: Component squads (review and contribute terms)
+- Find sponsor users to perform the testing
+- Create a testing plan
+- Document and address any blocking issues when users go through the installation doc from start to finish
 
 ## Videos
 
-Goal: Educate users through more engaging content format - videos. 
+Goal: Educate users through engaging content format - videos. 
 
 Work items: 
 
-- Continue to convert office hours recordings into videos and publish on the doc site
-- **[Strecth]** Revamp the Zowe introduction video on zowe.org to showcase latest Zowe capabilities and higjlight Zowe value propositions. In this PI, propose a new design/storyline of the video.
+- Record the new Zowe introduction video on zowe.org. New design was proposed in 22PI3. In this PI, create the video and refresh the website. 
+- [Stretch] More videos about installation
 
-> Dependency: Onboarding squad (provide office hour recordings and review new videos)
-
-## High-impact GitHub issues
-
-Goal: Continue to address high-impact GitHub issues, such as: 
-
-- [Zowe Must Remain Vendor-Neutral #1963](https://github.com/zowe/docs-site/issues/1963)
-
-  > Dependency: ZAC (Need a thorough review by ZAC)
-
-- Prioritize V2 documentation issues
-- Prioritize V1 installation-related [issues](https://github.com/zowe/docs-site/issues?q=is%3Aopen+is%3Aissue+label%3A%22area%3A+zos-install-upgrade%22)
+> Dependency: Onboarding squad (review new videos)
 
