@@ -1,33 +1,56 @@
 # Zowe CLI Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-## Respond to feedback from the community as V2 LTS is adopted
-As Zowe V2 LTS is adopted, we are actively responding to incoming questions on Slack as users transition. In addition to installation, we are helping the community adopt best practices such as team configuration. We will also add some samples leveraging team configuration to https://github.com/zowe/zowe-cli-sample-scripts.
+## CLI: Finalize the Jobs & Files Enhancements (carryover)
+As a Zowe CLI user, I want to perform more complex (jobs & files) tasks to reduce the amount of scripting and make interactive commands more efficient.
+#### CLI Squad Plan:
+We will finalize the prioritized items in our [Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65).
+- [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
+- [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
 
-## Assist extenders meet V2 LTS conformance standards
-As extenders seek V2 LTS conformance, we are actively responding to incoming questions on Slack to ensure our broader suite of plug-ins work very well together.
+## CLI: Complete the CII Badge Requirements
+This is a shared goal across all Zowe active squads. The goal is to achieve the Silver level of conformance and make progress towards the Gold badge. For more information, see: [zowe/community#1273](https://github.com/zowe/community/issues/1279).
+#### CLI Squad Plan:
+We will continue to research, size, and implement the CII Badge requirements for Passing and Silver levels.
+</br>**Note**: We plan to make progress towards the Gold badge.
+</br>**Note**: Plugins for Zowe CLI will get their own CII badge in future PIs
+</br>**Considerations**:
+- Coverage (statement 80%)
+- External contributors
+- SSH ciphers
 
-## Prioritized Jobs & Files Enhancements
-See our [Prioritized Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65) in Zowe CLI.
+## CLI: In Memory Credential Management (architecture review only)
+As a Zowe CLI user, I need an alternative to manage credentials securely that support internal company policies without the Secure-Credential-Store plugin.
+#### CLI Squad Plan:
+We will finalize our design and have it reviewed by Zowe Architects.
 
-*This functionality is available in Broadcom's extended files & jobs plug-ins. Broadcom is contributing these capabilities to core Zowe CLI as part of Zowe V2 LTS.*
-* [zowe files view data-set](https://github.com/zowe/zowe-cli/issues/1096)
-* [zowe files view uss-file](https://github.com/zowe/zowe-cli/issues/1283)
-* [View all spool content of a particular job](https://github.com/zowe/zowe-cli/issues/946)
-* [zowe jobs delete old-jobs command](https://github.com/zowe/zowe-cli/issues/1285)
-* [zowe files download data-sets-matching](https://github.com/zowe/zowe-cli/issues/1287)
-* [zowe jobs submit uss-file](https://github.com/zowe/zowe-cli/issues/1286)
+## CLI: Cleanup the CLI and Imperative Backlogs
+As a Zowe CLI user, I want a backlog where I can find relevant information about future enhancements I can expect, and where I can provide feedback as I find opportunities for improvement.
+#### CLI Squad Plan:
+We will continue to review the CLI and Imperative backlog to keep all issues current and relevant, while closing unplanned enhancement requests.
 
-*This functionality is not available in the aforementioned plug-ins.*
-* [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
-* [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
-* [zowe cli compare command](https://github.com/zowe/zowe-cli/issues/1095)
-* [Add `dir-from-uss` option to `zowe files download`](https://github.com/zowe/zowe-cli/issues/1038)
+## CLI: Finalize the migration from Jenkins to GitHub Actions (carryover)
+This is a shared goal across all Zowe active squads. The goal is to move away from Jenkins and adopt GitHub Workflows for all of our pipelines
+#### CLI Squad Plan:
+We will complete the migration of the remaining CLI-related projects.
+- Core CLI
+- Plugins (IMS, MQ, CICS)
+- Other: Perf-timing, zos-make, zowe-tasks
 
-## Upvoted Issues
-Review, prioritize, and implement highly upvoted issues in our repository
-https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+## SDK: Enhance the Python SDK (carryover)
+As a Python developer, I want the Python SDK to fully support Zowe V2 Team Configuration files.
+#### CLI Squad Plan:
+We will continue to review and deliver contributions to achieve feature parity with the Node.js SDK in terms of Zowe V2 profile support.
 
-## Golden CII Badge Analysis
-[Golden CII Badge](https://github.com/zowe/community/issues/1279)
+## CLI: Address upvoted issues
+As a Zowe CLI user, I want my upvoted request to be addressed in a timely manner.
+#### CLI Squad Plan:
+We will review, prioritize, and implement [highly upvoted](https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) issues in our repository
 
-This is a goal shared across all the Zowe active squads. In the context of this PI, the goal is to understand what needs to be done in order to achieve the conformance. 
+## CLI: Zowe Chat Consulting
+As a Zowe Chat developer, I want the CLI squad to be available throughout the quarter for consulting purposes
+#### CLI Squad Plan:
+We will reserve some capacity to respond to any feedback or questions the Chat squad may have
+
+## [Stretch] CLI: Generate and/or use PATs through APIML
+## [Stretch] CLI: Participate in the Zowe App Store
+## [Stretch] CLI: Provide a Dockerfile for Zowe CLI
