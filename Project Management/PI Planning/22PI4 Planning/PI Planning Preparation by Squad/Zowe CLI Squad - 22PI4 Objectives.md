@@ -28,6 +28,16 @@ As a Zowe CLI user, I want a backlog where I can find relevant information about
 #### CLI Squad Plan:
 We will continue to review the CLI and Imperative backlog to keep all issues current and relevant, while closing unplanned enhancement requests.
 
+## CLI: Assist high-profile Zowe consumer upgrade from CLI V1 to V2
+As a high-profile Zowe consumer, I want to upgrade from my current V1 version of the Zowe CLI to the V2 version. I anticipate that the CLI team will assist with this effort.
+#### CLI Squad Plan:
+We will advise the best approach for upgrading the site and provide debugging assistance for any problems that arise.
+
+## CLI: Onboard engineering staff for Zowe CLI development
+As a new Zowe CLI development engineer, I need to undertand the technology and practices necessary to deliver product features to our consumers.
+#### CLI Squad Plan:
+We will devote weeks of training on Zowe CLI development technology and some mainframe technology to a new engineer.
+
 ## CLI: Finalize the migration from Jenkins to GitHub Actions (carryover)
 This is a shared goal across all Zowe active squads. The goal is to move away from Jenkins and adopt GitHub Workflows for all of our pipelines
 #### CLI Squad Plan:
