@@ -16,7 +16,6 @@ We will continue to research, size, and implement the CII Badge requirements for
 </br>**Considerations**:
 - Coverage (statement 80%)
 - External contributors
-- SSH ciphers
 
 ## CLI: In Memory Credential Management (architecture review only)
 As a Zowe CLI user, I need an alternative to manage credentials securely that support internal company policies without the Secure-Credential-Store plugin.
