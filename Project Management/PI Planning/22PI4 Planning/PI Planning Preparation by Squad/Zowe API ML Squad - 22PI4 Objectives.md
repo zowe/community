@@ -4,13 +4,13 @@
 
 * [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to log in just once to a corporate-wide IAM solution like Okta, Ping Identity, or KeyCloak and still be recognized by the Mainframe security under my Mainframe identity (to which my Mainframe access rights are bound).
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. 
 
-As a Mainframe user, I want to be able to access all the Mainframe services protected by SAF and to which I'm entitled, in the same way as the non-mainframe services protected by the central IAM, using only my network (aka distributed) identity. Additionally, I want API ML to validate that the client application I'm using to access the mainframe resources is authorized for such access.
+## API Portal
 
-- [Package and publish BPXSMF as java API #2583](https://github.com/zowe/api-layer/issues/2583)
-- [Use SMF Java API in Gateway to write a record #2584](https://github.com/zowe/api-layer/issues/2584)
-- [SMF records cleanup #2585](https://github.com/zowe/api-layer/issues/2585)
+* [API Portal #1405](https://github.com/zowe/api-layer/issues/1405)
+
+As a software engineer I want to have easy access to all the APIs available with Zowe including the APIs that aren't yet installed in my infrastructure. 
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -28,7 +28,6 @@ API ML Squad Plan:
 - [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
 - [Support remapping to passtickets #2046](https://github.com/zowe/api-layer/issues/2046)
 - [Support Bypassing the authentication #2047](https://github.com/zowe/api-layer/issues/2047)  
-
 
 ## Golden CII Badge
 
