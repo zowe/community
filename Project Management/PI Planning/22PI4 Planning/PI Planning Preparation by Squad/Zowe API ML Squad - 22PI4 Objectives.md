@@ -8,9 +8,13 @@ As a Mainframe user, I want to be able to be correctly routed to the relevant sy
 
 ## API Portal
 
-* [API Portal #1405](https://github.com/zowe/api-layer/issues/1405)
+* [API Portal #2586](https://github.com/zowe/api-layer/issues/2586)
 
-As a software engineer I want to have easy access to all the APIs available with Zowe including the APIs that aren't yet installed in my infrastructure. 
+As a system programmer or application developer, I want to have one easy place to see all the APIs available within the company with great examples of how to use them. I want to see even the APIs I don't have installed in the systems yet.
+
+As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.
+
+As a system programmer or application developer I want to be able to explore the APIs and get better idea on what I may ask for even for the APIs that aren't installed yet.
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
