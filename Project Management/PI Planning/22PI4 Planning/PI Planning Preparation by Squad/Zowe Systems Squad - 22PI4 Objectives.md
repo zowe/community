@@ -1,26 +1,17 @@
 # Zowe Systems Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-## Zowe v2.x Ongoing Improvements
+Themes - maintaining release operations with tactical improvements
 
-* ['Finalize' v2.x containerization](https://github.com/zowe/zowe-install-packaging/issues/2382)
-  - [Add NetworkPolicy](https://github.com/zowe/zowe-install-packaging/issues/2382)
-* [Profile, analyse and improve zwe command and zowe start performance](https://github.com/zowe/zowe-install-packaging/issues/2825)
-* [Finish zowe.yaml schema support](https://github.com/zowe/zowe-install-packaging/issues/2605)
-* [PARMLIB configuration support](https://github.com/zowe/zowe-install-packaging/issues/433)
+## Support Infrastructure and Releases
+- Maintain mainframe systems
+- Maintain github actions suite and monitor builds
 
+## Improving areas of CI/CD
+- PR Labels allow triggering longer-running builds
+- Improve internal documentation for making changes which impact datasets or dataset members
+  * i.e. Updating SMP/e, PSWI, Hold Data, and so on
 
-## Infrastructure
+## On our radar
 
-* [z/OS Sysplex Setup](https://github.com/zowe/zowe-install-packaging/issues/1479)
-  - [Complete validating Marist Sysplex setup (stretch)](https://github.com/zowe/zowe-install-packaging/issues/2594)
-
-* [Expanded Actions Runner Limit](https://github.com/zowe/zowe-install-packaging/issues/2834)
-  
-* [Infrastructure Support for ChatOps](https://github.com/zowe/zowe-chat/issues/1)
-
-## CI/CD 
-
-* [Expand Install Tests](https://github.com/zowe/zowe-install-packaging/issues/2267)
-  - [Containerization Tests](https://github.com/zowe/zowe-install-packaging/issues/2268)
-  - [Sysplex Tests](https://github.com/zowe/zowe-install-packaging/issues/2270)
-* [Backport SBOM to 1.28.x](https://github.com/zowe/zowe-dependency-scan-pipeline/issues/104)
+* [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+* [Java 11 Testing Support](https://github.com/zowe/zowe-install-packaging/issues/2975)
