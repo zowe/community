@@ -53,6 +53,15 @@ Planning - 2022/10/25 - 2022/10/31<br>
 - Friday, October 27 - Final Readouts (Day 3)<br>
 
 Sprint 1 - 2022/11/01 - 2022/11/14 (Innovation Sprint)<br>
+
+Internal Innovation Sprint (week 1)<br>
+- October 31 - November 4<br>
+
+Open Source Innovation Sprint (week 2)<br>
+- Tuesday, November 1 - Innovation Sprint Kickoff<br>
+- Monday, November (7 - 11) - Innovation Sprint Breakouts<br>
+- Tuesday, November 15 - Innovation Sprint Final Readouts<br>
+
 Sprint 2 - 2022/11/15 - 2022/11/28<br>
 Sprint 3 - 2022/11/29 - 2022/12/12<br>
 Sprint 4 - 2022/12/13 - 2022/12/26<br>
