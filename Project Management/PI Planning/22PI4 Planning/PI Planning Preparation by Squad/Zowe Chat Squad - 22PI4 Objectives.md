@@ -1,19 +1,22 @@
 # Zowe Chat Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-## Onboard initial code contribution
-Initial common bot framework contribution is scanned and moved into https://github.com/zowe/zowe-chat
+Broad themes - support TP1, complete initial feature set, harden the code and start on the path to GA (est. Late 23Q1 or early 23Q2).
 
-## Technology Stack and Dev Tool Alignment
-Determine development technology stack including runtime, programming language, build tool, testing framework, libraries/SDKs
+## Respond to Technical Preview 1 Feedback
+- Help users install and configure the Technical Preview 1 delivery, and collect feedback from their experience trying out Chat TP1. 
 
-## Dev Environment Preparation
-Set up a suitable environment to develop the technology including servers for building/testing.
+## Onboard webhook client (events)
+- Merge in event notification client, and provide documentation explaining how event producers can use the event notification capability.
+- Work with the broader Zowe community on eventing requirements and capabilities.
 
-## Extensible architecture
-Review initial architecture of contribution and ensure framework will support future extenders
+## Expand Plugin Extensibility
+- Build out documentation and suggested best practices for writing Zowe Chat Plugins, and create a sample project.
+  * The best practices and documentation should serve as a precuursor to conformance criteria later.
+- Add support for new requirements, such as custom authentication providers within plugins. 
 
-## Review, align on, and implement an MVP
-Review our hills and decide on an MVP use case to implement and validate with our sponsor users
+## Address Technical Debt
+- Burn down techncial debt established in TP1, with the primary focus on expanded test suites and coverage.
 
-## Installation
-Investigate installation methods for Zowe Chat
+## Build a Demo environment (stretch)
+- Start building a demo environment anybody can try out from OMP Slack.
+  * details: mock backend? real backend may wait for new OMP infra.
