@@ -126,7 +126,7 @@ Squad vision<br>
     </tbody>
     <tbody>
         <tr>
-            <td>Public Comment</td>
+            <td>Squad Breakouts</td>
             <td>2022-10-25</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
@@ -140,7 +140,7 @@ Squad vision<br>
     </tbody>
     <tbody>
             <tr>
-                <td>Public Comment</td>
+                <td>Squad Breakouts</td>
                 <td>2022-10-25</td>
                 <td>11:05 AM</td>
 <td>
@@ -149,7 +149,6 @@ Squad Breakout
 - Zowe Explorer Squad
     - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
-Squad Breakout
 - API ML Squad
     - Zoom Link: https://zoom.us/j/98404818292<br>
 
@@ -163,7 +162,7 @@ Squad Breakout
     </tbody>
     <tbody>
             <tr>
-                <td>Public Comment</td>
+                <td>Squad Breakouts</td>
                 <td>2022-10-25</td>
                 <td>12:00 PM</td>
 <td>
@@ -180,7 +179,7 @@ Squad Breakout
     </tbody>
     <tbody>
             <tr>
-                <td>Public Comment</td>
+                <td>Squad Breakouts</td>
                 <td>2022-10-25</td>
                 <td>1:00 PM</td>
 <td>
@@ -198,7 +197,7 @@ Squad Breakout
     </tbody>
     <tbody>
             <tr>
-                <td>Public Comment</td>
+                <td>Squad Breakouts</td>
                 <td>2022-10-25</td>
                 <td>3:00 PM</td>
 <td>
