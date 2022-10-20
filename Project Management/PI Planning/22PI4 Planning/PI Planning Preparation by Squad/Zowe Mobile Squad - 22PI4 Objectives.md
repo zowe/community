@@ -1,4 +1,4 @@
-# Zowe Mobile Incubator - 22PI2 Objectives
+# Zowe Mobile Incubator - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## Technical Debt Themes
 

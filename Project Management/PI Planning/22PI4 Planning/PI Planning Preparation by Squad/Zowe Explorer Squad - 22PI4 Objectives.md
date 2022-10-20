@@ -1,4 +1,4 @@
-# Zowe Explorer Squad - 22PI2 Objectives
+# Zowe Explorer Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## Respond to feedback from the community as V2 LTS is adopted
 As Zowe V2 LTS is adopted, we are actively responding to incoming questions on Slack as users transition. In addition to installation, we are helping the community adopt best practices such as team configuration.
