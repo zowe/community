@@ -5,7 +5,7 @@ As a Zowe CLI user, I want to perform more complex (jobs & files) tasks to reduc
 #### CLI Squad Plan:
 We will finalize the prioritized items in our [Jobs & Files Enhancements Milestone](https://github.com/zowe/zowe-cli/milestone/65).
 - [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
-- [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
+- [STRETCH] [zowe files edit data-set](https://github.com/zowe/zowe-cli/issues/1097)
 
 ## CLI: Complete the CII Badge Requirements
 This is a shared goal across all Zowe active squads. The goal is to achieve the Silver level of conformance and make progress towards the Gold badge. For more information, see: [zowe/community#1273](https://github.com/zowe/community/issues/1279).
@@ -43,12 +43,7 @@ This is a shared goal across all Zowe active squads. The goal is to move away fr
 We will complete the migration of the remaining CLI-related projects.
 - Core CLI
 - Plugins (IMS, MQ, CICS)
-- Other: Perf-timing, zos-make, zowe-tasks
-
-## SDK: Enhance the Python SDK (carryover)
-As a Python developer, I want the Python SDK to fully support Zowe V2 Team Configuration files.
-#### CLI Squad Plan:
-We will continue to review and deliver contributions to achieve feature parity with the Node.js SDK in terms of Zowe V2 profile support.
+- [STRETCH] Other: Perf-timing, zos-make, zowe-tasks
 
 ## CLI: Address upvoted issues
 As a Zowe CLI user, I want my upvoted request to be addressed in a timely manner.
@@ -60,6 +55,14 @@ As a Zowe Chat developer, I want the CLI squad to be available throughout the qu
 #### CLI Squad Plan:
 We will reserve some capacity to respond to any feedback or questions the Chat squad may have
 
+## [Stretch] CLI: Provide a Dockerfile for Zowe CLI
+**Note**: Missing Documentation and Systems Squad work (OWASP + License scan...)
+ 
+## [Stretch] SDK: Enhance the Python SDK (carryover)
+As a Python developer, I want the Python SDK to fully support Zowe V2 Team Configuration files.
+#### CLI Squad Plan:
+We will continue to review and deliver contributions to achieve feature parity with the Node.js SDK in terms of Zowe V2 profile support.
+
 ## [Stretch] CLI: Generate and/or use PATs through APIML
 ## [Stretch] CLI: Participate in the Zowe App Store
-## [Stretch] CLI: Provide a Dockerfile for Zowe CLI
+**Note**: Possible dependency on the Web UI Squad (App Store implementation)
