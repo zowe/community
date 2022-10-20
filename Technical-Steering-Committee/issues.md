@@ -22,10 +22,17 @@ Types of the issues:
 
 Importance of the issue as perceived by squad organized by importance:
 
-- Priority: Critical - An issue that needs to be resolved within this PI, ideally within next sprint
-- Priority: High - An important issue that should be at least considered for the next PI, ideally within this one, if there is spare capacity
-- Priority: Medium - An issue that isn't very important so it will be planned in the PI, once there are no more important issues
-- Priority: Low - An issue that is recognized by the squad but that is not considered very important 
+- priority-critical - An issue that needs to be resolved within this PI, ideally within next sprint
+- priority-high - An important issue that should be at least considered for the next PI, ideally within this one, if there is spare capacity
+- priority-medium - An issue that isn't very important so it will be planned in the PI, once there are no more important issues
+- priority-low - An issue that is recognized by the squad but that is not considered very important 
+
+For Bugs it's also possible to reflect the perceived impact of the issue by its severity:
+
+- severity-critical - A bug that has major impact on the organization preventing the usage of Zowe
+- severity-high - A bug for which there may be workaround but limits the usage of the Zowe for major use cases
+- severity-medium - A bug where workaround exists or that doesn't prevent the usage of the Zowe or the use case, just make it more complex
+- severity-low - A bug that makes the usage of the Zowe less convenient but doesn't impact key use cases
 
 When figuring out the next issue to work on the squad take into account the amount of thumbs-ups the users gave
 to the specific issue. The squad can find the information on the issues tab in the Github as shown on the figure 1.
