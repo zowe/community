@@ -94,35 +94,20 @@ Squad PI Objectives<br>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
-10-15 mins each:
+10-15 mins each:<br>
 
-<br>9:05 Squad Readout 1
-- Documentation Squad
-
-9:20 Squad Readout 2
-- API ML Squad
-
-9:35 Squad Readout 3
-- Zowe CLI Squad
-
-9:50 Squad Readout 4
-- Systems Squad (includes CI-CD, HA, Performance)
-
-10:05 Squad Readout 5
-- WebUI Squad
-
-10:20 Squad Readout 6
-- Onboarding Squad
-
-<br>10:35 Squad Readout 7
+- Documentation Squad<br>
+- API ML Squad<br>
+- Zowe CLI Squad<br>
+- Systems Squad<br>
+- WebUI Squad<br>
+- Onboarding Squad<br>
 - Zowe Explorer Squad
-
-10:50 Squad Readout 8
 - Incubators<br>
-    - Zebra
-    - Chat
-    - IntelliJ
-    - zOS
+    - Zebra<br>
+    - Chat<br>
+    - IntelliJ<br>
+    - zOS<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
