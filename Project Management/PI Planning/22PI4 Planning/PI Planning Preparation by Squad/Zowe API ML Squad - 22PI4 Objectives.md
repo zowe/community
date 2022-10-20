@@ -4,13 +4,17 @@
 
 * [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to log in just once to a corporate-wide IAM solution like Okta, Ping Identity, or KeyCloak and still be recognized by the Mainframe security under my Mainframe identity (to which my Mainframe access rights are bound).
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. 
 
-As a Mainframe user, I want to be able to access all the Mainframe services protected by SAF and to which I'm entitled, in the same way as the non-mainframe services protected by the central IAM, using only my network (aka distributed) identity. Additionally, I want API ML to validate that the client application I'm using to access the mainframe resources is authorized for such access.
+## API Portal
 
-- [Package and publish BPXSMF as java API #2583](https://github.com/zowe/api-layer/issues/2583)
-- [Use SMF Java API in Gateway to write a record #2584](https://github.com/zowe/api-layer/issues/2584)
-- [SMF records cleanup #2585](https://github.com/zowe/api-layer/issues/2585)
+* [API Portal #2586](https://github.com/zowe/api-layer/issues/2586)
+
+As a system programmer or application developer, I want to have one easy place to see all the APIs available within the company with great examples of how to use them. I want to see even the APIs I don't have installed in the systems yet.
+
+As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.
+
+As a system programmer or application developer I want to be able to explore the APIs and get better idea on what I may ask for even for the APIs that aren't installed yet.
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -28,7 +32,6 @@ API ML Squad Plan:
 - [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
 - [Support remapping to passtickets #2046](https://github.com/zowe/api-layer/issues/2046)
 - [Support Bypassing the authentication #2047](https://github.com/zowe/api-layer/issues/2047)  
-
 
 ## Golden CII Badge
 
