@@ -122,6 +122,7 @@ Squad vision<br>
     - Zebra
     - Chat
     - IntelliJ
+    - zOS
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -301,36 +302,22 @@ Squad Breakout
             <td>2022-10-27</td>
             <td>9:15 AM</td>
 <td>
-Squad Final Readouts
-<br><br>
 
-9:15 Squad 1
-- Documentation Squad
+Squad Final Readouts<br>
+10-15 mins each:<br>
 
-9:30 Squad 2
-- Chat
-
-9:45 Squad 3
-- zOS Squad
-
-10:00 Squad 4
-- Zowe CLI Squad
-
-10:15 Squad 5
-- Systems Squad
-
-10:30 Squad 6
-- WebUI Squad
-
-10:45 Squad 7
-- Onboarding Squad
-
-11:00 Squad 8
-- Zowe Explorer Squad
-
-11:15 Squad 9
-- API ML Squad
-
+- Documentation Squad<br>
+- API ML Squad<br>
+- CLI Squad<br>
+- Systems Squad<br>
+- WebUI Squad<br>
+- Onboarding Squad<br>
+- Zowe Explorer Squad<br>
+- Incubators<br>
+    - Zebra
+    - Chat
+    - IntelliJ
+    - zOS
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
