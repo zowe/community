@@ -118,7 +118,10 @@ Squad vision<br>
 - Zowe Explorer Squad
 
 10:50 Squad Readout 8
-- Incubators - Zebra
+- Incubators<br>
+    - Zebra
+    - Chat
+    - IntelliJ
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -156,13 +159,13 @@ Squad vision<br>
                 <td>11:05 AM</td>
 <td>
 
-Squad Breakout 1
+Squad Breakout
 - Zowe Explorer Squad
-- Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
+    - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
-Squad Breakout 2
+Squad Breakout
 - API ML Squad
-- Zoom Link: https://zoom.us/j/98404818292<br>
+    - Zoom Link: https://zoom.us/j/98404818292<br>
 
 </td>
 <td>Squad Breakouts
@@ -179,12 +182,12 @@ Squad Breakout 2
                 <td>12:00 PM</td>
 <td>
 
-Squad Breakout 3
+Squad Breakout
 - Zowe CLI Squad
-- Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
+    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 
 - Zowe Onboarding Squad
-- Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
+    - Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
 
 </td>
                 <td></td>
@@ -196,13 +199,14 @@ Squad Breakout 3
                 <td>1:00 PM</td>
 <td>
 
-Squad Breakout 4
 
-
-
-Squad Breakout 5
+Squad Breakout
 - WebUI Squad
-- Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+    - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+
+- Systems Squad
+    - Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+
 </td>
                 <td></td>
     </tbody>
@@ -214,7 +218,7 @@ Squad Breakout 5
 <td>
 
 
-Squad Breakout 8
+Squad Breakout
  - Incubators
 
 </td>
@@ -255,11 +259,12 @@ Squad Breakout 8
     </tbody>
 
 
+
 <tbody>
             <tr>
-                <td>Public Comment</td>
+                <td>Squad Breakout</td>
                 <td>2022-10-26</td>
-                <td>11:00 AM</td>
+                <td>1:00 PM</td>
 <td>
 
 Squad Breakout
