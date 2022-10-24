@@ -44,7 +44,10 @@ We will complete the migration of the remaining CLI-related projects.
 As a Zowe CLI user, I want my upvoted request to be addressed in a timely manner.
 #### CLI Squad Plan:
 We will review, prioritize, and implement [highly upvoted](https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) issues in our repository
-#### Epics (TODO)
+#### Epics
+- Large data transfer errors. [zowe/zowe-cli#1544](https://github.com/zowe/zowe-cli/issues/1544)
+- Misleading return/exit code on failed CLI commands. [zowe/zowe-cli#1545](https://github.com/zowe/zowe-cli/issues/1545)
+- Unexpected CLI timeouts. [zowe/zowe-cli#1546](https://github.com/zowe/zowe-cli/issues/1546)
 
 ## CLI: Zowe Chat Consulting
 As a Zowe Chat developer, I want the CLI squad to be available throughout the quarter for consulting purposes
