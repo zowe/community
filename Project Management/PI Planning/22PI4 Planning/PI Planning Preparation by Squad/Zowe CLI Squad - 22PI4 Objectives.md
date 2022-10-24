@@ -20,7 +20,8 @@ We will continue to research, size, and implement the CII Badge requirements for
 - Monorepo restructure
 - External contributors (Gold: unassociated contributors)
 
-#### Epics (TODO)
+#### Epics
+Zowe CII Badge items for Zowe CLI. [zowe/zowe-cli#1352](https://github.com/zowe/zowe-cli/issues/1352)
 
 ## CLI: In Memory Credential Management (architecture review only)
 As a Zowe CLI user, I need an alternative to manage credentials securely that support internal company policies without the Secure-Credential-Store plugin.
