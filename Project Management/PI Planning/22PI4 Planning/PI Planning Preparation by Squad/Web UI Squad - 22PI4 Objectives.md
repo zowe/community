@@ -17,7 +17,7 @@ Subtasks:
 * [app-server](https://github.com/zowe/zlux/issues/732)
 * [desktop](https://github.com/zowe/zlux/issues/733)
 
-**Status**: Overall about 1/3 of the messages have been documented so far during the last PI.
+**Status**: Overall about 2/5 of the messages have been documented so far during the last PI.
 
 
 ### Shortcut and folder support for Desktop
@@ -26,6 +26,10 @@ Subtasks:
 **Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
 
 **Status**: Nearly complete, just needs code cleanup and bug fixes.
+
+
+## Stretch tasks
+
 
 ### Switch tn3270-ng2 app to use OMP's tsterm
 **Priority**: 4
@@ -41,8 +45,6 @@ Subtasks:
 We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
 **Status**: First meeting pending
 
-
-## Stretch tasks
 
 # How to get involved
 ### Other tasks
