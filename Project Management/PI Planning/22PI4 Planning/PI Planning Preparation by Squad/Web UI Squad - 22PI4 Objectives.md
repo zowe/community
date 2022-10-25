@@ -20,25 +20,31 @@ Subtasks:
 **Status**: Overall about 2/5 of the messages have been documented so far during the last PI.
 
 
-### Shortcut and folder support for Desktop
+### Shortcut and folder support for Desktop [#821](https://github.com/zowe/zlux/issues/821)
 **Priority**: 3
 
 **Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
 
 **Status**: Nearly complete, just needs code cleanup and bug fixes.
 
+### Enhance github issue systen
+**Priority**: 4
+
+**Description**: Between the TSC and the VSC Explorer and CLI groups we learned that there are requirements and suggestions around github labels and how to automate the status of tickets relative to the labels. We need to go through the backlog to clean it up by assigning relevant labels and pruning old tickets.
+
+**Status**: Not yet started
 
 ## Stretch tasks
 
 
 ### Switch tn3270-ng2 app to use OMP's tsterm [#869](https://github.com/zowe/zlux/issues/869)
-**Priority**: 4
+**Priority**: 5
 
 **Description**: OMP's tsterm library is a fork of the Zowe library used within the tn3270-ng2 app. This fork promises improved ease of maintenance and may make the terminal app easier to enhance down the road, so switching to it is strategic for long-term health.
 
 
 ### Server setup wizard research
-**Priority**: 5
+**Priority**: 6
 
 **Description**: Last year, ZAC was shown a UI wizard that helps you to install & configure Zowe server components. v2 simplification and schemas should be used to make such a UI more powerful and lower maintenance.
 
