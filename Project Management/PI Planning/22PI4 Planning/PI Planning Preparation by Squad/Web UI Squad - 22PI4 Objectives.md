@@ -20,7 +20,7 @@ Subtasks:
 **Status**: Overall about 2/5 of the messages have been documented so far during the last PI.
 
 
-### Shortcut and folder support for Desktop
+### Shortcut and folder support for Desktop [#821](https://github.com/zowe/zlux/issues/821)
 **Priority**: 3
 
 **Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
