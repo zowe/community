@@ -39,10 +39,10 @@ There is a growing set of tests under zowe-common-c/tests.
 
 The Configuration Manager supports the system and webui squad with yaml and json-schema services.   Streth goals include general SMF support and Subsystem Interface Support for the Zebra and Explorer projects.
 
-## "Single-user Zowe"
+## "Single-user Zowe" (on hold, resourcing)
 
 A demo-ed capablity that allows a zero-config ZSS server run should be completed shortly.  
 
-## Education
+## Education (ongoing)
 
 These repos are some of the most complex and sophisticated examples of C coding for ZOS.   It would be good to have an office hours or regular set of webinars to teach people how to be effective C programmers for ZOS.
