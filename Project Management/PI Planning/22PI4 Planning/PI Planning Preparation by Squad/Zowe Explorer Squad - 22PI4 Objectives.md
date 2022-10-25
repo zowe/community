@@ -60,14 +60,11 @@ Continue to review, prioritize, and implement highly upvoted issues in our repos
 
 # CICS VS Code extension
 
-- [ ] https://github.com/zowe/vscode-extension-for-cics/issues/273
-    - _Support for Web Application development_
-- [ ] https://github.com/zowe/vscode-extension-for-cics/issues/178
-- [ ] https://github.com/zowe/vscode-extension-for-cics/issues/250
-    - _Navigation from CICS view to DATA SETS view_
-- [ ] https://github.com/zowe/vscode-extension-for-zowe/discussions/1540
-    - _Integrate yarn into the CICS extension_ 
- - [ ] [Stretch] https://github.com/zowe/vscode-extension-for-cics/issues/205
- - [ ] [Stretch] https://github.com/zowe/vscode-extension-for-cics/issues/189
+- [ ] [Support for Web Application development](https://github.com/zowe/vscode-extension-for-cics/issues/273)
+- [ ] [Navigate from CICS region to the CEEMSG log](https://github.com/zowe/vscode-extension-for-cics/issues/178)
+- [ ] [Navigation from CICS view to DATA SETS view](https://github.com/zowe/vscode-extension-for-cics/issues/250)
+- [ ] [Integrate yarn into the CICS extension](https://github.com/zowe/vscode-extension-for-zowe/discussions/1540)
+- [ ] [Stretch] [Ability to execute a CICS trasaction](https://github.com/zowe/vscode-extension-for-cics/issues/205)
+- [ ] [Stretch] [Update the OMP Cobol Training course to add the VS Code CICS plugin](https://github.com/zowe/vscode-extension-for-cics/issues/189)
    - _Update the course to add the VSCode CICS plugin_
    - _Install CICS in the zCOBOL system_
