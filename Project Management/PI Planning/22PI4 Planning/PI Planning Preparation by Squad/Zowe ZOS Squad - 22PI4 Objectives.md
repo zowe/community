@@ -6,7 +6,7 @@ ZIS Plugins (although uncommon) are not well-behaved regarding EPL.  This projec
 
 ## JES API's (Due Q4)
 
-Improved job submission and tracking API's are in progess.
+Improved job submission and tracking API's are in progess.  The ability to remove a zOSMF, which currently provides API) dependency is helpful for other Zowe components and project.
 
 ## Syslog (Due Q4)
 
