@@ -1,6 +1,6 @@
 # Zowe Systems Squad - 22PI4 - (2022/10/25 - 2023/01/23)
 
-Theme - Maintain current release operations, make tactical improvements to release automation
+The primary goals for the system squad this PI continue as before - maintaining release operations, responding to high priority issues, and making tactical improvements to automation where time allows.
 
 ## CI/CD and Release Automation Improvements
 - [Add internal documentation for making changes which impact datasets or dataset members](https://github.com/zowe/zowe-install-packaging/issues/3124)
