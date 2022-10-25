@@ -6,8 +6,6 @@ As Zowe V2 LTS is adopted, we are actively responding to incoming questions on S
 ## Assist extenders meet V2 LTS conformance standards
 As extenders seek V2 LTS conformance, we are actively responding to incoming questions on Slack to ensure our broader suite of extensions work very well together.
 
-Planning for 22PI4:
-
 ## Improve Zowe Explorer User Experience
 
 ### Users would like to see Zowe Explorer supported in multiple different environments.
@@ -20,7 +18,7 @@ Planning for 22PI4:
 ### Users would like more tree view actions in Zowe Explorer to have multi-select functionality.
 
 - [ ] [Copy/Paste USS files](https://github.com/zowe/vscode-extension-for-zowe/issues/1549)
-- [ ] [Data Sets](https://github.com/zowe/vscode-extension-for-zowe/issues/1550)
+- [ ] [Copy/Paste Data Sets](https://github.com/zowe/vscode-extension-for-zowe/issues/1550)
 - [ ] [Hide/Delete session](https://github.com/zowe/vscode-extension-for-zowe/issues/1555)
 - [ ] [Downloading Spool files](https://github.com/zowe/vscode-extension-for-zowe/issues/1551)
 
