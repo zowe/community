@@ -2,7 +2,7 @@
 
 ## In-squad tasks
 
-### Server extension package registry
+### Server extension package registry [#449](https://github.com/zowe/zlux/issues/449)
 **Priority**: 1
 
 **Description**: Release the code within https://github.com/zowe/zowe-install-packaging/pull/2980 either initially with npm as the backing store or even by completing the conda support so that both are available. This code needs a registry to be useful, so optional content on artifactory will be re-packaged as npm/conda modules and hosted on jfrog npm/conda registry as a starting point for people to begin to leverage this feature.
@@ -31,7 +31,7 @@ Subtasks:
 ## Stretch tasks
 
 
-### Switch tn3270-ng2 app to use OMP's tsterm
+### Switch tn3270-ng2 app to use OMP's tsterm [#869](https://github.com/zowe/zlux/issues/869)
 **Priority**: 4
 
 **Description**: OMP's tsterm library is a fork of the Zowe library used within the tn3270-ng2 app. This fork promises improved ease of maintenance and may make the terminal app easier to enhance down the road, so switching to it is strategic for long-term health.
@@ -43,7 +43,8 @@ Subtasks:
 **Description**: Last year, ZAC was shown a UI wizard that helps you to install & configure Zowe server components. v2 simplification and schemas should be used to make such a UI more powerful and lower maintenance.
 
 We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
-**Status**: First meeting pending
+This year, our squad made a prototype of getting schema linting within a monaco editor, so we'd like to start by donating that in an electron context to fit into the overall wizard.
+**Status**: Not started
 
 
 # How to get involved
