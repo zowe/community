@@ -78,7 +78,7 @@ We will continue to review and deliver contributions to achieve feature parity w
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q3**
+  - **CY22Q4**
 
 ## Golden CII Badge
 
