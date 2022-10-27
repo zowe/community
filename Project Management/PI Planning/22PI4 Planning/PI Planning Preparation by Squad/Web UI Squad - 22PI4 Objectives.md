@@ -9,7 +9,7 @@
 
 **Status**: npm support functional, conda support incomplete. Neither have registries, and which extensions should be put into a registry has not been investigated yet. However, much of these tasks are simple to accomplish. Perhaps the biggest task will be education & documentation.
 
-### Document app-server and desktop messges [#732](https://github.com/zowe/zlux/issues/732) [#733](https://github.com/zowe/zlux/issues/733)
+### Document app-server and desktop messages [#732](https://github.com/zowe/zlux/issues/732) [#733](https://github.com/zowe/zlux/issues/733)
 **Priority**: 2
 
 **Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
@@ -27,7 +27,7 @@ Subtasks:
 
 **Status**: Nearly complete, just needs code cleanup and bug fixes.
 
-### Enhance github issue systen
+### Enhance github issue system
 **Priority**: 4
 
 **Description**: Between the TSC and the VSC Explorer and CLI groups we learned that there are requirements and suggestions around github labels and how to automate the status of tickets relative to the labels. We need to go through the backlog to clean it up by assigning relevant labels and pruning old tickets.
@@ -51,6 +51,11 @@ Subtasks:
 We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
 This year, our squad made a prototype of getting schema linting within a monaco editor, so we'd like to start by donating that in an electron context to fit into the overall wizard.
 **Status**: Not started
+
+# Roadmap
+
+Our roadmap details are here https://app.zenhub.com/workspaces/web-ui-squad-60549e46bd10bf00115d1f69/roadmap?invite=true
+![web ui squad Roadmap 2022-10-27](https://user-images.githubusercontent.com/30730276/198327017-24660649-94af-4b79-a18d-3a14e11724b4.svg)
 
 
 # How to get involved
