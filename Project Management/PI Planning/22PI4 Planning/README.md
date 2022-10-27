@@ -7,7 +7,7 @@ Day 1\
 When: Tuesday, October 25th, 2022 8:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/97943899447<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1666897&calstart=2022-10-25<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/bYxhnOI_FA5Fv2QxPbRIGx9deerd4bqdbxy6zRqMAhygWLnPB9B1kv4bynl4c5s0.Yy86bV57E8IZ0GiO?startTime=1666698692000)
 <br>
 
 Day 2\
@@ -21,14 +21,14 @@ Day 3\
 When: Thursday, October 27th, 2022 9:00am to 11:00am (UTC-04:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/99014996765<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1666898&calstart=2022-10-27<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/H-DZC8zOtlJMqd8xTtIg1HV5q_ZeepngpaP5IKUtA7HTJDSu8dkNS4KbgHaSPKe9.RPQ0ctLlPynCIjYt?startTime=1666875197000)
 <br>
 
 Innovation Sprint Meeting Recordings
 
-[Day 1](https://zoom.us/rec/share/bYxhnOI_FA5Fv2QxPbRIGx9deerd4bqdbxy6zRqMAhygWLnPB9B1kv4bynl4c5s0.Yy86bV57E8IZ0GiO?startTime=1666698692000)<br>
+[Day 1]()<br>
 [Day 2]()<br>
-[Day 3](https://zoom.us/rec/share/H-DZC8zOtlJMqd8xTtIg1HV5q_ZeepngpaP5IKUtA7HTJDSu8dkNS4KbgHaSPKe9.RPQ0ctLlPynCIjYt?startTime=1666875197000)<br>
+[Day 3]()<br>
 
 
 Opening Presentations<br>
