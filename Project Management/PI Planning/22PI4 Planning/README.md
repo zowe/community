@@ -26,21 +26,26 @@ Meeting Recordings: [Day 3]()
 
 Innovation Sprint Meeting Recordings
 
-[Day 1]()<br>
+[Day 1](https://zoom.us/rec/share/bYxhnOI_FA5Fv2QxPbRIGx9deerd4bqdbxy6zRqMAhygWLnPB9B1kv4bynl4c5s0.Yy86bV57E8IZ0GiO?startTime=1666698692000)<br>
 [Day 2]()<br>
-[Day 3]()<br>
+[Day 3](https://zoom.us/rec/share/H-DZC8zOtlJMqd8xTtIg1HV5q_ZeepngpaP5IKUtA7HTJDSu8dkNS4KbgHaSPKe9.RPQ0ctLlPynCIjYt?startTime=1666875197000)<br>
 
 
+Opening Presentations<br>
+[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/Zowe%2022PI4%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
+[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/ZAC%20Zowe%2022PI4%20Planning%20Kickoff.pptx)<br>
+[TSC Opening]()<br>
 Squad PI Objectives<br>
-[Documentation]()<br>
-[Explorer]()<br>
-[API-ML and Security]()<br>
-[CLI]()<br>
-[Systems]()<br>
-[WebUI]()<br>
-[Onboarding]()<br>
-[zOS]()<br>
-[Chat]()<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2022PI4%20Objectives.md)<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2022PI4%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2022PI4%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2022PI4%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2022PI4%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2022PI4%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2022PI4%20Objectives.md)<br>
+[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2022PI4%20Objectives.md)<br>
+[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2022PI4%20Objectives.md)<br>
+[Mobile](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Mobile%20Squad%20-%2022PI4%20Objectives.md)<br>
 
 
 
@@ -364,6 +369,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote](https://www.surveymonkey.com/r/NLPCJYB)<br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/22PI3_ConfidenceVote.png)<br>
-[Closing Comments](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI3%20Planning/Zowe%2022PI3%20Planning%20End.pptx.pdf)<br>
+[Confidence Vote Question](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/Zowe_22PI4_Confidence_Vote_Question.png)<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/Zowe_22PI4_Confidence_Vote.png)<br>
+[Closing Comments]()<br>
