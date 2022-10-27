@@ -25,3 +25,37 @@ The primary goals for the system squad this PI continue as before - maintaining 
 ### Dependencies, Risks
 - No dependencies on other teams this PI. The configmgr component is the most active area of zowe-install-packaging and continues to be driven by the z/OS Squad.
 - No newly identified risks - business as usual interruptions (responding to a security release, helping with RCs/releases).
+
+
+
+## Roadmap Items
+
+### Improvements to Release Automation
+- What problem are you solving? 
+  * Addressing some gaps in our release automation.
+- What are you doing to solve it?
+  * Expanding our current suite of release automation.
+- When do you plan to start the work? 
+  * CY22Q4
+- When do you plan to deliver the solution? 
+  * CY23Q1
+
+### Expand Build and Test Infrastructure
+- What problem are you solving? 
+  * Configure additional MF infrastructure to support demos, labs, and test requirements.
+- What are you doing to solve it?
+  * Working with OMP to define and validate systems.
+- When do you plan to start the work? 
+  * CY23Q1
+- When do you plan to deliver the solution? 
+  * CY23Q3
+  
+### Use sigstore to sign artifacts
+- What problem are you solving? 
+  * Aligning with newer industry standards for digitally signing and validating produced artifacts
+- What are you doing to solve it?
+  * Evaluating how to shift our digitially signed artifacts from opengpg to sigstore, and implementing the change
+- When do you plan to start the work? 
+  * CY23Q2
+- When do you plan to deliver the solution? 
+  * CY23Q3
