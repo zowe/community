@@ -24,7 +24,7 @@ OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventi
 Meeting Recordings: [Day 3](https://zoom.us/rec/share/H-DZC8zOtlJMqd8xTtIg1HV5q_ZeepngpaP5IKUtA7HTJDSu8dkNS4KbgHaSPKe9.RPQ0ctLlPynCIjYt?startTime=1666875197000)
 <br>
 
-Innovation Sprint Meeting and Recordings
+Innovation Sprint Meetings and Recordings
 
 [Day 1]()<br>
 Innovation Sprint Kickoff<br>
