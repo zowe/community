@@ -24,15 +24,16 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 
 | Name | GitHub ID | Email | Roles |
 |-|-|-|-|
+| Amanda D'Errico | @AmandaDErrico | amanda.derrico@ibm.com | Developer |
+| Amber Torrise | @ATorrise | amber.torrise@broadcom.com | Developer |
 | Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
-| Andrew Harn | @awharn |andrew.harn@broadcom.com | Developer |
+| Andrew Harn | @awharn | andrew.harn@broadcom.com | Developer |
 | Eugene Johnston | @gejohnston | eugene.johnston@broadcom.com | Architect, Developer |
 | Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Lead, TSC Rep, Developer |
 | James Bauman | @JamesBauman | james.bauman@broadcom.com | Tech Writer |
 | Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
 | Kevin Loesch | @KevinLoesch1 | kevin.loesch@broadcom.com | Architect, Developer |
-| Mike Bauer | @MikeBauerCA | Michael.Bauer2@broadcom.com | Consultant |
-| Naman Patel | @namanpatel1112 | Naman.Patel@ibm.com | Developer |
+| Mike Bauer | @MikeBauerCA | michael.bauer2@broadcom.com | Consultant |
 | Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
 
 See the full lists below:
