@@ -23,9 +23,9 @@ Types of the issues:
 Importance of the issue as perceived by squad organized by importance:
 
 - priority-critical - An issue that needs to be resolved within this PI, ideally within next sprint
-- priority-high - An important issue that should be at least considered for the next PI, ideally within this one, if there is spare capacity
-- priority-medium - An issue that is not very important so it will be planned in the PI, once there are no more important issues
-- priority-low - An issue that is recognized by the squad but that is not considered very important 
+- priority-high: The submitter has indicated (or the reviewer has deemed) the issue is critical, causing significant detrimental impact such as production outage, data corruption, security exposure etc. The issue should be pulled in to the current PI if possible. If not, the issue should be planned for the next PI.
+- priority-medium: The submitter has indicated or confirmed this issue is not causing significant detrimental impact such as production outage, data corruption, security exposure - however the technology is not functioning properly. The issue should be considered and planned for the next PI provided other higher or equivalent priority issues have not utilized available capacity.
+- priority-low: The submitter has indicated or confirmed this issue is either more cosmetic or a nice-to-have improvement. The issue should be prioritized and planned based on popularity (see voting), capacity, and submitter-availability for engagement and participation in the resolution.
 
 For Bugs it is also possible to reflect the perceived impact of the issue by its severity:
 
@@ -34,8 +34,9 @@ For Bugs it is also possible to reflect the perceived impact of the issue by its
 - severity-medium - A bug where workaround exists or that does not prevent the usage of the Zowe or the use case, just makes it more complex
 - severity-low - A bug that makes the usage of the Zowe less convenient but does not impact key use cases
 
-When figuring out the next issue to work on the squad take into account the amount of thumbs-ups the users gave
-to the specific issue. The squad can find the information on the issues tab in the Github as shown on the figure 1.
+When figuring out the next issue to work on the squad take into account the amount and type of engagements as well as the willingness 
+of the author to help with resolution of the issue. One of the good ways to show interest is to use thumbs-up. The amount of thumbs-ups the users gave
+to the specific issue is on the issues tab in the Github as shown on the figure 1.
 
 ![Thumbs-up view](issues-thumbs-up.png "Figure 1: Thumbs-up view")
 
@@ -49,3 +50,6 @@ Every issue is triaged latest within the 90 days of the creation of the issue.
 The isues that are older than 180 days will be triaged at least once every PI unless they are associated with 
 existing Epic, Milestone or other means squad uses to organize the issues into larger projects. The issues are either kept, linked to an epic, milestone or closed if they aren't considered relevant by the squad 
 anymore. 
+
+To understand the state of the issues the TSC as part of the TSC Update during the PI Planning will share and 
+comment current situation of our projects. 
