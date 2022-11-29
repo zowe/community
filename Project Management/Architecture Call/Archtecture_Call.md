@@ -1,5 +1,7 @@
 # Architecture Call Recordings
 
+[11-29-2022](https://zoom.us/rec/share/b9ZHQ_aNZ6XVqBQTi1qRlGGbrgs1ERnKxmxKvz8bD2U424x50FDFYt26dJVXY_Ac.0f9GeQFI_zJJg7hk?startTime=1669733794000) Meeting Recording
+
 [09-13-2022](https://zoom.us/rec/share/G2chaQjpcADJMcRHk2m64x5viqD2yxJltJ491fsnV859ZMKd3WDxHGiZ9L3-rPb6.V_xS9TXYn6kywC_Z?startTime=1663077494000) Meeting Recording
  
 [05-2402022](https://zoom.us/rec/share/dman7oe21xaWOPDmi1e3HiGmwKVXkvzWEdie1J59ieE-T9OtFY-mXg6qEab-DwQq.Bxqv9_0B_muo8AIl?startTime=1653400654000) Personal access token
