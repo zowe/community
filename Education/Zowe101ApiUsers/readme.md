@@ -7,3 +7,8 @@ If I finish this course, I will be aware of the APIs and services within Zowe. I
 **Personas:** Junior zOS Application Developer, Senior zOS Application Developer, Hybrid Developer, Junior SRE
 
 **Environments:** zOS System with Zowe installed, It’s probably possible to find a solution in the cloud. 
+
+## Structure of the course
+
+What are the APIs?
+Where do I learn more about Zowe and MF APIs?
