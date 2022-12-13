@@ -114,7 +114,7 @@ Sprint 6 - 2024/01/09 - 2024/01/22<br>
 #### 2.8 </br>
 - Code Freeze 2023/04/10<br>
 - RC Build 2023/04/11<br>
-- System Demo 2023/02/05<br>
+- System Demo 2023/05/02<br>
 - Testing 2023/04/11 - 2023/04/23<br>
 - GA 2023/04/24<br>
 
