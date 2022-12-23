@@ -1,11 +1,7 @@
 # Branding 
 
-The point of this document is to give us a Zowe understanding on what we can do with our brand and in what way. 
-In general we want to use the shared branding so the customers are clean in their understanding on what Zowe
-consists of. 
+All the projects by default use the default Zowe logo and imagery. The projects don't create derivates
+or use custom logos other than the Zowe one. 
 
-It's possible to ask for a brand. 
-
-## 
-
-What do you need to
+It's possible to ask for an exception. The TSC needs to approve the exception and the derived work
+needs to be created by or consulted with the Linux Foundation art team. 
