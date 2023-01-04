@@ -1,71 +1,62 @@
-# Zowe Web UI - 22PI2 Objectives (2022/04/26 - 2022/07/25)
+# Zowe Web UI - 22PI4 - (2022/10/25 - 2023/01/23)
 
 ## In-squad tasks
 
-### V2.1, 2.2 enhancements: Schema validation, [parmlib support](https://github.com/zowe/zlux/issues/777), [speedup](https://github.com/zowe/zowe-install-packaging/issues/2825)
+### Server extension package registry [#449](https://github.com/zowe/zlux/issues/449)
 **Priority**: 1
 
-**Status**: In the last PI we discussed making a utility that can read schema files, and also read config file(s). One or more files, parmlib or unix files.
-That utility exists now and works well. https://zowe.jfrog.io/zowe/libs-snapshot-local/org/zowe/configmgr/0.3.0-feature_build-deps/
-And every squad helped to make schema files that we would use with it.
-What did not make 2.0 release was to enhance the zowe server infrastructure code to drive all config loading & validation through this tool.
-We're hard at work on that enhancement right now, so we estimate it fits into the 2.1 release.
+**Description**: Release the code within https://github.com/zowe/zowe-install-packaging/pull/2980 either initially with npm as the backing store or even by completing the conda support so that both are available. This code needs a registry to be useful, so optional content on artifactory will be re-packaged as npm/conda modules and hosted on jfrog npm/conda registry as a starting point for people to begin to leverage this feature.
 
-**Squad to work with**: System squad. This work was somewhere in between System squad, zOS squad, and webUI squad. At this point the work is really systems squad code but we're all assisting so I'm writing it here for visibility.
+**Status**: npm support functional, conda support incomplete. Neither have registries, and which extensions should be put into a registry has not been investigated yet. However, much of these tasks are simple to accomplish. Perhaps the biggest task will be education & documentation.
 
-### Shortcut and folder support for Desktop
+### Document app-server and desktop messages [#732](https://github.com/zowe/zlux/issues/732) [#733](https://github.com/zowe/zlux/issues/733)
 **Priority**: 2
-
-**Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
-
-**Status**: Nearly complete, just needs code cleanup and bug fixes.
-
-
-### V2 fixes and user assistance [community](https://github.com/zowe/community/labels/V2) [zlux](https://github.com/zowe/zlux/labels/V2) [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging/labels/v2)
-**Priority**: 3
-
-**Description**: Including ensuring containers are working as intended. Resolve as many v2 bug tickets as possible from 'zlux', 'community', and 'zowe-install-packaging' with bug tag. Engage with known extenders to explain v2 and answer questions, troubleshoot, and gather feedback for improvement now or over time.
-
-**Status**: Ongoing as-needed.
-
-### Server setup wizard research
-**Priority**: 4
-
-**Description**: Last year, ZAC was shown a UI wizard that helps you to install & configure Zowe server components. v2 simplification and schemas should be used to make such a UI more powerful and lower maintenance.
-
-We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
-**Status**: First meeting pending
-
-### z/OS Squad maturity
-**Priority**: 5
-
-**Description**: Web UI squad members will continue to work to get z/OS squad the maturity items they need to succeed, such as helping them get all sorts of github assets like PR templates and contributing guides, to helping enhance existing automation.
-
-**Status**: Ongoing
-
-### Document app-server and desktop messges [#732](https://github.com/zowe/zlux/issues/732) [#733](https://github.com/zowe/zlux/issues/733)
-**Priority**: 6
 
 **Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
 Subtasks:
 * [app-server](https://github.com/zowe/zlux/issues/732)
 * [desktop](https://github.com/zowe/zlux/issues/733)
 
-**Status**: ZSS messages completed last PI, but others not started. There are a few hundred messages to describe.
+**Status**: Overall about 2/5 of the messages have been documented so far during the last PI.
 
-## Golden CII Badge Analysis
-**Priority**: 7
 
-**Description**: [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
-This is a goal shared across all the Zowe active squads. In the context of this PI the goal is to understand what needs to be done in order to achieve the conformance. 
+### Shortcut and folder support for Desktop [#821](https://github.com/zowe/zlux/issues/821)
+**Priority**: 3
 
+**Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
+
+**Status**: Nearly complete, just needs code cleanup and bug fixes.
+
+### Enhance github issue system
+**Priority**: 4
+
+**Description**: Between the TSC and the VSC Explorer and CLI groups we learned that there are requirements and suggestions around github labels and how to automate the status of tickets relative to the labels. We need to go through the backlog to clean it up by assigning relevant labels and pruning old tickets.
+
+**Status**: Not yet started
 
 ## Stretch tasks
 
-### Dataset creation API and Desktop UI
-**Description**: Add an API to ZSS which allows a user to create a dataset when the client provides defaults or fully specified dataset parameters. Make a panel in the file tree component used by the Desktop Editor and open for use by others which would present a dialogue for setting those parameters or using the defaults. Immediate end user result would be the ability to create datasets from the Desktop Editor.
 
-**Status**: More than halfway done. An API PR exists, a UI PR exists, but there are some remaining dataset size parameters which have not yet been added to the API.
+### Switch tn3270-ng2 app to use OMP's tsterm [#869](https://github.com/zowe/zlux/issues/869)
+**Priority**: 5
+
+**Description**: OMP's tsterm library is a fork of the Zowe library used within the tn3270-ng2 app. This fork promises improved ease of maintenance and may make the terminal app easier to enhance down the road, so switching to it is strategic for long-term health.
+
+
+### Server setup wizard research
+**Priority**: 6
+
+**Description**: Last year, ZAC was shown a UI wizard that helps you to install & configure Zowe server components. v2 simplification and schemas should be used to make such a UI more powerful and lower maintenance.
+
+We aim to research and share info with the group that started the project, and as the web UI squad has plenty of UI developers, perhaps we can help there too.
+This year, our squad made a prototype of getting schema linting within a monaco editor, so we'd like to start by donating that in an electron context to fit into the overall wizard.
+**Status**: Not started
+
+# Roadmap
+
+Our roadmap details are here https://app.zenhub.com/workspaces/web-ui-squad-60549e46bd10bf00115d1f69/roadmap?invite=true
+![web ui squad Roadmap 2022-10-27](https://user-images.githubusercontent.com/30730276/198327017-24660649-94af-4b79-a18d-3a14e11724b4.svg)
+
 
 # How to get involved
 ### Other tasks

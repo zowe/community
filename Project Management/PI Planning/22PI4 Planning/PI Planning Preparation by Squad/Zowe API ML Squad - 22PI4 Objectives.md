@@ -4,9 +4,17 @@
 
 * [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to log in just once to a corporate-wide IAM solution like Okta, Ping Identity, or KeyCloak and still be recognized by the Mainframe security under my Mainframe identity (to which my Mainframe access rights are bound).
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. 
 
-As a Mainframe user, I want to be able to access all the Mainframe services protected by SAF and to which I'm entitled, in the same way as the non-mainframe services protected by the central IAM, using only my network (aka distributed) identity. Additionally, I want API ML to validate that the client application I'm using to access the mainframe resources is authorized for such access.
+## API Portal
+
+* [API Portal #2586](https://github.com/zowe/api-layer/issues/2586)
+
+As a system programmer or application developer, I want to have one easy place to see all the APIs available within the company with great examples of how to use them. I want to see even the APIs I don't have installed in the systems yet.
+
+As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.
+
+As a system programmer or application developer I want to be able to explore the APIs and get better idea on what I may ask for even for the APIs that aren't installed yet.
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -25,7 +33,6 @@ API ML Squad Plan:
 - [Support remapping to passtickets #2046](https://github.com/zowe/api-layer/issues/2046)
 - [Support Bypassing the authentication #2047](https://github.com/zowe/api-layer/issues/2047)  
 
-
 ## Golden CII Badge
 
 The goal is shared across the whole Zowe and it represents requirements from the Open Mainframe Project. 
@@ -42,3 +49,82 @@ API ML Squad Plan:
 ## Zowe / api-layer backlog management
 
 * [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI1)
+
+## Roadmap
+
+### Identity Federation 
+
+- What problem are you solving?
+  - The customers want to integrate their already existing distributed SSO with the Mainframe SSO. 
+- What are you doing to solve it? 
+  - Providing support for the OIDC protocol. 
+- When do you plan to start the work? 
+  - 22PI3
+- When do you plan to deliver the solution? 
+  - 23PI1
+
+### API Portal 
+
+- What problem are you solving?
+  - The customers want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs. 
+- What are you doing to solve it? 
+  - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
+- When do you plan to start the work? 
+  - 22PI4
+- When do you plan to deliver the solution? 
+  - 23PI2
+
+### Enable API ML to validate Conformance
+
+- What problem are you solving?
+  - The users, extenders and Zowe can't verify the claims in the conformance program
+- What are you doing to solve it? 
+  - Provide endpoint to verify for running and onboarded service whether it fulfils conformance criteria
+- When do you plan to start the work? 
+  - 22PI2
+- When do you plan to deliver the solution? 
+  - 23PI2
+
+### Seamless upgrade to API ML
+
+- What problem are you solving?
+  - The update od Zowe and especially API ML can break the extensions of the API ML and break the configuration
+- What are you doing to solve it? 
+  - Provide customers with alternative path that does the upgrade
+- When do you plan to start the work? 
+  - 23PI1
+- When do you plan to deliver the solution? 
+  - 23PI1
+
+### True Dynamic Discovery
+
+- What problem are you solving?
+  - The current discovery service is just a registry where someone needs to register the services. 
+- What are you doing to solve it? 
+  - Explore the available services and landscape and discover all the services that can be onboarded to the API ML. 
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Report API ML State to MF System Programmer
+
+- What problem are you solving?
+  - The System Programmers can't automate the reaction to API ML going down
+- What are you doing to solve it? 
+  - Publish properly the messages about the start and stop of the API ML
+- When do you plan to start the work? 
+  - 23PI3
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Supportability of Zowe
+
+- What problem are you solving?
+  - Getting the information to support properly the Zowe is complicated and unfriendly
+- What are you doing to solve it? 
+  - Update the tools, configuration and documentation to simplify the work. 
+- When do you plan to start the work? 
+  - 23PI4
+- When do you plan to deliver the solution? 
+  - 23PI4
