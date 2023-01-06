@@ -29,6 +29,7 @@ After this chapter the student should be able to answer:
 - What is the difference between business and infrastructure APIs?
 - What are the example use cases to use API?
 - Where do I find Zowe Conformant APIs?
+- Wy you should care about APIs?
 
 ### Chapter 2
 
@@ -40,6 +41,7 @@ and the role of each of the components.
 - The API Catalog showing the list of available APIs including their documentation and the possibility to test their
   usage
 - The Caching Service used for High Availability deployments
+- Why you should use the API Mediation Layer?
 
 After this chapter the student should be able to answer:
 
