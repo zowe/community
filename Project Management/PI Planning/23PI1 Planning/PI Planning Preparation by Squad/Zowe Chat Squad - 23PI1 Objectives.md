@@ -1,4 +1,4 @@
-# Zowe Chat Squad - 23PI1 - (2023/1/xx - 2023/4/xx)
+# Zowe Chat Squad - 23PI1 - (2023/01/24 - 2023/04/24)
 
 The key focus areas for the Chat Squad this PI are working down technical debt and preparing for our first GA release.
 
@@ -7,7 +7,7 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 ### Incident Model and Event-Driven Notifications
 - [Merge in event notification client, and provide documentation explaining how event producers can use the event notification capability](https://github.com/zowe/zowe-chat/issues/128)
   * Discuss eventing requirements and capabilities with the Zowe community.
-### Inline help support (Priority 1)
+### Inline help support 
 - [Add `help` command group](https://github.com/zowe/zowe-chat/issues/135)
 
 ### Query z/OS Knowledge Base
@@ -17,7 +17,7 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - other actions for job 
 
 ## Extensibility
-### Expand Plugin Extensibility (Priority 1)
+### Expand Plugin Extensibility 
 - [Build out documentation and suggested best practices for writing Zowe Chat Plugins, and create a sample project](https://github.com/zowe/zowe-chat/issues/73)
   * The best practices and documentation should serve as a precuursor to conformance criteria later.
 - Add support for new requirements
@@ -34,12 +34,17 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 
 ## Documentation, Outreachs
 
-### Documentation enhancement (Priority 2)
+### Documentation enhancement
 - [Administration guide](https://github.com/zowe/zowe-chat/issues/71)
 - [Extending guide](https://github.com/zowe/zowe-chat/issues/73)
 
-### Intro to Zowe Chat articles
+### Intro to Zowe Chat blog series
 - [Blog Series](https://github.com/zowe/zowe-chat/issues/137)
+
+## Depedencies, Risks
+
+- No dependencies identified on other squads
+- No major risks identified as of kickoff 
 
 
 ## Roadmap Items
