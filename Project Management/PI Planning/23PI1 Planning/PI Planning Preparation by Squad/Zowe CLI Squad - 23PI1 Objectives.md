@@ -8,9 +8,8 @@ Implement a suitable replacement to the Keytar package with minimal impact to ou
 ## CLI: Zowe CLI on Unix System Services
 Mainframe customers like to experiment with Zowe w/o requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
 #### CLI Squad Plan:
-Certify and document how to use of Zowe CLI on z/OS (USS)
-  - Requires Daemon testing (USS executable) / zLinux daemon works
-  - May require in-memory (or other?) credential management
+- Certify and document how to use of Zowe CLI on z/OS (USS)
+- May require in-memory (or other?) credential management
 
 ## CLI: Cleanup the CLI and Imperative Backlogs
 As a Zowe CLI user, I want a backlog where I can find relevant information about future enhancements I can expect, and where I can provide feedback as I find opportunities for improvement.
@@ -25,14 +24,14 @@ Continue to review, prioritize, and implement:
   - Enhancements: Priority High (and above)
   - [Highly upvoted issues](https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 
-## CLI: (STRETCH) Finalize the Jobs & Files Enhancements (deprioritized in favor of Keytar replacement efforts) 
+## CLI: (STRETCH) Finalize the Jobs & Files Enhancements (Carryover)
 As a Zowe CLI user, I want to perform more complex (jobs & files) tasks to reduce the amount of scripting and make interactive commands more efficient.
 #### CLI Squad Plan:
 Finalize the complex z/OS Jobs and z/OS Files commands (milestone)
   - CLI#1098  Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances enhancement
   - CLI#1097 Zowe Files Edit Data-Set and USS Files
 
-## CLI: (STRETCH) Complete the CII Badge Requirements
+## CLI: (STRETCH) Complete the CII Badge Requirements (Carryover)
 This is a shared goal across all Zowe active squads. The goal is to achieve the Passing level of conformance and make progress towards the Silver badge. For more information, see: [zowe/community#1273](https://github.com/zowe/community/issues/1279).
 #### CLI Squad Plan:
 We will continue to work towrads the Gold CII badge requirements listed below:
@@ -42,6 +41,8 @@ More information:
 - Passing: https://bestpractices.coreinfrastructure.org/en/criteria/0
 - Silver: https://bestpractices.coreinfrastructure.org/en/criteria/1
 - Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
+
+--- 
 
 # Zowe CLI / Zowe SDK Roadmap
 
