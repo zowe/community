@@ -2,48 +2,6 @@
 
 ## PI Schedule
 
-### 22PI1 - (2022/01/25 - 2022/04/25)
-
-Planning - 2022/01/25 - 2022/01/31<br>
-Sprint 1 - 2022/02/01 - 2022/02/14 (Innovation Sprint)<br>
-Sprint 2 - 2022/02/15 - 2022/02/28<br>
-Sprint 3 - 2022/03/01 - 2022/03/14<br>
-Sprint 4 - 2022/03/15 - 2022/03/28<br>
-Sprint 5 - 2022/03/29 - 2022/04/11<br>
-Sprint 6 - 2022/04/12 - 2022/04/25<br>
-
-### 22PI2 - (2022/04/26 - 2022/07/25)
-
-Planning - 2022/04/26 - 2022/05/02<br>
-Sprint 1 - 2022/05/03 - 2022/05/16 (Innovation Sprint)<br>
-Sprint 2 - 2022/05/17 - 2022/05/30<br>
-Sprint 3 - 2022/05/31 - 2022/06/13<br>
-Sprint 4 - 2022/06/14 - 2022/06/27<br>
-Sprint 5 - 2022/06/28 - 2022/07/11<br>
-Sprint 6 - 2022/07/12 - 2022/07/25<br>
-
-### 22PI3 - (2022/07/26 - 2022/10/24)
-
-Planning - (2022/07/26 - 2022/08/01)<br>
-- Wednesday, July 27 - Opening (Day 1)<br>
-- Thursday, July 28 - Breakouts (Optional) (Day 2)<br>
-- Friday, July 29 - Final Readouts (Day 3)<br>
-
-Sprint 1 - 2022/08/02 - 2022/08/15 (Innovation Sprint)<br>
-- Open Source (week 1)<br>
--- Tuesday, July 26 - Kickoff Meeting (Repurpose Architecture Call)<br>
--- Tuesday, August 9 - Final presentations (Repurpose Architecture Call)<br>
-- Internal Innovation (week 2)<br>
--- Monday, August 8 - Kickoff Meeting<br>
--- Friday, August 11 - Final presentations<br>
-
-Sprint 2 - 2022/08/16 - 2022/08/29<br>
-Sprint 3 - 2022/08/30 - 2022/09/12<br>
-Sprint 4 - 2022/09/13 - 2022/09/26<br>
-Sprint 5 - 2022/09/27 - 2022/10/10<br>
-Sprint 6 - 2022/10/11 - 2022/10/24<br>
-
-
 ### 22PI4 - (2022/10/25 - 2023/01/23)
 
 Planning - 2022/10/25 - 2022/10/31<br>
@@ -66,11 +24,78 @@ Sprint 2 - 2022/11/15 - 2022/11/28<br>
 Sprint 3 - 2022/11/29 - 2022/12/12<br>
 Sprint 4 - 2022/12/13 - 2022/12/26<br>
 Sprint 5 - 2022/12/27 - 2023/01/09<br>
-Sprint 6 - 2023/01/10 - 2022/01/23<br>
+Sprint 6 - 2023/01/10 - 2023/01/23<br>
+
+## 23PI1 - (2023/01/24 - 2023/04/24)
+
+Planning - 2023/01/24 - 2023/01/30<br>
+
+- Wednesday, January 25 - Opening (Day 1)<br>
+- Thursday, January 26 - Breakouts (Optional) (Day 2)<br>
+- Friday, January 27 - Final Readouts (Day 3)<br>
+
+Sprint 1 - 2023/01/31 - 2023/02/13 (Innovation Sprint)<br>
+Sprint 2 - 2023/02/14 - 2023/02/27<br>
+Sprint 3 - 2023/02/28 - 2023/03/13<br>
+Sprint 4 - 2023/03/14 - 2023/03/27<br>
+Sprint 5 - 2023/03/28 - 2023/04/10<br>
+Sprint 6 - 2023/04/11 - 2023/04/24<br>
+
+## 23PI2 - (2023/04/25 - 2023/07/24)
+
+Planning - 2023/04/25 - 2023/05/01<br>
+
+- Wednesday, April 26 - Opening (Day 1)<br>
+- Thursday, April 27 - Breakouts (Optional) (Day 2)<br>
+- Friday, April 28 - Final Readouts (Day 3)<br>
+
+Sprint 1 - 2023/05/02 - 2023/05/15 (Innovation Sprint)<br>
+Sprint 2 - 2023/05/16 - 2023/05/29<br>
+Sprint 3 - 2023/05/30 - 2023/06/12<br>
+Sprint 4 - 2023/06/13 - 2023/06/26<br>
+Sprint 5 - 2023/06/27 - 2023/07/10<br>
+Sprint 6 - 2023/07/11 - 2023/07/24<br>
+
+## 23PI3 - (2023/07/25 - 2023/10/23)
+
+Planning - 2023/07/25 - 2023/07/31<br>
+
+- Wednesday, July 26 - Opening (Day 1)<br>
+- Thursday, July 27 - Breakouts (Optional) (Day 2)<br>
+- Friday, July 28 - Final Readouts (Day 3)<br>
+
+Sprint 1 - 2023/08/01 - 2023/08/14 (Innovation Sprint)<br>
+Sprint 2 - 2023/08/15 - 2023/08/28<br>
+Sprint 3 - 2023/08/29 - 2023/09/11<br>
+Sprint 4 - 2023/09/12 - 2023/09/25<br>
+Sprint 5 - 2023/09/26 - 2023/10/09<br>
+Sprint 6 - 2023/10/10 - 2023/10/23<br>
+
+## 23PI4 - (2023/10/24 - 2024/01/22)
+
+Planning - 2023/10/24 - 2023/10/30<br>
+
+- Wednesday, October 25 - Opening (Day 1)<br>
+- Thursday, October 26 - Breakouts (Optional) (Day 2)<br>
+- Friday, October 27 - Final Readouts (Day 3)<br>
+
+Sprint 1 - 2023/10/31 - 2023/11/13 (Innovation Sprint)<br>
+Sprint 2 - 2023/11/14 - 2023/11/27<br>
+Sprint 3 - 2023/11/28 - 2023/12/11<br>
+Sprint 4 - 2023/12/12 - 2023/12/25<br>
+Sprint 5 - 2023/12/26 - 2024/01/08<br>
+Sprint 6 - 2024/01/09 - 2024/01/22<br>
 
 ## Releases
 
 ### V2
+
+#### 2.5 </br>
+- Code Freeze 2022/11/29<br>
+- RC Build 2022/11/30<br>
+- System Demo 2022/12/19<br>
+- Testing 2022/11/30 - 2022/12/12<br>
+- GA 2022/12/12<br>
 
 #### 2.6 </br>
 - Code Freeze 2023/01/10<br>
@@ -79,12 +104,97 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - Testing 2023/01/11 - 2023/01/23<br>
 - GA 2023/01/23<br>
 
-#### 2.5 </br>
-- Code Freeze 2022/11/29<br>
-- RC Build 2022/11/30<br>
-- System Demo 2022/12/19<br>
-- Testing 2022/11/30 - 2022/12/12<br>
-- GA 2022/12/12<br>
+#### 2.7 </br>
+- Code Freeze 2023/03/07<br>
+- RC Build 2023/03/08<br>
+- System Demo 2023/03/20<br>
+- Testing 2023/03/08 - 2023/03/12<br>
+- GA 2023/03/13<br>
+
+#### 2.8 </br>
+- Code Freeze 2023/04/10<br>
+- RC Build 2023/04/11<br>
+- System Demo 2023/05/02<br>
+- Testing 2023/04/11 - 2023/04/23<br>
+- GA 2023/04/24<br>
+
+#### 2.9 </br>
+- Code Freeze 2023/05/30<br>
+- RC Build 2023/05/31<br>
+- System Demo 2023/06/19<br>
+- Testing 2023/05/31 - 2023/06/11<br>
+- GA 2023/06/12<br>
+
+#### 2.10 </br>
+- Code Freeze 2023/07/10<br>
+- RC Build 2023/07/11<br>
+- System Demo 2023/07/31<br>
+- Testing 2023/07/11 - 2023/07/23<br>
+- GA 2023/07/24<br>
+
+#### 2.11 </br>
+- Code Freeze 2023/08/29<br>
+- RC Build 2023/08/30<br>
+- System Demo 2023/09/18<br>
+- Testing 2023/08/30 - 2023/09/10<br>
+- GA 2023/09/11<br>
+
+#### 2.12 </br>
+- Code Freeze 2023/10/10<br>
+- RC Build 2023/10/11<br>
+- System Demo 2023/10/30<br>
+- Testing 2023/10/11 - 2023/10/22<br>
+- GA 2023/10/23<br>
+
+#### 2.13 </br>
+- Code Freeze 2023/11/28<br>
+- RC Build 2023/11/29<br>
+- System Demo 2023/12/18<br>
+- Testing 2023/11/29 - 2023/12/10<br>
+- GA 2023/12/11<br>
+
+#### 2.14 </br>
+- Code Freeze 2024/01/09<br>
+- RC Build 2024/01/10<br>
+- System Demo 2024/01/30<br>
+- Testing 2024/01/10 - 2024/01/21<br>
+- GA 2024/01/22<br>
+
+### V1
+
+#### 1.28.2 <br/>
+- Code Freeze 2022/11/15<br>
+- RC Build 2022/11/16<br>
+- Testing 2022/11/16 - 2022/11/28<br>
+- GA 2022/11/28<br>
+
+#### 1.28.3 <br/>
+- Code Freeze 2023/03/22<br>
+- RC Build 2023/03/23<br>
+- Testing 2023/03/23 - 2023/04/02<br>
+- GA 20232/04/03<br>
+
+#### 1.28.4 <br/>
+- Code Freeze 2023/06/20<br>
+- RC Build 2023/06/21<br>
+- Testing 2023/06/21 - 2023/07/02<br>
+- GA 2023/07/03<br>
+
+#### 1.28.5 <br/>
+- Code Freeze 2023/09/19<br>
+- RC Build 2023/09/20<br>
+- Testing 2023/09/20 - 2022/10/01<br>
+- GA 2023/10/02<br>
+
+#### 1.28.6 <br/>
+- Code Freeze 2023/12/26<br>
+- RC Build 2023/12/27<br>
+- Testing 2023/12/27 - 2024/01/07<br>
+- GA 2024/01/08<br>
+
+## Past releases
+
+## V2
 
 #### 2.4 </br>
 - Code Freeze 2022/10/04<br>
@@ -121,14 +231,7 @@ Sprint 6 - 2023/01/10 - 2022/01/23<br>
 - Testing 2022/04/13 - 2022/04/25<br>
 - GA 2022/04/25<br>
 
-
-### V1
-
-#### 1.28.2 <br/>
-- Code Freeze 2022/11/15<br>
-- RC Build 2022/11/16<br>
-- Testing 2022/11/16 - 2022/11/28<br>
-- GA 2022/11/28<br>
+## V1
 
 #### 1.28.1 <br/>
 - Code Freeze 2022/08/15<br>
