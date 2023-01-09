@@ -36,3 +36,8 @@ Work items:
   - Zowe Documentation PR Review and Merge Guide
   - Zowe Documentation Issue triage guide
   - Zowe Documentation Analytics Guide
+
+## Zowe CLI
+
+- Complete Zowe CLI Day One Checklist.
+  - Includes a list of tasks that users can/should complete after CLI is installed and the installation checklist is completed.
