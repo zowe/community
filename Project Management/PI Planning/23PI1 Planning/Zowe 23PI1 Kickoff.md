@@ -1,5 +1,8 @@
 #  23PI1 Joint PI Planning Kickoff
 
+## Meeting Recording
+https://zoom.us/rec/share/T0n9Km3hELK8T7RvohHMs8Mchh9huBPvLnttJeU9cuXF5YwaGS-7kIXXOqSMxCOm.VEwmCajHmJOHrYlF?startTime=1673272330000
+
 ## Schedule
 ### Planning - 2023/01/24 - 2023/01/30<br>
 
