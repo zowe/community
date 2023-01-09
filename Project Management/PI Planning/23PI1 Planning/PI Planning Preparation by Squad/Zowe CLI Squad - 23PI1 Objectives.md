@@ -1,7 +1,7 @@
-# Zowe CLI Squad - 23PI1 - (2022/10/25 - 2023/01/23)
+# Zowe CLI Squad - 23PI1 - (2023/01/24 - 2023/04/24)
 
 ## CLI: Keytar replacement
-Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we now lack an actively maintained library for secure credential storage.
+Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an alternative for secure credential storage.
 #### CLI Squad Plan:
 Implement a suitable replacement to the Keytar package with minimal impact to our end users
 
@@ -48,7 +48,7 @@ More information:
 ## (New) Keytar Replacement
 
 - _What problem are you solving?_
-  - Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we now lack an actively maintained library for secure credential storage.
+  - Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an alternative for secure credential storage.
 - _What are you doing to solve it?_
   - Implement a suitable replacement to the Keytar package with minimal impact to our end users.
 - _When do you plan to start the work?_
