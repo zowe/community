@@ -14,6 +14,10 @@ At the end of the course the students should be able to answer all the questions
 as be able to resolve a real world problem focusing on automation of the processes in the enterprise
 using the Zowe APIs as well as the conformant APIs. 
 
+This is where this chapter fits in the general image: 
+
+![Overall Zowe landscape](HighlightedAPIML.png "Figure 1: Overall Zowe landscape and this course")
+
 ### Chapter 1
 
 This chapter will focus on APIs. What the API mean, How such API could look like, What is the role of the 
