@@ -38,6 +38,6 @@ Sprint 6 - 2023/04/11 - 2023/04/24<br>
 
 ## Incubators<br>
 - [Zebra]()<br>
-- [IntelliJ]()<br>
+- [IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI1%20Objectives.md)<br>
 - [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI1%20Objectives.md)<br>
 - [Zowe Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI1%20Objectives.md)<br>
