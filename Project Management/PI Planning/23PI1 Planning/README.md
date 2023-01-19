@@ -254,7 +254,7 @@ Squad Breakout
             <tr>
                 <td>Squad Breakout</td>
                 <td>2023-01-26</td>
-                <td>1:00 PM</td>
+                <td>11:00 AM</td>
 <td>
 
 Squad Breakout
