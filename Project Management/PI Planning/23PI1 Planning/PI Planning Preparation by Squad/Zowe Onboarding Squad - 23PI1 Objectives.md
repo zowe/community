@@ -1,26 +1,28 @@
-# Zowe Onboarding Squad - 23PI1 - (2023/1/xx - 2023/03/xx)
+# Zowe Onboarding Squad - 23PI1 - (2023/1/24 - 2023/04/24)
 
-## (1) Goal:  Drive Continuous Community Outreach:  Support Existing practices & programs to improve communication
-- Finalize CY23 Conferences and begin actively Securing Content & Speakers
+## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
+- Finalize CY23 Conferences / Secure Content & Speakers
+- Create and manage a tracking system for Zowe blogs
 - Quarterly Webinars (next rev Mar)
 - Roadmap (Next rev)
+- Q of M (Feb, Mar, Apr)
 - Introduce zowe.org sign-up for the USER mailing list
-- Ongoing zowe.org improvements
+- Publish zowe.org (rev 1) / continue efforts on zowe.org (rev 2)
 
-## (2) Goal:  Community Growth: Evaluate / Improve Conformance & Incubator programs  
+## (2) Goal:  Community Growth: Prepare for new and next rev Conformance programs  
 - Prepare for Conformance Program (v3) (Templates)
-- Assist in / delivery of:  SDK & Explorer for Intelli J Conformance Programs
-- Revised Conformance Application Process
-- Implement recommendations to increase Community & Extender diversity
+- Assist in / delivery of:  SDK, Explorer for Intelli J Conformance Programs
+- [stretch] Brainstorm & draft recruitment plan to increase contributors on squads-in-need (Systems, z/OS, ZEBRA)
 
-## (3) Goal:  Education & Certification / Establish a plan  
-- Advance E&C efforts / introduce PILOT course (API-ML 101)
-- Determine next steps
+## (3) Goal:  Education & Certification / Advance efforts
+- Obtain LF feedback on draft
+- Introduce PILOT course (API-ML 101)
+- Evaluate Pilot / Determine next steps
 
 ## Dependencies
-- ZAC:  Collaborate on Quarterly Webinar Roadmap 
-- TSC:  Zowe Squad participation in E&C pilot
+- ZAC:  Collaborate on: Blogs, Quarterly Webinar, Roadmap 
 - DOC:  Zowe.org updates / coordination
 - ALL:  Roadmap updates / Q of the MONTH input    
-- Explorer for IntelliJ:  Guide & support any work on conformance program
+- Explorer for IntelliJ:  Guide & support conformance program
+- CLI:  Guide & support SDK conformance program
 
