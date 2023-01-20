@@ -4,22 +4,22 @@
 
 ### Users would like to see Zowe Explorer supported in multiple different environments.
 
-- [ ] [Enable ZE and ZFTP to be used on vscode.dev](https://github.com/zowe/vscode-extension-for-zowe/issues/1798)
 - [ ] [Add support for Kubernetes Secrets in Che](https://github.com/zowe/vscode-extension-for-zowe/issues/1963)
-- [ ] [ STRETCH] [Investigate support for Zowe Explorer in Codespaces](https://github.com/zowe/vscode-extension-for-zowe/issues/1854)
+- [ ] [STRETCH] [Investigate support for Zowe Explorer in Codespaces](https://github.com/zowe/vscode-extension-for-zowe/issues/1854)
+- [ ] [Deferred] [Enable ZE and ZFTP to be used on vscode.dev](https://github.com/zowe/vscode-extension-for-zowe/issues/1798)
 
 ### Users would like better Logging from Zowe Explorer to help troubleshoot issues.
 
 - [ ] [Bug: Issue with log file path when using VSC Dev Host](https://github.com/zowe/vscode-extension-for-zowe/issues/1926)
 - [ ] [Create a set of Rules for developers for use of different levels and how to handle customer information in the logs.](https://github.com/zowe/vscode-extension-for-zowe/issues/1962)
-- [ ] [ STRETCH] [Zowe Explorer User Setting for log level.](https://github.com/zowe/vscode-extension-for-zowe/issues/1961)
-- [ ] [STRETCH][Zowe Explorer Output View logging](https://github.com/zowe/vscode-extension-for-zowe/issues/1918)
+- [ ] [Zowe Explorer User Setting for log level.](https://github.com/zowe/vscode-extension-for-zowe/issues/1961)
+- [ ] [Zowe Explorer Output View logging](https://github.com/zowe/vscode-extension-for-zowe/issues/1918)
 
 ### Increase Zowe Explorer stability and error handling
 
 - [ ] [Allow users to easily open team config to address errors from readFromDisk()](https://github.com/zowe/vscode-extension-for-zowe/issues/1986)
 - [ ] [Loading project in theia/che environment config not recognized until reload](https://github.com/zowe/vscode-extension-for-zowe/issues/1984)
-- [ ] [STRETCH] [Minimize the activate() function to have less chance of failure](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
+- [ ] [Minimize the activate() function to have less chance of failure](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
 
 ## High Priority items and technical debt 
 
