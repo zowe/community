@@ -248,6 +248,20 @@ Squad Breakout
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
     </tbody>
 
+<tbody>
+            <tr>
+                <td>Squad Breakout</td>
+                <td>2023-01-26</td>
+                <td>8:00 AM</td>
+<td>
+
+Squad Breakout
+- Zowe IntelliJ Squad
+    - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
+
+</td>
+                <td></td>
+    </tbody>
 
 
 <tbody>
