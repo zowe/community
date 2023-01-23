@@ -15,6 +15,13 @@ Plan:
 - [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
 - [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)
 - [Publish the Zowe CLI Plugin #2762](https://github.com/zowe/api-layer/issues/2762)
+
+## As a System Administrator, I need to know about every authentication attempt #2533
+
+If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
+
+As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
+
 - [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
 - [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
 - [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
@@ -22,9 +29,7 @@ Plan:
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 * [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future (not in this PI!).  
-
-In this PI we intend to create new service based on SCG and deploy it alongside the existing Gateway. 
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.  
 
 API ML Squad Plan:  
 - [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)  
@@ -45,7 +50,14 @@ API ML Squad Plan:
 
 ## Zowe / api-layer backlog management
 
-* [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI1)
+- [Password is required for configuration with keyring #2643](https://github.com/zowe/api-layer/issues/2643)
+- [APIML shows several ports in close wait #2738](https://github.com/zowe/api-layer/issues/2738)
+- [Too many failed WebSocket connections can produce java.lang.OutOfMemoryError: Java heap space #2716](https://github.com/zowe/api-layer/issues/2716)
+- [java.net.MalformedURLException: unknown protocol: safkeyring during service startup - Need keyring support #2601](https://github.com/zowe/api-layer/issues/2601)
+- [Gateway login failure generates 2 failures instead of 1 #2675](https://github.com/zowe/api-layer/issues/2675)
+- [TN3270 doesn't work on 7554 port #2603](https://github.com/zowe/api-layer/issues/2603)
+- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
+- [Wizard for static onboarding doesn't work #2647](https://github.com/zowe/api-layer/issues/2647)
 
 ## Roadmap
 
@@ -71,6 +83,39 @@ API ML Squad Plan:
 - When do you plan to deliver the solution? 
   - 23PI2
 
+### Improve Fault tolerance testing
+
+- What problem are you solving?
+  - The problems related to fault tolerance are found in the user's systems. 
+- What are you doing to solve it? 
+  - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues. 
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Simplify Support of Zowe
+
+- What problem are you solving?
+  - Currently it's difficult for Users to self-analyze and fix the configuration of Zowe
+- What are you doing to solve it? 
+  - We need to improve the tooling and documentation for the users to be able to self-diagnose issues with Zowe
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Observability for API ML
+
+- What problem are you solving?
+  - The customers need to integrate the mainframe APIs into their wider observability effort. 
+- What are you doing to solve it? 
+  - Implementing the integration of the API ML traffic data with popular solutions such as Splunk or ELK stack
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
 ### Improve Onboarding of Internal APIs
 
 - What problem are you solving?
@@ -78,9 +123,9 @@ API ML Squad Plan:
 - What are you doing to solve it? 
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services. 
 - When do you plan to start the work? 
-  - 23PI2
+  - 23PI3
 - When do you plan to deliver the solution? 
-  - 23PI2
+  - 23PI3
 
 ### Enable API ML to validate Conformance
 
@@ -111,6 +156,6 @@ API ML Squad Plan:
 - What are you doing to solve it? 
   - Explore the available services and landscape and discover all the services that can be onboarded to the API ML. 
 - When do you plan to start the work? 
-  - 23PI2
+  - 24PI1
 - When do you plan to deliver the solution? 
-  - 23PI3
+  - 24PI1
