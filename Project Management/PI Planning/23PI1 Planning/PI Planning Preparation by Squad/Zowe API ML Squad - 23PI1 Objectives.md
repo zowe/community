@@ -50,7 +50,14 @@ API ML Squad Plan:
 
 ## Zowe / api-layer backlog management
 
-* [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI1)
+- [Password is required for configuration with keyring #2643](https://github.com/zowe/api-layer/issues/2643)
+- [APIML shows several ports in close wait #2738](https://github.com/zowe/api-layer/issues/2738)
+- [Too many failed WebSocket connections can produce java.lang.OutOfMemoryError: Java heap space #2716](https://github.com/zowe/api-layer/issues/2716)
+- [java.net.MalformedURLException: unknown protocol: safkeyring during service startup - Need keyring support #2601](https://github.com/zowe/api-layer/issues/2601)
+- [Gateway login failure generates 2 failures instead of 1 #2675](https://github.com/zowe/api-layer/issues/2675)
+- [TN3270 doesn't work on 7554 port #2603](https://github.com/zowe/api-layer/issues/2603)
+- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
+- [Wizard for static onboarding doesn't work #2647](https://github.com/zowe/api-layer/issues/2647)
 
 ## Roadmap
 
