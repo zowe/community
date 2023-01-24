@@ -35,6 +35,10 @@ Planning - 2023/01/24 - 2023/01/30<br>
 - Friday, January 27 - Final Readouts (Day 3)<br>
 
 Sprint 1 - 2023/01/31 - 2023/02/13 (Innovation Sprint)<br>
+- Tuesday, January 31 - Innovation Sprint Kickoff<br>
+- Monday, February (6 - 10) - Innovation Sprint Breakouts<br>
+- Tuesday, February 14 - Innovation Sprint Final Readouts<br>
+
 Sprint 2 - 2023/02/14 - 2023/02/27<br>
 Sprint 3 - 2023/02/28 - 2023/03/13<br>
 Sprint 4 - 2023/03/14 - 2023/03/27<br>
