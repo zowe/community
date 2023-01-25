@@ -7,11 +7,18 @@ The primary goals for the system squad this PI continue as before - maintaining 
     * Covers installing Node 18 and updating our test matrix to use node 18, and forwarding any issues found to squads 
 - [Java 11 Installation](https://github.com/zowe/zowe-install-packaging/issues/2975)
 - [Verify - wash.zowe.org Jenkins decommissioning can proceed](https://github.com/zowe/zowe-install-packaging/issues/3233)
-- [Open Mainframe - new mainframe environment]()
+- [Open Mainframe - new mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
     * No new information yet - 1/6/23
 
 ## Onboarding
 - [Prepare systems squad onnboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+  * [Zowe-Install-Packaging Structure, README Review](https://github.com/zowe/zowe-install-packaging/issues/3245)
+  * [Release Process and Activities](https://github.com/zowe/zowe-install-packaging/issues/3246)
+  * [Infrastructure Management, Debugging](https://github.com/zowe/zowe-install-packaging/issues/3247)
+  * [Pipelines Development and Debugging](https://github.com/zowe/zowe-install-packaging/issues/3248)
+  * [zwe config manager mode](https://github.com/zowe/zowe-install-packaging/issues/3251)
+  * [zwe bridge between shell and config manager](https://github.com/zowe/zowe-install-packaging/issues/3252)
+  * [zowe launcher](https://github.com/zowe/zowe-install-packaging/issues/3254)
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
