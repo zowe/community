@@ -6,26 +6,31 @@ The primary goals for the system squad this PI continue as before - maintaining 
 - [Node v18 Installation](https://github.com/zowe/zowe-install-packaging/issues/3130)
     * Covers installing Node 18 and updating our test matrix to use node 18, and forwarding any issues found to squads 
 - [Java 11 Installation](https://github.com/zowe/zowe-install-packaging/issues/2975)
-- Verify - wash.zowe.org Jenkins decommissioning can proceed
+- [Verify - wash.zowe.org Jenkins decommissioning can proceed](https://github.com/zowe/zowe-install-packaging/issues/3233)
 - [Open Mainframe - new mainframe environment]()
     * No new information yet - 1/6/23
 
+## Onboarding
+- [Prepare systems squad onnboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
-
-## On the backlog (not in plan)
-- [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
-- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
-- [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
-
-### CI/CD and Release Automation Improvements
-- [Add internal documentation for making changes which impact datasets or dataset members](https://github.com/zowe/zowe-install-packaging/issues/3124)
-- [PR Labels allow triggering longer-running builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
 
 ### Dependencies, Risks
 - No dependencies on other teams this PI. 
 - No newly identified risks - business as usual interruptions (responding to a security release, helping with RCs/releases).
 
+
+
+
+### Not in plan
+
+### CI/CD and Release Automation Improvements
+- [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
+- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
+- [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+- [Add internal documentation for making changes which impact datasets or dataset members](https://github.com/zowe/zowe-install-packaging/issues/3124)
+- [PR Labels allow triggering longer-running builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
 
 
 
