@@ -25,6 +25,8 @@ already done by the party bringing the vulnerability forward. A Security workgro
 be assigned to the issue for further investigation and will track the issue until closure. 
 During the closure, the disclosure process will be initiated.
 
+The closure means that the fix is available and published. 
+
 ## Step 3: Limited Public Disclosure
 
 This step is proposed to coordinate with the vendors using and supporting Zowe. At this stage we
