@@ -193,9 +193,7 @@ Squad Breakout
 Squad Breakout
 - WebUI Squad
     - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
-
-- Systems Squad
-    - Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+<br>
 
 </td>
                 <td></td>
