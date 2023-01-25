@@ -1,32 +1,35 @@
-# Zowe API ML Squad - 23PI1 Objectives (Oct 2022 to Jan 2023)
+# Zowe API ML Squad - 23PI1 Objectives (Jan 2023 to Apr 2023)
 
 ## Identity Federation #2481
 
 * [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. 
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs. As a last step I want to make sure that all the authentication related events are properly auditable. 
 
 Plan:
-- [API ML Clients Application Registry #2653](https://github.com/zowe/api-layer/issues/2653)
 - [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
 - [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
+- [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
+- [SPIKE: Central API ML clustering #2666](https://github.com/zowe/api-layer/issues/2666)
+- [apimlAuthenticationToken is overwritten when user works on multiple zowe instances #2636](https://github.com/zowe/api-layer/issues/2636)
+- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
+- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)
+- [Publish the Zowe CLI Plugin #2762](https://github.com/zowe/api-layer/issues/2762)
 
-## API Portal
+## As a System Administrator, I need to know about every authentication attempt #2533
 
-* [API Portal #2586](https://github.com/zowe/api-layer/issues/2586)
+If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
 
-As a system programmer or application developer, I want to have one easy place to see all the APIs available within the company with great examples of how to use them. I want to see even the APIs I don't have installed in the systems yet.
+As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
 
-As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.
-
-As a system programmer or application developer I want to be able to explore the APIs and get better idea on what I may ask for even for the APIs that aren't installed yet.
+- [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
+- [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
+- [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 * [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future (not in this PI!).  
-
-In this PI we intend to create new service based on SCG and deploy it alongside the existing Gateway. 
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.  
 
 API ML Squad Plan:  
 - [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)  
@@ -45,17 +48,16 @@ API ML Squad Plan:
 - [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)  
 - [Increasing number of WARN logs #2429](https://github.com/zowe/api-layer/issues/2429)  
 
-## As a System Administrator, I need to know about every authentication attempt #2533
-
-If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
-
-As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
-
-* [As a system administrator, I need to know about every authentication attempts#2533](https://github.com/zowe/api-layer/issues/2533)
-
 ## Zowe / api-layer backlog management
 
-* [Focus on priority / high impact issues in Github](https://github.com/zowe/api-layer/labels/22PI1)
+- [Password is required for configuration with keyring #2643](https://github.com/zowe/api-layer/issues/2643)
+- [APIML shows several ports in close wait #2738](https://github.com/zowe/api-layer/issues/2738)
+- [Too many failed WebSocket connections can produce java.lang.OutOfMemoryError: Java heap space #2716](https://github.com/zowe/api-layer/issues/2716)
+- [java.net.MalformedURLException: unknown protocol: safkeyring during service startup - Need keyring support #2601](https://github.com/zowe/api-layer/issues/2601)
+- [Gateway login failure generates 2 failures instead of 1 #2675](https://github.com/zowe/api-layer/issues/2675)
+- [TN3270 doesn't work on 7554 port #2603](https://github.com/zowe/api-layer/issues/2603)
+- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
+- [Wizard for static onboarding doesn't work #2647](https://github.com/zowe/api-layer/issues/2647)
 
 ## Roadmap
 
@@ -70,7 +72,7 @@ As a system administrator, I would like to know about every authentication attem
 - When do you plan to deliver the solution? 
   - 23PI1
 
-### API Portal 
+### API Developer Portal 
 
 - What problem are you solving?
   - The customers want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs. 
@@ -81,6 +83,39 @@ As a system administrator, I would like to know about every authentication attem
 - When do you plan to deliver the solution? 
   - 23PI2
 
+### Improve Fault tolerance testing
+
+- What problem are you solving?
+  - The problems related to fault tolerance are found in the user's systems. 
+- What are you doing to solve it? 
+  - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues. 
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Simplify Support of Zowe
+
+- What problem are you solving?
+  - Currently it's difficult for Users to self-analyze and fix the configuration of Zowe
+- What are you doing to solve it? 
+  - We need to improve the tooling and documentation for the users to be able to self-diagnose issues with Zowe
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
+### Observability for API ML
+
+- What problem are you solving?
+  - The customers need to integrate the mainframe APIs into their wider observability effort. 
+- What are you doing to solve it? 
+  - Implementing the integration of the API ML traffic data with popular solutions such as Splunk or ELK stack
+- When do you plan to start the work? 
+  - 23PI2
+- When do you plan to deliver the solution? 
+  - 23PI3
+
 ### Improve Onboarding of Internal APIs
 
 - What problem are you solving?
@@ -88,9 +123,9 @@ As a system administrator, I would like to know about every authentication attem
 - What are you doing to solve it? 
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services. 
 - When do you plan to start the work? 
-  - 23PI2
+  - 23PI3
 - When do you plan to deliver the solution? 
-  - 23PI2
+  - 23PI3
 
 ### Enable API ML to validate Conformance
 
@@ -121,28 +156,6 @@ As a system administrator, I would like to know about every authentication attem
 - What are you doing to solve it? 
   - Explore the available services and landscape and discover all the services that can be onboarded to the API ML. 
 - When do you plan to start the work? 
-  - 23PI2
+  - 24PI1
 - When do you plan to deliver the solution? 
-  - 23PI3
-
-### Report API ML State to MF System Programmer
-
-- What problem are you solving?
-  - The System Programmers can't automate the reaction to API ML going down
-- What are you doing to solve it? 
-  - Publish properly the messages about the start and stop of the API ML
-- When do you plan to start the work? 
-  - 23PI3
-- When do you plan to deliver the solution? 
-  - 23PI3
-
-### Supportability of Zowe
-
-- What problem are you solving?
-  - Getting the information to support properly the Zowe is complicated and unfriendly
-- What are you doing to solve it? 
-  - Update the tools, configuration and documentation to simplify the work. 
-- When do you plan to start the work? 
-  - 23PI4
-- When do you plan to deliver the solution? 
-  - 23PI4
+  - 24PI1
