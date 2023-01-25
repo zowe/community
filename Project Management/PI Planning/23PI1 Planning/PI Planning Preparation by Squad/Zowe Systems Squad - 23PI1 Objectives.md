@@ -7,7 +7,7 @@ The primary goals for the system squad this PI continue as before - maintaining 
     * Covers installing Node 18 and updating our test matrix to use node 18, and forwarding any issues found to squads 
 - [Java 11 Installation](https://github.com/zowe/zowe-install-packaging/issues/2975)
 - [Verify - wash.zowe.org Jenkins decommissioning can proceed](https://github.com/zowe/zowe-install-packaging/issues/3233)
-- [Open Mainframe - new mainframe environment]()
+- [Open Mainframe - new mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
     * No new information yet - 1/6/23
 
 ## Onboarding
