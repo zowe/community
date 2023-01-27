@@ -33,6 +33,7 @@
 - [ ] [JOBS section refresh & multiple tabs](https://github.com/zowe/vscode-extension-for-zowe/issues/1952)
 - [ ] [Update eslint rules for errors](https://github.com/zowe/vscode-extension-for-zowe/issues/2068)
 - [ ] [Clean-up rediscovered code smells/duplication warnings](https://github.com/zowe/vscode-extension-for-zowe/issues/2063)
+- [ ] [Integration test improvements](https://github.com/zowe/vscode-extension-for-zowe/issues/2103)
 - [ ] [Zowe profiles in Zowe Explorer should allow and use value of specification for --console-name to be used when issuing commands](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
 
 ## Golden CII Badge
