@@ -2,7 +2,7 @@
 
 ## App Framework/WebUI Squad ##
 
-### 1) App Store UI ###
+### App Store UI ###
 
 Proposed mentor: Leanid Astrakou
 
