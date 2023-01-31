@@ -35,6 +35,7 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 | Kevin Loesch | @KevinLoesch1 | kevin.loesch@broadcom.com | Architect, Developer |
 | Mike Bauer | @MikeBauerCA | michael.bauer2@broadcom.com | Consultant |
 | Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
+| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
 
 See the full lists below:
 - https://github.com/orgs/zowe/teams/zowe-cli-administrators
@@ -68,6 +69,8 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 | Peter Haumer | @phaumer | phaumer@us.ibm.com | Developer |
 | Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer |
 | Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer |
+| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
+| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
 
 See the full lists below:
 - https://github.com/orgs/zowe/teams/zowe-explorer-administrators
