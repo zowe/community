@@ -1,4 +1,4 @@
-# Zowe Web UI - 23PI1 - (2022/10/25 - 2023/01/23)
+# Zowe Web UI - 23PI1 - (Jan 2023 to Apr 2023)
 
 # In-squad tasks
 
@@ -40,7 +40,7 @@ zss had similarly complexity and has been reduced to just
     zowe.yaml
     defaults.yaml packaged within zss (https://github.com/zowe/zss/blob/v2.x/staging/defaults.yaml)
 
-So, we can reduce bugs, simplify troubleshooting and make our code easier to understand by outsiders by refactoring the app-server startup to be based upon thezowe YAML solely and use 'defaults.yaml' as a way to set our complex defaults.
+So, we can reduce bugs, simplify troubleshooting and make our code easier to understand by outsiders by refactoring the app-server startup to be based upon the zowe YAML solely and use 'defaults.yaml' as a way to set our complex defaults.
 
 
 ## Web browser app enhancements [#880](https://github.com/zowe/zlux/issues/880)
@@ -74,4 +74,4 @@ The Web UI squad has more ideas than listed here, and can be seen at our [github
 ### Contact us
 Please find us in the #zowe-dev slack if you wish to become involved!
 
-Join us every Friday at 9am EST on Zoom at https://zoom.us/j/99494243697 where we give weekly standup, demos, and discussions.
+Join us every Friday at 9am EST on Zoom at https://zoom.us/j/97568592079 where we give weekly standup, demos, and discussions.

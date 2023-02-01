@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, January 25th, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/96730567503<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1786761&calstart=2023-01-25<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/mrk8SEQK7k0AzePyc_nJPBWkzZIz57Onb3PGsV3lFG_SVInwuBhLZRvxQN7sXE80.EScqIfum55af6CCz)
 <br>
 
 Day 2\
@@ -21,7 +21,7 @@ Day 3\
 When: Friday, January 27th, 2023 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/99201292176<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1786781&calstart=2023-01-27<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/tn-XzlgUjZ4mi9xCmqKp1haG3aseVCqoefsnCGQVfpOEou6I9IF-jIBwDMJK4j2o.KWGUhLVLgSxuoRrn)
 <br>
 
 Innovation Sprint Meeting Recordings
@@ -32,9 +32,9 @@ Innovation Sprint Meeting Recordings
 
 
 Opening Presentations<br>
-[Introduction and Agenda]()<br>
-[ZAC Opening]()<br>
-[TSC Opening]()<br>
+[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/Zowe%2023PI1%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
+[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/ZAC%20Zowe%2023PI1%20Planning%20Kickoff.pptx)<br>
+[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/Zowe%2023PI1%20TSC%20Focus.pptx)<br>
 Squad PI Objectives<br>
 [Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI1%20Objectives.md)<br>
 [Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI1%20Objectives.md)<br>
@@ -193,9 +193,7 @@ Squad Breakout
 Squad Breakout
 - WebUI Squad
     - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
-
-- Systems Squad
-    - Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+<br>
 
 </td>
                 <td></td>
@@ -383,6 +381,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote Question](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/Zowe_22PI4_Confidence_Vote_Question.png)<br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/22PI4%20Planning/Zowe_22PI4_Confidence_Vote.png)<br>
-[Closing Comments]()<br>
+[Confidence Vote Question](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/Zowe_23PI1_Confidence_Vote_Question.png)<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/Zowe_23PI1_Confidence_Vote.png)<br>
+[Closing Comments](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/Zowe%2023PI1%20Planning%20End.pptx)<br>
