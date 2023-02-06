@@ -12,7 +12,14 @@ The primary goals for the system squad this PI continue as before - maintaining 
 
 ## Onboarding
 - [Prepare systems squad onnboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
-
+  * [Zowe-Install-Packaging Structure, README Review](https://github.com/zowe/zowe-install-packaging/issues/3245)
+  * [Release Process and Activities](https://github.com/zowe/zowe-install-packaging/issues/3246)
+  * [Infrastructure Management, Debugging](https://github.com/zowe/zowe-install-packaging/issues/3247)
+  * [Pipelines Development and Debugging](https://github.com/zowe/zowe-install-packaging/issues/3248)
+  * [zwe config manager mode](https://github.com/zowe/zowe-install-packaging/issues/3251)
+  * [zwe bridge between shell and config manager](https://github.com/zowe/zowe-install-packaging/issues/3252)
+  * [zowe launcher](https://github.com/zowe/zowe-install-packaging/issues/3254)
+  
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
 
