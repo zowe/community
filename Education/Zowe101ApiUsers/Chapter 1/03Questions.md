@@ -31,20 +31,20 @@
 ## What kind of organizations benefit from the API economy?
 
 - **Organizations of any size, which are able to leverage the APIs provided by others to provide new services. Also the companies using the APIs as a way to split the development work between multiple teams**
-- a
-- a
-- a
+- Only small organizations that doesn't have enough developer's to develop their own APIs
+- Only large organizations as this allows them to collaborate with other large organizations with less oversight
+- Only medium organizations as it gives them the flexibility of small organizations with the structure coming with larger company
 
 ## How can a startup use open banking APIs?
 
+- Use it to send money on behalf of any of the account holders. 
 - **Provide the information on the status of the accounts of the same person from multiple banks as well as allow operations such as sending money from multiple banks at once.**
-- a
-- a
-- a
+- Impersonate the person and send the money without auhentication from the user. 
+- Read the information about all the accounts that specific bank hold
 
 ## Are there any regulations that need to be followed when using open banking APIs?
 
+- EU PISA regulation
+- Executive Order on Cybersecurity
 - **PSD2 in Europe**
-- a
-- a
-- a
+- EU Cyber Security Act
