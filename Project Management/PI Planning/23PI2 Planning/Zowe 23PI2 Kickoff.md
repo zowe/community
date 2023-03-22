@@ -1,7 +1,7 @@
 #  23PI2 Joint PI Planning Kickoff
 
 ## Meeting Recording
-https://zoom.us/rec/share/T0n9Km3hELK8T7RvohHMs8Mchh9huBPvLnttJeU9cuXF5YwaGS-7kIXXOqSMxCOm.VEwmCajHmJOHrYlF?startTime=1673272330000
+
 
 ## Schedule
 ### Planning - 2023/04/25 - 2023/05/01<br>
@@ -25,7 +25,7 @@ Sprint 6 - 2023/07/11 - 2023/07/24<br>
 - Squad surveys (optional)
 
   Squads<br>
-- [Zowe Advisory Council (ZAC)]()<br>
+- [Zowe Advisory Council (ZAC)](ttps://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI2%20Objectives.md)<br>
 - [Technical Steering Committee (TSC)]()<br>
 - [Documentation Squad](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI2%20Objectives.md)<br>
 - [Systems Squad (includes CI-CD, HA, Performance)](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI2%20Objectives.md)<br>
