@@ -11,7 +11,6 @@ Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spr
 
 API ML Squad Plan:  
 - [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)  
-- [Support remapping of the x509 authentication #2044](https://github.com/zowe/api-layer/issues/2044)
 - [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
 
 ## Golden CII Badge
@@ -22,9 +21,7 @@ The goal is shared across the whole Zowe and it represents requirements from the
 
 API ML Squad Plan:
 
-- [Increase coverage of statements to 90% #2487](https://github.com/zowe/api-layer/issues/2487)  
 - [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)  
-- [Increasing number of WARN logs #2429](https://github.com/zowe/api-layer/issues/2429)  
 
 ## Zowe / api-layer backlog management
 
