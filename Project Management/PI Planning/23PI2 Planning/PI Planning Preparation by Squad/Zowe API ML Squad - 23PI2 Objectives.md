@@ -1,30 +1,8 @@
 # Zowe API ML Squad - 23PI1 Objectives (Jan 2023 to Apr 2023)
 
-## Identity Federation #2481
+## API Developer Portal
 
-* [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs. As a last step I want to make sure that all the authentication related events are properly auditable. 
-
-Plan:
-- [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
-- [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
-- [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
-- [SPIKE: Central API ML clustering #2666](https://github.com/zowe/api-layer/issues/2666)
-- [apimlAuthenticationToken is overwritten when user works on multiple zowe instances #2636](https://github.com/zowe/api-layer/issues/2636)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)
-- [Publish the Zowe CLI Plugin #2762](https://github.com/zowe/api-layer/issues/2762)
-
-## As a System Administrator, I need to know about every authentication attempt #2533
-
-If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
-
-As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
-
-- [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
-- [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
-- [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -50,27 +28,9 @@ API ML Squad Plan:
 
 ## Zowe / api-layer backlog management
 
-- [Password is required for configuration with keyring #2643](https://github.com/zowe/api-layer/issues/2643)
-- [APIML shows several ports in close wait #2738](https://github.com/zowe/api-layer/issues/2738)
-- [Too many failed WebSocket connections can produce java.lang.OutOfMemoryError: Java heap space #2716](https://github.com/zowe/api-layer/issues/2716)
-- [java.net.MalformedURLException: unknown protocol: safkeyring during service startup - Need keyring support #2601](https://github.com/zowe/api-layer/issues/2601)
-- [Gateway login failure generates 2 failures instead of 1 #2675](https://github.com/zowe/api-layer/issues/2675)
-- [TN3270 doesn't work on 7554 port #2603](https://github.com/zowe/api-layer/issues/2603)
 - [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
-- [Wizard for static onboarding doesn't work #2647](https://github.com/zowe/api-layer/issues/2647)
 
 ## Roadmap
-
-### Identity Federation 
-
-- What problem are you solving?
-  - The customers want to integrate their already existing distributed SSO with the Mainframe SSO. 
-- What are you doing to solve it? 
-  - Providing support for the OIDC protocol. 
-- When do you plan to start the work? 
-  - 22PI3
-- When do you plan to deliver the solution? 
-  - 23PI1
 
 ### API Developer Portal 
 
