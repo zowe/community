@@ -1,30 +1,82 @@
 # Zowe API ML Squad - 23PI1 Objectives (Jan 2023 to Apr 2023)
 
-## Identity Federation #2481
+## API Developer Portal
 
-* [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
+As a Tyler, I want to customize the Catalog to adopt my company's branding guidelines, so that the Catalog fits more seamlessly into my company's web assets.
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs. As a last step I want to make sure that all the authentication related events are properly auditable. 
+**API ML Squad Plan:**
 
-Plan:
-- [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
-- [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
-- [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
-- [SPIKE: Central API ML clustering #2666](https://github.com/zowe/api-layer/issues/2666)
-- [apimlAuthenticationToken is overwritten when user works on multiple zowe instances #2636](https://github.com/zowe/api-layer/issues/2636)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)
-- [Publish the Zowe CLI Plugin #2762](https://github.com/zowe/api-layer/issues/2762)
+- []()
 
-## As a System Administrator, I need to know about every authentication attempt #2533
+## Supportability of Zowe
 
-If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
+Zowe need to provide a set of features to enhance the support experience of Zowe, reduce the number of support cases, reducing MTTR of identifying defects' root causes and configuration problems.
 
-As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
+**Problems to solve:**
 
-- [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
-- [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
-- [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
+- The issue we are seeing is that with the current tooling, it's difficult for the Zowe users to understand what's wrong and resolve the problem themselves without needing external help.
+- For the L1 support it's difficult to retrieve the information about the system from the user.
+
+**API ML Squad plan:**
+
+- [Easier debugging of swagger doc rendering](https://github.com/zowe/api-layer/issues/2315)
+- [Have a message written to the MVS console when all of the Zowe components have successfully started ](https://github.com/zowe/zowe-install-packaging/issues/1248)
+- [Do not log the full stracktrace for common errors](https://github.com/zowe/api-layer/issues/2614)
+- [Allow Zowe Launcher writes to system log WTOR](https://github.com/zowe/launcher/issues/5)
+- [Unify and differentiate logging between platforms. ](https://github.com/zowe/api-layer/issues/1181)
+- [Improve configuration of the components](https://github.com/zowe/api-layer/issues/2296)
+- [Easier debugging of swagger doc rendering](https://github.com/zowe/api-layer/issues/2315)
+- [Incorrect log ID formatting?](https://github.com/zowe/api-layer/issues/2694)
+- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
+- [Improve the documentation for z/OSMF configuration](https://github.com/zowe/api-layer/issues/2826)
+- [Report API ML state to the MF System Programmer](https://github.com/zowe/api-layer/issues/1633)
+- [Add the unit tests to the Launcher](https://github.com/zowe/launcher/issues/77)
+
+**Bug Fixes**
+
+- [Gateway landing page not reflecting the correct Authentication service state](https://github.com/zowe/api-layer/issues/1562)
+- [Zowe log may contain ZWEAD400E error message even when everything works as expected](https://github.com/zowe/api-layer/issues/2836)
+- [Enhance messages in case of authentication failure with z/OSMF](https://github.com/zowe/api-layer/issues/2748)
+
+## Improve Fault Tolerance Testing
+
+The goal of this feature is preventative. It is to prevent High and Critical Severity events from happening in the customers' infrastructure by proactively identifying potential risk areas and by creating tests, ideally automated to guarantee or at least understand and limit the situations where the performance of the Zowe downgrades with impact on the users of testing.
+
+**Problems to solve:**
+
+- Zowe API Mediation Layer needs to have at least 99.99% availability even in an adverse environment\
+- Prevent downgrading of the functionality in typical risky scenarios such as one LPAR is down
+
+**The target audience:**
+
+- System Reliability Engineers. E.g. in our case Sysadmins.
+
+**Missing Functionality:**
+
+- What happens in case of incorrect and/or expired certificates?
+- What happens with hundreds of concurrent users?
+- How does the system fail under load?
+- What happens when one of the multiple LPARs with Zowe fails?
+- We need to let the user know when one of the instances in HA mode fails 
+- We need to reach approximately 8.76h a year downtime or up to 10 minutes downtime a week
+
+**API ML Squad plan:**
+
+- [Improve testing for the API Mediation Layer both on & off platform](https://github.com/zowe/api-layer/issues/1341)
+- [Enhance Integration test suite](https://github.com/zowe/api-layer/issues/1313)
+- [Enhance our smoke test suite](https://github.com/zowe/api-layer/issues/1332)
+- [Update start script testing](https://github.com/zowe/api-layer/issues/2130)
+- [Allow increasing memory](https://github.com/zowe/api-layer/issues/2559)
+- [Parameter to update max amount of simultaneous connections allowed with Websockets](https://github.com/zowe/api-layer/issues/2635)
+
+**Bug Fixes**
+
+- [Network error from API Catalog on system with Java 11](https://github.com/zowe/api-layer/issues/2677)
+
+## {Stretch} Observability
+
+We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
+Observability approach we also intend to deprecate and then archive the metrics service
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -33,7 +85,6 @@ Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spr
 
 API ML Squad Plan:  
 - [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)  
-- [Support remapping of the x509 authentication #2044](https://github.com/zowe/api-layer/issues/2044)
 - [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
 
 ## Golden CII Badge
@@ -44,33 +95,13 @@ The goal is shared across the whole Zowe and it represents requirements from the
 
 API ML Squad Plan:
 
-- [Increase coverage of statements to 90% #2487](https://github.com/zowe/api-layer/issues/2487)  
 - [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)  
-- [Increasing number of WARN logs #2429](https://github.com/zowe/api-layer/issues/2429)  
 
 ## Zowe / api-layer backlog management
 
-- [Password is required for configuration with keyring #2643](https://github.com/zowe/api-layer/issues/2643)
-- [APIML shows several ports in close wait #2738](https://github.com/zowe/api-layer/issues/2738)
-- [Too many failed WebSocket connections can produce java.lang.OutOfMemoryError: Java heap space #2716](https://github.com/zowe/api-layer/issues/2716)
-- [java.net.MalformedURLException: unknown protocol: safkeyring during service startup - Need keyring support #2601](https://github.com/zowe/api-layer/issues/2601)
-- [Gateway login failure generates 2 failures instead of 1 #2675](https://github.com/zowe/api-layer/issues/2675)
-- [TN3270 doesn't work on 7554 port #2603](https://github.com/zowe/api-layer/issues/2603)
 - [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
-- [Wizard for static onboarding doesn't work #2647](https://github.com/zowe/api-layer/issues/2647)
 
 ## Roadmap
-
-### Identity Federation 
-
-- What problem are you solving?
-  - The customers want to integrate their already existing distributed SSO with the Mainframe SSO. 
-- What are you doing to solve it? 
-  - Providing support for the OIDC protocol. 
-- When do you plan to start the work? 
-  - 22PI3
-- When do you plan to deliver the solution? 
-  - 23PI1
 
 ### API Developer Portal 
 
