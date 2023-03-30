@@ -1,13 +1,13 @@
-# Zowe Onboarding Squad - 23PI1 - (2023/1/24 - 2023/04/24)
+# Zowe Onboarding Squad - 23PI2 - (2023/4/xx - 2023/07/xx)
 
 ## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
 - Finalize CY23 Conferences / Secure Content & Speakers
 - Create and manage a tracking system for Zowe blogs
-- Quarterly Webinars (next rev Mar)
+- Quarterly Webinars (next rev Jun)
 - Roadmap (Next rev)
-- Q of M (Feb, Mar, Apr)
+- Q of M (May, Jun, Jul)
 - Introduce zowe.org sign-up for the USER mailing list
-- Publish zowe.org (rev 1) / continue efforts on zowe.org (rev 2)
+- Continue efforts on zowe.org (rev 2)
 
 ## (2) Goal:  Community Growth: Prepare for new and next rev Conformance programs  
 - Prepare for Conformance Program (v3) (Templates)
