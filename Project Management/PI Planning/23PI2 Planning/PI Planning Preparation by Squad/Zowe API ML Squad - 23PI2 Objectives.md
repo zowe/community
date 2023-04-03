@@ -1,8 +1,12 @@
-# Zowe API ML Squad - 23PI1 Objectives (Jan 2023 to Apr 2023)
+# Zowe API ML Squad - 23PI2 Objectives (April 2023 to July 2023)
 
-## API Developer Portal
+## API Catalog #2586
 
-As a Tyler, I want to customize the Catalog to adopt my company's branding guidelines, so that the Catalog fits more seamlessly into my company's web assets.
+As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.    
+- API Catalog supports templating so that it can be branded and themed according to user preferences  
+
+As a system programmer or application developer, I want to have one easy place to see all the APIs available within the company with great examples of how to use them. 
+- API Catalog contains UI enhancements
 
 **API ML Squad Plan:**
 
@@ -11,14 +15,14 @@ As a Tyler, I want to customize the Catalog to adopt my company's branding guide
 - [I want to see all APIs in sidebar with the possibility to see also their endpoints](https://github.com/zowe/api-layer/issues/2804)
 - [Update Container for API Catalog Deployment](https://github.com/zowe/api-layer/issues/2766)
 
-## Supportability of Zowe
+## Supportability of Zowe #1796
 
-Zowe need to provide a set of features to enhance the support experience of Zowe, reduce the number of support cases, reducing MTTR of identifying defects' root causes and configuration problems.
+Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.
 
 **Problems to solve:**
 
-- The issue we are seeing is that with the current tooling, it's difficult for the Zowe users to understand what's wrong and resolve the problem themselves without needing external help.
-- For the L1 support it's difficult to retrieve the information about the system from the user.
+- With current tooling, it's difficult for Zowe users to understand what's wrong and resolve the problem themselves without needing external help
+- For L1 support it's difficult to retrieve the information about the system from the user
 
 **API ML Squad plan:**
 
@@ -49,8 +53,8 @@ The goal of this feature is preventative. It is to prevent High and Critical Sev
 
 **Problems to solve:**
 
-- Zowe API Mediation Layer needs to have at least 99.99% availability even in an adverse environment\
-- Prevent downgrading of the functionality in typical risky scenarios such as one LPAR is down
+- Zowe API Mediation Layer to have at least 99.99% availability
+- Prevent downgrading of the functionality in typical risky scenarios such as where one LPAR is down
 
 **The target audience:**
 
@@ -63,7 +67,7 @@ The goal of this feature is preventative. It is to prevent High and Critical Sev
 - How does the system fail under load?
 - What happens when one of the multiple LPARs with Zowe fails?
 - We need to let the user know when one of the instances in HA mode fails
-- We need to reach approximately 8.76h a year downtime or up to 10 minutes downtime a week
+- We need to reach a ceiling of approximately 8.76h maximum a year downtime or no more than 10 minutes downtime a week
 
 **API ML Squad plan:**
 
@@ -78,15 +82,11 @@ The goal of this feature is preventative. It is to prevent High and Critical Sev
 
 - [Network error from API Catalog on system with Java 11](https://github.com/zowe/api-layer/issues/2677)
 
-## {Stretch} Observability
-
-We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
-Observability approach we also intend to deprecate and then archive the metrics service
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 * [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-  Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.
 
 API ML Squad Plan:
 - [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)
@@ -104,14 +104,19 @@ API ML Squad Plan:
 
 ## Zowe / api-layer backlog management
 
-- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)
+- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)  
+
+## {Stretch} Better Observability of onboarded services via Open Telemetry
+
+We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
+Observability approach we are also considering to deprecate and then archive the metrics service.
 
 ## Roadmap
 
 ### API Developer Portal
 
 - What problem are you solving?
-  - The customers want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
+  - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
 - What are you doing to solve it?
   - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
 - When do you plan to start the work?
