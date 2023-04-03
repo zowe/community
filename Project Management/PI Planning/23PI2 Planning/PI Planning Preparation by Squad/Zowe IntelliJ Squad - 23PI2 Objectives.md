@@ -1,4 +1,4 @@
-# Zowe IntelliJ Squad - 23PI1 - (2023/04/25 - 2023/07/24)
+# Zowe IntelliJ Squad - 23PI2 - (2023/04/25 - 2023/07/24)
 
 ## IntelliJ: API ML usage
 
