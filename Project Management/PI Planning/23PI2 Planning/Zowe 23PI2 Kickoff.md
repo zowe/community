@@ -1,7 +1,7 @@
 #  23PI2 Joint PI Planning Kickoff
 
 ## Meeting Recording
-
+[Link to Recording](https://zoom.us/rec/share/SmQryQt1I8Lt7IngXR5ZgnSNHkZ8IkWDntz2ylrQL5ji8sQ2lJtVZnyA_NTKg46d.yFTrDIfXEcCYUHM6?startTime=1680526689000) Zowe 23PI2 PI Planning Kickoff
 
 ## Schedule
 ### Planning - 2023/04/25 - 2023/05/01<br>
