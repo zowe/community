@@ -1,6 +1,6 @@
 # Zowe API ML Squad - 23PI2 Objectives (April 2023 to July 2023)
 
-## API Developer Portal #2586
+## API Catalog #2586
 
 As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.    
 - API Catalog supports templating so that it can be branded and themed according to user preferences  
