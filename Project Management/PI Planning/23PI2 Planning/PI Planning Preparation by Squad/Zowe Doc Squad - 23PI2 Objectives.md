@@ -22,7 +22,7 @@ Work items:
 
 ## Zowe Issue Triaging/Handling Guide
 
-* Help contributors understand the criteria and process for triaging and assigning issues
+* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. 
 ## Zowe.org 
 
 - Set up Zowe.org privacy policy and cookie cache notice ([#665](https://github.com/zowe/zowe.github.io/issues/665)) - Draft is ready! The next step is to implement a notice pop-up on zowe.org
@@ -44,10 +44,9 @@ Work items:
   - Zowe Documentation Issue triage guide
   - Zowe Documentation Analytics Guide
 
-* Completed Zowe CLI Day One Checklist.
-  - Includes a list of tasks that users can/should complete after CLI is installed and the installation checklist is completed.
+* Completed CLI Installation checklist
 
-* Zowe z/OS Components Installation Checklists  
+* Completed Zowe z/OS Components Installation Checklists  
   * Checklist for Production
   * Checklist for testing/MVP
 
