@@ -16,7 +16,7 @@ Plan:
 - [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)
 - [Publish the Zowe CLI Plugin #2762](https://github.com/zowe/api-layer/issues/2762)
 
-## As a System Administrator, I need to know about every authentication attempt #2533
+## SMF Records creation #2533
 
 If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
 
@@ -25,6 +25,10 @@ As a system administrator, I would like to know about every authentication attem
 - [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
 - [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
 - [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
+
+## Installation and usability study
+
+Together with the UX team we want to understand more in-depth what problems the customers face with respect to installation, configuration and support of the Zowe server side face and come up with action items based on the results. 
 
 ## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
