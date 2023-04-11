@@ -39,7 +39,7 @@ Squad PI Objectives<br>
 [Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI1%20Objectives.md)<br>
 [Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI1%20Objectives.md)<br>
 [API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI1%20Objectives.md)<br>
-[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI1%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI1%20Objectives.md)<br>
 [WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI1%20Objectives.md)<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI1%20Objectives.md)<br>
