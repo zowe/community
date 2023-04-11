@@ -1,7 +1,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>23PI1 PI Planning</H1><br>
+            <th colspan="5"><H1>23PI2 PI Planning</H1><br>
 
 Day 1\
 When: Wednesday, April 26, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
