@@ -1,38 +1,60 @@
 # Zowe Chat Squad - 23PI1 - (2023/01/24 - 2023/04/24)
 
-The key focus areas for the Chat Squad this PI are working down technical debt and preparing for our first GA release.
+The Chat Squad is low capacity; working on a few items on the critical path to GA.
 
 
 ## Capabilities
 ### Incident Model and Event-Driven Notifications
 - [Merge in event notification client, and provide documentation explaining how event producers can use the event notification capability](https://github.com/zowe/zowe-chat/issues/128)
   * Discuss eventing requirements and capabilities with the Zowe community.
+
+### Extensibility
+- [Review Plugin Load Design and Implementation]()
+  * Motivation: Make more of the loading process explicit and easier to build on. Review imperative/cli.
+
+### Distribution
+- [Chat Containerization]()
+
+### Depedencies, Risks
+
+- No dependencies identified on other squads
+- No major risks identified as of kickoff 
+
+
+## Moved into Backlog
+
+### Automation
+- [Zowe Bot System Tests (API Driven)]()
+  * [MSTeams]()
+  * [Mattermost]()
+  * [Slack]()
+- [Zowe Chat System Tests (UI Driven)]()
+  * [MSTeams]()
+  * [Mattermost]()
+  * [Slack]() 
+
+- [Zowe Chat Demo System on OMP Slack]()
+  * Note: need to solve backend system - hoping OMP MF addresses this
+
 ### Inline help support 
 - [Add `help` command group](https://github.com/zowe/zowe-chat/issues/135)
 
-### Query z/OS Knowledge Base
-- [Query knowledge base error code for z/OS](https://github.com/zowe/zowe-chat/issues/14)
-### Improve Existing Features
-- operation workflow
-- other actions for job 
-
-## Extensibility
 ### Expand Plugin Extensibility 
 - [Build out documentation and suggested best practices for writing Zowe Chat Plugins, and create a sample project](https://github.com/zowe/zowe-chat/issues/73)
   * The best practices and documentation should serve as a precuursor to conformance criteria later.
 - Add support for new requirements
   * [custom authentication providers within plugins](https://github.com/zowe/zowe-chat/issues/132)
-## Quality Enhancements, Technical Debt
-### Automation 
-- [automation: CI/CD pipeline setup & automation testing](https://github.com/zowe/zowe-chat/issues/12)
-- [automation: system tests]()
-- [automation: persistent zowe chat environments]()
+
+### Query z/OS Knowledge Base
+- [Query knowledge base error code for z/OS](https://github.com/zowe/zowe-chat/issues/14)
+
+### Improve Existing Features
+- operation workflow
+- other actions for job 
 
 ### Golden CII Badge & OpenSSF
 - [Analysis of current badging level and gaps]()
 - [OpenSSF Scorecard Investigation]()
-
-## Documentation, Outreachs
 
 ### Documentation enhancement
 - [Administration guide](https://github.com/zowe/zowe-chat/issues/71)
@@ -40,12 +62,6 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 
 ### Intro to Zowe Chat blog series
 - [Blog Series](https://github.com/zowe/zowe-chat/issues/137)
-
-## Depedencies, Risks
-
-- No dependencies identified on other squads
-- No major risks identified as of kickoff 
-
 
 ## Roadmap Items
 
@@ -55,9 +71,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Create a Zowe Chat Extension Guide, Sample Extension, and Conformance Program
 - When do you plan to start the work? 
-  * CY22Q4
+  * CY23Q2
 - When do you plan to deliver the solution? 
-  * CY22Q4
+  * CY23Q4
 
 ### Golden CII Badge Conformance
 - What problem are you solving? 
@@ -65,9 +81,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Investigating and implementing Golden CII badge requirements
 - When do you plan to start the work? 
-  * CY23Q1
+  * CY23Q3
 - When do you plan to deliver the solution? 
-  * CY23Q2
+  * CY23Q4
 
 ### Event-driven Notifications
 - What problem are you solving? 
@@ -75,9 +91,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Building server-side capability for receiving push events and a common model for describing them.
 - When do you plan to start the work? 
-  * CY22Q4
+  * CY23Q2
 - When do you plan to deliver the solution? 
-  * CY23Q1
+  * CY23Q3
 
 ### Zowe APIML Integration
 - What problem are you solving? 
@@ -85,9 +101,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Building an APIML Authn/Authz option and making Zowe chat a conformant APIML Web Service.
 - When do you plan to start the work? 
-  * CY23Q2
+  * CY23Q4
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY24Q1
 
 ### Zowe Web Desktop Integration
 - What problem are you solving? 
@@ -95,9 +111,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Make Zowe Chat a conformant App Framework plugin, or build a thin conformant plugin for Chat. 
 - When do you plan to start the work? 
-  * CY23Q2
+  * CY23Q4
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY22Q1
 
 ### Containerized Distribution (x86, x390x)
 - What problem are you solving? 
@@ -105,9 +121,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Building a containerized deployment, following Zowe's existing model w/ Kustomize.
 - When do you plan to start the work? 
-  * CY23Q3
+  * CY23Q2
 - When do you plan to deliver the solution? 
-  * CY23Q4
+  * CY23Q3
 
 ### Build a Demo Environment
 - What problem are you solving? 
@@ -115,6 +131,6 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Create a "production-like" deployment of Zowe Chat which runs in OMP Slack, and is backed by open infrastructure. Preferably OMP.
 - When do you plan to start the work? 
-  * CY22Q4
+  * CY23Q3
 - When do you plan to deliver the solution? 
-  * CY23Q1 
+  * CY23Q4 
