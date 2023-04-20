@@ -5,15 +5,16 @@
 Work items: 
 
 - Enrich the documentation to accelerate user's time to value:
+
+  - Improve user education on keystores & certificates, and how Zowe uses them [#1880](https://github.com/zowe/community/issues/1880) 
     
-  - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2545))
+  - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2563))
 
   - Simplify AT-TLS setup ([1879](https://github.com/zowe/community/issues/1879))
 
   - Incorporate Contribute resources that are currently only available in GitHub repos for better visibility (#[2650](https://github.com/zowe/docs-site/issues/2605))
 
   - Provide learning resources about open source and Linux 
-  
     “There's an expectation of familiarity with open source and Linux”  - *Zowe user*
 ## Define version Archiving Process
 
