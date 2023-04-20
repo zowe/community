@@ -44,9 +44,6 @@ Work items:
   - Zowe Documentation Issue triage guide
   - Zowe Documentation Analytics Guide
 
-* Completed Zowe CLI Day One Checklist.
-  - Includes a list of tasks that users can/should complete after CLI is installed and the installation checklist is completed.
-
 * Zowe z/OS Components Installation Checklists  
   * Checklist for Production
   * Checklist for testing/MVP
