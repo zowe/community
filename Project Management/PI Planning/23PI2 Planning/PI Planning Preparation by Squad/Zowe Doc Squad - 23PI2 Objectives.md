@@ -5,8 +5,10 @@
 Work items: 
 
 - Enrich the documentation to accelerate user's time to value:
+
+  - Improve user education on keystores & certificates, and how Zowe uses them [#1880](https://github.com/zowe/community/issues/1880) 
     
-  - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2545))
+  - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2563))
 
   - Simplify AT-TLS setup ([1879](https://github.com/zowe/community/issues/1879))
 
@@ -15,7 +17,6 @@ Work items:
   - Make sure internal and external documentation meet the CII Badge standard [#1966](https://github.com/zowe/vscode-extension-for-zowe/issues/1966)
 
   - Provide learning resources about open source and Linux 
-  
     “There's an expectation of familiarity with open source and Linux”  - *Zowe user*
 ## Define version Archiving Process
 
@@ -24,7 +25,7 @@ Work items:
 
 ## Zowe Issue Triaging/Handling Guide
 
-* Help contributors understand the criteria and process for triaging and assigning issues
+* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. 
 ## Zowe.org 
 
 - Set up Zowe.org privacy policy and cookie cache notice ([#665](https://github.com/zowe/zowe.github.io/issues/665)) - Draft is ready! The next step is to implement a notice pop-up on zowe.org
@@ -47,6 +48,6 @@ Work items:
   - Zowe Documentation Analytics Guide
 
 * Zowe z/OS Components Installation Checklists  
+
   * Checklist for Production
   * Checklist for testing/MVP
-
