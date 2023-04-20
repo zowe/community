@@ -12,6 +12,8 @@ Work items:
 
   - Incorporate Contribute resources that are currently only available in GitHub repos for better visibility (#[2650](https://github.com/zowe/docs-site/issues/2605))
 
+  - Make sure internal and external documentation meet the CII Badge standard [#1966](https://github.com/zowe/vscode-extension-for-zowe/issues/1966)
+
   - Provide learning resources about open source and Linux 
   
     “There's an expectation of familiarity with open source and Linux”  - *Zowe user*
@@ -43,9 +45,6 @@ Work items:
   - Zowe Documentation PR Review and Merge Guide
   - Zowe Documentation Issue triage guide
   - Zowe Documentation Analytics Guide
-
-* Completed Zowe CLI Day One Checklist.
-  - Includes a list of tasks that users can/should complete after CLI is installed and the installation checklist is completed.
 
 * Zowe z/OS Components Installation Checklists  
   * Checklist for Production
