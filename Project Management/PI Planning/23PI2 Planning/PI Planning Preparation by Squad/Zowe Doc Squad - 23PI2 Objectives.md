@@ -6,7 +6,7 @@ Work items:
 
 - Enrich the documentation to accelerate user's time to value:
 
-  - Improve user education on keystores & certificates, and how Zowe uses them [#1880](https://github.com/zowe/community/issues/1880) 
+  - Improve user education on keystores & certificates, and how Zowe uses them ([#1880](https://github.com/zowe/community/issues/1880)). 
     
   - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2563))
 
@@ -23,7 +23,7 @@ Work items:
 
 ## Zowe Issue Triaging/Handling Guide
 
-* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. 
+* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues))
 ## Zowe.org 
 
 - Set up Zowe.org privacy policy and cookie cache notice ([#665](https://github.com/zowe/zowe.github.io/issues/665)) - Draft is ready! The next step is to implement a notice pop-up on zowe.org
