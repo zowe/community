@@ -1,5 +1,36 @@
 # Zowe API ML Squad - 23PI2 Objectives (April 2023 to July 2023)
 
+## {CONTINUED} Identity Federation #2481
+
+* [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
+
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs. As a last step I want to make sure that all the authentication related events are properly auditable. 
+
+Plan:
+- [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
+- [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
+- [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
+- [SPIKE: Central API ML clustering #2666](https://github.com/zowe/api-layer/issues/2666)
+- [apimlAuthenticationToken is overwritten when user works on multiple zowe instances #2636](https://github.com/zowe/api-layer/issues/2636)
+- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
+- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)  
+- [API ML validates distributed access tokens #2658](https://github.com/zowe/api-layer/issues/2658)  
+
+## {CONTINUED} SMF Records creation #2533
+
+If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
+
+As a system administrator, I would like to know about every authentication attempt and I would like to see it in a single place. API ML needs to create SMF record for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...).
+
+- [Issue the SMF record when invalid token is provided, turned on by default #2765](https://github.com/zowe/api-layer/issues/2765)
+- [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
+- [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
+
+## z/OS V3R1 (3.1) Toleration Support for the API ML on TSS and ACF2 #tbd
+
+As a system administrator I want to be able to run the API ML on z/OS 3.1 with the confidence that it will continue to function as expected.    
+- Regression Test the API ML on the forthcoming z/OS V3R1 operating system to verify it continues to function properly.
+
 ## API Catalog #2586
 
 As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.    
@@ -15,7 +46,32 @@ As a system programmer or application developer, I want to have one easy place t
 - [I want to see all APIs in sidebar with the possibility to see also their endpoints](https://github.com/zowe/api-layer/issues/2804)
 - [Update Container for API Catalog Deployment](https://github.com/zowe/api-layer/issues/2766)
 
-## Supportability of Zowe #1796
+## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
+
+* [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.
+
+API ML Squad Plan:
+- [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)
+- [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
+
+## Golden CII Badge
+
+The goal is shared across the whole Zowe and it represents requirements from the Open Mainframe Project.
+
+* [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
+
+API ML Squad Plan:
+
+- [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)
+
+
+## {Stretch} Better Observability of onboarded services via Open Telemetry
+
+We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
+Observability approach we are also considering to deprecate and then archive the metrics service.
+
+## {Stretch} Supportability of Zowe #1796
 
 Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.
 
@@ -47,69 +103,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - [Zowe log may contain ZWEAD400E error message even when everything works as expected](https://github.com/zowe/api-layer/issues/2836)
 - [Enhance messages in case of authentication failure with z/OSMF](https://github.com/zowe/api-layer/issues/2748)
 
-## Improve Fault Tolerance Testing
-
-The goal of this feature is preventative. It is to prevent High and Critical Severity events from happening in the customers' infrastructure by proactively identifying potential risk areas and by creating tests, ideally automated to guarantee or at least understand and limit the situations where the performance of the Zowe downgrades with impact on the users of testing.
-
-**Problems to solve:**
-
-- Zowe API Mediation Layer to have at least 99.99% availability
-- Prevent downgrading of the functionality in typical risky scenarios such as where one LPAR is down
-
-**The target audience:**
-
-- System Reliability Engineers. E.g. in our case Sysadmins.
-
-**Missing Functionality:**
-
-- What happens in case of incorrect and/or expired certificates?
-- What happens with hundreds of concurrent users?
-- How does the system fail under load?
-- What happens when one of the multiple LPARs with Zowe fails?
-- We need to let the user know when one of the instances in HA mode fails
-- We need to reach a ceiling of approximately 8.76h maximum a year downtime or no more than 10 minutes downtime a week
-
-**API ML Squad plan:**
-
-- [Improve testing for the API Mediation Layer both on & off platform](https://github.com/zowe/api-layer/issues/1341)
-- [Enhance Integration test suite](https://github.com/zowe/api-layer/issues/1313)
-- [Enhance our smoke test suite](https://github.com/zowe/api-layer/issues/1332)
-- [Update start script testing](https://github.com/zowe/api-layer/issues/2130)
-- [Allow increasing memory](https://github.com/zowe/api-layer/issues/2559)
-- [Parameter to update max amount of simultaneous connections allowed with Websockets](https://github.com/zowe/api-layer/issues/2635)
-
-**Bug Fixes**
-
-- [Network error from API Catalog on system with Java 11](https://github.com/zowe/api-layer/issues/2677)
-
-
-## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
-
-* [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.
-
-API ML Squad Plan:
-- [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)
-- [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
-
-## Golden CII Badge
-
-The goal is shared across the whole Zowe and it represents requirements from the Open Mainframe Project.
-
-* [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
-
-API ML Squad Plan:
-
-- [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)
-
 ## Zowe / api-layer backlog management
 
-- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622)  
-
-## {Stretch} Better Observability of onboarded services via Open Telemetry
-
-We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
-Observability approach we are also considering to deprecate and then archive the metrics service.
+- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622) 
 
 ## Roadmap
 
