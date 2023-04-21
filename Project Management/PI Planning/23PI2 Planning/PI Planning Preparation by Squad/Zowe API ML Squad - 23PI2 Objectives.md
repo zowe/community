@@ -10,10 +10,6 @@ Plan:
 - [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
 - [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
 - [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
-- [SPIKE: Central API ML clustering #2666](https://github.com/zowe/api-layer/issues/2666)
-- [apimlAuthenticationToken is overwritten when user works on multiple zowe instances #2636](https://github.com/zowe/api-layer/issues/2636)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for TSS #2761](https://github.com/zowe/api-layer/issues/2761)
-- [As a System Programmer, I want to be able to sync distributed users from file to the ESM for ACF2 #2760](https://github.com/zowe/api-layer/issues/2760)  
 - [API ML validates distributed access tokens #2658](https://github.com/zowe/api-layer/issues/2658)  
 
 ## {CONTINUED} SMF Records creation #2533
