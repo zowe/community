@@ -17,7 +17,6 @@
 ##### *Enhancements*
 
 - [ ] [Add support for custom credential manager extensions](https://github.com/zowe/vscode-extension-for-zowe/issues/2212)
-- [ ] [JOBS section refresh automatically for long running job status](https://github.com/zowe/vscode-extension-for-zowe/issues/1952)
 - [ ] [Allow --console-name option for issuing commands](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
 - [ ] [Migrate persistent data from user settings to local storage](https://github.com/zowe/vscode-extension-for-zowe/issues/2208)
 - [ ] [Open solution for default file allocation settings](https://github.com/zowe/vscode-extension-for-zowe/issues/1425)
@@ -27,19 +26,17 @@
 ##### *Bugs*
 
 - [ ] [Zowe Explorer's log folder location incorrect](https://github.com/zowe/vscode-extension-for-zowe/issues/1926)
-- [ ] [Other extensions that depend on `imperative` can conflict with import resolutions](https://github.com/zowe/vscode-extension-for-zowe/issues/2199)
 - [ ] [submitting JCL using command palette option returns error](https://github.com/zowe/vscode-extension-for-zowe/issues/1625)
 - [ ] [Incorrect type in user settings for zowe.settings.version](https://github.com/zowe/vscode-extension-for-zowe/issues/2166)
 - [ ] [Profile's file watcher not working in browser based environments](https://github.com/zowe/vscode-extension-for-zowe/issues/2211)
 - [ ] [Clicking "Disable validation for profile" is broken](https://github.com/zowe/vscode-extension-for-zowe/issues/1897)
-- [ ] [Stretch] [Clean up code smells/duplication warnings](https://github.com/zowe/vscode-extension-for-zowe/issues/2063)
 
 ##### *Tech Debt*
 
 - [ ] [fix cases of misuse of `path.join`](https://github.com/zowe/vscode-extension-for-zowe/issues/2172)
 - [ ] [Stretch] [Replace Webpack 4 with newer bundler](https://github.com/zowe/vscode-extension-for-zowe/issues/2214)
 - [ ] [Stretch] [Integration test improvements](https://github.com/zowe/vscode-extension-for-zowe/issues/2103)
-- [ ] [Stretch] [Create a set of Rules for developers for use of different levels and how to handle customer information in the logs.](https://github.com/zowe/vscode-extension-for-zowe/issues/1962)
+- [ ] [Stretch] [Clean up code smells/duplication warnings](https://github.com/zowe/vscode-extension-for-zowe/issues/2063)
 
 ### Golden CII Badge
 
@@ -56,17 +53,6 @@ Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
 
 ## Roadmap
 
-### [Zowe Explorer Supported Environments](https://github.com/zowe/vscode-extension-for-zowe/issues/1862)
-
-- *What problem are you solving?*
-  - Users are submitting issues about Zowe Explorer not working in different environments.
-- *What are you doing to solve it?
-  - We plan to consider other environments requested by users, this will require research and depending on the research we will decide if support is feasible.
-- *When do you plan to start the work?*
-  - 22Q4
-- *When do you plan to deliver the solution?*
-  - 23Q1
-
 ### [Updating GUI to use other types of notifications vs all pop ups](https://github.com/zowe/vscode-extension-for-zowe/issues/1517)
 
 - *What problem are you solving?*
@@ -76,18 +62,6 @@ Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
   - Implement the decided plan of action.
 - *When do you plan to start the work?*
   - 22Q3
-- *When do you plan to deliver the solution?*
-  - 23Q2
-
-### [Improve logging and potential output view to better support end users](https://github.com/zowe/vscode-extension-for-zowe/issues/1024)
-
-- *What problem are you solving?*
-  - Users would like better Logging from Zowe Explorer to help troubleshoot issues.
-- *What are you doing to solve it?
-  - We plan to creat a VS Code setting for log level
-  - Using the setting we plan to output the appropriate logs to a VS Code Output view.
-- *When do you plan to start the work?*
-  - 22Q4
 - *When do you plan to deliver the solution?*
   - 23Q2
 
