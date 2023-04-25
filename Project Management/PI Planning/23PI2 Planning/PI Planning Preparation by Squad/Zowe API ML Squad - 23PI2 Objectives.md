@@ -4,7 +4,7 @@
 
 * [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs. As a last step I want to make sure that all the authentication related events are properly auditable. 
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.
 
 Plan:
 - [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
@@ -22,12 +22,15 @@ As a system administrator, I would like to know about every authentication attem
 - [Issue the SMF record when valid token is provided, turned off by default #2764](https://github.com/zowe/api-layer/issues/2764)
 - [Issue the SMF record when Zowe token is created while mapping certificates #2763](https://github.com/zowe/api-layer/issues/2763)
 
-## z/OS V3R1 (3.1) Toleration Support for the API ML on TSS and ACF2 #tbd
+## z/OS V3R1 (3.1) Toleration Support for the API ML on TSS and ACF2 #2881
 
 As a system administrator I want to be able to run the API ML on z/OS 3.1 with the confidence that it will continue to function as expected.    
-- Regression Test the API ML on the forthcoming z/OS V3R1 operating system to verify it continues to function properly.
+- Regression Test the API ML on the forthcoming z/OS V3R1 operating system to verify it continues to function properly.  
 
-## API Catalog #2586
+**API ML Squad Plan:**  
+- [z/OS V3R1 (3.1) Toleration Support for the API ML on TSS and ACF2 #2881](https://github.com/zowe/api-layer/issues/2881)
+
+## API Catalog UI enhancements and templating #2586
 
 As a system administrator I want to be able to run the API Catalog properly off-platform in a distributed environment such as cloud platform and I want to be able to use our company branding on the portal so it's usage feels natural for the engineers within the company.    
 - API Catalog supports templating so that it can be branded and themed according to user preferences  
@@ -101,6 +104,7 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 
 ## Zowe / api-layer backlog management
 
+- [Network error from API Catalog on system with Java 11 #2677](https://github.com/zowe/api-layer/issues/2677)
 - [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622) 
 
 ## Roadmap
