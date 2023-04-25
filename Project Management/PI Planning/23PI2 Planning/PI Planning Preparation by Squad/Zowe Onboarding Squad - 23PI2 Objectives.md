@@ -6,17 +6,16 @@
 - Quarterly Webinars (next rev Jun)
 - Roadmap (Next rev)
 - Q of M (May, Jun, Jul)
-- Continue efforts on zowe.org (rev 2)
+- Continue efforts on zowe.org (rev 2) / Includes "Zowe by the numbers" fix
 
 ## (2) Goal:  Community Growth: Prepare for new and next rev Conformance programs  
 - Prepare for Conformance Program (v3) (Templates)
 - [stretch] Publish first draft of new conformance programs (SDK, Explorer for Intelli J)
 - [stretch] Brainstorm & draft recruitment plan to increase contributors on squads-in-need (Systems, z/OS, ZEBRA)
 
-## (3) Goal:  Education & Certification / Advance efforts
-- Work to eliminate current roadblocks related to initial draft
-- Introduce PILOT course (API-ML 101)
-- Evaluate Pilot / Determine next steps
+## (3) Goal:  Education & Certification / Advance efforts with INTERSKILL
+- Set goals & establish working sessions with Interskill
+- Colloborate to introduce PILOT course (API-ML 101)
 
 ## Dependencies
 - ZAC:  Collaborate on: Blogs, Quarterly Webinar, Roadmap 
