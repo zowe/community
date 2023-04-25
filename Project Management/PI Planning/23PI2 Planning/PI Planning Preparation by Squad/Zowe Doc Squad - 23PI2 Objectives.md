@@ -7,6 +7,8 @@ Work items:
 - Enrich the documentation to accelerate user's time to value:
 
   - Improve user education on keystores & certificates, and how Zowe uses them ([#1880](https://github.com/zowe/community/issues/1880)). (Including high-level Using Certificates and key concept sections, and demo videos)
+
+    - Address certificate management tooling references from v1 that have been deprecated [#2823](https://github.com/zowe/api-layer/issues/2823).
     
   - Improve the High Availability documentation ([#2545](https://github.com/zowe/docs-site/issues/2545), [#2563](https://github.com/zowe/docs-site/issues/2563))
 
