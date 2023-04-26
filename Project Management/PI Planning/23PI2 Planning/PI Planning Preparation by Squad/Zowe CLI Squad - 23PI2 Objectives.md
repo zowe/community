@@ -31,7 +31,6 @@ CLI Squad Plan:
 - [ ] [Stretch] [Add cause property to ImperativeError](https://github.com/zowe/imperative/issues/945)
 - [ ] [Stretch] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
 - [ ] [Stretch] [Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
-- [ ] [Stretch] [Open solution for default file allocations settings](https://github.com/zowe/zowe-cli/issues/1679)
 
 #### *Bugs*
 - [ ] [IssueTso.issueTsoCommand incomplete response / data loss](https://github.com/zowe/zowe-cli/issues/690)
@@ -61,6 +60,9 @@ CLI Squad Plan:
 - Passing: https://bestpractices.coreinfrastructure.org/en/criteria/0
 - Silver: https://bestpractices.coreinfrastructure.org/en/criteria/1
 - Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
+
+## [Stretch] Preparation for V3
+- To be determined during PI planning based on capacity
 
 # Zowe CLI / Zowe SDK Roadmap
 
