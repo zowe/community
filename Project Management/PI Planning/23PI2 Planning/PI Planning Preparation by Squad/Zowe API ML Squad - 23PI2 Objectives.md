@@ -1,4 +1,4 @@
-# Zowe API ML Squad - 23PI2 Objectives (April 2023 to July 2023)
+# Zowe API ML Squad - 23PI2 Objectives (May 2023 to July 2023)
 
 ## {CONTINUED} Identity Federation #2481
 
@@ -45,32 +45,7 @@ As a system programmer or application developer, I want to have one easy place t
 - [I want to see all APIs in sidebar with the possibility to see also their endpoints](https://github.com/zowe/api-layer/issues/2804)
 - [Update Container for API Catalog Deployment](https://github.com/zowe/api-layer/issues/2766)
 
-## Build Spring Cloud Gateway as a replacement for the current Gateway #2029
-
-* [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)  
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The authentication functionality itself would remain for now the responsibility of the current API Gateway. The intention is for the SCG to eventually fully replace the existing gateway some point in the future as part of the V3.
-
-API ML Squad Plan:
-- [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)
-- [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
-
-## Golden CII Badge
-
-The goal is shared across the whole Zowe and it represents requirements from the Open Mainframe Project.
-
-* [Get Golden CII Badge](https://github.com/zowe/community/issues/1279)
-
-API ML Squad Plan:
-
-- [SPIKE: Verify the C code in the common-java is properly analysed #2486](https://github.com/zowe/api-layer/issues/2486)
-
-
-## {Stretch} Better Observability of onboarded services via Open Telemetry
-
-We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
-Observability approach we are also considering to deprecate and then archive the metrics service.
-
-## {Stretch} Supportability of Zowe #1796
+## Supportability of Zowe #1796
 
 Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.
 
@@ -79,9 +54,11 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - With current tooling, it's difficult for Zowe users to understand what's wrong and resolve the problem themselves without needing external help
 - For L1 support it's difficult to retrieve the information about the system from the user
 
-**API ML Squad plan:**
+**API ML Squad plan:**  
 
-- [Easier debugging of swagger doc rendering](https://github.com/zowe/api-layer/issues/2315)
+- [Report API ML state to the MF System Programmer #1633](https://github.com/zowe/api-layer/issues/1633)
+- [{Spike} Explore the zwe diagnostics tool #2882](https://github.com/zowe/api-layer/issues/2882)
+
 - [Have a message written to the MVS console when all of the Zowe components have successfully started ](https://github.com/zowe/zowe-install-packaging/issues/1248)
 - [Do not log the full stracktrace for common errors](https://github.com/zowe/api-layer/issues/2614)
 - [Allow Zowe Launcher writes to system log WTOR](https://github.com/zowe/launcher/issues/5)
@@ -102,10 +79,14 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - [Zowe log may contain ZWEAD400E error message even when everything works as expected](https://github.com/zowe/api-layer/issues/2836)
 - [Enhance messages in case of authentication failure with z/OSMF](https://github.com/zowe/api-layer/issues/2748)
 
+## {Stretch} Better Observability of onboarded services via Open Telemetry
+
+We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
+Observability approach we are also considering to deprecate and then archive the metrics service.
+
 ## Zowe / api-layer backlog management
 
 - [Network error from API Catalog on system with Java 11 #2677](https://github.com/zowe/api-layer/issues/2677)
-- [Websocket connection fails when using DC UI on Chrome and Edge #2622](https://github.com/zowe/api-layer/issues/2622) 
 
 ## Roadmap
 
@@ -127,9 +108,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - What are you doing to solve it?
   - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
 - When do you plan to start the work?
-  - 23PI2
-- When do you plan to deliver the solution?
   - 23PI3
+- When do you plan to deliver the solution?
+  - 23PI4
 
 ### Simplify Support of Zowe
 
@@ -160,9 +141,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - What are you doing to solve it?
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
 - When do you plan to start the work?
-  - 23PI3
+  - 23PI4
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 23PI4
 
 ### Enable API ML to validate Conformance
 
@@ -171,9 +152,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - What are you doing to solve it?
   - Provide endpoint to verify for running and onboarded service whether it fulfils conformance criteria
 - When do you plan to start the work?
-  - 22PI2
+  - 24PI1
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 24PI1
 
 ### Seamless upgrade to API ML
 
@@ -182,9 +163,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - What are you doing to solve it?
   - Provide customers with alternative path that does the upgrade
 - When do you plan to start the work?
-  - 23PI3
+  - 24PI1
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 24PI1
 
 ### True Dynamic Discovery
 
