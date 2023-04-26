@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, April 26, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/92896364809<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895083&calstart=2023-04-26<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/vYoo2RGbT3P08lY25glLdlqzFLiWzkavu7Cz2xr6AEXSg0hb0nM1m4kmiTHENL7g.7MCVVu29A4Ti5Mgj)
 <br>
 
 Day 2\
