@@ -1,7 +1,6 @@
 # Zowe Chat Squad - 23PI1 - (2023/01/24 - 2023/04/24)
 
-The Chat Squad is low capacity; working on a few items on the critical path to GA.
-
+The Chat Squad is low capacity; working on a few key items required for GA.
 
 ## Capabilities
 ### Incident Model and Event-Driven Notifications
@@ -9,11 +8,11 @@ The Chat Squad is low capacity; working on a few items on the critical path to G
   * Discuss eventing requirements and capabilities with the Zowe community.
 
 ### Extensibility
-- [Review Plugin Load Design and Implementation]()
+- [Review Plugin Load Design and Implementation](https://github.com/zowe/zowe-chat/issues/147)
   * Motivation: Make more of the loading process explicit and easier to build on. Review imperative/cli.
 
 ### Distribution
-- [Chat Containerization]()
+- [Zowe Chat Containerization](https://github.com/zowe/zowe-chat/issues/194)
 
 ### Depedencies, Risks
 
