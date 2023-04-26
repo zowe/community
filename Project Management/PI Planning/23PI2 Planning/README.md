@@ -41,7 +41,7 @@ Squad PI Objectives<br>
 [API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI2%20Objectives.md)<br>
 [CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI2%20Objectives.md)<br>
-[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI1%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI2%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI2%20Objectives.md)<br>
@@ -152,8 +152,8 @@ Squad vision<br>
 <td>
 
 Squad Breakout
-- Zowe Explorer Squad
-    - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
+- Zowe CLI Squad
+    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 
 - API ML Squad
     - Zoom Link: https://zoom.us/j/98404818292<br>
@@ -174,9 +174,6 @@ Squad Breakout
 <td>
 
 Squad Breakout
-- Zowe CLI Squad
-    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
-
 - Zowe Onboarding Squad
     - Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
 
@@ -251,28 +248,15 @@ Squad Breakout
             <tr>
                 <td>Squad Breakout</td>
                 <td>2023-04-27</td>
-                <td>8:00 AM</td>
-<td>
-
-Squad Breakout
-- Zowe IntelliJ Squad
-    - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
-
-</td>
-                <td></td>
-    </tbody>
-
-
-<tbody>
-            <tr>
-                <td>Squad Breakout</td>
-                <td>2023-04-27</td>
                 <td>11:00 AM</td>
 <td>
 
 Squad Breakout
 - Zowe Systems Squad<br>
-- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+    - Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+
+- Zowe Explorer Squad
+    - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
 
 </td>
