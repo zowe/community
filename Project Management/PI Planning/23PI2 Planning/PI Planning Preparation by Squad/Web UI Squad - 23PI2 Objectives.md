@@ -49,6 +49,12 @@ zss had similarly complexity and has been reduced to just
 
 So, we can reduce bugs, simplify troubleshooting and make our code easier to understand by outsiders by refactoring the app-server startup to be based upon the zowe YAML solely and use 'defaults.yaml' as a way to set our complex defaults.
 
+## Golden CII Badge research [#934](https://github.com/zowe/zlux/issues/934)
+
+**Description**: This covers items required for CII Gold status from within our squad. The investigation effort needs to be done to determine how far we have left to go
+
+**Status**: Not begun
+
 ## Document desktop messages [#733](https://github.com/zowe/zlux/issues/733)
 
 **Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
