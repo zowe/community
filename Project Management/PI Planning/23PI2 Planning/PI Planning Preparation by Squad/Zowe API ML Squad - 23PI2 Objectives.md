@@ -2,15 +2,12 @@
 
 ## {CONTINUED} Identity Federation #2481
 
-* [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
-
 As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.
 
 Plan:
+- [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
 - [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
-- [User profiles federation #2652](https://github.com/zowe/api-layer/issues/2652)
-- [Register API service to multiple clusters #2425](https://github.com/zowe/api-layer/issues/2425)
-- [API ML validates distributed access tokens #2658](https://github.com/zowe/api-layer/issues/2658)  
+
 
 ## {CONTINUED} SMF Records creation #2533
 
@@ -40,10 +37,7 @@ As a system programmer or application developer, I want to have one easy place t
 
 **API ML Squad Plan:**
 
-- [I want to easily style the Catalog in different color scheme](https://github.com/zowe/api-layer/issues/2802)
-- [I want to be able to search through the APIs](https://github.com/zowe/api-layer/issues/2803)
-- [I want to see all APIs in sidebar with the possibility to see also their endpoints](https://github.com/zowe/api-layer/issues/2804)
-- [Update Container for API Catalog Deployment](https://github.com/zowe/api-layer/issues/2766)
+- [API Developer Portal #2586](https://github.com/zowe/api-layer/issues/2586)
 
 ## Supportability of Zowe #1796
 
@@ -86,6 +80,13 @@ Observability approach we are also considering to deprecate and then archive the
 
 ## Zowe / api-layer backlog management
 
+- [Zowe log may contain ZWEAD400E error message even when everything works as expected #2836](https://github.com/zowe/api-layer/issues/2836)
+- [Zowe installation with AT-TLS mode enabled does not properly setup the native library #2792](https://github.com/zowe/api-layer/issues/2792)
+- [With AT-TLS mode enabled, api-catalog-services and discovery-service fail startup #2795](https://github.com/zowe/api-layer/issues/2795)
+- [All APIML services freeze during startup when unable to access a private key from a key ring #2822](https://github.com/zowe/api-layer/issues/2822)
+- [The certificate management documentation depends on V1 tooling unavailable in V2 #2823](https://github.com/zowe/api-layer/issues/2823)
+- [Confusing documentation for security configuration of OIDC and x509 features #2873](https://github.com/zowe/api-layer/issues/2873)
+- [ZSS may not accept JWT #2878](https://github.com/zowe/api-layer/issues/2878)
 - [Network error from API Catalog on system with Java 11 #2677](https://github.com/zowe/api-layer/issues/2677)
 
 ## Roadmap
