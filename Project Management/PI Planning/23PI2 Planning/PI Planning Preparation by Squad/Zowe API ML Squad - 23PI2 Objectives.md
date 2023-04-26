@@ -76,7 +76,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 ## {Stretch} Better Observability of onboarded services via Open Telemetry
 
 We want to explore the option of introducing the Open Telemetry into the Zowe API Mediation Layer. As a part of the overall
-Observability approach we are also considering to deprecate and then archive the metrics service.
+Observability approach we are also considering to deprecate and then archive the metrics service.  
+
+[(SPIKE) Support for Open Telemetry #2865](https://github.com/zowe/api-layer/issues/2865)
 
 ## Zowe / api-layer backlog management
 
