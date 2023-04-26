@@ -28,7 +28,6 @@ CLI Squad Plan:
 - [ ] [Research Secure Storage for Zowe CLI on USS](https://github.com/zowe/zowe-cli/issues/1673)
 - [ ] [Add life-cycle hooks to the sample plug-in zowe-cli-sample-plugin](https://github.com/zowe/zowe-cli-sample-plugin/issues/84)
 - [ ] [ProfileInfo: Add support for any properties specified in zowe.config.json](https://github.com/zowe/imperative/issues/899)
-- [ ] [Stretch] [Add cause property to ImperativeError](https://github.com/zowe/imperative/issues/945)
 - [ ] [Stretch] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
 - [ ] [Stretch] [Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
 
@@ -48,8 +47,6 @@ CLI Squad Plan:
 - [ ] [How to make sure that a file is deleted with one command?](https://github.com/zowe/zowe-cli/issues/866)
 - [ ] [401 when logout with expired token](https://github.com/zowe/zowe-cli/issues/1041)
 - [ ] [zowe plugins validate returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
-- [ ] [Documenting return values](https://github.com/zowe/zowe-cli/issues/1386)
-- [ ] [Allow Daemon Colorize Setting](https://github.com/zowe/zowe-cli/issues/1379)
 - [ ] [IZosFilesResponse in SDK Refers to Commands](https://github.com/zowe/zowe-cli/issues/865)
 
 ## OpenSSF Best Practices Badge
