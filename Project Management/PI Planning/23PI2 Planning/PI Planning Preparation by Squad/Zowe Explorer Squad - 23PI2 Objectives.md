@@ -56,18 +56,6 @@ Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
 
 ## Roadmap
 
-### [Updating GUI to use other types of notifications vs all pop ups](https://github.com/zowe/vscode-extension-for-zowe/issues/1517)
-
-- *What problem are you solving?*
-  - Users would like to see less pop up notifications from Zowe Explorer to lessen the distractions that they cause in VS Code.
-- *What are you doing to solve it?
-  - Assess the types of notifications in place and decide how to proceed.
-  - Implement the decided plan of action.
-- *When do you plan to start the work?*
-  - 22Q3
-- *When do you plan to deliver the solution?*
-  - 23Q2
-
 ### [v3 Pre-Release availability](https://github.com/zowe/vscode-extension-for-zowe/issues/2070)
 
 - *What problem are you solving?*
@@ -100,3 +88,52 @@ Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
   - 23Q1
 - *When do you plan to deliver the solution?*
   - 23Q4
+
+## Roadmap items completed by end of 23PI1
+
+### [Zowe Explorer Supported Environments](https://github.com/zowe/vscode-extension-for-zowe/issues/1862)
+
+- *What problem are you solving?*
+  - Users are submitting issues about Zowe Explorer not working in different environments.
+- *What are you doing to solve it?
+  - We plan to consider other environments requested by users, this will require research and depending on the research we will decide if support is feasible.
+- *When do you plan to start the work?*
+  - 22Q4
+- *When do you plan to deliver the solution?*
+  - 23Q1
+
+### [Updating GUI to use other types of notifications vs all pop ups](https://github.com/zowe/vscode-extension-for-zowe/issues/1517)
+
+- *What problem are you solving?*
+  - Users would like to see less pop up notifications from Zowe Explorer to lessen the distractions that they cause in VS Code.
+- *What are you doing to solve it?
+  - Assess the types of notifications in place and decide how to proceed.
+  - Implement the decided plan of action.
+- *When do you plan to start the work?*
+  - 22Q3
+- *When do you plan to deliver the solution?*
+  - 23Q2
+
+### [Improve logging and potential output view to better support end users](https://github.com/zowe/vscode-extension-for-zowe/issues/1024)
+
+- *What problem are you solving?*
+  - Users would like better Logging from Zowe Explorer to help troubleshoot issues.
+- *What are you doing to solve it?
+  - We plan to creat a VS Code setting for log level
+  - Using the setting we plan to output the appropriate logs to a VS Code Output view.
+- *When do you plan to start the work?*
+  - 22Q4
+- *When do you plan to deliver the solution?*
+  - 23Q2
+
+### [Enhancements to Extensibility APIs](https://github.com/zowe/vscode-extension-for-zowe/issues/1791)
+
+- *What problem are you solving?*
+  - Extenders would like more robust Extensibility APIs to adopt for their VS Code Zowe Explorer extensions.
+- *What are you doing to solve it?*
+  - We will assess the long list of requested extensibility APIs for extenders and decide on which to complete and the precedence of them.
+  - Implement the decided list of extensibility APIs in the order of precedence.
+- *When do you plan to start the work?*
+  - 23Q2
+- *When do you plan to deliver the solution?*
+  - 23Q3 
