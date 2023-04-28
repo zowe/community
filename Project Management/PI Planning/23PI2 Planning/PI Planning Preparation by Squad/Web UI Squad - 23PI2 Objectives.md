@@ -2,7 +2,7 @@
 
 # In-squad tasks 📈
 
-## Improve documentation and up & running experience
+## Improve documentation and up & running experience [#1857](https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/gh/zowe/community/1857)
 **Priority**: 1
 
 **Description**: Identify and continue working w/ Doc squad, customers, and community members on which sections of the Doc need to be added/reorganized to improve the up & running experience, increase organization of security configuration, and decrease customer confusion overall by finding common pain points. Thank you to Joe W, Joe D, Sean and others who I'm forgetting for leading the investigation effort there
@@ -16,7 +16,7 @@
 
 **Status**: Work is 95% completed for this and is expected to be done for this PI. Congratulations to Martin and others for their great work there!
 
-## Assist the Doc team with release, pipeline, and website issues
+## Assist the Doc team with release, pipeline, and website issues [#1938](https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/gh/zowe/community/1938)
 **Priority**: 3
 
 **Description**: Continuing Sean's research or exploring new opportunities into decreasing memory consumption for the Doc build like updating/refactoring Docasaurus, or changing to a different platform, or doing something new etc. Provide some engineering depth to fix quick issues or begin work on implementing larger scoped decisions. This may need granted permissions from John Mertic(?) to review Doc build. (https://app.netlify.com/sites/zowe-docs-master/deploys)
