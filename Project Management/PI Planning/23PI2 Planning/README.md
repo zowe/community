@@ -21,7 +21,7 @@ Day 3\
 When: Friday, April 28, 2023 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/99280406340<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895087&calstart=2023-04-28<br>
-Meeting Recordings: [Day 3]()
+Meeting Recordings: [Day 3](https://zoom.us/rec/share/nH-D2OYWnaGoRykUWJV-gnDVpL3K7EHLit7dNLjIU6BwBiSUlIxYLZu0a2KkSOff.3xcwAAhPRODhA2Q0)
 <br>
 
 Innovation Sprint Meeting Recordings
