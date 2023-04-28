@@ -39,9 +39,14 @@ As a system programmer or application developer, I want to have one easy place t
 
 - [API Developer Portal #2586](https://github.com/zowe/api-layer/issues/2586)
 
-## Supportability of Zowe #1796
+## Improve logging for the API ML #1796
 
-Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.
+Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.  
+
+In the default setup, if there is no issue, we should log only that the services started, ideally including a point when the whole Zowe is started and works properly. 
+In the default setup, if there are issues that limit the functionality but don't break things, we need to log them as warnings in a way that's actionable by the users. In the default setup, if there are issues preventing Zowe from working, these will be logged as errors with easy to find error codes and actionable text.  
+Logs created for debugging should go to files instead of the spool so that the diagnostics pax contains them.  
+Debugging logs should contain, by default, the details of the TLS communication. 
 
 **Problems to solve:**
 
@@ -50,28 +55,10 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 
 **API ML Squad plan:**  
 
-- [Report API ML state to the MF System Programmer #1633](https://github.com/zowe/api-layer/issues/1633)
-- [{Spike} Explore the zwe diagnostics tool #2882](https://github.com/zowe/api-layer/issues/2882)
+- [Easier debugging of swagger doc rendering](https://github.com/zowe/api-layer/issues/2315)  
+- [Do not log the full stracktrace for common errors #2614](https://github.com/zowe/api-layer/issues/2614)  
+- [Log meaningful messages when debugging API ML #2892](https://github.com/zowe/api-layer/issues/2892)  
 
-- [Have a message written to the MVS console when all of the Zowe components have successfully started ](https://github.com/zowe/zowe-install-packaging/issues/1248)
-- [Do not log the full stracktrace for common errors](https://github.com/zowe/api-layer/issues/2614)
-- [Allow Zowe Launcher writes to system log WTOR](https://github.com/zowe/launcher/issues/5)
-- [Unify and differentiate logging between platforms. ](https://github.com/zowe/api-layer/issues/1181)
-- [Improve configuration of the components](https://github.com/zowe/api-layer/issues/2296)
-- [Easier debugging of swagger doc rendering](https://github.com/zowe/api-layer/issues/2315)
-- [Incorrect log ID formatting?](https://github.com/zowe/api-layer/issues/2694)
-- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
-- [Improve the documentation for z/OSMF configuration](https://github.com/zowe/api-layer/issues/2826)
-- [Report API ML state to the MF System Programmer](https://github.com/zowe/api-layer/issues/1633)
-- [Add the unit tests to the Launcher](https://github.com/zowe/launcher/issues/77)
-- [Clarifications for "Zowe API Mediation Layer Security" page](https://github.com/zowe/docs-site/issues/2023)
-- [More details on Keystore and Truststore generations from external CA CERT is needed](https://github.com/zowe/docs-site/issues/1440)
-
-**Bug Fixes**
-
-- [Gateway landing page not reflecting the correct Authentication service state](https://github.com/zowe/api-layer/issues/1562)
-- [Zowe log may contain ZWEAD400E error message even when everything works as expected](https://github.com/zowe/api-layer/issues/2836)
-- [Enhance messages in case of authentication failure with z/OSMF](https://github.com/zowe/api-layer/issues/2748)
 
 ## {Stretch} Better Observability of onboarded services via Open Telemetry
 
@@ -82,10 +69,6 @@ Observability approach we are also considering to deprecate and then archive the
 
 ## Zowe / api-layer backlog management
 
-- [Zowe log may contain ZWEAD400E error message even when everything works as expected #2836](https://github.com/zowe/api-layer/issues/2836)
-- [Zowe installation with AT-TLS mode enabled does not properly setup the native library #2792](https://github.com/zowe/api-layer/issues/2792)
-- [With AT-TLS mode enabled, api-catalog-services and discovery-service fail startup #2795](https://github.com/zowe/api-layer/issues/2795)
-- [All APIML services freeze during startup when unable to access a private key from a key ring #2822](https://github.com/zowe/api-layer/issues/2822)
 - [The certificate management documentation depends on V1 tooling unavailable in V2 #2823](https://github.com/zowe/api-layer/issues/2823)
 - [Confusing documentation for security configuration of OIDC and x509 features #2873](https://github.com/zowe/api-layer/issues/2873)
 - [ZSS may not accept JWT #2878](https://github.com/zowe/api-layer/issues/2878)
