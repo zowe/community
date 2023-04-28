@@ -366,6 +366,8 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 1 - We're planning to fail.
 
-[Confidence Vote Question]()<br>
-[Confidence Vote Results]()<br>
+
 [Closing Comments]()<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/Zowe_23PI2_Confidence_Vote.png)<br>
+
+
