@@ -7,7 +7,7 @@ Day 1\
 When: Wednesday, April 26, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: https://zoom.us/j/92896364809<br>
 OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895083&calstart=2023-04-26<br>
-Meeting Recordings: [Day 1]()
+Meeting Recordings: [Day 1](https://zoom.us/rec/share/vYoo2RGbT3P08lY25glLdlqzFLiWzkavu7Cz2xr6AEXSg0hb0nM1m4kmiTHENL7g.7MCVVu29A4Ti5Mgj)
 <br>
 
 Day 2\
@@ -36,12 +36,12 @@ Opening Presentations<br>
 [ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI2%20Objectives.md)<br>
 [TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20TSC%20-%2023PI2%20Objectives.md)<br>
 Squad PI Objectives<br>
-[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI1%20Objectives.md)<br>
-[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI1%20Objectives.md)<br>
-[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI1%20Objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI2%20Objectives.md)<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI2%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI2%20Objectives.md)<br>
 [CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI2%20Objectives.md)<br>
-[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI1%20Objectives.md)<br>
-[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI1%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI2%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI2%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI2%20Objectives.md)<br>
 [Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI2%20Objectives.md)<br>
@@ -243,22 +243,6 @@ Squad Breakout
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
     </tbody>
-
-<tbody>
-            <tr>
-                <td>Squad Breakout</td>
-                <td>2023-04-27</td>
-                <td>8:00 AM</td>
-<td>
-
-Squad Breakout
-- Zowe IntelliJ Squad
-    - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
-
-</td>
-                <td></td>
-    </tbody>
-
 
 <tbody>
             <tr>

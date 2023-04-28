@@ -1,4 +1,4 @@
-# Zowe IntelliJ Squad - 23PI2 - (2023/04/25 - 2023/07/24)
+# Zowe IntelliJ Squad - 23PI2 - (2023/05/02 - 2023/07/24)
 
 ## IntelliJ: API ML usage
 
@@ -102,7 +102,7 @@ Get ready with a contributor from a different unrelated company, prepare the evi
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **23Q2**
+    - **23Q3**
 
 ## Zowe zDevOps Jenkins plugin v0.2.0
 

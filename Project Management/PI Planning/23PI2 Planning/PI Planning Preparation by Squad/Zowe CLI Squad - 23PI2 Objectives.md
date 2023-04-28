@@ -7,16 +7,12 @@ CLI Squad Plan:
 - [ ] [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
 - [ ] [zowe files edit data-set & zowe files edit uss-file](https://github.com/zowe/zowe-cli/issues/1097)
 
-## Zowe SDKs (Node.js and Python)
-Improve the experience for developers using and extending the Zowe Node.js and Python SDKs.
+## V3 Pre-release
 
 CLI Squad Plan:
-- [ ] [Zowe SDK - Develop and publish sample Python SDK](https://github.com/zowe/zowe-cli/issues/1674)
-- [ ] [Zowe SDK - Develop and publish sample Node.js SDK](https://github.com/zowe/zowe-cli/issues/1675)
-- [ ] [Stretch] [Zowe SDK - Update SDK conformance documentation](https://github.com/zowe/zowe-cli/issues/1676)
-
-### *[Stretch] Python SDK Enhancements*
-- [ ] [Add support for Zowe v2 team configuration zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk/issues/148)
+- [ ] [v3: Prepare vNext branch of the zowe-cli repository](https://github.com/zowe/zowe-cli/issues/1702)
+- [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo](https://github.com/zowe/zowe-cli/issues/1695)
+- [ ] [v3: Remove V1 profile functionality in vNext](https://github.com/zowe/zowe-cli/issues/1703)
 
 ## Address Items in the CLI and Imperative Backlogs
 Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
@@ -28,16 +24,15 @@ CLI Squad Plan:
 - [ ] [Research Secure Storage for Zowe CLI on USS](https://github.com/zowe/zowe-cli/issues/1673)
 - [ ] [Add life-cycle hooks to the sample plug-in zowe-cli-sample-plugin](https://github.com/zowe/zowe-cli-sample-plugin/issues/84)
 - [ ] [ProfileInfo: Add support for any properties specified in zowe.config.json](https://github.com/zowe/imperative/issues/899)
-- [ ] [Stretch] [Add cause property to ImperativeError](https://github.com/zowe/imperative/issues/945)
+- [ ] [Stretch] [Add flag to zowe config profiles to include file locations](https://github.com/zowe/zowe-cli/issues/1692)
 - [ ] [Stretch] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
 - [ ] [Stretch] [Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
-- [ ] [Stretch] [Open solution for default file allocations settings](https://github.com/zowe/zowe-cli/issues/1679)
 
 #### *Bugs*
 - [ ] [IssueTso.issueTsoCommand incomplete response / data loss](https://github.com/zowe/zowe-cli/issues/690)
 - [ ] [Invalid block size is used by zowe files create data-set-sequential](https://github.com/zowe/zowe-cli/issues/1439)
 - [ ] [zowe files create ds always assume secondary space of 1 ](https://github.com/zowe/zowe-cli/issues/1595)
-- [ ] [Stretch] [Progress bar not working in zowe deamon mode for some terminal types](https://github.com/zowe/imperative/issues/908)
+- [ ] [Config with both APIML and direct-connection profiles gets authentication errors](https://github.com/zowe/imperative/issues/978)
 
 #### *[Stretch] Community Upvoted*
 - [ ] [Provide a way to perform zowe plugin verify plugin-name or equivalent to assure the provenance of installed software](https://github.com/zowe/zowe-cli/issues/1326)
@@ -49,8 +44,6 @@ CLI Squad Plan:
 - [ ] [How to make sure that a file is deleted with one command?](https://github.com/zowe/zowe-cli/issues/866)
 - [ ] [401 when logout with expired token](https://github.com/zowe/zowe-cli/issues/1041)
 - [ ] [zowe plugins validate returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
-- [ ] [Documenting return values](https://github.com/zowe/zowe-cli/issues/1386)
-- [ ] [Allow Daemon Colorize Setting](https://github.com/zowe/zowe-cli/issues/1379)
 - [ ] [IZosFilesResponse in SDK Refers to Commands](https://github.com/zowe/zowe-cli/issues/865)
 
 ## OpenSSF Best Practices Badge
