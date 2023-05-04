@@ -1,5 +1,7 @@
 # System Demo Recordings
 
+[04-02-2023](https://zoom.us/rec/share/W3h17KFjzj4ECVG5z6CesHGgCRNiElZqjVbi0PB75CRAhZs4pW8rqWG6aRPK-JV_.axHZGHvKBwb81BzK) Zowe v2.8.0 System Demo
+
 [03-20-2023](https://zoom.us/rec/share/bkbJdEbre1Nj2FjxNKndaP71tglCHkAQOUod1VywXqzfazU9h9GStWghrOv3h5oZ._ryWCQhdNAoPAtKC) Zowe v2.7.0 System Demo
 
 [01-30-2023](https://zoom.us/rec/share/NL_BtEgP2DtfHTXZ8BH5CasMD-zo9Ay2SGfKF9xmzcnVYHP7njCjRZ6tP_d5qj77.IQgkF4eFf-pAo6uK) Zowe v2.6.0 System Demo
