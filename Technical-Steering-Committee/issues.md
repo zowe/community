@@ -36,7 +36,7 @@ Importance of the issue as perceived by squad organized by importance:
 - **priority-low**  
 *Address in the next 12 months*: The submitter has indicated or confirmed that this defect is not causing significant detrimental impact and the impact to usage is manageable. The issue should be prioritized and planned based on popularity (see voting), capacity, and submitter-availability for engagement and participation in the resolution.
 
-For Bugs, it is also possible to reflect the perceived impact of the issue by its severity:
+For bugs, apply a severity label based on the following criteria:
 
 - **severity-critical**  
 *Prevents Use of Zowe*: Major impact on the organization (i.e., production outage, data corruption, security exposure)
@@ -58,7 +58,7 @@ For Bugs, it is also possible to reflect the perceived impact of the issue by it
 - **priority-low**  
 *Address as capacity permits*: The submitter has indicated or confirmed that this enhancement is either more cosmetic or a nice-to-have improvement. The issue should be prioritized and planned based on popularity (see voting), capacity, and submitter-availability for engagement and participation in the resolution.
 
-*Severity does not apply to enhancements*
+### *Severity does not apply to enhancements*
 
 ## Issue Management
 
