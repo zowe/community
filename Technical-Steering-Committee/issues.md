@@ -25,7 +25,7 @@ A defect found in one of the existing project functionalities. See the [recommen
 
 ## Triaging Guidelines: *Bugs*
 
-Importance of the issue as perceived by squad organized by importance:
+Importance of the issue as perceived by squad:
 
 - **priority-critical**  
 *Address Immediately*: The submitter has indicated (or the reviewer has judged) that the defect is causing significant detrimental impact such as production outage, data corruption, security exposure, etc. The issue should be pulled in immediately and resolved. If this is not possible, the issue should be escalated to the TSC immediately.
@@ -48,6 +48,8 @@ For bugs, apply a severity label based on the following criteria:
 *Uncomfortable Use of Zowe*: Low impact to usage, does not impact key use cases, workaround may exist
 
 ## Triaging Guidelines: *Enhancements*
+
+Importance of the issue as perceived by squad:
 
 - **priority-critical**  
 *Address Immediately*: The submitter has indicated (or the reviewer has judged) that the enhancement is necessary to PREVENT significant detrimental impact to their usage and or their system which may result in production outage, data corruption, security exposure, etc. The enhancement should be pulled in immediately to be addressed. If this is not possible, the enhancement should be escalated to the TSC immediately. Submitter should commit to engagement throughout the development and validation of the enhancement (exceptions may apply).
