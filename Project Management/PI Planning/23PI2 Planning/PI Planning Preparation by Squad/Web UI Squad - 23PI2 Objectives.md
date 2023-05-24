@@ -2,7 +2,7 @@
 
 # In-squad tasks 📈
 
-## Improve documentation and up & running experience [#1857](https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/gh/zowe/community/1857)
+## Improve documentation on up & running, install, config experience [#1857](https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/gh/zowe/community/1857)
 **Priority**: 1
 
 **Description**: Identify and continue working w/ Doc squad, customers, and community members on which sections of the Doc need to be added/reorganized to improve the up & running experience, increase organization of security configuration, and decrease customer confusion overall by finding common pain points. Thank you to Joe W, Joe D, Sean and others who I'm forgetting for leading the investigation effort there
