@@ -76,7 +76,7 @@ Observability approach we are also considering to deprecate and then archive the
 
 ## Roadmap
 
-### API Developer Portal
+### API Catalog UI enhancements and templating
 
 - What problem are you solving?
   - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
@@ -85,7 +85,7 @@ Observability approach we are also considering to deprecate and then archive the
 - When do you plan to start the work?
   - 22PI4
 - When do you plan to deliver the solution?
-  - 23PI2
+  - 23PI3
 
 ### Improve Fault tolerance testing
 
@@ -96,14 +96,14 @@ Observability approach we are also considering to deprecate and then archive the
 - When do you plan to start the work?
   - 23PI3
 - When do you plan to deliver the solution?
-  - 23PI4
+  - 24PI1
 
-### Simplify Support of Zowe
+### Improve Logging for the API ML
 
 - What problem are you solving?
   - Currently it's difficult for Users to self-analyze and fix the configuration of Zowe
 - What are you doing to solve it?
-  - We need to improve the tooling and documentation for the users to be able to self-diagnose issues with Zowe
+  - Provide good quality logs with meaningful and actionable information
 - When do you plan to start the work?
   - 23PI2
 - When do you plan to deliver the solution?
@@ -118,7 +118,7 @@ Observability approach we are also considering to deprecate and then archive the
 - When do you plan to start the work?
   - 23PI2
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 24PI1
 
 ### Improve Onboarding of Internal APIs
 
@@ -127,39 +127,39 @@ Observability approach we are also considering to deprecate and then archive the
 - What are you doing to solve it?
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
 - When do you plan to start the work?
+  - 24PI1
+- When do you plan to deliver the solution?
+  - 24PI2
+
+### Multi-Tenancy API ML Deployments
+
+- What problem are you solving?
+  - Authenticating Zowe users across Sysplex and security domains 
+- What are you doing to solve it?
+  - Route users to the relevant sysplex based on the type of request and retrieve data on existing and available Sysplexes
+- When do you plan to start the work?
+  - 23PI3
+- When do you plan to deliver the solution?
+  - 23PI3
+
+### SMF Records creation
+
+- What problem are you solving?
+  - Missing SMF records for some types of authentication events
+- What are you doing to solve it?
+  - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
+- When do you plan to start the work?
   - 23PI4
 - When do you plan to deliver the solution?
   - 23PI4
 
-### Enable API ML to validate Conformance
+### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
 
 - What problem are you solving?
-  - The users, extenders and Zowe can't verify the claims in the conformance program
+  - Current Netflix ZUUL gateway is no longer actively developed
 - What are you doing to solve it?
-  - Provide endpoint to verify for running and onboarded service whether it fulfils conformance criteria
+  - Deliver a new gateway built upon the Spring Cloud Gateway
 - When do you plan to start the work?
-  - 24PI1
-- When do you plan to deliver the solution?
-  - 24PI1
-
-### Seamless upgrade to API ML
-
-- What problem are you solving?
-  - The update od Zowe and especially API ML can break the extensions of the API ML and break the configuration
-- What are you doing to solve it?
-  - Provide customers with alternative path that does the upgrade
-- When do you plan to start the work?
-  - 24PI1
-- When do you plan to deliver the solution?
-  - 24PI1
-
-### True Dynamic Discovery
-
-- What problem are you solving?
-  - The current discovery service is just a registry where someone needs to register the services.
-- What are you doing to solve it?
-  - Explore the available services and landscape and discover all the services that can be onboarded to the API ML.
-- When do you plan to start the work?
-  - 24PI1
+  - 23PI1
 - When do you plan to deliver the solution?
   - 24PI1
