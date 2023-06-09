@@ -6,10 +6,10 @@ As a Mainframe user, I want to be able to be correctly routed to the relevant sy
 
 Plan:
 - [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)
-- [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651)
+- [Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651) - UPDATE 6/9: Now planned for 23PI3
 
 
-## {CONTINUED} SMF Records creation #2533
+## {CONTINUED} SMF Records creation #2533 - UPDATE 6/9: Now planned for 23PI4
 
 If the user is being authenticated against SAF or zOSMF such an attempt is being recorded as the SMF record. This serves for auditing purposes. There are situations when API ML is validating user authentication by API ML issued JWT. This information is currently not recorded in SMF.
 
