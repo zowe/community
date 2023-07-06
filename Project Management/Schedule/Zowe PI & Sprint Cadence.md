@@ -74,6 +74,11 @@ Planning - 2023/07/25 - 2023/07/31<br>
 - Friday, July 28 - Final Readouts (Day 3)<br>
 
 Sprint 1 - 2023/08/01 - 2023/08/14 (Innovation Sprint)<br>
+
+- Monday, Aug (14 - 25) - Start of Innovation Sprint Breakouts
+    - Squads will breakout as needed and post times in Slack to inform others of Breakout dates/times and Zoom Info
+- Tuesday, Aug 29 - Innovation Sprint Final Readouts (during Architecture call)
+
 Sprint 2 - 2023/08/15 - 2023/08/28<br>
 Sprint 3 - 2023/08/29 - 2023/09/11<br>
 Sprint 4 - 2023/09/12 - 2023/09/25<br>
