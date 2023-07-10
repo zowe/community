@@ -56,6 +56,7 @@ Articles include:
 ## Videos
 
 Goal: Educate users through engaging content format - videos. 
+Create scenario-based demo videos for Zowe certificate configuration. 
 
 ## Zowe CLI
 
