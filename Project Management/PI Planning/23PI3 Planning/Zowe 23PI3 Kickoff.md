@@ -1,7 +1,7 @@
 #  23PI3 Joint PI Planning Kickoff
 
 ## Meeting Recording
-[Link to Recording]() Zowe 23PI3 PI Planning Kickoff
+[Link to Recording](https://zoom.us/rec/share/ZexMFhLo63qwaiDSwqLesQeQGB4iP-JFOueU0zy99ar5MXg-VgWBuPT4JVPuXhtx.C95RTAZeRtcp1Yok?startTime=1689083453000) Zowe 23PI3 PI Planning Kickoff
 
 ## Schedule
 
