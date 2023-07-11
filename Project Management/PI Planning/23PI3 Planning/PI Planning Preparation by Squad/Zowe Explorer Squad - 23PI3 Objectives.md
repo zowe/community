@@ -10,9 +10,9 @@
 
 #### v3 Pre-Release early availability
 
-- Group common methods into Singleton classes [#2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
-- Minimize the activate() function to have less chance of failure [#1985](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
 - v3 pre-release UX cleanup [#2360](https://github.com/zowe/vscode-extension-for-zowe/issues/2360)
+- [STRETCH] Group common methods into Singleton classes [#2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
+- [STRETCH] Minimize the activate() function to have less chance of failure [#1985](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
 
 ### RoadMap items to be addressed
 
@@ -29,8 +29,8 @@
 
 #### Improve experience for using API ML sessions in Zowe Explorer
 
-- Expand session does not prompt for login for APIML profile [#2261](https://github.com/zowe/vscode-extension-for-zowe/issues/2261)
-- Search operation does not prompt for login for APIML profile [#2259](https://github.com/zowe/vscode-extension-for-zowe/issues/2259)
+- [STRETCH] Expand session does not prompt for login for APIML profile [#2261](https://github.com/zowe/vscode-extension-for-zowe/issues/2261)
+- [STRETCH] Search operation does not prompt for login for APIML profile [#2259](https://github.com/zowe/vscode-extension-for-zowe/issues/2259)
 
 ### High Priority bugs 
 
