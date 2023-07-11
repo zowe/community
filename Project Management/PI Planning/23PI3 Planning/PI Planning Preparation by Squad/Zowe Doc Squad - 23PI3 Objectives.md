@@ -58,3 +58,11 @@ Articles include:
 Goal: Educate users through engaging content format - videos.
 
 Create scenario-based demo videos for Zowe certificate configuration.
+
+## Dependency
+
+* Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site.
+
+* Dependency on demo video input contributors.
+
+* Dependency on the developers who are involved with the legacy issues in doc site repository.
