@@ -1,4 +1,4 @@
-# Zowe IntelliJ Squad - 23PI2 - (2023/08/01 - 2023/10/23)
+# Zowe IntelliJ Squad - 23PI3  - (2023/08/01 - 2023/10/23)
 
 ## Zowe Explorer plug-in for IntelliJ IDEA
 
