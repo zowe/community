@@ -116,3 +116,14 @@ IntelliJ IDEA IDEs
     - **23Q1**
 - _When do you plan to deliver the solution?_
     - **24Q1**
+
+## COBOL language support in IntelliJ IDEA
+### COBOL plug-in MVP
+- _What problem are you solving?_
+    - There is no COBOL language support plug-in in IntelliJ yet
+- _What are you doing to solve it?_
+    - Design and implement an MVP of the plugin
+- _When do you plan to start the work?_
+    - **23Q1**
+- _When do you plan to deliver the solution?_
+    - **23Q4**
