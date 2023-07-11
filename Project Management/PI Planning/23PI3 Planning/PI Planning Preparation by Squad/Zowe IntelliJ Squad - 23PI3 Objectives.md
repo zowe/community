@@ -1,4 +1,4 @@
-# Zowe IntelliJ Squad - 23PI2 - (2023/07/24 - 2023/xx/xx)
+# Zowe IntelliJ Squad - 23PI2 - (2023/08/01 - 2023/10/23)
 
 ## Zowe Explorer plug-in for IntelliJ IDEA
 
@@ -54,16 +54,6 @@
     - **22Q3**
 - _When do you plan to deliver the solution?_
     - **23Q4**
-
-### Team Config v3 support?
-- _What problem are you solving?_
-    - With the Zowe v3 release, there will be introduced the new version of the team config
-- _What are you doing to solve it?_
-    - Implement support for the new version of team config
-- _When do you plan to start the work?_
-    - **23Q3**
-- _When do you plan to deliver the solution?_
-    - **23Q3 - 23Q4**
 
 ## Zowe JCL plug-in for IntelliJ IDEA
 
