@@ -1,48 +1,55 @@
 # Zowe Systems Squad - 23PI1 - (2023/01/24 - 2023/04/24)
 
-The primary goals for the system squad this PI continue as before - maintaining release operations, responding to high priority issues, and making tactical improvements to automation where time allows.
+The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements to automation where time allows.
+
+We have new contributors this PI for Zen and some install/config changes.
 
 ## Infrastructure
-- [Node v18 Installation](https://github.com/zowe/zowe-install-packaging/issues/3130)
-    * Covers installing Node 18 and updating our test matrix to use node 18, and forwarding any issues found to squads 
-- [Java 11 Installation](https://github.com/zowe/zowe-install-packaging/issues/2975)
-- Verify - wash.zowe.org Jenkins decommissioning can proceed
-- [Open Mainframe - new mainframe environment]()
-    * No new information yet - 1/6/23
+- [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
+    * No news to share 
+- [Marist Mainframe - Verify z15 transfer]()
+    * Active, in progress
+- [Marist Mainframe - Verify z/OS 2.5 and 3.1]()
+    * If available, timeline around summer '23
+
+## Onboarding
+- [Prepare systems squad onnboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+  * Complete rollover from last PI
+  * [zwe command overview](https://github.com/zowe/zowe-install-packaging/issues/3249)
+  * [zwe shell scripts design](https://github.com/zowe/zowe-install-packaging/issues/3250)
+  * [zowe-install-packaging-tools](https://github.com/zowe/zowe-install-packaging/issues/3253)
+  * [shared pipeline libraries, zowe-actions](https://github.com/zowe/zowe-install-packaging/issues/3255)
+  * [build,packaging, and distribution relationships - PAX/SMP/PSWI](https://github.com/zowe/zowe-install-packaging/issues/3256)
+  * [zowe containerization](https://github.com/zowe/zowe-install-packaging/issues/3257)
+  * [secret and account management](https://github.com/zowe/zowe-install-packaging/issues/3258)
+
+## Release and CICD
+- [Review Release Process](https://github.com/zowe/community/issues/1862)
+- [Java 11 Test Cases](https://github.com/zowe/zowe-install-packaging/issues/3329)
+- [Github Actions 'set-output' deprecation](https://github.com/zowe/zowe-install-packaging/issues/3378)
+- [Artifactory API Key Deprecation](https://github.com/zowe/zowe-install-packaging/issues/3229)
+- [Adding PR Labels to manage z/OS Builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
+
+## Zen
+- Accept Zen contribution
+- Zen Technical Preview 1 expected by end of quarter
+(More specific items to be created after contribution)
+
+## Installation / Configuration
+- Modify `zwe` install/config process to remove Node.JS dependency
+  * Focus: configmgr mode
+    * Build more in QuickJS, as feasible
+    * Work should be synced w/ z/OS Squad.
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
-
-## On the backlog (not in plan)
-- [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
-- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
-- [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
-
-### CI/CD and Release Automation Improvements
-- [Add internal documentation for making changes which impact datasets or dataset members](https://github.com/zowe/zowe-install-packaging/issues/3124)
-- [PR Labels allow triggering longer-running builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
 
 ### Dependencies, Risks
 - No dependencies on other teams this PI. 
 - No newly identified risks - business as usual interruptions (responding to a security release, helping with RCs/releases).
 
 
-
-
-
-
-
 ## Roadmap Items
-
-### Improvements to Release Automation
-- What problem are you solving? 
-  * Addressing some gaps in our release automation.
-- What are you doing to solve it?
-  * Expanding our current suite of release automation.
-- When do you plan to start the work? 
-  * CY22Q4
-- When do you plan to deliver the solution? 
-  * CY23Q1
 
 ### Expand Build and Test Infrastructure
 - What problem are you solving? 
@@ -52,7 +59,7 @@ The primary goals for the system squad this PI continue as before - maintaining 
 - When do you plan to start the work? 
   * CY23Q1
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY23Q4  (Pushed back 1Q)
   
 ### Use sigstore to sign artifacts
 - What problem are you solving? 
@@ -62,4 +69,4 @@ The primary goals for the system squad this PI continue as before - maintaining 
 - When do you plan to start the work? 
   * CY23Q2
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY23Q4 (Pushed back 1Q - capacity)

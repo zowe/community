@@ -116,12 +116,12 @@ The current situation with respect to the major Zowe versions
 | Install and Packaging - Containerization (Server-Bundle) | Technical Preview        | Systems             |
 | Install and Packaging - Workflow                         | Generally Available (GA) | Systems             |
 | Install and Packaging - PSWI                             | Technical Preview        | Systems             |
+| Intellij Explorer                             | Generally Available (GA)        | Intellij             |
+| Jenkins Plugin                             | Technical Preview        | Intellij             |
 
 
 #### Incubators
 
 | Project Name                                 | Current Stage           | Responsible Squad   | 
 |----------------------------------------------|-------------------------|---------------------|
-| Workflow Wizard                              | Technical Preview       | Workflow Wizard     |
 | ZEBRA                                        | Technical Preview       | ZEBRA               |
-| Zowe on the go                               | Technical Preview       | Zowe Mobile         |
