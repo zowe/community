@@ -53,6 +53,16 @@ Articles include:
 
 * Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues))
  
+ ## CII Badge standards
+
+- Identify areas in Zowe CLI and Zowe Explorer documentation that need changes in order to meet  CII Badge standards.
+
+- Develop documentation strategy to make needed modifications.
+
+## Zowe CLI authentication mechanisms
+
+- Document order for authentication mechanisms used in Zowe CLI.
+
 ## Videos
 
 Goal: Educate users through engaging content format - videos.
