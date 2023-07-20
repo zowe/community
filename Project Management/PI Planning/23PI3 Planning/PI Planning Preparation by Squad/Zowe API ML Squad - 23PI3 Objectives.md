@@ -4,7 +4,9 @@
 
 ## API ML in multi-domain / multi-tenant deployments #2651
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.
+As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.  
+
+Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
 
 API ML Squad Plan:  
 [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)  
@@ -20,6 +22,8 @@ API ML Squad Plan:
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The intention is for the SCG to fully replace the existing gateway with the release of V3.  
+
+Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
 
 API ML Squad Plan:  
 [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
@@ -37,7 +41,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - if there are issues that limit the functionality but don't break things, we need to log them as warnings in a way that's actionable by the users.  
 - if there are issues preventing Zowe from working, these will be logged as errors with easy to find error codes and actionable text.  
 - Logs created for debugging should go to files instead of the spool so that the diagnostics pax contains them.  
-- Debugging logs should contain, by default, the details of the TLS communication. 
+- Debugging logs should contain, by default, the details of the TLS communication.
+
+Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN) 
 
 **API ML Squad plan:**  
 
@@ -53,7 +59,9 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 
 ## V3 Support Java 17
 
-API ML depends heavily on the spring framework. Spring 6 drops support for java versions prior to 17. API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.
+API ML depends heavily on the spring framework. Spring 6 drops support for java versions prior to 17. API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.  
+
+Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
 
 [Support java 17 #2891](https://github.com/zowe/api-layer/issues/2891)
 
@@ -62,74 +70,14 @@ API ML depends heavily on the spring framework. Spring 6 drops support for java 
 
 Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support. The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.  
 
+Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
+
 - [Upgrade Spring Boot to 3.1 (Zowe V3) #2959](https://github.com/zowe/api-layer/issues/2959)
 - [Migrate to new Spring Boot configuration format#2380](https://github.com/zowe/api-layer/issues/2380)
 - [Improve Spring configuration #2942](https://github.com/zowe/api-layer/issues/2942)
 
 
-## Zowe / api-layer backlog management
-- [Incorrect log ID formatting? #2694](https://github.com/zowe/api-layer/issues/2694)
-- [Serve different certificates on single port #2964](https://github.com/zowe/api-layer/issues/2964)
-- [Invalid Zosmf static definition in discovery service #2889](https://github.com/zowe/api-layer/issues/2889)
-- [Zowe v2 conformance #2794](https://github.com/zowe/api-layer/issues/2794)
-
-
 ## Roadmap
-
-### API Catalog UI enhancements and templating
-
-- What problem are you solving?
-  - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
-- What are you doing to solve it?
-  - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
-- When do you plan to start the work?
-  - 22PI4
-- When do you plan to deliver the solution?
-  - 23PI3
-
-### Improve Fault tolerance testing
-
-- What problem are you solving?
-  - The problems related to fault tolerance are found in the user's systems.
-- What are you doing to solve it?
-  - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
-- When do you plan to start the work?
-  - 23PI3
-- When do you plan to deliver the solution?
-  - 24PI1
-
-### Improve Logging for the API ML
-
-- What problem are you solving?
-  - Currently it's difficult for Users to self-analyze and fix the configuration of Zowe
-- What are you doing to solve it?
-  - Provide good quality logs with meaningful and actionable information
-- When do you plan to start the work?
-  - 23PI2
-- When do you plan to deliver the solution?
-  - 23PI3
-
-### Observability for API ML
-
-- What problem are you solving?
-  - The customers need to integrate the mainframe APIs into their wider observability effort.
-- What are you doing to solve it?
-  - Implementing the integration of the API ML traffic data with popular solutions such as Splunk or ELK stack
-- When do you plan to start the work?
-  - 23PI2
-- When do you plan to deliver the solution?
-  - 24PI1
-
-### Improve Onboarding of Internal APIs
-
-- What problem are you solving?
-  - The users need to be able to easily onboard their own custom internal infrastructure APIs
-- What are you doing to solve it?
-  - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
-- When do you plan to start the work?
-  - 24PI1
-- When do you plan to deliver the solution?
-  - 24PI2
 
 ### Multi-Tenancy API ML Deployments
 
@@ -142,16 +90,16 @@ Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support. The objective
 - When do you plan to deliver the solution?
   - 23PI3
 
-### SMF Records creation
+### API Catalog UI enhancements and templating
 
 - What problem are you solving?
-  - Missing SMF records for some types of authentication events
+  - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
 - What are you doing to solve it?
-  - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
+  - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
 - When do you plan to start the work?
-  - 23PI4
+  - 22PI4
 - When do you plan to deliver the solution?
-  - 23PI4
+  - 23PI3
 
 ### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
 
@@ -162,4 +110,83 @@ Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support. The objective
 - When do you plan to start the work?
   - 23PI1
 - When do you plan to deliver the solution?
+  - 23PI4
+
+### V3 Support Java 17
+
+- What problem are you solving?
+  - API ML depends heavily on the spring framework. Spring 6 drops support for java versions prior to 17. 
+- What are you doing to solve it?
+  - API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.
+- When do you plan to start the work?
+  - 23PI3
+- When do you plan to deliver the solution?
+  - 23PI3
+
+### V3 Support SpringBoot 3.1
+
+- What problem are you solving?
+  - Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support.  
+- What are you doing to solve it?
+  - The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.
+- When do you plan to start the work?
+  - 23PI3
+- When do you plan to deliver the solution?
+  - 23PI3
+
+### Improve Logging for the API ML
+
+- What problem are you solving?
+  - Currently it's difficult for Users to self-analyze and fix the configuration of Zowe
+- What are you doing to solve it?
+  - Provide good quality logs with meaningful and actionable information
+- When do you plan to start the work?
+  - 23PI2
+- When do you plan to deliver the solution?
+  - 23PI4
+
+### Improve Fault tolerance testing
+
+- What problem are you solving?
+  - The problems related to fault tolerance are found in the user's systems.
+- What are you doing to solve it?
+  - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
+- When do you plan to start the work?
+  - 23PI4
+- When do you plan to deliver the solution?
   - 24PI1
+
+### SMF Records creation
+
+- What problem are you solving?
+  - Missing SMF records for some types of authentication events
+- What are you doing to solve it?
+  - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
+- When do you plan to start the work?
+  - 24PI1
+- When do you plan to deliver the solution?
+  - 24PI1
+
+### Observability for API ML
+
+- What problem are you solving?
+  - The customers need to integrate the mainframe APIs into their wider observability effort.
+- What are you doing to solve it?
+  - Implementing the integration of the API ML traffic data with popular solutions such as Splunk or ELK stack
+- When do you plan to start the work?
+  - 23PI3
+- When do you plan to deliver the solution?
+  - 24PI2
+
+### Improve Onboarding of Internal APIs
+
+- What problem are you solving?
+  - The users need to be able to easily onboard their own custom internal infrastructure APIs
+- What are you doing to solve it?
+  - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
+- When do you plan to start the work?
+  - 24PI1
+- When do you plan to deliver the solution?
+  - 24PI2
+
+
