@@ -2,7 +2,7 @@
 
 ## Zowe Keytar Replacement
 Keytar will be removed from VS Code in the August 2023 release. The Zowe CLI squad will work with the Zowe Explorer squad to implement a replacement for keytar in the imperative and Zowe CLI projects.
-- [ ] Bring keytar-rs into the Zowe CLI/imperative repository
+- [x] Bring keytar-rs into the Zowe CLI/imperative repository
 - [ ] Integrate keytar-rs into Zowe CLI and imperative, removing references to the Atom keytar package
 - [ ] Expose APIs/SDK methods to enable use of keytar-rs by extenders and Zowe Explorer
 - [ ] Update documentation to ensure that extenders know what changes (if any) they might need to make in their Zowe CLI plugins
@@ -13,9 +13,7 @@ Implement planned changes in preparation for the pre-release version of Zowe CLI
 - [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo](https://github.com/zowe/zowe-cli/issues/1695)
 - [ ] [v3: Remove V1 profile functionality in vNext](https://github.com/zowe/zowe-cli/issues/1703)
 - [ ] [v3: Consistent --editor option across CLI commands that can open editor](https://github.com/zowe/imperative/issues/992)
-
-## Zowe Client Python SDK Enhancements
-- [ ] TBD
+- [ ] [v3: Remove deprecated constants, options, and methods](https://github.com/zowe/zowe-cli/issues/1694)
 
 ## Address Items in the CLI and Imperative Backlogs
 Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
@@ -42,10 +40,12 @@ CLI Squad Plan:
 - [ ] [Support the message transmission/reception API for TSO.](https://github.com/zowe/zowe-cli/issues/1566)
 - [ ] [How to make sure that a file is deleted with one command?](https://github.com/zowe/zowe-cli/issues/866)
 - [ ] [zowe plugins validate returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
-- [ ] [IZosFilesResponse in SDK Refers to Commands](https://github.com/zowe/zowe-cli/issues/865)
 
 ## OpenSSF Best Practices Badge
 - [ ] [Zowe CII Badge items for Zowe CLI](https://github.com/zowe/zowe-cli/issues/1352)
+- [ ] [OpenSSF Best Practices: Publish software architecture description](https://github.com/zowe/zowe-cli/issues/1760)
+- [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements](https://github.com/zowe/zowe-cli/issues/1761)
+- [ ] [OpenSSF Best Practices: Assemble a security assurance case case](https://github.com/zowe/zowe-cli/issues/1762)
   - Update shared Zowe spreadsheet with the latest information on the Zowe CLI project
 
 #### Helpful links for OpenSSF Best Practices Badge criteria:
