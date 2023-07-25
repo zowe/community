@@ -103,7 +103,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI3
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 23PI4
 
 ### V3 Support SpringBoot 3.1
 
@@ -114,7 +114,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI3
 - When do you plan to deliver the solution?
-  - 23PI3
+  - 23PI4
 
 ### Improve Logging for the API ML
 
