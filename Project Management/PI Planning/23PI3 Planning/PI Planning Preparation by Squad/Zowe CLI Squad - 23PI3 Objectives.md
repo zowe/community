@@ -46,6 +46,7 @@ CLI Squad Plan:
 - [ ] [OpenSSF Best Practices: Publish software architecture description](https://github.com/zowe/zowe-cli/issues/1760)
 - [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements](https://github.com/zowe/zowe-cli/issues/1761)
 - [ ] [OpenSSF Best Practices: Assemble a security assurance case case](https://github.com/zowe/zowe-cli/issues/1762)
+- [ ] [OpenSSF Best Practices: Provide signatures for Zowe.org downloads](https://github.com/zowe/zowe-cli/issues/1763)
   - Update shared Zowe spreadsheet with the latest information on the Zowe CLI project
 
 #### Helpful links for OpenSSF Best Practices Badge criteria:
