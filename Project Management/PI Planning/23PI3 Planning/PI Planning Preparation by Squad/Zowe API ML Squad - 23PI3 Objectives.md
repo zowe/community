@@ -6,7 +6,7 @@
 
 As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.  
 
-Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
+Impact on other Zowe components: NONE 
 
 API ML Squad Plan:  
 [Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)  
@@ -23,15 +23,18 @@ API ML Squad Plan:
 
 Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The intention is for the SCG to fully replace the existing gateway with the release of V3.  
 
-Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
+Impact on other Zowe components: POSSIBLE
 
 API ML Squad Plan:  
 [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
-- [Move AT-TLS processing to the Spring Cloud Gateway #2038](https://github.com/zowe/api-layer/issues/2038)  
-- [Replace deprecated RestTemplate #2410](https://github.com/zowe/api-layer/issues/2410)
-- [Support remapping to the SAF token #2045](https://github.com/zowe/api-layer/issues/2045)
-- [Migrate the Apache HttpClient from version 4.5. to recent 5.1. #2394](https://github.com/zowe/api-layer/issues/2394) 
+- [Refactor and review RouteLocator class #3000](https://github.com/zowe/api-layer/issues/3000)  
+- [Create ZAAS controller to handle login #3001](https://github.com/zowe/api-layer/issues/3001)
+- [Enable z/OSMF authentication scheme in SCG #3002](https://github.com/zowe/api-layer/issues/3002)
+- [Enable SAF IDT authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3003) 
+- [Enable zoweJwt authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3004) 
 
+
+# Stretch
 
 ## Improve logging for the API ML #1796
 
@@ -43,7 +46,7 @@ Zowe will enhance the support experience of Zowe with the aim to reduce the numb
 - Logs created for debugging should go to files instead of the spool so that the diagnostics pax contains them.  
 - Debugging logs should contain, by default, the details of the TLS communication.
 
-Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN) 
+Impact on other Zowe components: NONE
 
 **API ML Squad plan:**  
 
@@ -54,28 +57,7 @@ Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
 - [Improve logging about Keyring / keystore #2971](https://github.com/zowe/api-layer/issues/2971)
 - [Improve logging about eureka communication #2973](https://github.com/zowe/api-layer/issues/2973)
 - [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/2822)       
-- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)  
-
-
-## V3 Support Java 17
-
-API ML depends heavily on the spring framework. Spring 6 drops support for java versions prior to 17. API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.  
-
-Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
-
-[Support java 17 #2891](https://github.com/zowe/api-layer/issues/2891)
-
-
-## V3 Support SpringBoot 3.1
-
-Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support. The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.  
-
-Impact on other Zowe components (NONE / POSSIBLE / UNKNOWN)
-
-- [Upgrade Spring Boot to 3.1 (Zowe V3) #2959](https://github.com/zowe/api-layer/issues/2959)
-- [Migrate to new Spring Boot configuration format#2380](https://github.com/zowe/api-layer/issues/2380)
-- [Improve Spring configuration #2942](https://github.com/zowe/api-layer/issues/2942)
-
+- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
 
 ## Roadmap
 
