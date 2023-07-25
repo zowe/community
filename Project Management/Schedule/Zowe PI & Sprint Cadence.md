@@ -104,25 +104,11 @@ Sprint 6 - 2024/01/09 - 2024/01/22<br>
 
 ### V2
 
-#### 2.5 </br>
-- Code Freeze 2022/11/29<br>
-- RC Build 2022/11/30<br>
-- System Demo 2022/12/19<br>
-- Testing 2022/11/30 - 2022/12/12<br>
-- GA 2022/12/12<br>
-
-#### 2.6 </br>
-- Code Freeze 2023/01/10<br>
-- RC Build 2023/01/11<br>
-- System Demo 2023/01/30<br>
-- Testing 2023/01/11 - 2023/01/23<br>
-- GA 2023/01/23<br>
-
 #### 2.7 </br>
-- Code Freeze 2023/03/07<br>
-- RC Build 2023/03/08<br>
+- Code Freeze 2023/03/01<br>
+- RC Build 2023/03/02<br>
 - System Demo 2023/03/20<br>
-- Testing 2023/03/08 - 2023/03/12<br>
+- Testing 2023/03/02 - 2023/03/12<br>
 - GA 2023/03/13<br>
 
 #### 2.8 </br>
@@ -209,6 +195,20 @@ Sprint 6 - 2024/01/09 - 2024/01/22<br>
 ## Past releases
 
 ## V2
+
+#### 2.6 </br>
+- Code Freeze 2023/01/10<br>
+- RC Build 2023/01/11<br>
+- System Demo 2023/01/30<br>
+- Testing 2023/01/11 - 2023/01/23<br>
+- GA 2023/01/23<br>
+
+#### 2.5 </br>
+- Code Freeze 2022/11/29<br>
+- RC Build 2022/11/30<br>
+- System Demo 2022/12/19<br>
+- Testing 2022/11/30 - 2022/12/12<br>
+- GA 2022/12/12<br>
 
 #### 2.4 </br>
 - Code Freeze 2022/10/04<br>
