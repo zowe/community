@@ -69,6 +69,8 @@ Goal: Educate users through engaging content format - videos.
 
 Create scenario-based demo videos for Zowe certificate configuration.
 
+Create demo videos for Zowe extensions. 
+
 ## Dependency
 
 * Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site.
