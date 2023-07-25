@@ -1,13 +1,13 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>23PI2 PI Planning</H1><br>
+            <th colspan="5"><H1>23PI3 PI Planning</H1><br>
 
 Day 1\
 When: Wednesday, April 26, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-Zoom Meeting: https://zoom.us/j/92896364809<br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895083&calstart=2023-04-26<br>
-Meeting Recordings: [Day 1](https://zoom.us/rec/share/vYoo2RGbT3P08lY25glLdlqzFLiWzkavu7Cz2xr6AEXSg0hb0nM1m4kmiTHENL7g.7MCVVu29A4Ti5Mgj)
+Zoom Meeting: https://zoom.us/j/93604624235<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1991262&calstart=2023-07-26<br>
+Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
@@ -19,9 +19,9 @@ Meeting Recordings: Squads will manage recordings (if needed)
 
 Day 3\
 When: Friday, April 28, 2023 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-Zoom Meeting: https://zoom.us/j/99280406340<br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895087&calstart=2023-04-28<br>
-Meeting Recordings: [Day 3](https://zoom.us/rec/share/nH-D2OYWnaGoRykUWJV-gnDVpL3K7EHLit7dNLjIU6BwBiSUlIxYLZu0a2KkSOff.3xcwAAhPRODhA2Q0)
+Zoom Meeting: https://zoom.us/j/94978129559<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1991265&calstart=2023-07-28<br>
+Meeting Recordings: [Day 3]()
 <br>
 
 Innovation Sprint Meeting Recordings
@@ -32,21 +32,21 @@ Innovation Sprint Meeting Recordings
 
 
 Opening Presentations<br>
-[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/Zowe%2023PI2%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
-[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI2%20Objectives.md)<br>
-[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20TSC%20-%2023PI2%20Objectives.md)<br>
+[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/Zowe%2023PI3%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
+[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI3%20Objectives.md)<br>
+[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20TSC%20-%2023PI3%20Objectives.md)<br>
 Squad PI Objectives<br>
-[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI2%20Objectives.md)<br>
-[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI2%20Objectives.md)<br>
-[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI2%20Objectives.md)<br>
-[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI2%20Objectives.md)<br>
-[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI2%20Objectives.md)<br>
-[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI1%20Objectives.md)<br>
-[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI2%20Objectives.md)<br>
-[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI2%20Objectives.md)<br>
-[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI2%20Objectives.md)<br>
-[Mobile](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Mobile%20Squad%20-%2023PI2%20Objectives.md)<br>
-[IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI2%20Objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI3%20Objectives.md)<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI3%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI3%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI3%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI3%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI1%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI3%20Objectives.md)<br>
+[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI3%20Objectives.md)<br>
+[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI3%20Objectives.md)<br>
+[Mobile](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Mobile%20Squad%20-%2023PI3%20Objectives.md)<br>
+[IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI3%20Objectives.md)<br>
 
 
 
@@ -384,6 +384,6 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 
 [Closing Comments]()<br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI2%20Planning/Zowe_23PI2_Confidence_Vote.png)<br>
+[Confidence Vote Results]()<br>
 
 
