@@ -13,7 +13,7 @@ Meeting Recordings: [Day 1]()
 Day 2\
 When: Thursday, July 27, 2023 (UTC-05:00) Eastern Time - New York<br>
 Zoom Meeting: None. Squads will book breakouts (as needed)<br>
-OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895086&calstart=2023-04-27<br>
+OMP Calendar: https://lists.openmainframeproject.org/g/zowe-dev/viewevent?eventid=1895086&calstart=2023-07-27<br>
 Meeting Recordings: Squads will manage recordings (if needed)
 <br>
 
@@ -73,7 +73,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -81,7 +81,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
@@ -89,7 +89,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td></td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -97,7 +97,7 @@ Squad PI Objectives<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -126,7 +126,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -134,7 +134,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Squad Breakouts</td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -148,7 +148,7 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-04-26</td>
+                <td>2023-07-26</td>
                 <td>11:05 AM</td>
 <td>
 
@@ -170,7 +170,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-04-26</td>
+                <td>2023-07-26</td>
                 <td>12:00 PM</td>
 <td>
 
@@ -187,7 +187,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-04-26</td>
+                <td>2023-07-26</td>
                 <td>1:00 PM</td>
 <td>
 
@@ -203,7 +203,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-04-26</td>
+                <td>2023-07-26</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -217,7 +217,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td></td>
-            <td>2023-04-26</td>
+            <td>2023-07-26</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -242,7 +242,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Breakouts (Optional)</td>
-            <td>2023-04-27</td>
+            <td>2023-07-27</td>
             <td>8:00 AM</td>
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
@@ -251,7 +251,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2023-04-27</td>
+                <td>2023-07-27</td>
                 <td>8:00 AM</td>
 <td>
 
@@ -267,7 +267,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2023-04-27</td>
+                <td>2023-07-27</td>
                 <td>11:00 AM</td>
 <td>
 
@@ -294,7 +294,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -302,7 +302,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>9:15 AM</td>
 <td>
 
@@ -330,7 +330,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -338,7 +338,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>11:15 AM</td>
             <td>10 mins</td>
             <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -346,7 +346,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Closing Comments </td>
@@ -354,14 +354,14 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Day 3 End</td>
     <tbody>
         <tr>
             <td></td>
-            <td>2023-04-28</td>
+            <td>2023-07-28</td>
             <td>11:30 AM</td>
             <td></td>
             <td></td>
