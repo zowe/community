@@ -2,51 +2,38 @@
 
 # In-squad tasks
 
-## Shortcut and folder support for Desktop [#821](https://github.com/zowe/zlux/issues/821)
+## ZEN [#16](https://github.com/zowe/zen/issues/16)
 **Priority**: 1
 
-**Description**: Turn prototype into code ready for release. In previously created prototype, app2app actions of the Desktop could be recorded as a shortcut, and both shortcuts and apps could be organized into folders
+**Description**: The webUI squad will be contributing to the upcoming Zowe server install wizard project ZEN, and has identified several tasks to be done within https://github.com/zowe/zen/issues and in particular hope to accomplish https://github.com/zowe/zen/issues/16 within the first PI, or at least first release.
 
-**Status**: Nearly complete, just needs code cleanup and bug fixes.
-
-## Switch tn3270-ng2 app to use OMP's tsterm [#869](https://github.com/zowe/zlux/issues/869)
+## Angular/Webpack upgrades [#975](https://github.com/zowe/zlux/issues/975)
 **Priority**: 2
 
-**Description**: OMP's tsterm library is a fork of the Zowe library used within the tn3270-ng2 app. This fork promises improved ease of maintenance and may make the terminal app easier to enhance down the road, so switching to it is strategic for long-term health.
-
-## Document desktop messages [#733](https://github.com/zowe/zlux/issues/733)
-**Priority**: 3
-
-**Description**: Every ZWED I, E, or W error code to be documented with a description and suggested action within the documentation website.
-
-**Status**: Overall about 7/10 of the messages have been documented so far during the last PIs.
+**Description**: In preparation for Zowe v3, library upgrades should be done to keep within the maintenance window of important libraries that we use that we cannot otherwise change mid-release. In particular, Angular and webpack are such libraries and newer versions exist than we currently use. We will work on upgrading them as much as possible.
 
 
 # Stretch
 
-## Migrate app-server to use defaults.yaml [#914](https://github.com/zowe/zlux/issues/914)
+## Zowe global network configuration https://github.com/zowe/community/issues/1879 https://github.com/zowe/community/issues/1875
+**Priority**: 3
 
-Currently, app-server determines its config via:
+**Description**: Simplify steps required to do networking tasks desired in Zowe server config, by having global configs that apply to all the servers
 
-    zowe.yaml which the user actually edited
-    env vars
-    cli args
-    convert-env.sh which sets things via sensing conditions on the env vars
-    zluxArgs.js hardcoded defaults
+**Status**: Schema identified, templates being written to take advantage of existing server features. Later, individual servers enhancements may be required.
 
-in particular, convert-env.sh has a lot of weird and complicated conditions with plenty of backward compatibility.
-zss had similarly complexity and has been reduced to just
+## Dependency tracking [#3167](https://github.com/zowe/zowe-install-packaging/issues/3167)
+**Priority**: 4
 
-    zowe.yaml
-    defaults.yaml packaged within zss (https://github.com/zowe/zss/blob/v2.x/staging/defaults.yaml)
+**Description**: As part of making the zowe install experience better, we notice that many servers resort to retry loops at startup due to dependencies on other servers and no good way of waiting for a dependency to be ready. Similarly, servers that have sensitivity to certain versions of java or node have no way to declare that either. For v3, we want a way to state these dependencies in each component manifest so that zwe can assist in ensuring dependencies are met and starting servers in the right order and timing.
 
-So, we can reduce bugs, simplify troubleshooting and make our code easier to understand by outsiders by refactoring the app-server startup to be based upon thezowe YAML solely and use 'defaults.yaml' as a way to set our complex defaults.
+## Switch tn3270-ng2 app to use OMP's tsterm [#869](https://github.com/zowe/zlux/issues/869)
+**Priority**: 5
 
+**Description**: OMP's tsterm library is a fork of the Zowe library used within the tn3270-ng2 app. This fork promises improved ease of maintenance and may make the terminal app easier to enhance down the road, so switching to it is strategic for long-term health.
 
-## Web browser app enhancements [#880](https://github.com/zowe/zlux/issues/880)
+**Status**: Testing phase, PRs of the app using tsterm already exist and basic functionality is working.
 
-Utilize the shortcuts enhancement to save websites as if they were apps, to allow easier onboarding of non-native websites into zowe.
-Some websites need a proxy, such as the APIML or the web browser's builtin proxy. We will work on the backlog of web browser app proxy bugs to broaden compatibility.
 
 # Help wanted
 
@@ -63,7 +50,7 @@ But apart from that, it's very basic and pretty old right now.
 
 # Roadmap
 
-![image](https://user-images.githubusercontent.com/30730276/211323335-869e2818-d913-4a64-9cf3-6f099fd31624.png)
+<img width="1704" alt="image" src="https://github.com/zowe/community/assets/30730276/4979964c-d07f-4975-b3d6-65e6dd621819">
 
 
 
