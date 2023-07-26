@@ -41,13 +41,21 @@
 
 ## Completion and validation of certificate configuration documentation
 
-Articles include:
-  * Zowe Security Overview
-  * Determining your certificate configuration use case
+Articles in the User Guide section include:
+  * Configuring Certificates 
   * Certificate configuration scenarios
   * Generating and Importing Certificates
   * Advanced/Enterprise Certificate Configuration
   * Using Certificates
+
+Also additions to the getting-started section:
+  * Zowe Certificates Overview
+  * High Availability 
+  * Zowe User Authentication
+  * Zowe Security Overview
+
+## Consumer Awareness Section(s)
+Objective: Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
 
 ## Zowe Issue Triaging/Handling Guide
 
