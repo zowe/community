@@ -1,4 +1,4 @@
-# Zowe ZOS Squad 23PI1 - (2022/10/25 - 2023/01/23)
+# Zowe ZOS Squad 23PI3 - (2023/07/25 - 2023/10/23)
 
 # New Ideas Under in PI Planning process
 
@@ -102,5 +102,12 @@ A demo-ed capablity that allows a zero-config ZSS server run should be completed
 
 These repos are some of the most complex and sophisticated examples of C coding for ZOS.   It would be good to have an office hours or regular set of webinars to teach people how to be effective C programmers for ZOS.
 
+# How to get involved
+### Other tasks
+The zOS squad has more ideas than listed here, and can be seen at our [github issue page](github.com/zowe/zss/issues). Several issues are listed as *Help Wanted*, as well as *Good First Issue*
 
+### Contact us
+Please find us in the #zowe-zos-interface slack if you wish to become involved!
+
+Join us every Wednesday at 11am EST on Zoom at https://zoom.us/j/92871072081 where we give weekly standup, demos, and discussions.
 
