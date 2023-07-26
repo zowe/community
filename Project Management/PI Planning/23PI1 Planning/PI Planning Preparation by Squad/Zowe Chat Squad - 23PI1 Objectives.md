@@ -57,7 +57,7 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - When do you plan to start the work? 
   * CY22Q4
 - When do you plan to deliver the solution? 
-  * CY22Q4
+  * CY23Q2
 
 ### Golden CII Badge Conformance
 - What problem are you solving? 
@@ -65,9 +65,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Investigating and implementing Golden CII badge requirements
 - When do you plan to start the work? 
-  * CY23Q1
-- When do you plan to deliver the solution? 
   * CY23Q2
+- When do you plan to deliver the solution? 
+  * CY23Q3
 
 ### Event-driven Notifications
 - What problem are you solving? 
@@ -85,9 +85,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Building an APIML Authn/Authz option and making Zowe chat a conformant APIML Web Service.
 - When do you plan to start the work? 
-  * CY23Q2
-- When do you plan to deliver the solution? 
   * CY23Q3
+- When do you plan to deliver the solution? 
+  * CY23Q4
 
 ### Zowe Web Desktop Integration
 - What problem are you solving? 
@@ -95,9 +95,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Make Zowe Chat a conformant App Framework plugin, or build a thin conformant plugin for Chat. 
 - When do you plan to start the work? 
-  * CY23Q2
-- When do you plan to deliver the solution? 
   * CY23Q3
+- When do you plan to deliver the solution? 
+  * CY23Q4
 
 ### Containerized Distribution (x86, x390x)
 - What problem are you solving? 
@@ -105,9 +105,9 @@ The key focus areas for the Chat Squad this PI are working down technical debt a
 - What are you doing to solve it? 
   * Building a containerized deployment, following Zowe's existing model w/ Kustomize.
 - When do you plan to start the work? 
-  * CY23Q3
+  * CY23Q1
 - When do you plan to deliver the solution? 
-  * CY23Q4
+  * CY23Q2
 
 ### Build a Demo Environment
 - What problem are you solving? 
