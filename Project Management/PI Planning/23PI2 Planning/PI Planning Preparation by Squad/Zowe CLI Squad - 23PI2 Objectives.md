@@ -1,89 +1,63 @@
-# Zowe CLI Squad - 23PI1 - (2023/01/24 - 2023/04/24)
+# Zowe CLI Squad - 23PI2 - (2023/4/25 - 2023/07/24)
 
-## CLI: Keytar replacement
-Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an alternative for secure credential storage.
-#### CLI Squad Plan:
-Implement a suitable replacement to the Keytar package with minimal impact to our end users
+## Complex z/OS Jobs and z/OS Files commands 
+Enable Zowe CLI users to perform more complex (jobs & files) tasks with single commands.
 
-## CLI: Zowe CLI on Unix System Services
-Mainframe customers like to experiment with Zowe w/o requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
-#### CLI Squad Plan:
-Certify and document how to use of Zowe CLI on z/OS (USS)
-  - Requires Daemon testing (USS executable) / zLinux daemon works
-  - May require in-memory (or other?) credential management
+CLI Squad Plan:
+- [ ] [Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances](https://github.com/zowe/zowe-cli/issues/1098)
+- [ ] [zowe files edit data-set & zowe files edit uss-file](https://github.com/zowe/zowe-cli/issues/1097)
 
-## CLI: Cleanup the CLI and Imperative Backlogs
-As a Zowe CLI user, I want a backlog where I can find relevant information about future enhancements I can expect, and where I can provide feedback as I find opportunities for improvement.
-#### CLI Squad Plan:
-We will continue to review the CLI and Imperative backlog to keep all issues current and relevant, while closing unplanned enhancement requests.
+## V3 Pre-release
 
-## CLI: Address upvoted issues
-As a Zowe CLI user, I want my upvoted request to be addressed in a timely manner.
-#### CLI Squad Plan:
-Continue to review, prioritize, and implement:
-  - Bugs: Severity High (and above)
-  - Enhancements: Priority High (and above)
-  - [Highly upvoted issues](https://github.com/zowe/zowe-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+CLI Squad Plan:
+- [ ] [v3: Prepare vNext branch of the zowe-cli repository](https://github.com/zowe/zowe-cli/issues/1702)
+- [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo](https://github.com/zowe/zowe-cli/issues/1695)
+- [ ] [v3: Remove V1 profile functionality in vNext](https://github.com/zowe/zowe-cli/issues/1703)
 
-## CLI: (STRETCH) Finalize the Jobs & Files Enhancements (deprioritized in favor of Keytar replacement efforts) 
-As a Zowe CLI user, I want to perform more complex (jobs & files) tasks to reduce the amount of scripting and make interactive commands more efficient.
-#### CLI Squad Plan:
-Finalize the complex z/OS Jobs and z/OS Files commands (milestone)
-  - CLI#1098  Extend zowe files copy data-set command to allow for copying across LPARs / z/OSMF instances enhancement
-  - CLI#1097 Zowe Files Edit Data-Set and USS Files
+## Address Items in the CLI and Imperative Backlogs
+Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
 
-## CLI: (STRETCH) Complete the CII Badge Requirements
-This is a shared goal across all Zowe active squads. The goal is to achieve the Passing level of conformance and make progress towards the Silver badge. For more information, see: [zowe/community#1273](https://github.com/zowe/community/issues/1279).
-#### CLI Squad Plan:
-We will continue to work towrads the Gold CII badge requirements listed below:
-  - Coverage (Statement 90%)
+CLI Squad Plan:
+#### *Enhancements*
+- [ ] [Confirm / document combined config API use by extenders](https://github.com/zowe/zowe-cli/issues/913)
+- [ ] [Improve user friendlyness error for listing members in a data set](https://github.com/zowe/zowe-cli/issues/935)
+- [ ] [Research Secure Storage for Zowe CLI on USS](https://github.com/zowe/zowe-cli/issues/1673)
+- [ ] [Add life-cycle hooks to the sample plug-in zowe-cli-sample-plugin](https://github.com/zowe/zowe-cli-sample-plugin/issues/84)
+- [ ] [ProfileInfo: Add support for any properties specified in zowe.config.json](https://github.com/zowe/imperative/issues/899)
+- [ ] [Stretch] [Add flag to zowe config profiles to include file locations](https://github.com/zowe/zowe-cli/issues/1692)
+- [ ] [Stretch] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
+- [ ] [Stretch] [Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
 
-More information:
+#### *Bugs*
+- [ ] [IssueTso.issueTsoCommand incomplete response / data loss](https://github.com/zowe/zowe-cli/issues/690)
+- [ ] [Invalid block size is used by zowe files create data-set-sequential](https://github.com/zowe/zowe-cli/issues/1439)
+- [ ] [zowe files create ds always assume secondary space of 1 ](https://github.com/zowe/zowe-cli/issues/1595)
+- [ ] [Config with both APIML and direct-connection profiles gets authentication errors](https://github.com/zowe/imperative/issues/978)
+
+#### *[Stretch] Community Upvoted*
+- [ ] [Provide a way to perform zowe plugin verify plugin-name or equivalent to assure the provenance of installed software](https://github.com/zowe/zowe-cli/issues/1326)
+- [ ] [CLI ZOS-FILES command should support GDGs](https://github.com/zowe/zowe-cli/issues/969)
+- [ ] [Zowe requires password when using SSH key for SSH command](https://github.com/zowe/zowe-cli/issues/1034)
+- [ ] [Fix overrides.CredentialManager:false inconsistencies](https://github.com/zowe/zowe-cli/issues/1469)
+- [ ] [Unexpected command error when using SSH](https://github.com/zowe/zowe-cli/issues/1031)
+- [ ] [Support the message transmission/reception API for TSO.](https://github.com/zowe/zowe-cli/issues/1566)
+- [ ] [How to make sure that a file is deleted with one command?](https://github.com/zowe/zowe-cli/issues/866)
+- [ ] [401 when logout with expired token](https://github.com/zowe/zowe-cli/issues/1041)
+- [ ] [zowe plugins validate returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
+- [ ] [IZosFilesResponse in SDK Refers to Commands](https://github.com/zowe/zowe-cli/issues/865)
+
+## OpenSSF Best Practices Badge
+- [ ] [Zowe CII Badge items for Zowe CLI](https://github.com/zowe/zowe-cli/issues/1352)
+  - Update shared Zowe spreadsheet with the latest information on the Zowe CLI project
+
+#### Helpful links for OpenSSF Best Practices Badge criteria:
 - Passing: https://bestpractices.coreinfrastructure.org/en/criteria/0
 - Silver: https://bestpractices.coreinfrastructure.org/en/criteria/1
 - Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
 
 # Zowe CLI / Zowe SDK Roadmap
 
-## (New) Keytar Replacement
-
-- _What problem are you solving?_
-  - Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an alternative for secure credential storage.
-- _What are you doing to solve it?_
-  - Implement a suitable replacement to the Keytar package with minimal impact to our end users.
-- _When do you plan to start the work?_
-  - **CY23Q1**
-- _When do you plan to deliver the solution?_
-  - **CY23Q3** 
-
-## (New) SDK Conformance
-
-- _What problem are you solving?_
-  - Mainframe developers are interested in extending the existing SDKs in order to create applications for their services.
-- _What are you doing to solve it?_
-Solidify the SDK Conformance guidelines for:
-  - New Services (like CICS SDK)
-  - New Programming languages (like Ruby SDK)
-- _When do you plan to start the work?_
-  - **CY23Q2**
-- _When do you plan to deliver the solution?_
-  - **CY23Q4** 
-
-## (To be Started) Zowe CLI on Unix System Services (USS)
-
-- _What problem are you solving?_
-  - Mainframe customers like to experiment with Zowe w/o requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
-- _What are you doing to solve it?_
-  - Certify and document how to use of Zowe CLI on z/OS (USS)
-  - Would require in-memory (or other?) credential management otherwise credentials are in plain-text
-- _When do you plan to start the work?_
-  - **CY23Q1**
-- _When do you plan to deliver the solution?_
-  - **CY23Q4** (updated from **CY23Q2**)
-
-
-## (Delayed) Complex z/OS Jobs and z/OS Files commands 
-
+## (Carry-over) Complex z/OS Jobs and z/OS Files commands 
 - _What problem are you solving?_
   - Customers are looking for CLI commands that perform more complex (jobs & files) tasks to reduce scripting and make interactive CLI commands more efficient
 - _What are you doing to solve it?_
@@ -91,63 +65,66 @@ Solidify the SDK Conformance guidelines for:
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4** (delayed until **CY23Q1**)
+  - **CY22Q4** (delayed until **CY23Q2**)
 
-## (Delayed) Golden CII Badge
-
+## (Carry-over) Gold OpenSSF Best Practices Badge (Formerly CII Best Practices Badge)
 - _What problem are you solving?_
-  - The Zowe Project has not earned the golden CII Badge / a requirement from LF/OMP that ensures the Open Source project satisfies FLOSS (Free/Libre & &Open Source Software) [Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
+  - The Zowe Project has not earned the gold OpenSSF Best Practices Badge, a requirement from LF/OMP that ensures the Open Source project satisfies FLOSS (Free/Libre & Open Source Software) [Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
 - _What are you doing to solve it?_
-  - Review requirements and take necessary actions to satisfy them for the gold badge level.
+  - Review requirements and take necessary actions to satisfy them for the gold badge level
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4** (delayed until **CY23Q1**)
+  - **CY22Q4** (delayed until **CY23Q3**)
 
-## (Completed) Zowe Client SDK: Python
-
+## (Carry-over) Keytar Replacement
 - _What problem are you solving?_
-  - Consumers of the SDK have requested enhancements to one of the languages (Python)
+  - Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an actively maintained alternative for secure credential storage
 - _What are you doing to solve it?_
-  - Further enhance the Python Zowe Client SDK to meet consumer needs.
+  - Implement a suitable replacement to the Keytar package with minimal impact to our end users
 - _When do you plan to start the work?_
-  - **CY22Q2**
+  - **CY23Q1**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4**
+  - **CY23Q3** 
 
-## (Carried over) Zowe App Store Participation
-
+## (Carry-over) Zowe CLI on Unix System Services (USS)
 - _What problem are you solving?_
-  - Zowe Consumers can’t quickly/easily (see what’s available) locate & install ALL of the available Zowe CLI conformant plug-ins AND the supported Zowe Client SDKs
+  - Mainframe customers like to experiment with Zowe without requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
 - _What are you doing to solve it?_
-  - Participating in the Zowe App Store
+  - Certify and document how to use Zowe CLI on z/OS (USS)
+  - Implement secure credential management, otherwise credentials are in plain-text
 - _When do you plan to start the work?_
-  - `CLI`: **CY22Q3**
-  - `SDK`: **CY23Q4**
+  - **CY23Q1**
 - _When do you plan to deliver the solution?_
-  - `CLI`: **CY23Q4**
-  - `SDK`: **CY24??**
+  - **CY23Q4**
 
-## (Postponed) In-memory Credential Management & Identity Tokens
-
+## SDK Conformance and LTS Status
 - _What problem are you solving?_
-  - Some customers are not able to install the SCS for their credentials management OR prefer alternatives for credential management in support of internal policies
+  - Mainframe developers are interested in extending the existing SDKs in order to create applications for their services
 - _What are you doing to solve it?_
-  - Provide customers with an alternative that securely (prompts for and) stores all secure properties w/o requiring the SCS.
+  - Solidify the SDK Conformance guidelines for:
+    - New Services (like CICS SDK)
+    - New Programming languages (like Kotlin SDK)
+  - Prepare the SDKs technically and logistically for conformance
+  - Apply for (and achieve) conformance for existing SDKs
+  - Release the SDKs as LTS
 - _When do you plan to start the work?_
-  - **CY22Q3**
+  - **CY23Q2**
 - _When do you plan to deliver the solution?_
-  - **CY23Q1** (postponed until Zowe V3)
+  - **CY23Q4** 
 
-## (Postponed) Zowe CLI Containerization
-
+## (Stretch) Zowe Client Mentorship Opportunity: Enhancing the Python SDK
 - _What problem are you solving?_
-  - Customers want to invoke CLI commands in automation/orchestration tools like Jenkins w/o having to install all of the pre-requisite technology on their desktop or server and do not have the knowledge to configure a docker file from scratch. OR Simply, it’s too difficult to create Zowe CLI-enabled Jenkins pipelines (the script is easy, but the rest of the work isn’t)
+  - Consumers of the Python SDK are requesting enhancements, including support for Zowe V2 team configuration files
 - _What are you doing to solve it?_
-  - Provide a dockerfile image [that includes the configured prerequisite technology which can be customized for images and used for pipelines.
-  - Requires Daemon testing (USS executable) / zLinux daemon works
-  - Would require in-memory (or other?) credential management otherwise credentials are in plain-text
+  - Leverage the mentorship program to deliver enhancements to the existing SDK
 - _When do you plan to start the work?_
-  - **CY22Q3**
+  - **CY23Q2**
 - _When do you plan to deliver the solution?_
-  - **CY23Q1** (Postponed indefinitely)
+  - **CY23Q4**
+
+## Postponed Objectives
+For more details, please see the [2023 PI1 Planning Objectives](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI1%20Objectives.md)
+- Zowe App Store Participation
+- In-memory Credential Management & Identity Tokens
+- Zowe CLI Containerization
