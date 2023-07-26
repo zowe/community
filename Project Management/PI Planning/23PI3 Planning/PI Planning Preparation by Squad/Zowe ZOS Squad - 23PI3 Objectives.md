@@ -2,29 +2,29 @@
 
 # New Ideas Under in PI Planning process
 
-## Embedded JavaScript Enhancements
+## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626)
 
 Network support, especially http(s) client services.  
 
-## Configuration Management Semantic Checks
+## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
 
 Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
-## QJS Rebase
+## QJS Rebase [#628](https://github.com/zowe/zss/issues/628)
 
 QuickJS overdue for a rebase.   
 
 ## Move to Open XLC Latest
 
-## Yaml Comments
+## Yaml Comments [#3183](https://github.com/zowe/zowe-install-packaging/issues/3183) [#629](https://github.com/zowe/zss/issues/629)
 
 Prototyped. Fork of LibYaml.   
 
-## HTTP Authentication Refactoring and Client Cert Support
+## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
 
 The Authentication code is powerful but needs to be factored better to support validation.
 
-## JavaScript top-layer in ZSS
+## JavaScript top-layer in ZSS [#630](https://github.com/zowe/zss/issues/630)
 
 Research-y, but would allow much easier work for ZSS extensions/plugins.
 
