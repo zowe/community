@@ -1,4 +1,4 @@
-# Zowe Web UI - 23PI3 - (2023/07/25 - 2023/10/23)
+# Zowe ZOS Squad - 23PI3 - (2023/07/25 - 2023/10/23)
 
 # New Ideas Under in PI Planning process
 
