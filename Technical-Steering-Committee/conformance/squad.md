@@ -14,7 +14,6 @@ all of the criteria.
 | An appointed person is joining the architecture workgroup                                                                      |          |
 | The squad is using the Common Zenhub board to track the state of  issues related to its projects                               |          |
 | The squad has at least one weekly call to discuss issues                                                                       |          |
-| The squad has committers from at least two different companies                                                                 |          |
 | The squad has at least three committers                                                                                        |          |
 | The squad participates in the PI Planning                                                                                      |          |
 | The squad participates in System demos                                                                                         |          |
