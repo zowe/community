@@ -3,7 +3,8 @@
 Requires further discussion with the squad, but expectation should be few deliverables.
 
 
--- Please ignore the below plan pending further revision --
+
+-- Please ignore the below plan pending further refinement --
 
 ## Capabilities
 ### Incident Model and Event-Driven Notifications

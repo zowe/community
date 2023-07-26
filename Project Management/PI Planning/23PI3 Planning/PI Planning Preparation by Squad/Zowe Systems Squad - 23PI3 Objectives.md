@@ -8,12 +8,11 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 - [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
     * No news to share 
 - [Marist Mainframe - Verify z/OS 2.5 and 3.1](https://github.com/zowe/zowe-install-packaging/issues/3396)
-    * Exact timeline TBD
+    * Timeline is expected to be within this PI, exact dates are not set.
 
 ## Onboarding
 - [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
   * Complete rollover from 23PI2
-  * List to be set closer to 23PI2
     * [zwe command overview](https://github.com/zowe/zowe-install-packaging/issues/3249)
     * [zwe shell scripts design](https://github.com/zowe/zowe-install-packaging/issues/3250)
     * [zowe-install-packaging-tools](https://github.com/zowe/zowe-install-packaging/issues/3253)
@@ -24,10 +23,9 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 
 ## Release and CICD
 - [Artifactory API Key Deprecation](https://github.com/zowe/zowe-install-packaging/issues/3229)
-- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
-
+- [Review Test Cases](https://github.com/zowe/zowe-install-packaging/issues/3519)
+  * Follow-up from TSC call on test 
 ## Zen
-- (Current status: awaiting OMP approval to accept code into Zowe org. TP1 'v0.9' to follow.)
 - 1.0 Milestone
   * [Support certificate configuration]()
   * [Full YAML Editing Mode]()
@@ -36,9 +34,12 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 ## Installation / Configuration
 - Continue work on `zwe` install/config improvements and updates
   * Remove Node.JS dependency and focus on improving configmgr mode
-  * Address issues uncovered and improve test coverage
+    * Address issues uncovered and improve test coverage
   * Focus: configmgr mode
     * Work should be synced w/ z/OS Squad.
+
+## Supply Chain Security v3.0
+- Begin research on improvements we can make to supply-chain security
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
@@ -52,6 +53,7 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 - [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
 - [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
 - [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
 
 ## Roadmap Items
 
