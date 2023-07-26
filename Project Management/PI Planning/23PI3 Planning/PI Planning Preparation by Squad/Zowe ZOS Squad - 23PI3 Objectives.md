@@ -28,6 +28,10 @@ The Authentication code is powerful but needs to be factored better to support v
 
 Research-y, but would allow much easier work for ZSS extensions/plugins.
 
+## Unit Test Automation
+
+Many Unit tests exist, but there little-to-no GitHub CI/CD integration.
+
 
 # Existing Topics (needing updates and deletes)
 
