@@ -12,8 +12,8 @@ Implement planned changes in preparation for the pre-release version of Zowe CLI
 - [ ] [v3: Prepare vNext branch of the zowe-cli repository](https://github.com/zowe/zowe-cli/issues/1702)
 - [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo](https://github.com/zowe/zowe-cli/issues/1695)
 - [ ] [v3: Remove V1 profile functionality in vNext](https://github.com/zowe/zowe-cli/issues/1703)
-- [ ] [v3: Consistent --editor option across CLI commands that can open editor](https://github.com/zowe/imperative/issues/992)
 - [ ] [v3: Remove deprecated constants, options, and methods](https://github.com/zowe/zowe-cli/issues/1694)
+- [ ] [Stretch] [v3: Consistent --editor option across CLI commands that can open editor](https://github.com/zowe/imperative/issues/992)
 
 ## Address Items in the CLI and Imperative Backlogs
 Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
@@ -21,27 +21,15 @@ Take action in accordance with Community Guidelines to support Zowe CLI users an
 CLI Squad Plan:
 #### *Enhancements*
 - [ ] [Support logging in to multiple APIML instances per config file](https://github.com/zowe/zowe-cli/issues/1705)
-- [ ] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
-- [ ] [files edit commands should support binary and encoding options](https://github.com/zowe/zowe-cli/issues/1725)
-- [ ] [Stretch][Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
 
 #### *Bugs*
-- [ ] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case](https://github.com/zowe/zowe-cli/issues/1722)
-- [ ] [zowe auth login examples are incorrect](https://github.com/zowe/imperative/issues/998)
-- [ ] [Add instructions to enable prompting for any option](https://github.com/zowe/zowe-cli/issues/1741)
-- [ ] [zowe plugins list registry qualification](https://github.com/zowe/zowe-cli/issues/63)
-- [ ] [Stretch] [zowe auth login apiml creates additional base profiles](https://github.com/zowe/zowe-cli/issues/1650)
-
-#### *[Stretch] Community Upvoted*
-- [ ] [Provide a way to perform zowe plugin verify plugin-name or equivalent to assure the provenance of installed software](https://github.com/zowe/zowe-cli/issues/1326)
-- [ ] [Zowe requires password when using SSH key for SSH command](https://github.com/zowe/zowe-cli/issues/1034)
-- [ ] [Fix overrides.CredentialManager:false inconsistencies](https://github.com/zowe/zowe-cli/issues/1469)
-- [ ] [Unexpected command error when using SSH](https://github.com/zowe/zowe-cli/issues/1031)
-- [ ] [Support the message transmission/reception API for TSO.](https://github.com/zowe/zowe-cli/issues/1566)
-- [ ] [How to make sure that a file is deleted with one command?](https://github.com/zowe/zowe-cli/issues/866)
-- [ ] [zowe plugins validate returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
+- [ ] [Stretch] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case](https://github.com/zowe/zowe-cli/issues/1722)
+- [ ] [Stretch] [zowe auth login examples are incorrect](https://github.com/zowe/imperative/issues/998)
+- [ ] [Stretch] [Add instructions to enable prompting for any option](https://github.com/zowe/zowe-cli/issues/1741)
+- [ ] [Stretch] [zowe plugins list registry qualification](https://github.com/zowe/zowe-cli/issues/63)
 
 ## OpenSSF Best Practices Badge
+This work may carry across 23PI3 and 23PI4:
 - [ ] [Zowe CII Badge items for Zowe CLI](https://github.com/zowe/zowe-cli/issues/1352)
 - [ ] [OpenSSF Best Practices: Publish software architecture description](https://github.com/zowe/zowe-cli/issues/1760)
 - [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements](https://github.com/zowe/zowe-cli/issues/1761)
