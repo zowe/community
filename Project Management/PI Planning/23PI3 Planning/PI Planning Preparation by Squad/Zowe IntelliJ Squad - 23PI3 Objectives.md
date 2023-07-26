@@ -1,6 +1,16 @@
-# Zowe IntelliJ Squad - 23PI3  - (2023/08/01 - 2023/10/23)
+# Zowe IntelliJ Squad - 23PI3  - (August 2023 - October 2023)
 
 ## Zowe Explorer plug-in for IntelliJ IDEA
+
+### Zowe Explorer plug-in for IntelliJ IDEA - become a core component
+- _What problem are you solving?_
+    - The plug-in is already in a LTS state, the squad is already a GA squad, so it is the time to become a core component in the nearest future
+- _What are you doing to solve it?_
+    - Define and meet the requirements for the plug-in to become a core component
+- _When do you plan to start the work?_
+    - **22Q4**
+- _When do you plan to deliver the solution?_
+    - **23Q3**
 
 ### Zowe Explorer plug-in for IntelliJ IDEA v1.1.0 release
 - _What problem are you solving?_
