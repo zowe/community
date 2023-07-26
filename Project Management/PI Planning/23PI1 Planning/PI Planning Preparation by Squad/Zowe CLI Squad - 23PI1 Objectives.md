@@ -3,14 +3,18 @@
 ## CLI: Keytar replacement
 Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization who supplied the Keytar package, we would require an alternative for secure credential storage.
 #### CLI Squad Plan:
-Implement a suitable replacement to the Keytar package with minimal impact to our end users
+- keytar-rs: Userbase and API documentation
+- keytar-rs: Arch Review
+- keytar-rs: Test Plan
+- keytar-rs:  Integrating to Zowe CLI
+- keytar-rs: Compatibility and Testing (CLI & Explorer)
 
 ## CLI: Zowe CLI on Unix System Services
 Mainframe customers like to experiment with Zowe w/o requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
 #### CLI Squad Plan:
-Certify and document how to use of Zowe CLI on z/OS (USS)
-  - Requires Daemon testing (USS executable) / zLinux daemon works
-  - May require in-memory (or other?) credential management
+- Research Secure Storage for Zowe CLI on USS
+- Implement Secure Storage for Zowe CLI on USS (Stretch)
+- Certify Zowe CLI on USS (Stretch)
 
 ## CLI: Cleanup the CLI and Imperative Backlogs
 As a Zowe CLI user, I want a backlog where I can find relevant information about future enhancements I can expect, and where I can provide feedback as I find opportunities for improvement.
