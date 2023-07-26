@@ -104,7 +104,7 @@ These repos are some of the most complex and sophisticated examples of C coding 
 
 # How to get involved
 ### Other tasks
-The Web UI squad has more ideas than listed here, and can be seen at our [github issue page](github.com/zowe/zss/issues). Several issues are listed as *Help Wanted*, as well as *Good First Issue*
+The zOS squad has more ideas than listed here, and can be seen at our [github issue page](github.com/zowe/zss/issues). Several issues are listed as *Help Wanted*, as well as *Good First Issue*
 
 ### Contact us
 Please find us in the #zowe-zos-interface slack if you wish to become involved!
