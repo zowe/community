@@ -109,12 +109,12 @@ Squad vision<br>
 - Systems Squad<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
-- Zowe Explorer Squad
+- Zowe Explorer Squad<br>
+- zOS
 - Incubators<br>
     - Zebra<br>
     - Chat<br>
     - IntelliJ<br>
-    - zOS<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -316,11 +316,11 @@ Squad Final Readouts<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
 - Zowe Explorer Squad<br>
+- zOS
 - Incubators<br>
     - Zebra
     - Chat
     - IntelliJ
-    - zOS
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
