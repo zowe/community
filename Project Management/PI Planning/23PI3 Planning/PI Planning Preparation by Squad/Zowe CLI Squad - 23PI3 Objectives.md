@@ -22,8 +22,8 @@ CLI Squad Plan:
 #### *Enhancements*
 - [ ] [Support logging in to multiple APIML instances per config file](https://github.com/zowe/zowe-cli/issues/1705)
 - [ ] [Update Schema Architecture/Design](https://github.com/zowe/imperative/discussions/828)
-- [ ] [Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
 - [ ] [files edit commands should support binary and encoding options](https://github.com/zowe/zowe-cli/issues/1725)
+- [ ] [Stretch][Introduce enhancements supporting the ZE FTP Copy feature](https://github.com/zowe/zowe-cli-ftp-plugin/pull/131)
 
 #### *Bugs*
 - [ ] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case](https://github.com/zowe/zowe-cli/issues/1722)
