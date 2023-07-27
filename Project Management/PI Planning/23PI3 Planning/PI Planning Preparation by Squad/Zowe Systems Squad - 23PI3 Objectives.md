@@ -54,6 +54,7 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 - [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
 - [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
 - [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
+- [Split release logic](https://github.com/zowe/zowe-install-packaging/issues/3285)
 
 ## Roadmap Items
 
