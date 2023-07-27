@@ -36,6 +36,7 @@
     * List ALL security needs. For ex: user IDs, classes, resource setup, certs, keyrings, STC, USS permissions, passtickets, MFA, user IDs. 
     * Note which security reqs that the admin can address before and/or during the installation.
     * Include diagram showing the full security ecosystem + touch points.
+    * Include links to verify that configuration is complete. Include expected output. 
 
    (Criteria defined in Issue [#2963](https://github.com/zowe/docs-site/issues/2963)). 
 
@@ -43,7 +44,7 @@
 
 Articles in the User Guide section include:
   * Configuring Certificates 
-  * Certificate configuration scenarios
+  * Certificate configuration scenarios 
   * Generating and Importing Certificates
   * Advanced/Enterprise Certificate Configuration
   * Using Certificates
@@ -54,10 +55,18 @@ Also additions to the getting-started section:
   * Zowe User Authentication
   * Zowe Security Overview
 
+  **Tasks:**
+  * Perform a review of [Zowe secure setup and configuration](https://docs.zowe.org/stable/getting-started/zowe-secure-setup/).
+  * Draft a chapter for Security Configuration in the user-guide section. 
+  * Include validation steps where possible.
+  * Draft an article 'Troubleshooting installation and configuration' with links to 
+
+  * Begin to explore creation of a migration guide (from v1 to v2)
+
 ## Consumer Awareness Section(s)
 Objective: Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
 
-## Zowe Issue Triaging/Handling Guide
+## Zowe Issue Triaging/Handling Guide (stretch)
 
 * Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues))
  
@@ -76,6 +85,8 @@ Objective: Determine how best to communicate important changes (deprecations, el
 Goal: Educate users through engaging content format - videos.
 
 Create scenario-based demo videos for Zowe certificate configuration.
+
+Create scenario-based demo videos for Zowe security configuration.
 
 Create demo videos for Zowe extensions. 
 
