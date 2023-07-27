@@ -34,7 +34,7 @@ Innovation Sprint Meeting Recordings
 Opening Presentations<br>
 [Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/Zowe%2023PI3%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
 [ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI3%20Objectives.md)<br>
-[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20TSC%20-%2023PI3%20Objectives.md)<br>
+[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%2023PI3%20TSC%20Focus.pptx.pdf)<br>
 
 Squad PI Objectives<br>
 [Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI3%20Objectives.md)<br>
@@ -49,6 +49,8 @@ Squad PI Objectives<br>
 [Mobile](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Mobile%20Squad%20-%2023PI3%20Objectives.md)<br>
 [IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI3%20Objectives.md)<br>
 
+Workgroup Updates<br>
+[Event Management Workgroup](./PI%20Planning%20Preparation%20by%20Squad/Zowe%20Event%20Management%20WG%20-%2023PI3.md)
 
 
 </th>
@@ -109,12 +111,12 @@ Squad vision<br>
 - Systems Squad<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
-- Zowe Explorer Squad
+- Zowe Explorer Squad<br>
+- zOS
 - Incubators<br>
     - Zebra<br>
     - Chat<br>
     - IntelliJ<br>
-    - zOS<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -316,11 +318,11 @@ Squad Final Readouts<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
 - Zowe Explorer Squad<br>
+- zOS
 - Incubators<br>
     - Zebra
     - Chat
     - IntelliJ
-    - zOS
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
