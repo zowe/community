@@ -1,39 +1,47 @@
 # Zowe ZOS Squad 23PI3 - (2023/07/25 - 2023/10/23)
 
-# New Ideas Under in PI Planning process
+## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
+
+Support for new auth type of using client side certificates transmitted thru GSK and approved by SAF (R_usermap) is in progress.  This will allow Zowe configurations for high-security low-user-interaction authentication.  The first phase is partially done and needs review and extensive testing.   Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
 
 ## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626)
 
-Network support, especially http(s) client services.  
+The embedded javascript feature has allowed almost all ZWE code to be uplifted from shell scripts and frequent calls to start up Node to a running well-structured TypeScript.  A few gaps persist and should be closed.  
+
+### Network API's
+
+TCP Port open checks, HTTP(s) GET support, synchronous first and async later.
+
+### Dataset API's
+
+Dataset listing (catalog access) works, but create, copy, delete would be useful.
+
+### GSK services
+
+Loading certificates to keyrings, creating root CA's and server Certs.  
 
 ## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
 
 Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
-## QJS Rebase [#628](https://github.com/zowe/zss/issues/628)
+## QJS (Embedded JS updates) [#628](https://github.com/zowe/zss/issues/628)
 
-QuickJS overdue for a rebase.   
+QuickJS overdue for a rebase.   (Sean this might not be true).   Also the tracing and debuggability of QJS errors needs improvement.  Error's in the QJS pcode interpreter are hard to understand.   Ebcdic vs UTF8 issues still persist.   Improvements are needed.  
 
 ## Move to Open XLC Latest
 
 ## Yaml Comments [#3183](https://github.com/zowe/zowe-install-packaging/issues/3183) [#629](https://github.com/zowe/zss/issues/629)
 
-Prototyped. Fork of LibYaml.   
+Prototyped. Fork of LibYaml.   It was suggested that we could offer this to upstream to the libyaml github project.   I have little hope that they will entertain the offer, but we
+should try, just to be exemplary OSS citizens.  
 
-## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
+## JavaScript/TypeScript top-layer in ZSS [#630](https://github.com/zowe/zss/issues/630)
 
-The Authentication code is powerful but needs to be factored better to support validation.
-
-## JavaScript top-layer in ZSS [#630](https://github.com/zowe/zss/issues/630)
-
-Research-y, but would allow much easier work for ZSS extensions/plugins.
+The top level of ZSS which mostly reads configuration data and initializes plugins could probably be done as a JavaScript Script using the new-ish (2022) Embedded JS facility. The relative surplus of JavaScript engineers available could make this code more flexible.  Also, this could allow service plugins to be written in TS/JS.  Considering the bulk of the service code is picking through URL's and a POST method's JSON body, this may speed development.  This would also engender a clearer separation of what is zowe-common-c from zss.   The actual low-level services (for example validating a certificate with R_usermap) can be written as a C API and exposed to Embedded JS.   This can enhance and standardize unit testing, because the service backend as the service can be called from standalone JavaScript programs as well as be in ZSS JavaScript-implemented services.   These tests can be done without having to stand up a full zss installation and driving tests through webservice calls.
 
 ## Unit Test Automation
 
-Many Unit tests exist, but there little-to-no GitHub CI/CD integration.
-
-
-# Existing Topics (needing updates and deletes)
+The zowe-common-c repo has a directory full of unit tests, but there little-to-no GitHub CI/CD integration.  A build script that builds all tests is needed and can be derived from the build for the configuration manager's build.   It would be good to get a volunteer to help with automation.  
 
 ## Membership Drive (ongoing)
 
@@ -43,19 +51,11 @@ The team lost a core developer in March 2022 and he has not been replaced.  The 
 
 A much more extensive guide to C programming on ZOS is started and drafts will be published.  
 
-## Certificate Based Auth (Due Q2, in Progress)
-
-Support for new auth type of using client side certificates transmitted thru GSK and approved by SAF (R_usermap) is in progress.  This will allow Zowe configurations for high-security low-user-interaction authentication.
-
-## Additional Dataset API features (Due Q2, in Progress)
-
-Zowe Editors and File Managers needed more extensive REST API's, especially for creating and cloning datasets to achieve par with ISPF and other dev environments.  Size configuration options in particular are really complex on ZOS compared to other OS's and far more detail is needed to make these API's robust.
-
 ## Dynamic ZIS Plugin Linkage (Due Q1)
 
 ZIS Plugins (although uncommon) are not well-behaved regarding EPL.  This project addresses that prrblem directly by introducing a dynamic linkage mechanism.  This is complex due to the fact that Metal C and Assembler do not have DLL's, but the work is almost done. 
 
-## JES API's (Due Q2)
+## JES API's (On hold, resources wait)
 
 Improved job submission and tracking API's are in progess.  The ability to remove a zOSMF, which currently provides API) dependency is helpful for other Zowe components and project.  Need to interface with consumers to validate requirements.
 
