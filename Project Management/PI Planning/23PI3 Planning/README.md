@@ -111,10 +111,10 @@ Squad vision<br>
 - Onboarding Squad<br>
 - Zowe Explorer Squad<br>
 - zOS
+- IntelliJ<br>
 - Incubators<br>
     - Zebra<br>
     - Chat<br>
-    - IntelliJ<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -385,6 +385,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 
 [Closing Comments]()<br>
-[Confidence Vote Results]()<br>
-
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/Zowe_23PI3_Confidence_Vote.png)<br>
 
