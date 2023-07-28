@@ -28,8 +28,6 @@ Annotation in JSONSchema.  Standard validations including file and dataset exist
 
 QuickJS overdue for a rebase.   (Sean this might not be true).   Also the tracing and debuggability of QJS errors needs improvement.  Error's in the QJS pcode interpreter are hard to understand.   Ebcdic vs UTF8 issues still persist.   Improvements are needed.  
 
-## Move to Open XLC Latest
-
 ## Yaml Comments [#3183](https://github.com/zowe/zowe-install-packaging/issues/3183) [#629](https://github.com/zowe/zss/issues/629)
 
 Prototyped. Fork of LibYaml.   It was suggested that we could offer this to upstream to the libyaml github project.   I have little hope that they will entertain the offer, but we
@@ -61,9 +59,16 @@ Improved job submission and tracking API's are in progess.  The ability to remov
 
 Consumers:  VS Code Explorer, CLI (Fernando, Billie) - JES Explorer in desktop (Adarshdeep), 
 
-## Syslog (On hold, requestor dormant)
+## Syslog (Due Q3 or Q4) 
 
-The zowe-common-c WTO api's need some improvement (line-length, etc).   Zowe logging routing and filtering needs improvement to support how the Zowe Launcher forwards logs to the "proper" ZOS place, SYSLOG.
+Work is mostly complete:
+
+* we will first add a schema item in zowe.yaml stating which message IDs will be forwarded to the syslog
+* we will then collect a list of message IDs which seem like good defaults
+* then start by using one of the launcher's own message IDs as a test, to see how the zcc wto command works
+* then explore how to intercept child process streams so that we can get their message IDs
+  
+At this point we are done unless we find limitations with line-length logic of zcc wto
 
 ## Comment-preservation in Yaml and JSON. (In progress, due Q2) 
 
