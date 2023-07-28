@@ -1,48 +1,62 @@
-# Zowe Systems Squad - 23PI1 - (2023/01/24 - 2023/04/24)
+# Zowe Systems Squad - 23PI3 - (2023/07/25 - 2023/10/23)
 
-The primary goals for the system squad this PI continue as before - maintaining release operations, responding to high priority issues, and making tactical improvements to automation where time allows.
+The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
+
+We have contributors continuing this PI for Zen and zwe install/config updates.
 
 ## Infrastructure
-- [Node v18 Installation](https://github.com/zowe/zowe-install-packaging/issues/3130)
-    * Covers installing Node 18 and updating our test matrix to use node 18, and forwarding any issues found to squads 
-- [Java 11 Installation](https://github.com/zowe/zowe-install-packaging/issues/2975)
-- Verify - wash.zowe.org Jenkins decommissioning can proceed
-- [Open Mainframe - new mainframe environment]()
-    * No new information yet - 1/6/23
+- [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
+    * No news to share 
+- [Marist Mainframe - Verify z/OS 2.5 and 3.1](https://github.com/zowe/zowe-install-packaging/issues/3396)
+    * Timeline is expected to be within this PI, exact dates are not set.
+
+## Onboarding
+- [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+  * Complete rollover from 23PI2
+    * [zwe command overview](https://github.com/zowe/zowe-install-packaging/issues/3249)
+    * [zwe shell scripts design](https://github.com/zowe/zowe-install-packaging/issues/3250)
+    * [zowe-install-packaging-tools](https://github.com/zowe/zowe-install-packaging/issues/3253)
+    * [shared pipeline libraries, zowe-actions](https://github.com/zowe/zowe-install-packaging/issues/3255)
+    * [build,packaging, and distribution relationships - PAX/SMP/PSWI](https://github.com/zowe/zowe-install-packaging/issues/3256)
+    * [zowe containerization](https://github.com/zowe/zowe-install-packaging/issues/3257)
+    * [secret and account management](https://github.com/zowe/zowe-install-packaging/issues/3258)
+
+## Release and CICD
+- [Artifactory API Key Deprecation](https://github.com/zowe/zowe-install-packaging/issues/3229)
+- [Review Test Cases](https://github.com/zowe/zowe-install-packaging/issues/3519)
+  * Follow-up from TSC call on test 
+## Zen
+- 1.0 Milestone
+  * [Support certificate configuration]()
+  * [Full YAML Editing Mode]()
+  * [Validate security definitions]()
+
+## Installation / Configuration
+- Continue work on `zwe` install/config improvements and updates
+  * Remove Node.JS dependency and focus on improving configmgr mode
+    * Address issues uncovered and improve test coverage
+  * Focus: configmgr mode
+    * Work should be synced w/ z/OS Squad.
+
+## Supply Chain Security v3.0
+- Begin research on improvements we can make to supply-chain security
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
-
-## On the backlog (not in plan)
-- [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
-- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
-- [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
-
-### CI/CD and Release Automation Improvements
-- [Add internal documentation for making changes which impact datasets or dataset members](https://github.com/zowe/zowe-install-packaging/issues/3124)
-- [PR Labels allow triggering longer-running builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
 
 ### Dependencies, Risks
 - No dependencies on other teams this PI. 
 - No newly identified risks - business as usual interruptions (responding to a security release, helping with RCs/releases).
 
-
-
-
-
-
+## In need of capacity
+- [Adding PR Labels to manage z/OS Builds](https://github.com/zowe/zowe-install-packaging/issues/3123)
+- [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
+- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
+- [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
+- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
+- [Split release logic](https://github.com/zowe/zowe-install-packaging/issues/3285)
 
 ## Roadmap Items
-
-### Improvements to Release Automation
-- What problem are you solving? 
-  * Addressing some gaps in our release automation.
-- What are you doing to solve it?
-  * Expanding our current suite of release automation.
-- When do you plan to start the work? 
-  * CY22Q4
-- When do you plan to deliver the solution? 
-  * CY23Q1
 
 ### Expand Build and Test Infrastructure
 - What problem are you solving? 
@@ -50,9 +64,9 @@ The primary goals for the system squad this PI continue as before - maintaining 
 - What are you doing to solve it?
   * Working with OMP to define and validate systems.
 - When do you plan to start the work? 
-  * CY23Q1
+  * ASAP
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY23Q4  (External dependency)
   
 ### Use sigstore to sign artifacts
 - What problem are you solving? 
@@ -62,4 +76,4 @@ The primary goals for the system squad this PI continue as before - maintaining 
 - When do you plan to start the work? 
   * CY23Q2
 - When do you plan to deliver the solution? 
-  * CY23Q3
+  * CY23Q4 (Pushed back 1Q - capacity)

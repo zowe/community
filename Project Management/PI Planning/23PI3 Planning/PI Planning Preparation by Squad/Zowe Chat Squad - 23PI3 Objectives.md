@@ -1,7 +1,10 @@
-# Zowe Chat Squad - 23PI1 - (2023/01/24 - 2023/04/24)
+# Zowe Chat Squad - 23PI3 - (2023/07/25 - 2023/10/23)
 
-The key focus areas for the Chat Squad this PI are working down technical debt and preparing for our first GA release.
+Requires further discussion with the squad, but expectation should be few deliverables.
 
+
+
+-- Please ignore the below plan pending further refinement --
 
 ## Capabilities
 ### Incident Model and Event-Driven Notifications
