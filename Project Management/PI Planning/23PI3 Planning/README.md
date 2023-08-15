@@ -46,7 +46,6 @@ Squad PI Objectives<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI3%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI3%20Objectives.md)<br>
 [Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI3%20Objectives.md)<br>
-[Mobile](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Mobile%20Squad%20-%2023PI3%20Objectives.md)<br>
 [IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI3%20Objectives.md)<br>
 
 Workgroup Updates<br>
