@@ -36,19 +36,26 @@ The usage of the automated tools outlined below was proposed among others by Ope
 There are two key types of tools:
 
 1) Static analysis - Going through the created artifacts such as the code and looking for potential risks
-2) Dynamic analysis - Testing against the running applications what is the behavior for certain known and common vulnerabilities
-
-We already use tools for static as well as dynamic analysis. In some cases it’s done by one of the vendors who share the results with the community. 
+2) Dynamic analysis - Testing against the running applications what is the behavior for certain known and common vulnerabilities. The typical tests written by developers and executed on every run belong to this category. 
 
 #### Static analysis
 
-- Quality scanners (linters) - We use Java and JavaScript linters as a part of our daily work
-- Security Code Scanners (Static Application Security Testing (SAST) Tools) - SonarCloud, CodeQL
-- Secret Scanning Tools - GitHub does some work in the area
-- Software Component Analysis (SCA)/Dependency Analysis tools - BlackDuck, LFX Security
+- Quality scanners (linters)
+  - We use Java and JavaScript linters as a part of our daily work
+- Security Code Scanners (Static Application Security Testing (SAST) Tools)
+  - SonarCloud
+  - CodeQL
+- Secret Scanning Tools
+  - GitHub does some work in the area
+- Software Component Analysis (SCA)/Dependency Analysis tools 
+  - BlackDuck
+  - LFX Security
 
 #### Dynamic analysis
 - Traditional testing for security (Unit testing, Integration testing)
+  - Unit testing
+  - Functional testing 
+  - System Testing - Integration and testing of the interaction between components. 
   - Statement and branch coverage - Provided to us by Sonarcloud
 - Fuzzers
   - Explore https://github.com/google/oss-fuzz 
