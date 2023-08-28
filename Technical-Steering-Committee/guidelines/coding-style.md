@@ -1,8 +1,6 @@
-# Coding style guidelines for Zowe sub-projects
+# Coding style guidelines for Zowe projects
 
-Zowe's codebase is split into a few key areas, with both unique and shared guidelines on how new code should be written. For each area of the codebase, there are established and favored languages for the code to be written in. Each repo in Github identifies the primary language used. 
-
-These guidelines are meant to apply to all areas of the Zowe project. Each sub-project may adopt additional coding style guidelines specific to thier sub-project and the language(s) used.
+Zowe is split into the projects. Each of the projects may have unique guidelines on how the code needs to be writen. This documents outlines the areas that are common across the whole Zowe codebase wherever applicable. 
 
 ## Whitespaces
 
@@ -27,31 +25,82 @@ Each of the common languages in Zowe have code-documentation-generation tools, e
 - Java - [Javadoc](https://en.wikipedia.org/wiki/Javadoc)
 - C - [Doxygen](www.doxygen.org)
 
+## Message Management
+
+### Message ID Components (message prefixes)
+
+OMP
+ZWE
+
+### Zowe Projects
+
+A - API Mediation Layer
+C - Zowe CLI
+D - Zowe Desktop
+E - Zowe Explorer
+S - Zowe System Services
+
+### Message Formats
+
+TODO: This doesn't represent the current state. 
+TODO: How do we reflect the WTO vs. the System.out. 
+
+ZWEcnnnnt where:
+
+**ZWE** - static for Zowe messages.
+
+**c** - one of the registered Components ... (see above).  Components need the ZLC to approve the use of the component to ensure consistency across all of the projects.
+
+**nnnn** - is a linear sequence starting from 0001 to 9999.  Projects may choose to use the first digit to divide the number space.  **
+
+**t** - is a Type.  One of (I, E, A, W)  General conventions by IBM are **I**nform, **E**ventual Action (often construed as error), **A**ction, **W**arning or **S**evere error
+
+Messages should be sent to the doc-team and follow the general IBM format as described in Messages and Codes.
+
 ## Quality Assurance
+
+All new code added to the Zowe and it's projects needs to be of certain quality, at least before reaching GA status or above. The following guidelines explains what is expected from the projects that matured at least to GA.
 
 ### Testing (Self-audit)
 
-The usage of the automated tools outlined below was proposed among others by OpenSSF (Tools analysis), which is part of the Linux Foundation responsible for proposing the standards to be held in all the Open Source projects. 
+TODO: Is there any way to showcase how we follow the guidelines?
 
-There are two key types of tools:
+The first stage of the testing and in general of quality assurance lies with the developers developing the code. They are responsible for the quality of the code. There are tools helping them ensure high quality of the code and preventing unnecessary issues with the code. What are the tools that we expect the developers to work with and integrate to their pipelines. There are two wider categories of the tools:
 
 1) Static analysis - Going through the created artifacts such as the code and looking for potential risks
 2) Dynamic analysis - Testing against the running applications what is the behavior for certain known and common vulnerabilities. The typical tests written by developers and executed on every run belong to this category. 
 
 #### Static analysis
 
+The tools in this category goes through the code and/or artifacts as they are written and look for known problems and risks. Some of them are easy to integrate in a local workflow, some of them are better integrated via the workflow in Github Actions. These tools needs to be run at least on a per release basis and the output neds to be either cleansed or approved by either the squad or by security workgroup in case of security issues. 
+
+- Compilers
+  - In case the language uses compilers, the first quality control is to fix all the warnings and above unless approved by the squad on the squad meeting. Every squad should keep list of the warnings approved by the squad. 
 - Quality scanners (linters)
-  - We use Java and JavaScript linters as a part of our daily work
+  - Available for every language used in our code. 
+    - Java - [checkstyle](https://checkstyle.org/)
+    - Javascript - [ESLint](https://eslint.org/) or JSLint (https://www.jslint.com/)
+    - Typescript - [typescript-eslint](https://typescript-eslint.io/)
+    - C - lint, gcc
+    - Kotlin - [KTLint](https://github.com/pinterest/ktlint)
+    - Python - [PyLint](https://pylint.org/)
 - Security Code Scanners (Static Application Security Testing (SAST) Tools)
-  - SonarCloud
-  - CodeQL
+  - [SonarCloud](https://sonarcloud.io/organizations/zowe/projects) - is also a quality tool. 
+    TODO: What is the threshold over which we shouldn't release the projects?
+  - CodeQL - Tool integrated to the GitHub, the details aren't shown anywhere
+    TODO: Security needs to be fixed or agreed upon by Security Workgroup 
+    TODO: Where and how the security workgroup keep this information.
 - Secret Scanning Tools
-  - GitHub does some work in the area
+  - TODO: GitHub does some work in the area
 - Software Component Analysis (SCA)/Dependency Analysis tools 
-  - BlackDuck
-  - LFX Security
+  - BlackDuck 
+    - The information are shared by one of the vendor running the tool. Overall this is imperfect solution. 
+  - LFX Security - Work in progress as the current information keeps information from previous branches and as such doesn't represent the current situation. 
+
+TODO: Where and how do I find the results?
 
 #### Dynamic analysis
+
 - Traditional testing for security (Unit testing, Integration testing)
   - Unit testing
   - Functional testing 
@@ -61,7 +110,16 @@ There are two key types of tools:
   - Explore https://github.com/google/oss-fuzz 
 - Web Application Scanner - AppScan
 
-### Pen Testing
+#####
+
+How do we improve our capability to catch the security related issues? 
+Is there any decent way to introduce the other companies into this?
+
+It would be great to be able to think more like and adversary. 
+
+### Penetration Testing
+
+Probably another class of tests that focuses on the security
 
 The current situation is that the companies are pen testing Zowe internally and share the results. This basically means that we are triplicating the effort. I believe we should be able to do this out in the open. 
 
@@ -99,16 +157,3 @@ At the moment the major vendors involved within Zowe such as IBM, Rocket and Bro
 
 The possibility here would be to pool the resources used to do the testing by the companies to either hire better companies or to change the scope and look for more potential issues.  
 
-### Auditing
-
-This section covers how we audit that we actually follow the procedures outlined above. 
-
-#### Internal Audit
-
-What can we automate to make us aware of some things not happening?
-
-Security workgroup going over the potentially risky actions across repositories storing the code. 
-
-#### External security audit
-
-What can OMP do for us in this area?
