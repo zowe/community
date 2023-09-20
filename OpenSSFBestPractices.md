@@ -30,9 +30,9 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| floss_license |  |  |  |  |  |  |  |  |
-| floss_license_osi |  |  |  |  |  |  |  |  |
-| license_location |  |  |  |  |  |  |  |  |
+| floss_license | [EPL 2.0 or APL, point 7 of charter](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md) | [License](https://github.com/zowe/api-layer/blob/v2.x.x/LICENSE) | [License](https://github.com/zowe/zowe-cli/blob/master/LICENSE) | [License](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/LICENSE) |  | [License](https://github.com/zowe/zlux/blob/v1.x/master/LICENSE) | [License](https://github.com/zowe/vscode-extension-for-zowe/blob/main/LICENSE) | [License](https://github.com/zowe/zss/blob/v2.x/staging/LICENSE) |
+| floss_license_osi | [EPL 2.0 or APL, point 7 of charter](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md) | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| license_location | N/A | [License](https://github.com/zowe/api-layer/blob/v2.x.x/LICENSE) | [License](https://github.com/zowe/zowe-cli/blob/master/LICENSE) | [License](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/LICENSE) |  | [License](https://github.com/zowe/zlux/blob/v1.x/master/LICENSE) | [License](https://github.com/zowe/vscode-extension-for-zowe/blob/main/LICENSE) | [License](https://github.com/zowe/zss/blob/v2.x/staging/LICENSE) |
  
 
 ## Silver Badge
