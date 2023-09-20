@@ -35,12 +35,24 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | license_location | N/A | [License](https://github.com/zowe/api-layer/blob/v2.x.x/LICENSE) | [License](https://github.com/zowe/zowe-cli/blob/master/LICENSE) | [License](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/LICENSE) |  | [License](https://github.com/zowe/zlux/blob/v1.x/master/LICENSE) | [License](https://github.com/zowe/vscode-extension-for-zowe/blob/main/LICENSE) | [License](https://github.com/zowe/zss/blob/v2.x/staging/LICENSE) |
  
 
+#### Documentation
+
+- The project MUST provide basic documentation for the software produced by the project. {N/A justification} [documentation_basics]
+- The project MUST provide reference documentation that describes the external interface (both input and output) of the software produced by the project. {N/A justification} [documentation_interface]
+
+| Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
+|----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| documentation_basics | | | | | | | | |
+| documentation_interface | | | | | | | | |
+
 ## Silver Badge
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| | | | | | | | | |
 
 ## Gold Badge
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| | | | | | | | | |
