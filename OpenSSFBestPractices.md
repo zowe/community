@@ -42,8 +42,23 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| documentation_basics | | | | | | | | |
-| documentation_interface | | | | | | | | |
+| documentation_basics | [Documentation](https://docs.zowe.org/) | [Documentation](https://docs.zowe.org/stable/user-guide/api-mediation/using-api-mediation-layer/) | [Documentation](https://docs.zowe.org/stable/user-guide/cli-using-usingcli) | [Documentation](https://docs.zowe.org/stable/user-guide/intellij-using) | [Documentation](https://docs.zowe.org/stable/typedoc/index.html) | [Documentation](https://docs.zowe.org/stable/user-guide/mvd-using) | [Documentation](https://docs.zowe.org/stable/user-guide/ze-usage) | [Documentation](https://docs.zowe.org/stable/getting-started/zowe-architecture/#zss) |
+| documentation_interface | N/A | [API Gateway](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/zowe/docs-site/docs-staging/api_definitions/gateway.json) | [Reference Doc](https://docs.zowe.org/stable/web_help/index.html) | | [Reference Doc](https://docs.zowe.org/stable/typedoc/index.html) | [Zlux Plugins](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/zowe/docs-site/docs-staging/api_definitions/zlux-plugin.json) | | |
+
+#### Other
+
+- The project sites (website, repository, and download URLs) MUST support HTTPS using TLS. [sites_https]
+- The project MUST have one or more mechanisms for discussion (including proposed changes and issues) that are searchable, allow messages and topics to be addressed by URL, enable new people to participate in some of the discussions, and do not require client-side installation of proprietary software. [discussion]
+- The project SHOULD provide documentation in English and be able to accept bug reports and comments about code in English. [english]
+- The project MUST be maintained. [maintained]
+
+| Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
+|----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| sites_https | | | | | | | | |
+| discussion | | | | | | | | |
+| english | | | | | | | | |
+| maintained | | | | | | | | |
+
 
 ## Silver Badge
 
