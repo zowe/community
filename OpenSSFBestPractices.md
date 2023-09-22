@@ -54,10 +54,10 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| sites_https | | | | | | | | |
-| discussion | | | | | | | | |
-| english | | | | | | | | |
-| maintained | | | | | | | | |
+| sites_https | [Website](https://zowe.org) | [Repository](https://github.com/zowe/api-layer.git), [Download](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.11.0/) | [Repository](https://github.com/zowe/zowe-cli.git), [Download](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/cli/zowe-cli-package/2.11.0/) | [Repository](https://github.com/zowe/zowe-explorer-intellij.git) | | [Repository](https://github.com/zowe/zlux.git), [Download](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.11.0/) | [Repository](https://github.com/zowe/vscode-extension-for-zowe.git) | [Repository](https://github.com/zowe/zss.git), [Download](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.11.0/) |
+| discussion | [GitHub](https://github.com/zowe) | [GitHub](https://github.com/zowe/api-layer) | [GitHub](https://github.com/zowe/zowe-cli) | [GitHub](https://github.com/zowe/zowe-explorer-intellij) | | [GitHub](https://github.com/zowe/zlux) | [GitHub](https://github.com/zowe/vscode-extension-for-zowe) | [GitHub](https://github.com/zowe/zss) |
+| english | [GitHub](https://github.com/zowe) | [GitHub](https://github.com/zowe/api-layer) | [GitHub](https://github.com/zowe/zowe-cli) | [GitHub](https://github.com/zowe/zowe-explorer-intellij) | | [GitHub](https://github.com/zowe/zlux) | [GitHub](https://github.com/zowe/vscode-extension-for-zowe) | [GitHub](https://github.com/zowe/zss) |
+| maintained | TSC, ZAC | API Mediation Layer Squad | CLI Squad | Intellij Squad | CLI Squad | Web UI Squad | Explorer Squad | zOS Squad |
 
 
 ## Silver Badge
