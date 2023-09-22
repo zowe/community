@@ -22,7 +22,7 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | contribution | N/A | [How to Contribute](https://github.com/zowe/api-layer/blob/v2.x.x/CONTRIBUTING.md#pull-requests) | [How to Contribute](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#contributing-to-core-functionality) | [How to Contribute](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/CONTRIBUTING.md#steps-to-contribute) | | [How to Contribute](https://github.com/zowe/zlux/blob/v1.x/master/CONTRIBUTING.md#ways-to-contribute) | [How to Contribute](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md) | [How to Contribute](https://github.com/zowe/zss/blob/v2.x/staging/CONTRIBUTING.md#ways-to-contribute) |  
 | contribution_requirements | N/A | [Coding Standard](https://github.com/zowe/api-layer/blob/v2.x.x/CONTRIBUTING.md#file-naming-guidelines) | [Coding Standard](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/CONTRIBUTING.md#coding-standards) |  | [Coding Standard](https://github.com/zowe/zlux/blob/v1.x/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zss/blob/v2.x/staging/CONTRIBUTING.md#code-guidelines) |
 
-#### FLOSS license
+##### FLOSS license
 
 - The software produced by the project MUST be released as FLOSS. [floss_license]
 - It is SUGGESTED that any required license(s) for the software produced by the project be approved by the Open Source Initiative (OSI). [floss_license_osi]
@@ -35,7 +35,7 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | license_location | N/A | [License](https://github.com/zowe/api-layer/blob/v2.x.x/LICENSE) | [License](https://github.com/zowe/zowe-cli/blob/master/LICENSE) | [License](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/LICENSE) |  | [License](https://github.com/zowe/zlux/blob/v1.x/master/LICENSE) | [License](https://github.com/zowe/vscode-extension-for-zowe/blob/main/LICENSE) | [License](https://github.com/zowe/zss/blob/v2.x/staging/LICENSE) |
  
 
-#### Documentation
+##### Documentation
 
 - The project MUST provide basic documentation for the software produced by the project. {N/A justification} [documentation_basics]
 - The project MUST provide reference documentation that describes the external interface (both input and output) of the software produced by the project. {N/A justification} [documentation_interface]
@@ -45,7 +45,7 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | documentation_basics | [Documentation](https://docs.zowe.org/) | [Documentation](https://docs.zowe.org/stable/user-guide/api-mediation/using-api-mediation-layer/) | [Documentation](https://docs.zowe.org/stable/user-guide/cli-using-usingcli) | [Documentation](https://docs.zowe.org/stable/user-guide/intellij-using) | [Documentation](https://docs.zowe.org/stable/typedoc/index.html) | [Documentation](https://docs.zowe.org/stable/user-guide/mvd-using) | [Documentation](https://docs.zowe.org/stable/user-guide/ze-usage) | [Documentation](https://docs.zowe.org/stable/getting-started/zowe-architecture/#zss) |
 | documentation_interface | N/A | [API Gateway](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/zowe/docs-site/docs-staging/api_definitions/gateway.json) | [Reference Doc](https://docs.zowe.org/stable/web_help/index.html) | | [Reference Doc](https://docs.zowe.org/stable/typedoc/index.html) | [Zlux Plugins](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/zowe/docs-site/docs-staging/api_definitions/zlux-plugin.json) | | |
 
-#### Other
+##### Other
 
 - The project sites (website, repository, and download URLs) MUST support HTTPS using TLS. [sites_https]
 - The project MUST have one or more mechanisms for discussion (including proposed changes and issues) that are searchable, allow messages and topics to be addressed by URL, enable new people to participate in some of the discussions, and do not require client-side installation of proprietary software. [discussion]
@@ -59,6 +59,21 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | english | [GitHub](https://github.com/zowe) | [GitHub](https://github.com/zowe/api-layer) | [GitHub](https://github.com/zowe/zowe-cli) | [GitHub](https://github.com/zowe/zowe-explorer-intellij) | | [GitHub](https://github.com/zowe/zlux) | [GitHub](https://github.com/zowe/vscode-extension-for-zowe) | [GitHub](https://github.com/zowe/zss) |
 | maintained | TSC, ZAC | API Mediation Layer Squad | CLI Squad | Intellij Squad | CLI Squad | Web UI Squad | Explorer Squad | zOS Squad |
 
+#### Change Control
+
+##### Public version-controlled source repository
+
+- The project MUST have a version-controlled source repository that is publicly readable and has a URL. [repo_public]
+- The project's source repository MUST track what changes were made, who made the changes, and when the changes were made. [repo_track]
+- To enable collaborative review, the project's source repository MUST include interim versions for review between releases; it MUST NOT include only final releases. [repo_interim]
+- It is SUGGESTED that common distributed version control software be used (e.g., git) for the project's source repository. [repo_distributed]
+
+| Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
+|----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| repo_public | | | | | | | | |
+| repo_track | | | | | | | | |
+| repo_interim | | | | | | | | |
+| repo_distributed | | | | | | | | |
 
 ## Silver Badge
 
