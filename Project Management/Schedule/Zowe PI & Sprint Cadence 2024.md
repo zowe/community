@@ -145,21 +145,21 @@ Sprint 6 - 2024/01/21 - 2024/02/03<br>
 ### V1
 
 #### 1.28.7
-- Code Freeze 2024/03/19<br>
-- RC Build 2024/03/20<br>
-- Testing 2024/03/20 - 2024/03/31<br>
-- GA 2024/04/01<br> 
+- Code Freeze 2024/04/02<br>
+- RC Build 2024/04/03<br>
+- Testing 2024/04/03 - 2024/04/14<br>
+- GA 2024/04/15<br> 
 
 #### 1.28.8
-- Code Freeze 2024/06/11<br>
-- RC Build 2024/06/12<br>
-- Testing 2024/06/12 - 2024/06/23<br>
-- GA 2024/06/24<br>
+- Code Freeze 2024/06/25<br>
+- RC Build 2024/06/26<br>
+- Testing 2024/06/26 - 2024/07/07<br>
+- GA 2024/07/08<br>
 
 #### 1.28.9
-- Code Freeze 2024/09/03<br>
-- RC Build 2024/09/04<br>
-- Testing 2024/09/04 - 2024/09/15<br>
-- GA 2024/09/16<br>
+- Code Freeze 2024/09/17<br>
+- RC Build 2024/09/18<br>
+- Testing 2024/09/18 - 2024/09/29<br>
+- GA 2024/09/30<br>
 
 #### No more V1.x releases planned
