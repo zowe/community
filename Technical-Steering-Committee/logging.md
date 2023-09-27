@@ -7,7 +7,7 @@
 OMP - Open Mainframe Project
 ZWE - Zowe, This should be used as default for all Zowe messages. 
 
-### Zowe server side Projects
+### Zowe Projects
 
 A - API Mediation Layer
 C - Zowe CLI
