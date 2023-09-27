@@ -5,6 +5,14 @@
 
 Ensure we support Java 17 in the API ML and support Spring Boot 3 on the API ML for Zowe V3.
 
+Impact on other Zowe components: POSSIBLE
+
+API ML Squad Plan:
+- [Spring Boot 3 and Java 17](https://github.com/zowe/api-layer/issues/3113) 
+- [As modern sysprog, i want to have confidence that API ML will run on my Java17 system.](https://github.com/zowe/api-layer/issues/2891)
+- [Upgrade Spring Boot to 3.1 (Zowe V3)](https://github.com/zowe/api-layer/issues/2959)
+- [As an extender I want to have Spring enabler supporting Version 3 of Spring](https://github.com/zowe/api-layer/issues/3114)
+
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The intention is for the SCG to fully replace the existing gateway with the release of V3.  
@@ -13,27 +21,32 @@ Impact on other Zowe components: POSSIBLE
 
 API ML Squad Plan:  
 - [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
+- [As Modern SW Engineer I want to get information about the services available in system to simplify the CLI configuration](https://github.com/zowe/api-layer/issues/3109)
+- [As a Software Engineer on the API ML team I want the previous API Gateway to serve as authentication service.](https://github.com/zowe/api-layer/issues/3110)
+- [As Modern sysprog or Modern SW engineer I want to get information about the health of the API Mediation Layer from the SCG](https://github.com/zowe/api-layer/issues/3111)
+- [As a Software Engineer on the API ML team I want to verify the functionality of the API Gateway remains.](https://github.com/zowe/api-layer/issues/3112)
+- [As a Modern Sysprog I want to secure communication with Spring Cloud Gateway using AT-TLS which is z/OS standard](https://github.com/zowe/api-layer/issues/2038)
 
 ## Engineering Excellence
 
-- [Spike: Separate npm build from gradle](https://github.com/zowe/api-layer/issues/) 
-- [Spike: Integrate the Certificate mapping and Identity mapping into the common-java-c](https://github.com/zowe/api-layer/issues/) 
-- [Spike: how to know whether API ML is meeting non-functional requirements(NFR)](https://github.com/zowe/api-layer/issues/) 
-- [Update start script testing](https://github.com/zowe/api-layer/issues/) 
+- [Spike: Separate npm build from gradle](https://github.com/zowe/api-layer/issues/3049) 
+- [Spike: Integrate the Certificate mapping and Identity mapping into the common-java-c](https://github.com/zowe/api-layer/issues/2918) 
+- [Spike: how to know whether API ML is meeting non-functional requirements(NFR)](https://github.com/zowe/api-layer/issues/2288) 
+- [Update start script testing](https://github.com/zowe/api-layer/issues/2130) 
 
 ## Defects
 
-- [ZaaS client error message incorrectly translated](https://github.com/zowe/api-layer/issues/)
-- [Fix 401 responses](https://github.com/zowe/api-layer/issues/)
-- [Internal server port](https://github.com/zowe/api-layer/issues/)
-- [JWK endpoint returns XML](https://github.com/zowe/api-layer/issues/) 
-- [Invalid log message and response on missing credentials](https://github.com/zowe/api-layer/issues/) 
-- [Exception when z/OSMF API documentation is not available](https://github.com/zowe/api-layer/issues/) 
-- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/) 
-- [With AT-TLS mode enabled, api-catalog-services and discovery-service fail startup](https://github.com/zowe/api-layer/issues/)  
-- [Zowe v2 conformance](https://github.com/zowe/api-layer/issues/) 
-- [Zowe installation with AT-TLS mode enabled does not properly setup the native library](https://github.com/zowe/api-layer/issues/) 
-- [Renewal via enabler ignore health of application](https://github.com/zowe/api-layer/issues/) 
+- [ZaaS client error message incorrectly translated](https://github.com/zowe/api-layer/issues/3038)
+- [Fix 401 responses](https://github.com/zowe/api-layer/issues/3007)
+- [Internal server port](https://github.com/zowe/api-layer/issues/2968)
+- [JWK endpoint returns XML](https://github.com/zowe/api-layer/issues/2962) 
+- [Invalid log message and response on missing credentials](https://github.com/zowe/api-layer/issues/2902) 
+- [Exception when z/OSMF API documentation is not available](https://github.com/zowe/api-layer/issues/2837) 
+- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/2822) 
+- [With AT-TLS mode enabled, api-catalog-services and discovery-service fail startup](https://github.com/zowe/api-layer/issues/2795)  
+- [Zowe v2 conformance](https://github.com/zowe/api-layer/issues/2794) 
+- [Zowe installation with AT-TLS mode enabled does not properly setup the native library](https://github.com/zowe/api-layer/issues/2792) 
+- [Renewal via enabler ignore health of application](https://github.com/zowe/api-layer/issues/1401) 
 
 
 # Stretch
@@ -52,14 +65,10 @@ Impact on other Zowe components: NONE
 
 **API ML Squad plan:**  
 
-[Unify and differentiate logging between platforms. #1181](https://github.com/zowe/api-layer/issues/1181) 
+[Improve Logging. #1181](https://github.com/zowe/api-layer/issues/1181) 
 - [Validation of certificate between DS#2913](https://github.com/zowe/api-layer/issues/2913)  
-- [Fix log message about change password](https://github.com/zowe/api-layer/issues/2912)  
-- [Log meaningful messages when debugging API ML #2892](https://github.com/zowe/api-layer/issues/2892)
 - [Improve logging about Keyring / keystore #2971](https://github.com/zowe/api-layer/issues/2971)
 - [Improve logging about eureka communication #2973](https://github.com/zowe/api-layer/issues/2973)
-- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/2822)       
-- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
 
 ## Roadmap
 
