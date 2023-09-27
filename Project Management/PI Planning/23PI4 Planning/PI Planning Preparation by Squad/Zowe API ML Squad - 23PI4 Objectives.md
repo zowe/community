@@ -1,23 +1,9 @@
-# Zowe API ML Squad - 23PI3 Objectives  
-(August 2023 to October 2023)
+# Zowe API ML Squad - 23PI4 Objectives  
+(October 2023 to January 2024)
 
+## Spring Boot 3 & Java 17 Support
 
-## API ML in multi-domain / multi-tenant deployments #2651
-
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.  
-
-Impact on other Zowe components: NONE 
-
-API ML Squad Plan:  
-[Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)  
-[Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651) 
-- [Register API service to multiple different API ML clusters](https://github.com/zowe/api-layer/issues/2425)  
-- [API ML validates distributed access tokens](https://github.com/zowe/api-layer/issues/2658)
-- [Central API ML registry](https://github.com/zowe/api-layer/issues/2883)
-- [Central API ML GW routing](https://github.com/zowe/api-layer/issues/2884)
-- [Authentication with Certificate from header](https://github.com/zowe/api-layer/issues/2885)
-- [Central GW services endpoint](https://github.com/zowe/api-layer/issues/2886) 
-
+Ensure we support Java 17 in the API ML and support Spring Boot 3 on the API ML for Zowe V3.
 
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
@@ -26,12 +12,28 @@ Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spr
 Impact on other Zowe components: POSSIBLE
 
 API ML Squad Plan:  
-[Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
-- [Refactor and review RouteLocator class #3000](https://github.com/zowe/api-layer/issues/3000)  
-- [Create ZAAS controller to handle login #3001](https://github.com/zowe/api-layer/issues/3001)
-- [Enable z/OSMF authentication scheme in SCG #3002](https://github.com/zowe/api-layer/issues/3002)
-- [Enable SAF IDT authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3003) 
-- [Enable zoweJwt authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3004) 
+- [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
+
+## Engineering Excellence
+
+- [Spike: Separate npm build from gradle](https://github.com/zowe/api-layer/issues/) 
+- [Spike: Integrate the Certificate mapping and Identity mapping into the common-java-c](https://github.com/zowe/api-layer/issues/) 
+- [Spike: how to know whether API ML is meeting non-functional requirements(NFR)](https://github.com/zowe/api-layer/issues/) 
+- [Update start script testing](https://github.com/zowe/api-layer/issues/) 
+
+## Defects
+
+- [ZaaS client error message incorrectly translated](https://github.com/zowe/api-layer/issues/)
+- [Fix 401 responses](https://github.com/zowe/api-layer/issues/)
+- [Internal server port](https://github.com/zowe/api-layer/issues/)
+- [JWK endpoint returns XML](https://github.com/zowe/api-layer/issues/) 
+- [Invalid log message and response on missing credentials](https://github.com/zowe/api-layer/issues/) 
+- [Exception when z/OSMF API documentation is not available](https://github.com/zowe/api-layer/issues/) 
+- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/) 
+- [With AT-TLS mode enabled, api-catalog-services and discovery-service fail startup](https://github.com/zowe/api-layer/issues/)  
+- [Zowe v2 conformance](https://github.com/zowe/api-layer/issues/) 
+- [Zowe installation with AT-TLS mode enabled does not properly setup the native library](https://github.com/zowe/api-layer/issues/) 
+- [Renewal via enabler ignore health of application](https://github.com/zowe/api-layer/issues/) 
 
 
 # Stretch
@@ -61,28 +63,6 @@ Impact on other Zowe components: NONE
 
 ## Roadmap
 
-### Multi-Tenancy API ML Deployments
-
-- What problem are you solving?
-  - Authenticating Zowe users across Sysplex and security domains 
-- What are you doing to solve it?
-  - Route users to the relevant sysplex based on the type of request and retrieve data on existing and available Sysplexes
-- When do you plan to start the work?
-  - 23PI3
-- When do you plan to deliver the solution?
-  - 23PI3
-
-### API Catalog UI enhancements and templating
-
-- What problem are you solving?
-  - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
-- What are you doing to solve it?
-  - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
-- When do you plan to start the work?
-  - 22PI4
-- When do you plan to deliver the solution?
-  - 23PI3
-
 ### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
 
 - What problem are you solving?
@@ -101,7 +81,7 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.
 - When do you plan to start the work?
-  - 23PI3
+  - 23PI4
 - When do you plan to deliver the solution?
   - 23PI4
 
@@ -112,7 +92,7 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.
 - When do you plan to start the work?
-  - 23PI3
+  - 23PI4
 - When do you plan to deliver the solution?
   - 23PI4
 
@@ -125,7 +105,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI2
 - When do you plan to deliver the solution?
-  - 23PI4
+  - 24PI1
 
 ### Improve Fault tolerance testing
 
@@ -134,9 +114,9 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
 - When do you plan to start the work?
-  - 23PI4
-- When do you plan to deliver the solution?
   - 24PI1
+- When do you plan to deliver the solution?
+  - 24PI2
 
 ### SMF Records creation
 
