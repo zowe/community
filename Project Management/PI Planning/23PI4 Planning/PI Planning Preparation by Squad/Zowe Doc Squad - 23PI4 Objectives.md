@@ -12,7 +12,8 @@
 Tasks to complete these objectives:
 
 * Complete draft of article Address Security Requirements
-    * Include diagram showing the full security ecosystem + touch points. 
+    * Consolidate all security configuration articles withing this Security Requirements section  
+    * Include diagram showing the full security ecosystem  
 * Draft an article 'Troubleshooting installation and configuration' with links to common solution procedures. Add links in the installation ariticles to this Troubleshooting guide.
 * Add real-world examples to the various installation procedures
 * For each installation method, add outcome of individual steps.
@@ -24,8 +25,9 @@ Tasks to complete these objectives:
 * Configuring certificates
 * Configuring High Availability 
 
-* Reorganize the sidebar to follow the full sequence to configure z/OS Components (and include links to next steps in the configuration process):
-  (Create parent articles for the 2 options to initalize Zowe z/OS runtime. Ensure consistent article naming from the installation checklist to the article that outlines the procedure.)
+Tasks:
+Reorganize the sidebar to follow the full sequence to configure z/OS Components (and include links to next steps in the configuration process):
+(Create parent articles for the 2 options to initalize Zowe z/OS runtime. Ensure consistent article naming from the installation checklist to the article that outlines the procedure.)
   
   **Configure z/OS Componenents Sequence**
   1. Use one of the following options to initialize Zowe z/OS runtime.
@@ -47,8 +49,7 @@ Objective: Determine how best to communicate important changes (deprecations, el
 
 ## CII Badge standards
 
-- Write and/or edit content in Zowe CLI documentation that has been flagged for enhancement in order to meet  CII Badge standards.
-- Write and/or edit content in Zowe Explorer documentation that has been flagged for enhancement in order to meet  CII Badge standards.
+- Write and/or edit content in Zowe CLI and Zowe Explorer documentation that has been flagged for enhancement in order to meet  CII Badge standards.
 
 ## Doc repo issues
 - Continue to work on addressing and closing Doc repo issues
@@ -65,12 +66,6 @@ Objective: Determine how best to communicate important changes (deprecations, el
   * Draft a chapter for Security Configuration in the user-guide section. 
   * Include validation steps where possible.
 
-## Dependencies
-
-- Dependency on SMEs, squads to help review needed content upgrades for Zowe V3
-- Dependency on Zowe CLI, Zowe Explorer squads to update documentation for CII Badge standards.
-
-
 ## Videos
 
 Goal: Educate users through engaging content format - videos.
@@ -81,9 +76,11 @@ Create scenario-based demo videos for Zowe security configuration.
 
 Create demo videos for Zowe extensions. 
 
-## Dependency
+* ## Dependencies
 
-* Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site.
+- Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site
+- Dependency on SMEs, squads to help review needed content upgrades for Zowe V3
+- Dependency on Zowe CLI, Zowe Explorer squads to update documentation for CII Badge standards.
 
 * Dependency on demo video input contributors.
 
