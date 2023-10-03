@@ -2,41 +2,29 @@
 
 The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
 
-We have contributors continuing this PI for Zen and zwe install/config updates.
+Work related to Zen and the `zwe` Node.JS dependency removal will be tracked in other squads. 
 
 ## Infrastructure
 - [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
-    * No news to share 
-- [Marist Mainframe - Verify z/OS 2.5 and 3.1](https://github.com/zowe/zowe-install-packaging/issues/3396)
-    * Timeline is expected to be within this PI, exact dates are not set.
+    * No news to share
+- [Marist Mainframe - Verify z/OS 2.5](https://github.com/zowe/zowe-install-packaging/issues/3396)
+    * Starting soon / in progress
 
 ## Onboarding
 - [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
-  * Complete rollover from 23PI2
-    * [zwe command overview](https://github.com/zowe/zowe-install-packaging/issues/3249)
-    * [zwe shell scripts design](https://github.com/zowe/zowe-install-packaging/issues/3250)
-    * [zowe-install-packaging-tools](https://github.com/zowe/zowe-install-packaging/issues/3253)
-    * [shared pipeline libraries, zowe-actions](https://github.com/zowe/zowe-install-packaging/issues/3255)
-    * [build,packaging, and distribution relationships - PAX/SMP/PSWI](https://github.com/zowe/zowe-install-packaging/issues/3256)
-    * [zowe containerization](https://github.com/zowe/zowe-install-packaging/issues/3257)
-    * [secret and account management](https://github.com/zowe/zowe-install-packaging/issues/3258)
+  * Complete rollover from 23PI3
 
 ## Release and CICD
-- [Artifactory API Key Deprecation](https://github.com/zowe/zowe-install-packaging/issues/3229)
+- [Complete v3 Branching and Builds](https://github.com/zowe/zowe-install-packaging/issues/3482)
+  * Work starting in PI3, continuing PI4
 - [Review Test Cases](https://github.com/zowe/zowe-install-packaging/issues/3519)
-  * Follow-up from TSC call on test 
 ## Zen
-- 1.0 Milestone
-  * [Support certificate configuration]()
-  * [Full YAML Editing Mode]()
-  * [Validate security definitions]()
+- Note: Track work in web ui squad
 
 ## Installation / Configuration
-- Continue work on `zwe` install/config improvements and updates
+- Continue work on `zwe` install/config improvements and updates. [Tracking Issue](https://github.com/zowe/zowe-install-packaging/issues/3543#issuecomment-1742777242)
   * Remove Node.JS dependency and focus on improving configmgr mode
-    * Address issues uncovered and improve test coverage
-  * Focus: configmgr mode
-    * Work should be synced w/ z/OS Squad.
+  * Remaining zowe-install-packaging-tools to be converted: `fconv`, `curl`, `jq`.
 
 ## Supply Chain Security v3.0
 - Begin research on improvements we can make to supply-chain security
