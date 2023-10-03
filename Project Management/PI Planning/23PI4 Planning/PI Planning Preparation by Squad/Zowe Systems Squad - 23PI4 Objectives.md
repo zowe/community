@@ -9,10 +9,7 @@ Work related to Zen and the `zwe` Node.JS dependency removal will be tracked in 
     * No news to share
 - [Marist Mainframe - Verify z/OS 2.5](https://github.com/zowe/zowe-install-packaging/issues/3396)
     * Starting soon / in progress
-
-## Onboarding
-- [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
-  * Complete rollover from 23PI3
+- [Kube Cluster Setup](https://github.com/zowe/community/issues/2052)
 
 ## Release and CICD
 - [Complete v3 Branching and Builds](https://github.com/zowe/zowe-install-packaging/issues/3482)
@@ -27,7 +24,13 @@ Work related to Zen and the `zwe` Node.JS dependency removal will be tracked in 
   * Remaining zowe-install-packaging-tools to be converted: `fconv`, `curl`, `jq`.
 
 ## Supply Chain Security v3.0
-- Begin research on improvements we can make to supply-chain security
+- Begin research on improvements we can make to supply-chain security.
+
+
+## Onboarding
+- [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+  * Complete rollover from 23PI3
+
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
