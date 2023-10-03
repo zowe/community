@@ -33,9 +33,9 @@ Reorganize the sidebar to follow the full sequence to configure z/OS Components 
   1. Use one of the following options to initialize Zowe z/OS runtime.
     * Option 1: Initialize Zowe maunally using zwe init command group
     * Option 2: Configure Zowe with z/OSMF workflows
-  2. Configure the z/OS system for Zowe
-  3. Grant users permission to access z/OSMF
-  4. Install and configure the Zowe cross memory server (ZWESISTC) 
+  3. Configure the z/OS system for Zowe
+  4. Grant users permission to access z/OSMF
+  5. Install and configure the Zowe cross memory server (ZWESISTC) 
   
 ## V3 prep work (target release date: March 28, 2024)
 
