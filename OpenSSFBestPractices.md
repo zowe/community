@@ -70,10 +70,22 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| repo_public | | | | | | | | |
-| repo_track | | | | | | | | |
-| repo_interim | | | | | | | | |
-| repo_distributed | | | | | | | | |
+| repo_public | [GitHub](https://github.com/zowe) | [GitHub](https://github.com/zowe/api-layer) | [GitHub](https://github.com/zowe/zowe-cli) | [GitHub](https://github.com/zowe/zowe-explorer-intellij)| | [GitHub](https://github.com/zowe/zlux) | [GitHub](https://github.com/zowe/vscode-extension-for-zowe) | [GitHub](https://github.com/zowe/zss) |
+| repo_track | | [Commits](https://github.com/zowe/api-layer/commits) | [Commits](https://github.com/zowe/zowe-cli/commits) | [Commits](https://github.com/zowe/zowe-explorer-intellij/commits)| | [Commits](https://github.com/zowe/zlux/commits) | [Commits](https://github.com/zowe/vscode-extension-for-zowe/commits) | [Commits](https://github.com/zowe/zss/commits) |
+| repo_interim | | [Pull Requests](https://github.com/zowe/api-layer/pulls) | [Pull Requests](https://github.com/zowe/zowe-cli/pulls) | [Pull Requests](https://github.com/zowe/zowe-explorer-intellij/pulls)| | [Pull Requests](https://github.com/zowe/zlux/pulls) | [Pull Requests](https://github.com/zowe/vscode-extension-for-zowe/pulls) | [Pull Requests](https://github.com/zowe/zss/pulls) |
+| repo_distributed [Git](https://github.com/zowe) | [Git](https://github.com/zowe/api-layer) | [Git](https://github.com/zowe/zowe-cli) | [Git](https://github.com/zowe/zowe-explorer-intellij)| | [Git](https://github.com/zowe/zlux) | [Git](https://github.com/zowe/vscode-extension-for-zowe) | [Git](https://github.com/zowe/zss) |
+
+##### Unique version numbering
+
+- The project results MUST have a unique version identifier for each release intended to be used by users. [version_unique]
+- It is SUGGESTED that the Semantic Versioning (SemVer) or Calendar Versioning (CalVer) version numbering format be used for releases. It is SUGGESTED that those who use CalVer include a micro level value. [version_semver]
+- It is SUGGESTED that projects identify each release within their version control system. For example, it is SUGGESTED that those using git identify each release using git tags. [version_tags]
+
+| Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
+|----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| version_unique | | | | | | | | |
+| version_semver | | | | | | | | |
+| version_tags | | | | | | | | |
 
 ## Silver Badge
 
