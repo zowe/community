@@ -5,17 +5,19 @@
 
 Day 1\
 When: Wednesday, October 25, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/91963435863?password=2da372b1-288a-4a86-a6e1-283d401afb60<br>
 Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
 When: Thursday, October 26, 2023 (UTC-05:00) Eastern Time - New York<br>
-Zoom Meeting: None. Squads will book breakouts (as needed)<br>
+Meeting: None. Squads will book breakouts (as needed)<br>
 Meeting Recordings: Squads will manage recordings (if needed)
 <br>
 
 Day 3\
 When: Friday, October 27, 2023 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/95306842444?password=cdcfb975-6943-4f57-a14b-b923322cbdc8<br>
 Meeting Recordings: [Day 3]()
 <br>
 
