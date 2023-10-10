@@ -83,9 +83,20 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| version_unique | | | | | | | | |
-| version_semver | | | | | | | | |
-| version_tags | | | | | | | | |
+| version_unique | [Unique Versions](https://www.zowe.org/download) | [Unique Versions](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/apiml/apiml-common-lib-package/) | [Unique Versions](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/cli/zowe-cli-package/) | [Unique Versions](https://github.com/zowe/zowe-explorer-intellij/releases) | [Unique Versions](https://www.npmjs.com/package/@zowe/secrets-for-zowe-sdk?activeTab=versions) |  | [Unique Versions](https://github.com/zowe/vscode-extension-for-zowe/releases) | [Unique Versions](https://github.com/zowe/zss/releases) |
+| version_semver | [Semantic Versioning](https://www.zowe.org/download) | [Semantic Versions](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/apiml/apiml-common-lib-package/) | [Semantic Versions](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/cli/zowe-cli-package/) | [Semantic Versions](https://github.com/zowe/zowe-explorer-intellij/releases) | [Semantic Versions](https://www.npmjs.com/package/@zowe/secrets-for-zowe-sdk?activeTab=versions) |  | [Semantic Versions](https://github.com/zowe/vscode-extension-for-zowe/releases) | [Semantic Versions](https://github.com/zowe/zss/releases) |
+| version_tags | [Tags](https://github.com/zowe/zowe-install-packaging/tags) | [Tags](https://github.com/zowe/api-layer/tags) | [Tags](https://github.com/zowe/zowe-cli/tags) | [Tags](https://github.com/zowe/zowe-explorer-intellij/tags) |  |  | [Tags](https://github.com/zowe/vscode-extension-for-zowe/tags) | [Tags](https://github.com/zowe/zss/tags) |
+
+##### Release notes
+
+- The project MUST provide, in each release, release notes that are a human-readable summary of major changes in that release to help users determine if they should upgrade and what the upgrade impact will be. The release notes MUST NOT be the raw output of a version control log (e.g., the "git log" command results are not release notes). Projects whose results are not intended for reuse in multiple locations (such as the software for a single website or service) AND employ continuous delivery MAY select "N/A". {N/A justification} {Met URL} [release_notes]
+- The release notes MUST identify every publicly known run-time vulnerability fixed in this release that already had a CVE assignment or similar when the release was created. This criterion may be marked as not applicable (N/A) if users typically cannot practically update the software themselves (e.g., as is often true for kernel updates). This criterion applies only to the project results, not to its dependencies. If there are no release notes or there have been no publicly known vulnerabilities, choose N/A. {N/A justification} [release_notes_vulns]
+
+| Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
+|----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
+| release_notes | | | | | | | | |
+| release_notes_vulns | | | | | | | | |
+
 
 ## Silver Badge
 
