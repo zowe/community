@@ -94,8 +94,8 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| release_notes | | | | | | | | |
-| release_notes_vulns | | | | | | | | |
+| release_notes | [Release Notes](https://docs.zowe.org/stable/getting-started/release-notes/v2_11_0) | [Release Notes](https://github.com/zowe/api-layer/blob/v2.x.x/CHANGELOG.md) | [Release Notes](https://docs.zowe.org/stable/getting-started/release-notes/v2_11_0#zowe-cli) | [Release Notes](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.1.0-221/CHANGELOG.md) |  | [Release Notes](https://docs.zowe.org/stable/getting-started/release-notes/v2_11_0#zowe-application-framework) | [Release Notes](https://docs.zowe.org/stable/getting-started/release-notes/v2_9_0#zowe-explorer) | [Release Notes](https://github.com/zowe/zss/blob/v2.x/staging/CHANGELOG.md) |
+| release_notes_vulns | [Vulnerabilities Fixed](https://docs.zowe.org/stable/getting-started/release-notes/v2_11_0#vulnerabilities-fixed) | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 
 ## Silver Badge
