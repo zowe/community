@@ -35,6 +35,7 @@
 - [ ] [Add ability to download/view/upload Datasets/Members/USS files in non-standard codepage](https://github.com/zowe/vscode-extension-for-zowe/issues/2435)
 - [ ] [zowe profiles create zosmf-profile allow specification of --console-name](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
 - [ ] [Allow Zowe Explorer to check VS Code marketplace to install current credential manager](https://github.com/zowe/vscode-extension-for-zowe/issues/2381)
+- [ ] [Consider adding integration tests using vscode-extension-tester](https://github.com/zowe/vscode-extension-for-zowe/issues/2322)
 
 ### [STRETCH] Improve UX for token based authentication
 
@@ -50,9 +51,9 @@
 
 ##### Helpful links for CII Badge criteria
 
-Passing: https://bestpractices.coreinfrastructure.org/en/criteria/0
-Silver: https://bestpractices.coreinfrastructure.org/en/criteria/1
-Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
+- Passing: https://bestpractices.coreinfrastructure.org/en/criteria/0
+- Silver: https://bestpractices.coreinfrastructure.org/en/criteria/1
+- Gold: https://bestpractices.coreinfrastructure.org/en/criteria/2
 
 ## CICS
 
