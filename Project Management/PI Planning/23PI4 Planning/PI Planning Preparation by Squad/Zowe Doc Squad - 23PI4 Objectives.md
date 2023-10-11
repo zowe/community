@@ -3,11 +3,13 @@
 
 ## Completion of improvements to server-side installation documentation 
 
-23PI3 focused on four objectives to improve server-side installation:  
-* Creation of Role-Based Zowe Prereq Articles
-* Consolidation and Summarization of Security Requirements to one article: Address Security Requirements
-* Creation of a detailed Zowe installation overview article
-* Creation of scenario-based articles by installation method: Document four linear, co-located installations scenarios by method
+~~23PI3 focused on four objectives to improve server-side installation:~~
+- [ ] https://github.com/zowe/docs-site/issues/2962
+- [ ] https://github.com/zowe/docs-site/issues/2963
+- [ ] https://github.com/zowe/docs-site/issues/2961
+- [ ] https://github.com/zowe/docs-site/issues/2960 
+
+  - Document four linear, co-located installations scenarios by method
 
 Tasks to complete these objectives:
 
@@ -52,7 +54,7 @@ Objective: Determine how best to communicate important changes (deprecations, el
 - Write and/or edit content in Zowe CLI and Zowe Explorer documentation that has been flagged for enhancement in order to meet  CII Badge standards.
 
 ## Doc repo issues
-- Continue to work on addressing and closing Doc repo issues
+- [ ] Continue to work on addressing and closing Doc repo issues
 
 ## Stretch Objectives
 
