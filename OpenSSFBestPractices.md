@@ -121,8 +121,8 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| vulnerability_report_process | | | | | | | | |
-| vulnerability_report_private | | | | | | | | |
+| vulnerability_report_process | [Reporting process and policy](https://www.zowe.org/security#security-issues-identification) | [Report vulnerability](https://github.com/zowe/api-layer/security/advisories/new) | [Report vulnerability](https://github.com/zowe/zowe-cli/security/policy) | [Report vulnerability](https://github.com/zowe/zowe-explorer-intellij/security/policy) | [Report vulnerability](https://github.com/zowe/zowe-cli/security/policy) | [Report vulnerability](https://github.com/zowe/zlux/security/policy) | [Report vulnerability](https://github.com/zowe/vscode-extension-for-zowe/security/policy) | [Report vulnerability](https://github.com/zowe/zss/security/advisories/new) |
+| vulnerability_report_private | [Reporting process and policy](https://www.zowe.org/security#security-issues-identification) | [Report vulnerability](https://github.com/zowe/api-layer/security/advisories/new) | [Report vulnerability](https://github.com/zowe/zowe-cli/security/policy) | [Report vulnerability](https://github.com/zowe/zowe-explorer-intellij/security/policy) | [Report vulnerability](https://github.com/zowe/zowe-cli/security/policy) | [Report vulnerability](https://github.com/zowe/zlux/security/policy) | [Report vulnerability](https://github.com/zowe/vscode-extension-for-zowe/security/policy) | [Report vulnerability](https://github.com/zowe/zss/security/advisories/new) |
 | vulnerability_report_response | | | | | | | | |
 
 ### Quality
