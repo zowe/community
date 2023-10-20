@@ -270,7 +270,7 @@ Squad Breakout
 
 Squad Breakout
 - Zowe Systems Squad<br>
-- Zoom/Webex Link: https://zoom.us/my/zowe.cicd<br>
+- LFX Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94763882669?password=a9debc28-7174-4a40-979f-262ccdcefa73<br>
 
 
 </td>
