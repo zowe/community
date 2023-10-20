@@ -154,7 +154,7 @@ Squad Breakout
     - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
 
 - API ML Squad
-    - Zoom Link: https://zoom.us/j/98404818292<br>
+    - Zoom Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/93968782595?password=8f31cac7-7a80-41bb-bbc6-51fe5299393a<br>
 
 </td>
 <td>Squad Breakouts
