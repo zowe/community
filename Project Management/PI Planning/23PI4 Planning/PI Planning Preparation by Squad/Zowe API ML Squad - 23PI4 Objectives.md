@@ -72,14 +72,14 @@ Impact on other Zowe components: NONE
 
 ## Roadmap
 
-### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
+### V3 Support SpringBoot 3.1
 
 - What problem are you solving?
-  - Current Netflix ZUUL gateway is no longer actively developed
+  - Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support.  
 - What are you doing to solve it?
-  - Deliver a new gateway built upon the Spring Cloud Gateway
+  - The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.
 - When do you plan to start the work?
-  - 23PI1
+  - 23PI4
 - When do you plan to deliver the solution?
   - 23PI4
 
@@ -92,18 +92,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI4
 - When do you plan to deliver the solution?
-  - 23PI4
-
-### V3 Support SpringBoot 3.1
-
-- What problem are you solving?
-  - Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support.  
-- What are you doing to solve it?
-  - The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.
-- When do you plan to start the work?
-  - 23PI4
-- When do you plan to deliver the solution?
-  - 23PI4
+  - 24PI1
 
 ### Improve Logging for the API ML
 
@@ -115,6 +104,17 @@ Impact on other Zowe components: NONE
   - 23PI2
 - When do you plan to deliver the solution?
   - 24PI1
+
+### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
+
+- What problem are you solving?
+  - Current Netflix ZUUL gateway is no longer actively developed
+- What are you doing to solve it?
+  - Deliver a new gateway built upon the Spring Cloud Gateway
+- When do you plan to start the work?
+  - 23PI1
+- When do you plan to deliver the solution?
+  - 24PI2
 
 ### Improve Fault tolerance testing
 
@@ -134,9 +134,9 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
 - When do you plan to start the work?
-  - 24PI1
+  - 24PI2
 - When do you plan to deliver the solution?
-  - 24PI1
+  - 24PI2
 
 ### Observability for API ML
 
@@ -147,7 +147,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI3
 - When do you plan to deliver the solution?
-  - 24PI2
+  - 24PI4
 
 ### Improve Onboarding of Internal APIs
 
@@ -156,8 +156,8 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
 - When do you plan to start the work?
-  - 24PI1
+  - 24PI3
 - When do you plan to deliver the solution?
-  - 24PI2
+  - 24PI4
 
 
