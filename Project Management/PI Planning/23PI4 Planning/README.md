@@ -185,13 +185,13 @@ Squad Breakout
             <tr>
                 <td>Squad Breakouts</td>
                 <td>2023-10-25</td>
-                <td>1:00 PM</td>
+                <td>12:00 PM</td>
 <td>
 
 
 Squad Breakout
 - WebUI Squad
-    - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+    - Zoom/Webex Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/99694016410?password=1faca994-6479-41a6-8c08-13073c180c05<br>
 <br>
 
 </td>
