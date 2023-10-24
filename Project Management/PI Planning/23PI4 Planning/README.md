@@ -42,7 +42,6 @@ Squad PI Objectives<br>
 [WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI4%20Objectives.md)<br>
 [Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI4%20Objectives.md)<br>
 [zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI4%20Objectives.md)<br>
-[Chat](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Chat%20Squad%20-%2023PI4%20Objectives.md)<br>
 [IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI4%20Objectives.md)<br>
 
 Workgroup Updates<br>
@@ -109,9 +108,6 @@ Squad vision<br>
 - Zowe Explorer Squad<br>
 - zOS
 - IntelliJ<br>
-- Incubators<br>
-    - Zebra<br>
-    - Chat<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -314,10 +310,6 @@ Squad Final Readouts<br>
 - Onboarding Squad<br>
 - Zowe Explorer Squad<br>
 - zOS
-- Incubators<br>
-    - Zebra
-    - Chat
-    - IntelliJ
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
