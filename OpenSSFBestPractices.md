@@ -135,9 +135,9 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| build | | | | | | | | |
-| build_common_tools | | | | | | | | |
-| build_floss_tools | | | | | | | | |
+| build | N/A | | | | | | | |
+| build_common_tools | N/A | [Gradle](https://github.com/zowe/api-layer/blob/v2.x.x/build.gradle) | [NPM](https://github.com/zowe/zowe-cli/blob/master/package.json) | [Gradle](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.1.0-221/build.gradle.kts) | [NPM](https://github.com/zowe/zowe-cli/blob/master/package.json) | [NPM](https://github.com/zowe/zlux-server-framework/blob/7a99f12eef265b741252f2e903474f2ddeeb5c9e/package.json) | [NPM](https://github.com/zowe/vscode-extension-for-zowe/blob/main/package.json) | |
+| build_floss_tools | N/A | [Gradle](https://github.com/zowe/api-layer/blob/v2.x.x/build.gradle) | [NPM](https://github.com/zowe/zowe-cli/blob/master/package.json) | [Gradle](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.1.0-221/build.gradle.kts) | [NPM](https://github.com/zowe/zowe-cli/blob/master/package.json) | [NPM](https://github.com/zowe/zlux-server-framework/blob/7a99f12eef265b741252f2e903474f2ddeeb5c9e/package.json) | [NPM](https://github.com/zowe/vscode-extension-for-zowe/blob/main/package.json) | |
 
 #### Automated test suite
 
