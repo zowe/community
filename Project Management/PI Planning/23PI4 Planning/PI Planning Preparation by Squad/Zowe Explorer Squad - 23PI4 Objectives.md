@@ -4,16 +4,16 @@
 
 ### v3 Release work
 
-- [ ] [Add UI for managing local storage history data for USS/DS/Jobs](https://github.com/zowe/vscode-extension-for-zowe/issues/2488)
+- [x] [Add UI for managing local storage history data for USS/DS/Jobs](https://github.com/zowe/vscode-extension-for-zowe/issues/2488)
 - [ ] [Minimize the activate() function to have less chance of failure](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
 - [ ] [STRETCH] [Group common method into Singleton classes](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
-- [ ] [STRETCH] [Use vscode.FileSystemProvider for content downloaded from mainframe](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
+- [ ] [STRETCH] [Use `vscode.FileSystemProvider` for content downloaded from mainframe](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
 - [ ] [STRETCH] [Forward all extra properties to the SDK calls](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
 
 ### Added functionality to JOBS tree view
 
 - [ ] [Display confirmation dialog when submitting JCL from the command palette](https://github.com/zowe/vscode-extension-for-zowe/issues/2061)
-- [ ] [Add z/OS System Name (SMFID) tp Zpwe Explorer Jobs view](https://github.com/zowe/vscode-extension-for-zowe/issues/2308)
+- [ ] [Add z/OS System Name (SMFID) to Zowe Explorer Jobs view](https://github.com/zowe/vscode-extension-for-zowe/issues/2308)
 - [ ] [distinguish the different JES QUEUEs](https://github.com/zowe/vscode-extension-for-zowe/issues/2255)
 - [ ] [Tabular display option for Jobs tree](https://github.com/zowe/vscode-extension-for-zowe/issues/2258)
 
@@ -31,7 +31,7 @@
 - [ ] [Zowe Explorer causes a lot of rg.exe processes in the background](https://github.com/zowe/vscode-extension-for-zowe/issues/2463)
 - [ ] [Remote-SSH: Unable to load profiles on Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2430)
 - [ ] [Provide Client Side z/OSMF Certificate Support Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2373)
-- [ ] [Sorting of PDS member list based on ISPF stats](https://github.com/zowe/vscode-extension-for-zowe/issues/2420)
+- [x] [Sorting of PDS member list based on ISPF stats](https://github.com/zowe/vscode-extension-for-zowe/issues/2420)
 - [ ] [Add ability to download/view/upload Datasets/Members/USS files in non-standard codepage](https://github.com/zowe/vscode-extension-for-zowe/issues/2435)
 - [ ] [zowe profiles create zosmf-profile allow specification of --console-name](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
 - [ ] [Allow Zowe Explorer to check VS Code marketplace to install current credential manager](https://github.com/zowe/vscode-extension-for-zowe/issues/2381)
@@ -46,7 +46,7 @@
 
 ### Golden CII Badge
 
-- [ ] Address missing Passing level MUSTs
+- [ ] [Address missing Passing level MUSTs](https://github.com/zowe/vscode-extension-for-zowe/issues/2400)
 - [ ] Investigate Silver level
 
 ##### Helpful links for CII Badge criteria
@@ -97,7 +97,7 @@
 ### [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
 
 - *What problem are you solving?*
-  - Many users of Zowe Explorer aren't familiar with or are unaware of authentication methods supported by Zowe Explorer, like token authentication, SSO, & MFA. 
+  - Many users of Zowe Explorer aren't familiar with or are unaware of authentication methods supported by Zowe Explorer, like token authentication, SSO, & MFA.
 - *What are you doing to solve it?
   - For users of the API ML with SSO and MFA, there are enhancements we could make to provide a more first-class experience.
 - *When do you plan to start the work?*
