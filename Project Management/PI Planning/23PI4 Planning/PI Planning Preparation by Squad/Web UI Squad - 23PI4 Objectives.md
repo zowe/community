@@ -1,4 +1,4 @@
-# Zowe Web UI - 23PI3 - (2023/07/25 - 2023/10/23)
+# Web UI - 23PI4 - (October 2023 - January 2024)
 
 # In-squad tasks
 
