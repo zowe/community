@@ -20,6 +20,9 @@ Tasks to complete these objectives:
 
 Provide directions of what to look for in output logs and in the browser to determine what server configuration is correct and operational. Specifically, this relates to the `zwe init` command group and subcommands (several of which require security admin permissions to run properly).
 
+## Create Scenario-Based Article to Customize API ML ([#2967](https://github.com/zowe/docs-site/issues/2967))
+Restructure the Advanced server-side configuration for API Mediaiton Layer to organize these config options by component. Articles should establish when and why the config is executed, and by whom.
+
 ## Document the upgrade path between minor versions ([#2714](https://github.com/zowe/docs-site/issues/2714))
 
 Users occasionally run into problems when upgrading the zowe versions. Prepare a page which would explain how you migrate from lower to higher versions, with one page per major version.
