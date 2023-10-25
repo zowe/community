@@ -1,4 +1,4 @@
-# Zowe Web UI - 23PI3 - (2023/07/25 - 2023/10/23)
+# Web UI - 23PI4 - (October 2023 - January 2024)
 
 # In-squad tasks
 
@@ -40,22 +40,10 @@
 **Status**: Testing phase, PRs of the app using tsterm already exist and basic functionality is working.
 
 
-# Help wanted
-
-## DB Browser app [#870](https://github.com/zowe/zlux/issues/870)
-
-We want to create an app that is plugable for allowing users to access different types of SQL databases and execute simple queries on them to display the output in tables. 
-But currently nobody has volunteered to do the work.
-
-There are currently 2 repositories covering a "db browser" app https://github.com/zowe/?q=db-browser&type=all&language=&sort=
-They are structured so that you can have plugins for different DB endpoints, like db2, mysql, postgres, whatever is different enough that it needs a distinct plugin to handle its communication.
-
-But apart from that, it's very basic and pretty old right now.
-
-
 # Roadmap
 
-<img width="1704" alt="image" src="https://github.com/zowe/community/assets/30730276/4979964c-d07f-4975-b3d6-65e6dd621819">
+![image](https://github.com/zowe/community/assets/30730276/2e95ea7e-bf11-493f-ae38-3eb88049e627)
+
 
 
 
@@ -66,4 +54,4 @@ The Web UI squad has more ideas than listed here, and can be seen at our [github
 ### Contact us
 Please find us in the #zowe-dev slack if you wish to become involved!
 
-Join us every Friday at 9am EST on Zoom at https://zoom.us/j/99494243697 where we give weekly standup, demos, and discussions.
+Join us every Friday at 9am EST on Zoom at https://zoom-lfx.platform.linuxfoundation.org/meeting/91461158520?password=998640fb-aa58-4b8a-93bf-696daa52eac4 where we give weekly standup, demos, and discussions.
