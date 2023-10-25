@@ -10,25 +10,23 @@ Implement planned changes for V3 and publish a pre-release version to npm.
 - [ ] [v3: Remove "bright" command  #1792](https://github.com/zowe/zowe-cli/issues/1792)
 - [ ] [Standardize use of capitalization and punctuation in command descriptions #1756](https://github.com/zowe/zowe-cli/issues/1756)
 - [ ] [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
+- [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
 - [ ] [Stretch] [v3: Consistent --editor option across CLI commands that can open editor imperative#992](https://github.com/zowe/imperative/issues/992)
+
+## High Priority Defects and Enhancements
+- [ ] [`files edit` commands should support binary and encoding options #1725](https://github.com/zowe/zowe-cli/issues/1725)
+- [ ] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case #1722](https://github.com/zowe/zowe-cli/issues/1722)
 
 ## SDK Conformance and LTS status
 Work with the Onboarding Squad and the IntelliJ Explorer Squad to develop Zowe client SDK conformance criteria and ensure that the Node.JS and Python Zowe Client SDKs achieve conformance.
 - [ ] [Zowe SDK - Update SDK conformance documentation #1676](https://github.com/zowe/zowe-cli/issues/1676)
 - [ ] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
 
-## Address Items in the CLI and Imperative Backlogs
-Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
-
-CLI Squad Plan:
-#### *Enhancements*
-- [ ] None planned
-
-#### *Bugs*
-- [ ] [Stretch] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case](https://github.com/zowe/zowe-cli/issues/1722)
-- [ ] [Stretch] [zowe auth login examples are incorrect](https://github.com/zowe/imperative/issues/998)
-- [ ] [Stretch] [Add instructions to enable prompting for any option](https://github.com/zowe/zowe-cli/issues/1741)
-- [ ] [Stretch] [zowe plugins list registry qualification](https://github.com/zowe/zowe-cli/issues/63)
+## Review and Enhance System Tests
+- Perform an inventory of existing system tests. 
+- Identify gaps in testing. What functionality is not covered that should be?
+- Implement additional system tests where gaps exist.
+- Identify opportunities to use community computing resources.
 
 ## OpenSSF Best Practices Badge
 This work may carry across 23PI3 and 23PI4:
@@ -54,7 +52,7 @@ This work may carry across 23PI3 and 23PI4:
     - New Programming languages (like Kotlin SDK)
   - Prepare the SDKs technically and logistically for conformance
   - Apply for (and achieve) conformance for existing SDKs
-  - Release the SDKs as LTS
+  - Release the Node.js SDK as LTS with the eventual goal of also achieving LTS for the Python SDK
 - _When do you plan to start the work?_
   - **CY23Q2**
 - _When do you plan to deliver the solution?_
@@ -68,7 +66,7 @@ This work may carry across 23PI3 and 23PI4:
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4** (delayed until **TBD**)
+  - **CY22Q4** (delayed until CY24Q1)
 
 ## (Done) Keytar Replacement
 - _What problem are you solving?_
