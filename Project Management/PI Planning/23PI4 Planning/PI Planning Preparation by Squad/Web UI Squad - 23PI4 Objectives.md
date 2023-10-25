@@ -16,7 +16,7 @@
 
 **Status**: Webpack upgrades going well, moving to webpack 5 is no problem and shouldn't be disruptive. Angular currently under investigation.
 
-## Zowe server setup JCL overhaul
+## Zowe server setup JCL overhaul [#3633](https://github.com/zowe/zowe-install-packaging/issues/3633) [#3634](https://github.com/zowe/zowe-install-packaging/issues/3634)
 **Priority**: 3
 
 **Description**: Users who scale out software on z/OS have been requesting that we be more JCL-centric in our approach to installation. Most of "zwe init" already results in jobs, but some of the JCL does not rest in a SAMPLIB. Not all of the "zwe init" commands show the JCL that was issued, nor have a proper "dry-run" mode. By making the JCL visible at rest, visible as output of zwe, and even overhauled to utilize rexx-configmgr for input validation, we believe these users will be successful with scale out and happy with the changes. 
