@@ -1,4 +1,4 @@
-# Zowe Systems Squad - 23PI3 - (2023/07/25 - 2023/10/23)
+# Zowe Systems Squad - 23PI4 - (2023/10/31 - 2024/01/22)
 
 The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
 
@@ -9,8 +9,7 @@ Work related to Zen and the `zwe` Node.JS dependency removal will be tracked in 
     * No news to share
 - [Marist Mainframe - Verify z/OS 2.5](https://github.com/zowe/zowe-install-packaging/issues/3396)
     * Starting soon / in progress
-- [Kube Cluster Setup](https://github.com/zowe/community/issues/2052)
-
+    
 ## Release and CICD
 - [Complete v3 Branching and Builds](https://github.com/zowe/zowe-install-packaging/issues/3482)
   * Work starting in PI3, continuing PI4
