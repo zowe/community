@@ -1,4 +1,4 @@
-# Zowe ZOS Squad 23PI4 - 
+# Zowe ZOS Squad 23PI4 (2023/10/31 - 2023/01/22)
 
 ## Engagement with IBM ZOS Team
 

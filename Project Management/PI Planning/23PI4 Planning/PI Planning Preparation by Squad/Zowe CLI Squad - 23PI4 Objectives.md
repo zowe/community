@@ -1,4 +1,4 @@
-# Zowe CLI Squad - 23PI3 - (2023/10/24 - 2024/01/22)
+# Zowe CLI Squad - 23PI4 (2023/10/31 - 2023/01/22)
 
 ## V3 Pre-release
 Implement planned changes for V3 and publish a pre-release version to npm.
