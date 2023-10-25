@@ -18,7 +18,7 @@ Tasks to complete these objectives:
 
 ## Document tips on server install verification ([#2092](https://github.com/zowe/docs-site/issues/3092))
 
-Directions of what to look for in output logs and in the browser to determine what server configuration is correct and operational. Specifically, this relates to the zwe init command group and subcommands (several of which require security admin permissions to run properly).
+Provide directions of what to look for in output logs and in the browser to determine what server configuration is correct and operational. Specifically, this relates to the `zwe init` command group and subcommands (several of which require security admin permissions to run properly).
 
 ## Document the upgrade path between minor versions ([#2714](https://github.com/zowe/docs-site/issues/2714))
 
@@ -27,12 +27,11 @@ Users occasionally run into problems when upgrading the zowe versions. Prepare a
 ## V3 prep work (target release date: March 28, 2024)
 
 - Continue to develop and execute a doc strategy for Zowe V3 content
-  - Assign specific content to individual writers to shepherd through the V2-V3 upgrade process
   - Review content with squads, SMEs to determine scope of needed changes for V3 documentation
-  - Begin V3 documentation
+  - Draft V3 documentation where needed
 
 ## Consumer Awareness Section(s)
-Objective: Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
+Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
 
 ## CII Badge standards
 
