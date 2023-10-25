@@ -1,4 +1,4 @@
-# Zowe Systems Squad - 23PI3 - (2023/07/25 - 2023/10/23)
+# Zowe Systems Squad - 23PI4 (2023/10/31 - 2023/01/22)
 
 The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
 
