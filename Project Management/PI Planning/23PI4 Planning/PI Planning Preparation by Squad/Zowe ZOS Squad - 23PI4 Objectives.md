@@ -1,10 +1,31 @@
 # Zowe ZOS Squad 23PI4 - 
 
+## Engagement with IBM ZOS Team
+
+Continuing to try to get engagement with IBM on next release test access.  Will use Marist and/or Dallas Test systems.
+Will hopefully establish TDM (Technical Disclosure) and ICN access.  
+
+## Work with ZOSMF for better, simplified future
+
+Participation with ZOSMF team to end a near-decade of dysfunction.  Goals are to explore major simplification of back-end services while retaining compatibility with Zowe.  Considering APIML-like features in ZOSMF itself.   Maybe having ZSS server potentially as plugins to ZOSMF.   
+
 ## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
 
 The main work of supporting R_usermap is done, but this work exposed an issue in ZOS ESM security implementation.  The security context (ACEE) that is used to authorize calls uses the server/ASCB context rather than impersonated/thread/TCB context.  TSS and ACF2 implmented this in a different manner than RACF and implicity, SAF.  So there is the hope that this issue will be settled in Q4 202
 
 Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
+
+## Performance optimizations to ZIS PC Routines [#404](https://github.com/zowe/zowe-common-c/issues/404)
+
+The ZOS service IEALSQRY has been determined to be to expensive to be used in its current role and will be replaced by somthing more direct and simple
+
+## LPA Module Reuse in ZIS (Q4/Q1 ???) [#405](https://github.com/zowe/zowe-common-c/issues/405)
+
+Use of shared memory (LPA) for Zowe modules can consume too much precious 31 bit common storage and better reuse logic is planned.
+
+## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
+
+Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
 ## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626)
 
@@ -21,18 +42,6 @@ Dataset listing (catalog access) works, but create, copy, delete would be useful
 ### GSK services
 
 Loading certificates to keyrings, creating root CA's and server Certs.
-
-## Performance optimizations to ZIS PC Routines [#404](https://github.com/zowe/zowe-common-c/issues/404)
-
-The ZOS service IEALSQRY has been determined to be to expensive to be used in its current role and will be replaced by somthing more direct and simple
-
-## LPA Module Reuse in ZIS (Q4/Q1 ???) [#405](https://github.com/zowe/zowe-common-c/issues/405)
-
-Use of shared memory (LPA) for Zowe modules can consume too much precious 31 bit common storage and better reuse logic is planned.
-
-## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
-
-Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
 ## QJS (Embedded JS updates) [#628](https://github.com/zowe/zss/issues/628)
 
