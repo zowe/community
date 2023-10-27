@@ -2,19 +2,20 @@
 
 ## V3 Pre-release
 Implement planned changes for V3 and publish a pre-release version to npm.
-- [ ] [v3: Prepare vNext branch of the zowe-cli repository #1702](https://github.com/zowe/zowe-cli/issues/1702)
 - [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo #1695](https://github.com/zowe/zowe-cli/issues/1695)
-- [ ] [v3: deprecate the getDataSet utility and move it (in v3) to the @zowe/zos-files-for-zowe-sdk package #1696](https://github.com/zowe/zowe-cli/issues/1696)
-- [ ] [v3: Remove V1 profile functionality in vNext (retaining the ability to convert from V1 to V2 configs) #1703](https://github.com/zowe/zowe-cli/issues/1703)
-- [ ] [v3: Remove deprecated constants, options, and methods #1694](https://github.com/zowe/zowe-cli/issues/1694)
-- [ ] [v3: Remove "bright" command  #1792](https://github.com/zowe/zowe-cli/issues/1792)
-- [ ] [Standardize use of capitalization and punctuation in command descriptions #1756](https://github.com/zowe/zowe-cli/issues/1756)
+- [ ] [v3: Prepare vNext branch of the zowe-cli repository #1702](https://github.com/zowe/zowe-cli/issues/1702)
 - [ ] [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
+- [ ] [v3: Remove V1 profile functionality in vNext (retaining the ability to convert from V1 to V2 configs) #1703](https://github.com/zowe/zowe-cli/issues/1703)
 - [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
+- [ ] [v3: deprecate the getDataSet utility and move it (in v3) to the @zowe/zos-files-for-zowe-sdk package #1696](https://github.com/zowe/zowe-cli/issues/1696)
+- [ ] [v3: Remove deprecated constants, options, and methods #1694](https://github.com/zowe/zowe-cli/issues/1694)
+- [ ] [v3: Remove deprecated constants, options, and methods imperative#970](https://github.com/zowe/imperative/issues/970)
+- [ ] [v3: Remove "bright" command  #1792](https://github.com/zowe/zowe-cli/issues/1792)
+- [ ] [Stretch] [Standardize use of capitalization and punctuation in command descriptions #1756](https://github.com/zowe/zowe-cli/issues/1756)
 - [ ] [Stretch] [v3: Consistent --editor option across CLI commands that can open editor imperative#992](https://github.com/zowe/imperative/issues/992)
 
 ## High Priority Defects and Enhancements
-- [ ] [`files edit` commands should support binary and encoding options #1725](https://github.com/zowe/zowe-cli/issues/1725)
+- [ ] [Stretch] [`files edit` commands should support binary and encoding options #1725](https://github.com/zowe/zowe-cli/issues/1725)
 - [ ] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case #1722](https://github.com/zowe/zowe-cli/issues/1722)
 
 ## SDK Conformance and LTS status
