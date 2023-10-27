@@ -1,7 +1,7 @@
 # Zowe Onboarding Squad - 23PI4 - (2023/10/24 - 2024/01/22)
 
 ## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
-- Drive suggestions and encourage publication of Zowe blogs [focus on V3 this quarter]
+- Drive suggestions and encourage publication of Zowe blogs [focus on V3 this quarter]  see: https://github.com/orgs/zowe/projects/4/views/1
 - Quarterly Webinars (next rev Dec)
 - Roadmap (Next rev)
 - Q of M (Nov, Dec, Jan)
@@ -11,10 +11,9 @@
 - Finalize NEW conformance programs:  SDK, Explorer for Intelli J
 - Prep & Schedule V3 Office Hours for Consumers
 - Review / revise Conformance Program Application process
-- Introduce (for discussion & vote) permanent resolutions to the consumer "authentic & fragmented zowe" concerns
+- Propose permanent resolutions to the consumer "authentic & fragmented zowe" concerns
 
 ## (3) Goal:  Education & Certification / Advance efforts
-- Assist Interskill in publishing revisions to existing Zowe Foundations Course
 - Provide inputs & continue to track new Interskill Zowe Course: [Install, Configure, Admin & Troubleshoot Zowe z/OS components]
 - STRETCH Goal:  Launch Pilot for this course (dependent on Interskill) 
   
