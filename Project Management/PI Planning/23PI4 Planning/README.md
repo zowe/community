@@ -101,13 +101,13 @@ Squad vision<br>
 
 - Documentation Squad<br>
 - API ML Squad<br>
-- Zowe CLI Squad<br>
+- CLI Squad<br>
 - Systems Squad<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
-- Zowe Explorer Squad<br>
-- zOS
-- IntelliJ<br>
+- Explorer Squad<br>
+- zOS Squad
+- IntelliJ Squad<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users
@@ -308,8 +308,9 @@ Squad Final Readouts<br>
 - Systems Squad<br>
 - WebUI Squad<br>
 - Onboarding Squad<br>
-- Zowe Explorer Squad<br>
-- zOS
+- Explorer Squad<br>
+- zOS Squad
+- IntelliJ Squad<br>
 
 </td>
             <td>Squad Members, Stakeholders & Users<br>
