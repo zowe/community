@@ -13,6 +13,7 @@ Tasks to complete these objectives:
 
 * Incorporate SME feedback of reorganized/refactored installation and configuration doc.  
 * Draft an article 'Troubleshooting installation and configuration' with links to common solution procedures. Add links in the installation articles to this Troubleshooting guide.
+* Investigate and draft content for z/OSMF security checklist.
 * Add real-world examples to the various installation procedures. (Many of these examples can be provided with links to existing video content)
 * For each installation method, add results of individual steps.
   (Criteria defined in Issue [#2963](https://github.com/zowe/docs-site/issues/2963)).
@@ -38,7 +39,7 @@ Determine how best to communicate important changes (deprecations, eliminations 
 Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
 
 ## Create Scenario-Based Article to Customize API ML ([#2967](https://github.com/zowe/docs-site/issues/2967))
-Restructure the Advanced server-side configuration for API Mediaiton Layer to organize these config options by component. Articles should establish when and why the config is executed, and by whom.
+Restructure the Advanced server-side configuration for API Mediation Layer to organize these config options by component. Articles should establish when and why the config is executed, and by which role (sys prog / security admin, etc.)
 
 ## CII Badge standards
 
