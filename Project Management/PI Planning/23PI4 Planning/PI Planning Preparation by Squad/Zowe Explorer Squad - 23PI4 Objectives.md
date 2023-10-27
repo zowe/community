@@ -6,8 +6,8 @@
 
 - [x] [Add UI for managing local storage history data for USS/DS/Jobs](https://github.com/zowe/vscode-extension-for-zowe/issues/2488)
 - [ ] [Minimize the activate() function to have less chance of failure](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
-- [ ] [STRETCH] [Group common method into Singleton classes](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
 - [ ] [STRETCH] [Use `vscode.FileSystemProvider` for content downloaded from mainframe](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
+- [ ] [STRETCH] [Group common method into Singleton classes](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
 - [ ] [STRETCH] [Forward all extra properties to the SDK calls](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
 
 ### Added functionality to JOBS tree view
@@ -27,15 +27,16 @@
 
 ### High Priority work
 
-- [ ] [Update clipboard-related calls to use a Theia-compatible option](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
+- [ ] [Provide Client Side z/OSMF Certificate Support Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2373)
 - [ ] [Zowe Explorer causes a lot of rg.exe processes in the background](https://github.com/zowe/vscode-extension-for-zowe/issues/2463)
 - [ ] [Remote-SSH: Unable to load profiles on Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2430)
-- [ ] [Provide Client Side z/OSMF Certificate Support Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2373)
 - [x] [Sorting of PDS member list based on ISPF stats](https://github.com/zowe/vscode-extension-for-zowe/issues/2420)
 - [ ] [Add ability to download/view/upload Datasets/Members/USS files in non-standard codepage](https://github.com/zowe/vscode-extension-for-zowe/issues/2435)
 - [ ] [zowe profiles create zosmf-profile allow specification of --console-name](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
 - [ ] [Allow Zowe Explorer to check VS Code marketplace to install current credential manager](https://github.com/zowe/vscode-extension-for-zowe/issues/2381)
-- [ ] [Consider adding integration tests using vscode-extension-tester](https://github.com/zowe/vscode-extension-for-zowe/issues/2322)
+- [ ] [STRETCH] [Unexpected behavior in TSO Commands](https://github.com/zowe/vscode-extension-for-zowe/issues/2528)
+- [ ] [STRETCH] [Consider adding integration tests using `vscode-extension-tester`](https://github.com/zowe/vscode-extension-for-zowe/issues/2322)
+- [ ] [STRETCH] [Update clipboard-related calls to use a Theia-compatible option](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
 
 ### [STRETCH] Improve UX for token based authentication
 
@@ -102,5 +103,16 @@
   - For users of the API ML with SSO and MFA, there are enhancements we could make to provide a more first-class experience.
 - *When do you plan to start the work?*
   - 23Q3
+- *When do you plan to deliver the solution?*
+  - 24Q1
+
+### [Zowe Explorer v3 GA]()
+
+- *What problem are you solving?*
+  -  We have a great deal of items to complete for the v3 GA date and we don't want to miss anything important.
+- *What are you doing to solve it?
+  - Prepare a plan for dependency & engine updates, enhancements, migration tactics, and other items needed for our v3 GA release.
+- *When do you plan to start the work?*
+  - The work has been in progress since 23Q1
 - *When do you plan to deliver the solution?*
   - 24Q1
