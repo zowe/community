@@ -23,7 +23,7 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 ### Zowe CLI Squad
 
 | Name | GitHub ID | Email | Roles |
-|-|-|-|-|
+|-|-|-|-|-|
 | Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Lead, TSC Rep, Product Owner | Oversees product strategy and development |
 | Amanda D'Errico | @AmandaDErrico | amanda.derrico@ibm.com | Developer | Builds product software |
 | Amber Torrise | @ATorrise | amber.torrise@broadcom.com | Developer | Builds product software |
