@@ -87,17 +87,14 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/zowe-onboa
 ### Documentation
 
 
-| Name | GitHub ID | Email | Roles |
-|-|-|-|-|
-| Nan Nan Li (Ashley) | @nannanli | nannanli@cn.ibm.com | Lead |
-| Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
-| Andrew Jandacek | @janan07 | andrew.jandacek@broadcom.com | Tech Writer |
-| James Bauman | @JamesBauman | james.bauman@broadcom.com | Tech Writer |
-| Igor Kazmyr | @IgorCATech | igor.kazmyr@broadcom.com | Tech Writer |
-| Wen Ting Su (Samantha) | @samanthasusu | wen.ting.su@ibm.com | Tech Writer |
-| Lobhas Paradkar | @lparadkar-rocket | lparadkar@rocketsoftware.com | Tech Writer |
-| Ting Chen (Cathy) | @chentingcathy | bjct@cn.ibm.com | Tech Writer |
-| Arijit Kundu (Arijit) | @idontknowjs | kunduarijit55@gmail.com | Tech Writer |
+| Name | GitHub ID | Email | Roles | Responsibilities |
+|-|-|-|-|-|
+| Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer | Documents product features, releases |
+| Andrew Jandacek | @janan07 | andrew.jandacek@broadcom.com | Tech Writer, Doc Squad Lead | Documents product features, releases; Leads documentation squad |
+| James Bauman | @JamesBauman | james.bauman@broadcom.com | Tech Writer | Documents product features, releases |
+| Igor Kazmyr | @IgorCATech | igor.kazmyr@broadcom.com | Tech Writer | Documents product features, releases |
+| Wen Ting Su (Samantha) | @samanthasusu | wen.ting.su@ibm.com | Tech Writer | Documents product features, releases |
+| Lobhas Paradkar | @lparadkar-rocket | lparadkar@rocketsoftware.com | Tech Writer | Documents product features, releases |
 
 ### Systems
 
