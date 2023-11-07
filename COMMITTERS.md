@@ -68,6 +68,7 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 | Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer | Builds product software |
 | Santhoshi Boyina | @SanthoshiBoyina | santhoshi.boyina1@ibm.com | Developer | Builds product software |
 | Likhitha Nimma | @likhithanimma1 | Likhitha.Nimma@ibm.com | Developer | Builds product software |
+| Andrew W. Harn | @awharn | andrew.harn@broadcom.com | Developer | Builds product software |
 
 See the full lists below:
 - https://github.com/orgs/zowe/teams/zowe-explorer-administrators
