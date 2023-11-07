@@ -54,22 +54,20 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-| Name | GitHub ID | Email | Roles |
-|-|-|-|-|
-| Billie Jean Simmons | @JillieBeanSim | BillieJean.Simmons@ibm.com | Lead, TSC Rep, Developer |
-| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Co-Lead, Developer |
-| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
-| Ana Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
-| Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer |
-| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
-| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
-| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Product Owner, Developer |
-| Na Tian (Tina) | @tiantn | tiantn@cn.ibm.com | Developer |
-| Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer |
-| Kutlu Ozel | @KutluOzel-b | kutlu.ozel@broadcom.com | Developer |
-| Peter Haumer | @phaumer | phaumer@us.ibm.com | Developer |
-| Anokhi Kastia | @anokhikastiaIBM | anokhi.kastia@ibm.com | Developer |
-| Lauren Li | @lauren-li | lauren.li@ibm.com | Developer |
+| Name | GitHub ID | Email | Roles | Responsibilities |
+|-|-|-|-|-|
+| Billie Jean Simmons | @JillieBeanSim | BillieJean.Simmons@ibm.com | Co-Lead, TSC Rep, Developer | Squad co-leader, builds product software |
+| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Co-Lead, Developer | Squad co-leader, builds product software|
+| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master | Facilitates team processes, supports team in delivering value |
+| Ana X. Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer | Documents product features, releases |
+| Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer | Builds product software |
+| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer | Builds product software |
+| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer | Builds product software |
+| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Product Owner, Developer | Oversees product strategy and development |
+| Na Tian (Tina) | @tiantn | tiantn@cn.ibm.com | Developer | Builds product software |
+| Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer | Builds product software |
+| Santhoshi Boyina | @SanthoshiBoyina | santhoshi.boyina1@ibm.com | Developer | Builds product software |
+| Likhitha Nimma | @likhithanimma1 | Likhitha.Nimma@ibm.com | Developer | Builds product software |
 
 See the full lists below:
 - https://github.com/orgs/zowe/teams/zowe-explorer-administrators
