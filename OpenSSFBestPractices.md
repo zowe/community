@@ -161,9 +161,9 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| test_policy | | | | | | | | |
+| test_policy | | [Testing Guidelines](https://github.com/zowe/api-layer/blob/v2.x.x/CONTRIBUTING.md#testing-guidelines) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code Coverage](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.1.0-221/CONTRIBUTING.md#general) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code reviews](https://github.com/zowe/zlux/blob/v1.x/master/CONTRIBUTING.md#code-reviews) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code reviews](https://github.com/zowe/zss/blob/v2.x/staging/CONTRIBUTING.md#code-reviews) |
 | tests_are_added | | | | | | | | |
-| tests_documented_added | | | | | | | | |
+| tests_documented_added | N/A | [Testing Guidelines](https://github.com/zowe/api-layer/blob/v2.x.x/CONTRIBUTING.md#testing-guidelines) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code Coverage](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.1.0-221/CONTRIBUTING.md#general) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code reviews](https://github.com/zowe/zlux/blob/v1.x/master/CONTRIBUTING.md#code-reviews) | [Testing Guidelines](https://github.com/zowe/zowe-cli/blob/master/docs/TESTING.md) | [Code reviews](https://github.com/zowe/zss/blob/v2.x/staging/CONTRIBUTING.md#code-reviews) |
 
 #### Warning flags
 
