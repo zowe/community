@@ -173,9 +173,9 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| warnings | | | | | | | | |
+| warnings | N/A | [SonarCloud](https://sonarcloud.io/project/overview?id=zowe_api-layer) | [SonarCloud](https://sonarcloud.io/project/overview?id=zowe_zowe-cli) | [SonarCloud](https://sonarcloud.io/project/overview?id=zowe_zowe-explorer-intellij) | [SonarCloud](https://sonarcloud.io/project/overview?id=zowe_imperative) | [MVS Explorer](https://sonarcloud.io/project/overview?id=zowe_explorer-mvs), [USS Explorer](https://sonarcloud.io/project/overview?id=zowe_explorer-uss), [JES Explorer](https://sonarcloud.io/project/overview?id=zowe_explorer-jes) | [SonarCloud](https://sonarcloud.io/project/overview?id=zowe_vscode-extension-for-zowe) | |
 | warnings_fixed | | | | | | | | |
-| warnings_strict | | | | | | | | |
+| warnings_strict | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 ### Security
 
