@@ -4,14 +4,21 @@
 
 ### Message ID Components (message prefixes)
 
-OMP - Open Mainframe Project
 ZWE - Zowe, This should be used as default for all Zowe messages. 
 
 ### Zowe Projects
 
+There are server and client side components that are logging separately as such we may have duplication of logging for Server side and Client side. 
+
+#### Server Side
+
 A - API Mediation Layer
-C - Zowe CLI
 D - Zowe App Framework
+S - Zowe System Services
+
+#### Client Side 
+
+C - Zowe CLI
 E - Zowe VSCode Explorer
 H - Zowe Chat
 I - Zowe Intellij Explorer
@@ -19,17 +26,20 @@ J - Client Java SDK
 K - Client Kotlin SDK
 N - Client Node.js SDK
 P - Client Python SDK
-S - Zowe System Services
 
 ### Message Formats
 
-ZWEcnnnnt or ZWEcsnnnt {Actual message} where:
+ZWEcnnnnt, ZWEcsnnnt or ZWEcsxnnt {Actual message} where:
 
 **ZWE** - static for Zowe messages.
 
 **c** - one of the registered Components ... (see above).  Components need the TSC to approve the use of the project letter to ensure consistency across all of the projects.
 
-**s** - potentially a sub component within the component space. An example from API Mediation Layer would be G for Gateway
+**s** - potentially a sub component within the component space. An example from API Mediation Layer would be G for Gateway. 
+
+**x** - potentially a space for extensions. For the extensions the expectation is that there will be X as sub component. An example would be ZWEDXA11E
+
+**nnn** - is a linear sequence starting from 001 to 999.
 
 **nnnn** - is a linear sequence starting from 0001 to 9999.
 
