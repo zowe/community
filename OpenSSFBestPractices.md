@@ -220,8 +220,8 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| delivery_mitm | | | | | | | | |
-| delivery_usigned | | | | | | | | |
+| delivery_mitm | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/)| [HTTPS](https://plugins.jetbrains.com/plugin/18688-zowe-explorer) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://github.com/zowe/vscode-extension-for-zowe/releases/tag/v2.12.2) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) |
+| delivery_usigned | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) |
 
 #### Publicly known vulnerabilities fixed
 
