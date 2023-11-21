@@ -203,15 +203,15 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| crypto_published | | | | | | | | |
-| crypto_call | | | | | | | | |
-| crypto_floss | | | | | | | | |
-| crypto_keylength | | | | | | | | |
-| crypto_working | | | | | | | | |
-| crypto_weaknesses | | | | | | | | |
-| crypto_pfs | | | | | | | | |
-| crypto_password_storage | | | | | | | | |
-| crypto_random | | | | | | | | |
+| crypto_published | N/A | | | | | | | |
+| crypto_call | N/A | | | | | | | |
+| crypto_floss | N/A | | | | | | | |
+| crypto_keylength | N/A | | | | | | | |
+| crypto_working | N/A | | | | | | | |
+| crypto_weaknesses | N/A | | | | | | | |
+| crypto_pfs | N/A | | | | | | | |
+| crypto_password_storage | N/A | | | | | | | |
+| crypto_random | N/A | | | | | | | |
 
 #### Secured delivery against man-in-the-middle (MITM) attacks
 
@@ -241,7 +241,7 @@ This is talking about the vulnerabilities in the software and exploitable vulner
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| no_leaked_credentials | | | | | | | | |
+| no_leaked_credentials | N/A | [Secret Scanning](https://github.com/zowe/api-layer/security/secret-scanning) | | | | | | |
 
 ### Analysis
 
