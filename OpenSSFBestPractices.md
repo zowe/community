@@ -254,10 +254,10 @@ This is talking about the vulnerabilities in the software and exploitable vulner
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| static_analysis | | | | | | | | |
-| static_analysis_common_vulnerabilities | | | | | | | | |
-| static_analysis_fixed | | | | | | | | |
-| static_analysis_often | | | | | | | | |
+| static_analysis | N/A | [Sonarcloud](https://sonarcloud.io/summary/overall?id=zowe_api-layer) | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_zowe-cli) | [Sonarcloud](https://sonarcloud.io/project/overview?id=zowe_zowe-explorer-intellij) | [Sonarcloud](https://sonarcloud.io/project/overview?id=zowe_imperative) | | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_vscode-extension-for-zowe) | |
+| static_analysis_common_vulnerabilities N/A | [Sonarcloud](https://sonarcloud.io/summary/overall?id=zowe_api-layer) | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_zowe-cli) | [Sonarcloud](https://sonarcloud.io/project/overview?id=zowe_zowe-explorer-intellij) | [Sonarcloud](https://sonarcloud.io/project/overview?id=zowe_imperative) | | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_vscode-extension-for-zowe) | |
+| static_analysis_fixed | N/A | [Waiting](https://github.com/zowe/api-layer/issues/3209), [Need to be Fixed](https://sonarcloud.io/project/issues?resolved=false&types=BUG&id=zowe_api-layer) | [Need to be Fixed](https://sonarcloud.io/project/issues?resolved=false&types=BUG&sinceLeakPeriod=true&id=zowe_zowe-cli) | [Done](https://sonarcloud.io/project/issues?resolved=false&types=BUG&id=zowe_zowe-explorer-intellij) | [Need to be fixed](https://sonarcloud.io/project/issues?resolved=false&types=BUG&id=zowe_imperative) | | [Need to be fixed](https://sonarcloud.io/project/issues?impactSeverities=HIGH%2CMEDIUM&resolved=false&types=BUG&id=zowe_vscode-extension-for-zowe) | |
+| static_analysis_often | N/A | [Sonarcloud](https://sonarcloud.io/summary/overall?id=zowe_api-layer) | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_zowe-cli) |  | [Sonarcloud](https://sonarcloud.io/project/overview?id=zowe_imperative) | | [Sonarcloud](https://sonarcloud.io/summary/new_code?id=zowe_vscode-extension-for-zowe) | |
 
 #### Dynamic code analysis
 
