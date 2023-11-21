@@ -225,13 +225,15 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 #### Publicly known vulnerabilities fixed
 
+This is talking about the vulnerabilities in the software and exploitable vulnerabilities in the dependencies. The non exploitable vulnerabilities among dependencies doesn't apply. 
+
 - There MUST be no unpatched vulnerabilities of medium or higher severity that have been publicly known for more than 60 days. [vulnerabilities_fixed_60_days]
 - Projects SHOULD fix all critical vulnerabilities rapidly after they are reported. [vulnerabilities_critical_fixed]
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| vulnerabilities_fixed_60_days | | | | | | | | |
-| vulnerabilities_critical_fixed | | | | | | | | |
+| vulnerabilities_fixed_60_days | [Policy](https://www.zowe.org/security#analysis-and-assessment) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) | [Removed CVEs](https://docs.zowe.org/stable/getting-started/release-notes/v2_12_0#vulnerabilities-fixed) |
+| vulnerabilities_critical_fixed | [Policy](https://www.zowe.org/security#analysis-and-assessment) | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to | None exploitable by now, only critical in dependencies that we weren't vulnerable to |
 
 #### Other security issues
 
