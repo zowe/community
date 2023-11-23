@@ -241,7 +241,7 @@ This is talking about the vulnerabilities in the software and exploitable vulner
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| no_leaked_credentials | N/A | [Secret Scanning](https://github.com/zowe/api-layer/security/secret-scanning) | | | | | | |
+| no_leaked_credentials | N/A | [Secret Scanning](https://github.com/zowe/api-layer/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/zowe-cli/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/zowe-explorer-intellij/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/zowe-cli/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/zlux/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/vscode-extension-for-zowe/security/secret-scanning) | [Secret Scanning](https://github.com/zowe/zss/security/secret-scanning) |
 
 ### Analysis
 
