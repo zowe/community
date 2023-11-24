@@ -203,15 +203,15 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| crypto_published | N/A | | | | | | | |
-| crypto_call | N/A | | | | | | | |
-| crypto_floss | N/A | | | | | | | |
-| crypto_keylength | N/A | | | | | | | |
-| crypto_working | N/A | | | | | | | |
-| crypto_weaknesses | N/A | | | | | | | |
-| crypto_pfs | N/A | | | | | | | |
-| crypto_password_storage | N/A | | | | | | | |
-| crypto_random | N/A | | | | | | | |
+| crypto_published | N/A | N/A | | | | | | |
+| crypto_call | N/A | N/A | | | | | | |
+| crypto_floss | N/A | N/A | | | | | | |
+| crypto_keylength | N/A | N/A | | | | | | |
+| crypto_working | N/A | N/A | | | | | | |
+| crypto_weaknesses | N/A | N/A | | | | | | |
+| crypto_pfs | N/A | N/A | | | | | | |
+| crypto_password_storage | N/A | N/A | | | | | | |
+| crypto_random | N/A | N/A | | | | | | |
 
 #### Secured delivery against man-in-the-middle (MITM) attacks
 
@@ -268,10 +268,10 @@ This is talking about the vulnerabilities in the software and exploitable vulner
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| dynamic_analysis | | | | | | | | |
-| dynamic_analysis_unsafe | | | | | | | | |
-| dynamic_analysis_enable_assertions | | | | | | | | |
-| dynamic_analysis_fixed | | | | | | | | |
+| dynamic_analysis | [AppScan for V2](https://github.com/zowe/security-reports/blob/master/AppScan/v2/Dynamic/zowe-web-scan_assessment.pdf) | No | No | No | No | No | No | No |
+| dynamic_analysis_unsafe | No | No | No | N/A | No | N/A | N/A | No |
+| dynamic_analysis_enable_assertions | No | No | No | No | No | No | No | No |
+| dynamic_analysis_fixed | Fixed | No | No | No | No | No | No | No |
 
 ## Silver Badge
 
