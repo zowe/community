@@ -68,7 +68,7 @@ You can submit an issue (Bug or Feature) on Zowe in general at https://github.co
 
 Pull requests cannot be merged without the approval of at least one maintainer, who will be looking for the pull request to meet requirements as follows:
 
-* The code in the pull request must adhere to the [general Code Style Guidelines](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/best-practices/coding-style.md) and those for the squads.
+* The code in the pull request must adhere to the [general Code Style Guidelines](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/guidelines/coding-style.md) and those for the squads.
 * The code must compile/transpile (where applicable) and pass a smoke test such that the code is not known to break the current state of Zowe.
 * The pull request must describe the purpose and implementation to the extent that the maintainer understands what is being accomplished. Some pull requests need less details than others depending on novelty.
 * The pull request must state how to test this change, if applicable, such that the maintainer or a QA team can check correctness. The explanation may simply be to run included test code.
