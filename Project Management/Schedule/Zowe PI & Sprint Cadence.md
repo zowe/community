@@ -149,7 +149,7 @@ Sprint 6 - 2024/01/09 - 2024/01/22<br>
 #### 2.13 </br>
 - Code Freeze 2023/11/28<br>
 - RC Build 2023/11/29<br>
-- System Demo 2023/12/18<br>
+- System Demo (~~2023/12/18~~ Changed to 2024/01/08)<br>
 - Testing 2023/11/29 - 2023/12/10<br>
 - GA 2023/12/11<br>
 
