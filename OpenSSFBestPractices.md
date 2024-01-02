@@ -207,8 +207,8 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | crypto_call | N/A | N/A | N/A | N/A | Zowe CLI and the Secrets SDK do not re-implement any cryptographic functions. | N/A | N/A | N/A |
 | crypto_floss | N/A | N/A | N/A | N/A | Zowe CLI does not rely on proprietary/closed source cryptographic functions. | N/A | N/A | N/A |
 | crypto_keylength | N/A |  | N/A | | According to https://www.npmjs.com/package/ssh2, the package we use for handling ssh comms, indicates that the default list of ciphers does not include CBC ciphers. We do not override the defaults, so I think we are fine. | | N/A | |
-| crypto_working |  N/A | N/A | N/A | N/A | | N/A | N/A | N/A |
-| crypto_weaknesses |  N/A | N/A | N/A | N/A | | N/A | N/A | N/A |
+| crypto_working |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| crypto_weaknesses |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | crypto_pfs |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | crypto_password_storage | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | crypto_random |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -221,7 +221,7 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
 | delivery_mitm | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/)| [HTTPS](https://plugins.jetbrains.com/plugin/18688-zowe-explorer) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) | [HTTPS](https://github.com/zowe/vscode-extension-for-zowe/releases/tag/v2.12.2) | [HTTPS](https://zowe.jfrog.io/artifactory/libs-release/org/zowe/2.12.0/) |
-| delivery_usigned | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) |
+| delivery_usigned | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | Jetbrains Marketplace | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) | VSCode Marketplace | [SHA 512](https://zowe.jfrog.io/zowe/list/libs-release-local/org/zowe/2.12.0/) |
 
 #### Publicly known vulnerabilities fixed
 
