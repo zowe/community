@@ -1,4 +1,4 @@
-# Zowe Explorer Squad - 23PI3 - (2023/08/01 - 2023/10/23)
+# Zowe Explorer Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
 ## Prepare Zowe Explorer extenders for upcoming v3 breaking changes and new features with v3 pre-releases and documentation.
 

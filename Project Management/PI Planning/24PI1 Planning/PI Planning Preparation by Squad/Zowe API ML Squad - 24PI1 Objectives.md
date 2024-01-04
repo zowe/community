@@ -1,4 +1,4 @@
-# Zowe API ML Squad - 23PI3 Objectives  
+# Zowe API ML Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 (August 2023 to October 2023)
 
 

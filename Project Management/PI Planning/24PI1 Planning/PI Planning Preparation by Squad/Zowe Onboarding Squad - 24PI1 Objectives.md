@@ -1,4 +1,4 @@
-# Zowe Onboarding Squad - 23PI3 - (2023/7/24 - 2023/10/23)
+# Zowe Onboarding Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
 ## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
 - Continue managing tracking Zowe blogs

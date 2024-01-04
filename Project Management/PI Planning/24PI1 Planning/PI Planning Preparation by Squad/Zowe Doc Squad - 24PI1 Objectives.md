@@ -1,4 +1,4 @@
-# Zowe Doc Squad - 23PI3 (August 2023 October 2023)
+# Zowe Doc Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
 ## Improve server-side installation documentation based on user feedback
 

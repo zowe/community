@@ -1,4 +1,4 @@
-# Zowe CLI Squad - 23PI4 (2023/10/31 - 2023/01/22)
+# Zowe CLI Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
 ## Zowe Keytar Replacement
 Keytar will be removed from VS Code in the August 2023 release. The Zowe CLI squad will work with the Zowe Explorer squad to implement a replacement for keytar in the imperative and Zowe CLI projects.

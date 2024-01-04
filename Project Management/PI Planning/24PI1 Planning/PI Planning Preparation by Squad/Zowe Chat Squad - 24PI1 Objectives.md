@@ -1,4 +1,4 @@
-# Zowe Chat Squad - 23PI3 - (2023/07/25 - 2023/10/23)
+# Zowe Chat Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
 Requires further discussion with the squad, but expectation should be few deliverables.
 
