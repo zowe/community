@@ -57,13 +57,13 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 | Name | GitHub ID | Email | Roles |
 |-|-|-|-|
 | Billie Jean Simmons | @JillieBeanSim | BillieJean.Simmons@ibm.com | Co-Lead, Developer |
-| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Co-Lead, Developer, Security Squad Rep |
+| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Developer, Security Squad Rep |
 | Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
 | Ana X. Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
 | Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer |
 | Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
 | Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | TSC Rep, Developer |
-| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Developer |
+| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Co-Lead |
 | Na Tian (Tina) | @tiantn | tiantn@cn.ibm.com | Developer |
 | Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer |
 | Santhoshi Boyina | @SanthoshiBoyina | santhoshi.boyina1@ibm.com | Developer |
