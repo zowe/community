@@ -1,40 +1,46 @@
 # Zowe CLI Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
-## Zowe Keytar Replacement
-Keytar will be removed from VS Code in the August 2023 release. The Zowe CLI squad will work with the Zowe Explorer squad to implement a replacement for keytar in the imperative and Zowe CLI projects.
-- [x] Bring keytar-rs into the Zowe CLI/imperative repository
-- [ ] Integrate keytar-rs into Zowe CLI and imperative, removing references to the Atom keytar package
-- [ ] Expose APIs/SDK methods to enable use of keytar-rs by extenders and Zowe Explorer
-- [ ] Update documentation to ensure that extenders know what changes (if any) they might need to make in their Zowe CLI plugins
+## V3 Preparation
+Implement planned changes for V3 and continue to publish pre-release versions to npm.
+- [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
+- [ ] [Allow minor/patch versions for Zowe/imperative packages #1968](https://github.com/zowe/zowe-cli/issues/1968)
+- [ ] [Stretch] [v3: Remove validation of RECFM and return z/OSMF error #1699](https://github.com/zowe/zowe-cli/issues/1699)
+- [ ] [Stretch] [zowe --show-inputs-only always reporting zowe version as v1 #1689](https://github.com/zowe/zowe-cli/issues/1689) - Consider functionality in V3
 
-## V3 Pre-release
-Implement planned changes in preparation for the pre-release version of Zowe CLI V3.
-- [ ] [v3: Prepare vNext branch of the zowe-cli repository](https://github.com/zowe/zowe-cli/issues/1702)
-- [ ] [v3: Migrate the @zowe/imperative package to the zowe-cli monorepo](https://github.com/zowe/zowe-cli/issues/1695)
-- [ ] [v3: Remove V1 profile functionality in vNext](https://github.com/zowe/zowe-cli/issues/1703)
-- [ ] [v3: Remove deprecated constants, options, and methods](https://github.com/zowe/zowe-cli/issues/1694)
-- [ ] [Stretch] [v3: Consistent --editor option across CLI commands that can open editor](https://github.com/zowe/imperative/issues/992)
+## Config Usability
+Continue to improve team config robustness and flexibility.
+- [ ] [zowe auth login apiml creates a V1 profile #2005](https://github.com/zowe/zowe-cli/issues/2005)
+- [ ] [When accessing services via APIML, allow users to specify an instance ID #1858](https://github.com/zowe/zowe-cli/issues/1858)
+- [ ] [profInfo.updateProperty(propOpts) updates the default profile instead of the system profile in VSCode Extension #1864](https://github.com/zowe/zowe-cli/issues/1864)
+- [ ] [Dynamic config gathering  #1899](https://github.com/zowe/zowe-cli/issues/1899)
+- [ ] [Stretch] [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
+- [ ] [Stretch] [Add --name-only as an alias for --root in zowe config list command #1797](https://github.com/zowe/zowe-cli/issues/1797)
 
-## Address Items in the CLI and Imperative Backlogs
-Take action in accordance with Community Guidelines to support Zowe CLI users and extenders, resolve defects, and implement beneficial enhancements suggested by members of the Zowe community.
+## Extension Support
+Ensure that extenders have access to the tools they need to interact with team config and secure credential storage.
+- [ ] [Notify extenders when changes to the vault have been made #1987](https://github.com/zowe/zowe-cli/issues/1987)
+- [ ] [Enable extenders to record their use of profiles #1964](https://github.com/zowe/zowe-cli/issues/1964)
+- [ ] [Regenerating schema after plugin install may not include all profile types #1882](https://github.com/zowe/zowe-cli/issues/1882)
 
-CLI Squad Plan:
-#### *Enhancements*
-- [ ] [Support logging in to multiple APIML instances per config file](https://github.com/zowe/zowe-cli/issues/1705)
+## High Priority and Upvoted Defects and Enhancements
+Continue to responsibly address backlog items according to perceived priority and community interest.
+- [ ] [Add an option or environment variable to hide the progress bar #1845](https://github.com/zowe/zowe-cli/issues/1845)
+- [ ] [Fix overrides.CredentialManager:false inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469) - 6 upvotes
+- [ ] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566) - 6 upvotes
+- [ ] [Stretch] [v3: Enhance RestClient to support a key-value object of query parameters #1872](https://github.com/zowe/zowe-cli/issues/1872)
+- [ ] [Stretch] [zos-files - Error in handling GDG-based with relative generation numbering #1768](https://github.com/zowe/zowe-cli/issues/1768)
+- [ ] [Stretch] [files edit commands should support binary and encoding options #1725](https://github.com/zowe/zowe-cli/issues/1725)
 
-#### *Bugs*
-- [ ] [Stretch] [Regression-7.4.1 : download data-set-matching option -d does not preserve upper case](https://github.com/zowe/zowe-cli/issues/1722)
-- [ ] [Stretch] [zowe auth login examples are incorrect](https://github.com/zowe/imperative/issues/998)
-- [ ] [Stretch] [Add instructions to enable prompting for any option](https://github.com/zowe/zowe-cli/issues/1741)
-- [ ] [Stretch] [zowe plugins list registry qualification](https://github.com/zowe/zowe-cli/issues/63)
+## SDK Conformance and LTS status
+Work with the Onboarding Squad and the IntelliJ Explorer Squad to develop Zowe client SDK conformance criteria and ensure that the Node.JS and Python Zowe Client SDKs achieve conformance.
+- [ ] [Stretch] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
 
 ## OpenSSF Best Practices Badge
-This work may carry across 23PI3 and 23PI4:
-- [ ] [Zowe CII Badge items for Zowe CLI](https://github.com/zowe/zowe-cli/issues/1352)
-- [ ] [OpenSSF Best Practices: Publish software architecture description](https://github.com/zowe/zowe-cli/issues/1760)
-- [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements](https://github.com/zowe/zowe-cli/issues/1761)
-- [ ] [OpenSSF Best Practices: Assemble a security assurance case case](https://github.com/zowe/zowe-cli/issues/1762)
-- [ ] [OpenSSF Best Practices: Provide signatures for Zowe.org downloads](https://github.com/zowe/zowe-cli/issues/1763)
+This work may carry across 23PI4 & 24PI1:
+- [ ] [Zowe CII Badge items for Zowe CLI #1352](https://github.com/zowe/zowe-cli/issues/1352)
+- [ ] [OpenSSF Best Practices: Publish software architecture description #1760](https://github.com/zowe/zowe-cli/issues/1760)
+- [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements #1761](https://github.com/zowe/zowe-cli/issues/1761)
+- [ ] [OpenSSF Best Practices: Assemble a security assurance case #1762](https://github.com/zowe/zowe-cli/issues/1762)
   - Update shared Zowe spreadsheet with the latest information on the Zowe CLI project
 
 #### Helpful links for OpenSSF Best Practices Badge criteria:
@@ -44,7 +50,17 @@ This work may carry across 23PI3 and 23PI4:
 
 # Zowe CLI / Zowe SDK Roadmap
 
-## (Carry-over) Gold OpenSSF Best Practices Badge (Formerly CII Best Practices Badge)
+## Ensure that Zowe VS Code Extensions can Share Access to zowe.schema.json with Zowe CLI
+- _What problem are you solving?_
+  - Zowe CLI overwrites team config profile entries contributed by Zowe Explorer extensions, preventing those extensions from being able to properly access profiles from a user's team config.
+- _What are you doing to solve it?_
+  - Schema profile additions will be synchronized in such a way that both VS Code extensions and Zowe CLI plug-ins can contribute to a schema without removing the profiles contributed by the other.
+- _When do you plan to start the work?_
+  - **CY23Q4**
+- _When do you plan to deliver the solution?_
+  - **CY24Q1** 
+
+## Gold OpenSSF Best Practices Badge (Formerly CII Best Practices Badge)
 - _What problem are you solving?_
   - The Zowe Project has not earned the gold OpenSSF Best Practices Badge, a requirement from LF/OMP that ensures the Open Source project satisfies FLOSS (Free/Libre & Open Source Software) [Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
 - _What are you doing to solve it?_
@@ -52,28 +68,7 @@ This work may carry across 23PI3 and 23PI4:
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4** (delayed until **CY23Q3**)
-
-## (Carry-over) Keytar Replacement
-- _What problem are you solving?_
-  - Mainframe customers demand trustworthy storage of secure values in Zowe CLI. With the sunset of the Atom organization (who supplied the Keytar package) and removal of Keytar from VS Code in the August 2023 release, we would require an actively maintained alternative for secure credential storage.
-- _What are you doing to solve it?_
-  - Implement a suitable replacement to the Keytar package with minimal impact to our end users
-- _When do you plan to start the work?_
-  - **CY23Q1**
-- _When do you plan to deliver the solution?_
-  - **CY23Q3** 
-
-## (Carry-over) Zowe CLI on Unix System Services (USS)
-- _What problem are you solving?_
-  - Mainframe customers like to experiment with Zowe without requiring desktop software (i.e. SYSPROGS want to run CLI commands on z/OS) as part of their experimentation or enterprise use with Zowe CLI
-- _What are you doing to solve it?_
-  - Certify and document how to use Zowe CLI on z/OS (USS)
-  - Implement secure credential management, otherwise credentials are in plain-text
-- _When do you plan to start the work?_
-  - **CY23Q1**
-- _When do you plan to deliver the solution?_
-  - **CY23Q4**
+  - **CY22Q4** (delayed until **TBD**)
 
 ## SDK Conformance and LTS Status
 - _What problem are you solving?_
@@ -88,20 +83,4 @@ This work may carry across 23PI3 and 23PI4:
 - _When do you plan to start the work?_
   - **CY23Q2**
 - _When do you plan to deliver the solution?_
-  - **CY23Q4** 
-
-## (Stretch) Zowe Client Mentorship Opportunity: Enhancing the Python SDK
-- _What problem are you solving?_
-  - Consumers of the Python SDK are requesting enhancements, including support for Zowe V2 team configuration files
-- _What are you doing to solve it?_
-  - Leverage the mentorship program to deliver enhancements to the existing SDK
-- _When do you plan to start the work?_
-  - **CY23Q2**
-- _When do you plan to deliver the solution?_
-  - **CY23Q4**
-
-## Postponed Objectives
-For more details, please see the [2023 PI1 Planning Objectives](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI1%20Objectives.md)
-- Zowe App Store Participation
-- In-memory Credential Management & Identity Tokens
-- Zowe CLI Containerization
+  - **CY23Q4** (delayed until CY24Q1)
