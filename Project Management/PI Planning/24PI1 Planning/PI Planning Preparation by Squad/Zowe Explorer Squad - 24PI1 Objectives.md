@@ -5,9 +5,9 @@
 #### Technical Debt
 
 - [Add profiles convert to team config capability  #2284](https://github.com/zowe/vscode-extension-for-zowe/issues/2284)
-- [Replace Gulp 4 with new solution #2253](://github.com/zowe/vscode-extension-for-zowe/issues/2253)
+- [Replace Gulp 4 with new solution #2253](https://github.com/zowe/vscode-extension-for-zowe/issues/2253)
 - [Replace Webpack 4 with newer bundler #2214](https://github.com/zowe/vscode-extension-for-zowe/issues/2214)
-- [Group common methods into Singleton classes #2109](://github.com/zowe/vscode-extension-for-zowe/issues/2109)
+- [Group common methods into Singleton classes #2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
 - [Use vscode.FileSystemProvider for content downloaded from mainframe #2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
 - [Remove code related to Theia support  #2647 - stretch](https://github.com/zowe/vscode-extension-for-zowe/issues/2647)
 
@@ -26,7 +26,7 @@
 - [Forward all extra properties to the SDK calls #2399 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
 - [zowe profiles create zosmf-profile allow specification of --console-name  #1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667) - stretch
 - [distinguish the different JES QUEUEs #2255 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2255)  - stretch
-- [Allow sorting of PDS members by date created #2565 ](://github.com/zowe/vscode-extension-for-zowe/issues/2565) - stretch
+- [Allow sorting of PDS members by date created #2565 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2565) - stretch
 - [sort jobs by timestamp #1685 ](https://github.com/zowe/vscode-extension-for-zowe/issues/1685) - stretch
 
 ### V2 maintenance readiness 
