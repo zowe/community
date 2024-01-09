@@ -1,94 +1,74 @@
 # Zowe Doc Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 
-## Improve server-side installation documentation based on user feedback
+## Reorganize Using section for API Mediation Layer
 
-- Create scenario-based articles by installation method:
-  Document four linear, co-located installations scenarios by method:
-    * Install Zowe via z/OSMF (from PSWI & SMP/E Workflow)
-    * Install Zowe via SMP/E
-    * Install Zowe via Convenience Build
-    * Install Zowe via Container 
-    
-    (Criteria defined in Issue [#2960](https://github.com/zowe/docs-site/issues/2960))
+This objective relates to Issue [#3269](https://github.com/zowe/docs-site/issues/3269) in the docs-stie repo.
 
-- Create a detailed Zowe installation overview article.
-  Elements in this overview to include:
-    * End-to-end install/config flow diagram
-    * Roles & Responsibilities
-    * Zowe Key Terms & Concepts: Zowe runtime, Zowe Application Framework, Zowe API Mediation Layer, Z Secure Services (ZSS), Zowe Cross Memory Server
-    * Technology Needs: YAML, node.js, USS background details
-    * Install Methods Explained
+The proposed structure of this section based on use cases:
 
-    (Criteria defined in Issue [#2961](https://github.com/zowe/docs-site/issues/2961)).
+* Single Sign On 
+	* JWT Token 
+	* Client Certificates 
+	* Personal Access Tokens (Includes the specifically PAT related APIs)	
+* MFA
+* Routing
+	* Routing requests to Rest APIs  
+	* Websocket APIs
+	* GraphQL APIs 
+	* Multi-tenancy routing 
+* Learn more about APIs
+	* Service Information
+	* Try it out + Code Snippets
+* Administration of APIs
+	* Static refresh
+	* Onboarding via Wizard
+* Caching Service
 
-- Create Role-Based Zowe Prereq Articles   
-  Under a parent topic entitled 'Prepare for Installation' (formerly 'System requirements') define the specifc role(s) responsible behind these child topics:
-    * Address z/OS Requirements
-    * Address Security Requirements
-    * Address USS Requirements
-    * Address node.js Requirements
-    * Address Storage Requirements
-    * Address Network Requirements
+## Continue to suppliment the section for Troubleshooting Installation and Configuration 
 
-  This enhancement request comes directly from user feedback received during the Spring 2023 Zowe Server Installation Study. (Criteria defined in Issue [#2962](https://github.com/zowe/docs-site/issues/2962)).
+## Restucture Extending section for API Mediation Layer (_possible stretch_)
 
-- Consolidate and Summarize Security Requirements to one article: Address Security Requirements.
-    * List ALL security needs. For ex: user IDs, classes, resource setup, certs, keyrings, STC, USS permissions, passtickets, MFA, user IDs. 
-    * Note which security reqs that the admin can address before and/or during the installation.
-    * Include diagram showing the full security ecosystem + touch points.
-    * Include links to verify that configuration is complete. Include expected output. 
+This objective relates to Issue [#3270](https://github.com/zowe/docs-site/issues/3270) in the docs-stie repo.
 
-   (Criteria defined in Issue [#2963](https://github.com/zowe/docs-site/issues/2963)). 
+Proposed structure:
 
-## Completion and validation of certificate configuration documentation
+* Onboard service to the API ML
+	* Java
+		* Spring
+		* Micronaut
+		* No Framework (Plain Java)
+		* Shared Config Properties
+	* Node.js
+	* Python
+	* Statically without code changes (Not Recommended)
+* SSO Integration for service
+	* JWT Token
+		* ZAAS Client
+	* SAF IDT Token
+	* x509
+	* Passtickets (Not recommended)
+* Extend API ML
+	* Example: New SAF IDT Provider
 
-Articles in the User Guide section include:
-  * Configuring Certificates 
-  * Certificate configuration scenarios 
-  * Generating and Importing Certificates
-  * Advanced/Enterprise Certificate Configuration
-  * Using Certificates
-
-Also additions to the getting-started section:
-  * Zowe Certificates Overview
-  * High Availability 
-  * Zowe User Authentication
-  * Zowe Security Overview
-
-  **Tasks:**
-  * Perform a review of [Zowe secure setup and configuration](https://docs.zowe.org/stable/getting-started/zowe-secure-setup/).
-  * Draft a chapter for Security Configuration in the user-guide section. 
-  * Include validation steps where possible.
-  * Draft an article 'Troubleshooting installation and configuration' with links to 
-
-  * Begin to explore creation of a migration guide (from v1 to v2)
-
-## Consumer Awareness Section(s)
-Objective: Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
-
-## Zowe Issue Triaging/Handling Guide (stretch)
-
-* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues))
- 
- ## CII Badge standards
+## CII Badge standards
 
 - Identify areas in Zowe CLI and Zowe Explorer documentation that need changes in order to meet  CII Badge standards.
 
 - Develop documentation strategy to make needed modifications.
+  
+## Zowe Issue Triaging/Handling Guide (stretch)
 
-## Zowe CLI authentication mechanisms
-
-- Document order for authentication mechanisms used in Zowe CLI.
+* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues)) 
 
 ## Videos
 
-Goal: Educate users through engaging content format - videos.
+Goal: Educate users through videos.
 
-Create scenario-based demo videos for Zowe certificate configuration.
+* Create scenario-based demo videos for Zowe certificate configuration.
 
-Create scenario-based demo videos for Zowe security configuration.
+* Create scenario-based demo videos for Zowe security configuration.
 
-Create demo videos for Zowe extensions. 
+* Create demo videos for Zowe extensions. 
 
 ## Dependency
 
