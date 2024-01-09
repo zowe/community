@@ -35,7 +35,11 @@ Address the restructuring, additions, and deprecations that apply to Zowe v3.
 
 This relates to objective [#2970](https://github.com/zowe/docs-site/issues/2970) in the docs-site repo. 
 
+Status: We have reviewed content with squads and SMEs to determine the scope of needed changes for V3 documentation. Some work is underway.
+
 ## Assist with Zen wizard doc
+
+Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
 
 ## Restucture Extending section for API Mediation Layer (_possible stretch_)
 
