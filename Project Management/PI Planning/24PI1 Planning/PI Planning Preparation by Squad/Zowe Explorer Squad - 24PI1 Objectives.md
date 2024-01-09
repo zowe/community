@@ -1,122 +1,53 @@
-# Zowe Explorer Squad - 24PI1 - (2024/01/23 - 2024/04/22)
+### V3 GA readiness
 
-## Prepare Zowe Explorer extenders for upcoming v3 breaking changes and new features with v3 pre-releases and documentation.
+#### Technical Debt
 
-### v3 Pre-Release early availability
+- [Add profiles convert to team config capability  #2284](https://github.com/zowe/vscode-extension-for-zowe/issues/2284)
+- [Replace Gulp 4 with new solution #2253](://github.com/zowe/vscode-extension-for-zowe/issues/2253)
+- [Replace Webpack 4 with newer bundler #2214](https://github.com/zowe/vscode-extension-for-zowe/issues/2214)
+- [Group common methods into Singleton classes #2109](://github.com/zowe/vscode-extension-for-zowe/issues/2109)
+- [Use vscode.FileSystemProvider for content downloaded from mainframe #2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
+- [Remove code related to Theia support  #2647 - stretch](https://github.com/zowe/vscode-extension-for-zowe/issues/2647)
 
-- v3 pre-release UX cleanup [#2360](https://github.com/zowe/vscode-extension-for-zowe/issues/2360)
-- Write v3 pre-release blog with updates to users and extenders about breaking changes
-- Decide our Big WOWs for v3 per our [discussion](https://github.com/zowe/vscode-extension-for-zowe/discussions/2391#discussioncomment-6552494)
-- Issue UNIX command capability [#1326](https://github.com/zowe/vscode-extension-for-zowe/issues/1326)
-- [STRETCH] Group common methods into Singleton classes [#2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
-- [STRETCH] Minimize the activate() function to have less chance of failure [#1985](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
+#### Authentication
 
-## Delight users with added functionality to the Jobs tree view, improved error handling, and by improvinging the user experience in regards to authenticating with the API Mediation Layer within the timeframe laid out in the Zowe Explorer roadmap.
+- [Support Certificate Authentication #2621](https://github.com/zowe/vscode-extension-for-zowe/issues/2621)
+- [Provide Client Side z/OSMF Certificate Support Zowe Explorer #2373](https://github.com/zowe/vscode-extension-for-zowe/issues/2373)
+- [Support logging in to multiple APIML instances per config file #2264](https://github.com/zowe/vscode-extension-for-zowe/issues/2264)  - stretch
 
-### Add more functionality to the Jobs tree view
+#### Extenders
 
-- Sort Jobs in Jobs tree [#2257](https://github.com/zowe/vscode-extension-for-zowe/issues/2257)
-- Local filtering of JOBS tree [#2256](https://github.com/zowe/vscode-extension-for-zowe/issues/2256)
-- sort jobs by timestamp [#1685](https://github.com/zowe/vscode-extension-for-zowe/issues/1685)
-- Job Class not accurately reflected in Zowe Explorer [#1951](https://github.com/zowe/vscode-extension-for-zowe/issues/1951)
- 
-### Improve error handling
+- [Add custom schemas provided by extenders to the schema.json file #2508 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2508)
 
-- submitting JCL using command palette and following link causes "cannot set property 'dirty' of undefined" error [#1625](https://github.com/zowe/vscode-extension-for-zowe/issues/1625)
+#### UI
 
-### Improve experience for using API ML sessions in Zowe Explorer
+- [Forward all extra properties to the SDK calls #2399 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
+- [zowe profiles create zosmf-profile allow specification of --console-name  #1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667) - stretch
+- [distinguish the different JES QUEUEs #2255 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2255)  - stretch
+- [Allow sorting of PDS members by date created #2565 ](://github.com/zowe/vscode-extension-for-zowe/issues/2565) - stretch
+- [sort jobs by timestamp #1685 ](https://github.com/zowe/vscode-extension-for-zowe/issues/1685) - stretch
 
-- [STRETCH] Expand session does not prompt for login for APIML profile [#2261](https://github.com/zowe/vscode-extension-for-zowe/issues/2261)
-- [STRETCH] Search operation does not prompt for login for APIML profile [#2259](https://github.com/zowe/vscode-extension-for-zowe/issues/2259)
+### V2 maintenance readiness 
 
-## Address known and incoming high priority issues, interests, and technical debt.
+#### High Severity Fixes
 
-### Zowe Explorer VS Code extension
+- [zftp: Members aren't saved, message "Saving data set..." but nothing happens and never ends. #2499](https://github.com/zowe/vscode-extension-for-zowe/issues/2499)
+- [Remote-SSH: Unable to load profiles on Zowe Explorer #2430 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2430)
+- [Pull from Mainframe is adding extra characters to each record/line #2169 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2169)
+- [Zowe Explorer causes a lot of rg.exe processes in the background #2463 ](https://github.com/zowe/vscode-extension-for-zowe/issues/2463)
+- [Update clipboard-related calls to use a Theia-compatible option #2219](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
+- [When the default profile has apiml token authentication, other profiles inaccessible #2111](https://github.com/zowe/vscode-extension-for-zowe/issues/2111)
 
-#### Keytar shim in VSC removal in Aug release
+#### Authentication
 
-- Keytar Migration Plan [#2348](https://github.com/zowe/vscode-extension-for-zowe/issues/2348)
-- Write blog with updates to users and extenders about new credential manager
+- [Cannot switch from basic auth. to token-based auth. #2590](https://github.com/zowe/vscode-extension-for-zowe/issues/2590)
+- ["Log out of authentication service" and "zowe auth logout apiml" Not working #2544](https://github.com/zowe/vscode-extension-for-zowe/issues/2544)
 
-#### High Priority bugs 
+#### Jobs Tree
 
-- Zowe explorer writes logs into the wrong folder [#1926](https://github.com/zowe/vscode-extension-for-zowe/issues/1926)
-- Update clipboard-related calls to use a Theia-compatible option [#2219](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
-- VSC Compare function, not working with Favorites from Zowe Explorer [#2335](https://github.com/zowe/vscode-extension-for-zowe/issues/2335)
+- [Recent search JOB filter does not work #2562](https://github.com/zowe/vscode-extension-for-zowe/issues/2562)
+- [ZOWE JOB Data does not refresh #2561](https://github.com/zowe/vscode-extension-for-zowe/issues/2561)
 
-#### Enhancements
- 
-- Add properties view for files in USS [#2254](https://github.com/zowe/vscode-extension-for-zowe/issues/2254)
-- [Stretch] Forward all extra properties to the SDK calls [#2399](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
-- [Stretch] zowe profiles create zosmf-profile allow specification of --console-name [#1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
-- [Stretch] Use vscode.FileSystemProvider for content downloaded from mainframe [#2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
+#### DS Allocation 
 
-### zFTP VS Code extension
-
-- Frequently unable to create a new PDS member using the FTP Plugin in VSCode [#2350](https://github.com/zowe/vscode-extension-for-zowe/issues/2350)
-  
-### CICS VS Code extension
-
-- V2: Failed to initialize Credential manager vscode-extension-for-cics [#324](https://github.com/zowe/vscode-extension-for-cics/issues/324)
-- Complete move to [cics-for-zowe-client repository](https://github.com/zowe/cics-for-zowe-client) with CICS CLI plugin to be publish ready.
-
-### Kubernetes Credential Manager Plugin
-
-- Allow Zowe Explorer to install K8s credential manager via user acceptance [#2381](https://github.com/zowe/vscode-extension-for-zowe/issues/2381)
-- Update repository README with installation instructions and use cases [#19](https://github.com/zowe/zowe-cli-secrets-for-kubernetes/issues/19)
-
-### Golden CII Badge
-
-- Make sure internal and external documentation meet the CII Badge standard.
-- Determine what is left and complete the requirements of Passing level of CII badge [#2400](https://github.com/zowe/vscode-extension-for-zowe/issues/2400)
-  
-Helpful links for CII Badge criteria:
-[Passing](https://bestpractices.coreinfrastructure.org/en/criteria/0), 
-[Silver](https://bestpractices.coreinfrastructure.org/en/criteria/1), 
-[Gold](https://bestpractices.coreinfrastructure.org/en/criteria/2)
-
-# Roadmap
-
-## [v3 Pre-Release availability](https://github.com/zowe/vscode-extension-for-zowe/issues/2070)
-
-- *What problem are you solving?*
-  - Extenders will need to be aware of breaking changes in the upcoming major release of 3.0.0.
-- *What are you doing to solve it?*
-  - Publish a pre-release of v3 with documentation of breaking changes so Extenders will be able to begin their adoption early.
-- *When do you plan to start the work?*
-  - Work has already begun from pre-planning in 22Q2 and implementation began in 23Q1.
-- *When do you plan to deliver the solution?*
-  - 23Q3 
-
-## [Add more functionality to the Jobs tree view](https://github.com/zowe/vscode-extension-for-zowe/issues/1597)
-
-- *What problem are you solving?*
-  - Users would like a comparable experience working with JES files, Zowe Explorer doesn't have a lot of functionality in that tree compared to others.
-- *What are you doing to solve it?*
-  - Add more functionality to jobs in the tree, ie. local sorting, filtering, and more.
-- *When do you plan to start the work?*
-  - 23Q1
-- *When do you plan to deliver the solution?*
-  - 23Q4
-
-## [Improve error handling](https://github.com/zowe/vscode-extension-for-zowe/issues/1982)
-
-- *What problem are you solving?*
-  - Users would like error messages returned to be relevant to the error encountered and describe the issue clearly.
-- *What are you doing to solve it?*
-  - Make sure all errors are being handled appropriately and make sure the error message returned is helpful and understandable to the user.
-- *When do you plan to start the work?*
-  - 23Q1
-- *When do you plan to deliver the solution?*
-  - 23Q4
-
-## [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
-
-- *What problem are you solving?*
-  - Many users of Zowe Explorer aren't familiar with or are unaware of authentication methods supported by Zowe Explorer, like token authentication, SSO, & MFA. 
-- *What are you doing to solve it?
-  - For users of the API ML with SSO and MFA, there are enhancements we could make to provide a more first-class experience.
-- *When do you plan to start the work?*
-  - 23Q3
-- *When do you plan to deliver the solution?*
-  - 24Q1
+- [blksz to 0 after an Allocate Like #2610](https://github.com/zowe/vscode-extension-for-zowe/issues/2610) - FYI: We are looking into a solution from the CLI side for this
