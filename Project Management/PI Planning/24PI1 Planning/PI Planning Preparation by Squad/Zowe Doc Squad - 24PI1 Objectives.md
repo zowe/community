@@ -29,6 +29,8 @@ The proposed structure of this section based on use cases:
 This objective relates to issue [#3164](https://github.com/zowe/docs-site/issues/3164) in the docs-site repo.
 This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
 
+PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this section under review.
+
 ## Continue to prepare Zowe Docs for Zowe v3 
 
 Address the restructuring, additions, and deprecations that apply to Zowe v3.
