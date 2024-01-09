@@ -7,29 +7,9 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 ## Infrastructure
 - [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
     * No news to share 
-- [Marist Mainframe - Verify z/OS 2.5 and 3.1](https://github.com/zowe/zowe-install-packaging/issues/3396)
-    * Timeline is expected to be within this PI, exact dates are not set.
 
-## Onboarding
-- [Complete systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
-  * Complete rollover from 23PI2
-    * [zwe command overview](https://github.com/zowe/zowe-install-packaging/issues/3249)
-    * [zwe shell scripts design](https://github.com/zowe/zowe-install-packaging/issues/3250)
-    * [zowe-install-packaging-tools](https://github.com/zowe/zowe-install-packaging/issues/3253)
-    * [shared pipeline libraries, zowe-actions](https://github.com/zowe/zowe-install-packaging/issues/3255)
-    * [build,packaging, and distribution relationships - PAX/SMP/PSWI](https://github.com/zowe/zowe-install-packaging/issues/3256)
-    * [zowe containerization](https://github.com/zowe/zowe-install-packaging/issues/3257)
-    * [secret and account management](https://github.com/zowe/zowe-install-packaging/issues/3258)
-
-## Release and CICD
-- [Artifactory API Key Deprecation](https://github.com/zowe/zowe-install-packaging/issues/3229)
-- [Review Test Cases](https://github.com/zowe/zowe-install-packaging/issues/3519)
-  * Follow-up from TSC call on test 
-## Zen
-- 1.0 Milestone
-  * [Support certificate configuration]()
-  * [Full YAML Editing Mode]()
-  * [Validate security definitions]()
+## Supply Chain Security for Zowe v3.0
+- Refactor license, notice, sbom tooling on ORT
 
 ## Installation / Configuration
 - Continue work on `zwe` install/config improvements and updates
@@ -38,8 +18,14 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
   * Focus: configmgr mode
     * Work should be synced w/ z/OS Squad.
 
-## Supply Chain Security v3.0
-- Begin research on improvements we can make to supply-chain security
+## Community Onboarding
+- [Continue systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
+
+## Release and CICD
+- No work planned
+
+## Zen
+- See App Framework Squad
 
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
@@ -66,7 +52,7 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 - When do you plan to start the work? 
   * ASAP
 - When do you plan to deliver the solution? 
-  * CY23Q4  (External dependency)
+  * CY24??  (External dependency)
   
 ### Use sigstore to sign artifacts
 - What problem are you solving? 
@@ -74,6 +60,6 @@ We have contributors continuing this PI for Zen and zwe install/config updates.
 - What are you doing to solve it?
   * Evaluating how to shift our digitially signed artifacts from opengpg to sigstore, and implementing the change
 - When do you plan to start the work? 
-  * CY23Q2
+  * CY23Q4
 - When do you plan to deliver the solution? 
-  * CY23Q4 (Pushed back 1Q - capacity)
+  * CY24Q1 (Pushed back 1Q - capacity)
