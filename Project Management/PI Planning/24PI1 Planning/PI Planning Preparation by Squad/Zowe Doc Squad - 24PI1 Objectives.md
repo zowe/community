@@ -26,6 +26,17 @@ The proposed structure of this section based on use cases:
 
 ## Continue to suppliment the section for Troubleshooting Installation and Configuration 
 
+This objective relates to issue [#3164](https://github.com/zowe/docs-site/issues/3164) in the docs-site repo.
+This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
+
+## Continue to prepare Zowe Docs for Zowe v3 
+
+Address the restructuring, additions, and deprecations that apply to Zowe v3.
+
+This relates to objective [#2970](https://github.com/zowe/docs-site/issues/2970) in the docs-site repo. 
+
+## Assist with Zen wizard doc
+
 ## Restucture Extending section for API Mediation Layer (_possible stretch_)
 
 This objective relates to Issue [#3270](https://github.com/zowe/docs-site/issues/3270) in the docs-stie repo.
@@ -55,10 +66,10 @@ Proposed structure:
 - Identify areas in Zowe CLI and Zowe Explorer documentation that need changes in order to meet  CII Badge standards.
 
 - Develop documentation strategy to make needed modifications.
-  
-## Zowe Issue Triaging/Handling Guide (stretch)
+   
+## Create content for Breaking Changes section under the new What's New tab
 
-* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues)) 
+Draft content that will assist users with understanding breaking changes between v2 and v3.
 
 ## Videos
 
