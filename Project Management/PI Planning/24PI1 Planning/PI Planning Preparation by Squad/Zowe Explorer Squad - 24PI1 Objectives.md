@@ -1,3 +1,5 @@
+## Zowe Explorer Squad - 24PI1 - (2024/01/30 - 2024/04/22)
+
 ### V3 GA readiness
 
 #### Technical Debt
