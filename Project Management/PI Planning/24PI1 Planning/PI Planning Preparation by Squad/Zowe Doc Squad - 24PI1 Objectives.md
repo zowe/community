@@ -87,10 +87,12 @@ Goal: Educate users through videos.
 
 * Create demo videos for Zowe extensions. 
 
-## Dependency
+## Dependencies
 
-* Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site.
+* Dependency on API ML squad to assist with API ML Use/Extending section restructuring  
 
 * Dependency on demo video input contributors.
 
-* Dependency on the developers who are involved with the legacy issues in doc site repository.
+* Dependency on SMEs for collaboration with v3 readiness.
+
+* Collaboration with Web UI on Zen Wizard doc.
