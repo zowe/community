@@ -3,7 +3,6 @@
 ## V3 Preparation
 Implement planned changes for V3 and continue to publish pre-release versions to npm.
 - [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
-- [ ] [Allow minor/patch versions for Zowe/imperative packages #1968](https://github.com/zowe/zowe-cli/issues/1968)
 - [ ] [Stretch] [v3: Remove validation of RECFM and return z/OSMF error #1699](https://github.com/zowe/zowe-cli/issues/1699)
 - [ ] [Stretch] [zowe --show-inputs-only always reporting zowe version as v1 #1689](https://github.com/zowe/zowe-cli/issues/1689) - Consider functionality in V3
 
