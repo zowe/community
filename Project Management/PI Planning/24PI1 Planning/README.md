@@ -1,23 +1,23 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>23PI4 PI Planning</H1><br>
+            <th colspan="5"><H1>24PI1 PI Planning</H1><br>
 
 Day 1\
-When: Wednesday, October 25, 2023 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/91963435863?password=2da372b1-288a-4a86-a6e1-283d401afb60<br>
+When: Wednesday, January 24, 2024 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/96743700651?password=0ae2fcd8-854f-4ede-b94e-6732a1679eba<br>
 Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
-When: Thursday, October 26, 2023 (UTC-05:00) Eastern Time - New York<br>
+When: Thursday, January 25, 2024 (UTC-05:00) Eastern Time - New York<br>
 Meeting: None. Squads will book breakouts (as needed)<br>
 Meeting Recordings: Squads will manage recordings (if needed)
 <br>
 
 Day 3\
-When: Friday, October 27, 2023 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/95306842444?password=cdcfb975-6943-4f57-a14b-b923322cbdc8<br>
+When: Friday, January 26, 2024 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/97792450807?password=2d9c9272-5e16-4b5f-a81a-a62afba50ab3<br>
 Meeting Recordings: [Day 3]()
 <br>
 
@@ -29,23 +29,23 @@ Innovation Sprint Meeting Recordings
 
 
 Opening Presentations<br>
-[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/Zowe%2023PI4%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
-[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2023PI4%20Objectives.md)<br>
-[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI3%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%2023PI4%20TSC%20Focus.pptx.pdf)<br>
+[Introduction and Agenda](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/Zowe%2024PI1%20Planning%20-%20Introduction%20and%20Agenda.pptx)<br>
+[ZAC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZAC%20-%2024PI1%20Objectives.md)<br>
+[TSC Opening](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20TSC%20-%2024PI1%20Objectives.md)<br>
 
 Squad PI Objectives<br>
-[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2023PI4%20Objectives.md)<br>
-[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2023PI4%20Objectives.md)<br>
-[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2023PI4%20Objectives.md)<br>
-[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2023PI4%20Objectives.md)<br>
-[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2023PI4%20Objectives.md)<br>
-[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2023PI4%20Objectives.md)<br>
-[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2023PI4%20Objectives.md)<br>
-[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2023PI4%20Objectives.md)<br>
-[IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2023PI4%20Objectives.md)<br>
+[Documentation](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Doc%20Squad%20-%2024PI1%20Objectives.md)<br>
+[Explorer](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Explorer%20Squad%20-%2024PI1%20Objectives.md)<br>
+[API-ML and Security](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20API%20ML%20Squad%20-%2024PI1%20Objectives.md)<br>
+[CLI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20CLI%20Squad%20-%2024PI1%20Objectives.md)<br>
+[Systems](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Systems%20Squad%20-%2024PI1%20Objectives.md)<br>
+[WebUI](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Web%20UI%20Squad%20-%2024PI1%20Objectives.md)<br>
+[Onboarding](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Onboarding%20Squad%20-%2024PI1%20Objectives.md)<br>
+[zOS](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20ZOS%20Squad%20-%2024PI1%20Objectives.md)<br>
+[IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2024PI1%20Objectives.md)<br>
 
 Workgroup Updates<br>
-[Event Management Workgroup]()
+[Event Management Workgroup](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Event%20Management%20Squad%20-%2024PI1%20Objectives.md)
 
 </th>
         </tr>
@@ -69,7 +69,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -77,7 +77,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
@@ -85,7 +85,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td></td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -93,7 +93,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -119,7 +119,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -127,7 +127,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Squad Breakouts</td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -141,7 +141,7 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-10-25</td>
+                <td>2024-01-24</td>
                 <td>11:05 AM</td>
 <td>
 
@@ -163,7 +163,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-10-25</td>
+                <td>2024-01-24</td>
                 <td>12:00 PM</td>
 <td>
 
@@ -180,7 +180,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-10-25</td>
+                <td>2024-01-24</td>
                 <td>1:00 PM</td>
 <td>
 
@@ -196,7 +196,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2023-10-25</td>
+                <td>2024-01-24</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -210,7 +210,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td></td>
-            <td>2023-10-25</td>
+            <td>2024-01-24</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -235,7 +235,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Breakouts (Optional)</td>
-            <td>2023-10-26</td>
+            <td>2024-01-25</td>
             <td>8:00 AM</td>
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
@@ -244,7 +244,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2023-10-26</td>
+                <td>2024-01-25</td>
                 <td>8:00 AM</td>
 <td>
 
@@ -260,7 +260,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2023-10-26</td>
+                <td>2024-01-25</td>
                 <td>11:00 AM</td>
 <td>
 
@@ -287,7 +287,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -295,7 +295,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>9:15 AM</td>
 <td>
 
@@ -320,7 +320,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -328,7 +328,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>11:15 AM</td>
             <td>10 mins</td>
             <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -336,7 +336,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Closing Comments </td>
@@ -344,14 +344,14 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Day 3 End</td>
     <tbody>
         <tr>
             <td></td>
-            <td>2023-10-27</td>
+            <td>2024-01-26</td>
             <td>11:30 AM</td>
             <td></td>
             <td></td>
@@ -371,5 +371,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 
 [Closing Comments]()<br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/23PI4%20Planning/Zowe_23PI4_Confidence_Vote.png)<br>
+[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/Zowe_24PI1_Confidence_Vote.png)<br>
 
