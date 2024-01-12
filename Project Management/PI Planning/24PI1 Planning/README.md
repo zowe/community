@@ -45,7 +45,7 @@ Squad PI Objectives<br>
 [IntelliJ](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20IntelliJ%20Squad%20-%2024PI1%20Objectives.md)<br>
 
 Workgroup Updates<br>
-[Event Management Workgroup](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Event%20Management%20Squad%20-%2024PI1%20Objectives.md)
+[Event Management Workgroup](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/PI%20Planning%20Preparation%20by%20Squad/Zowe%20Event%20Management%20-%2024PI1%20Objectives.md)
 
 </th>
         </tr>
