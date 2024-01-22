@@ -252,6 +252,10 @@ Squad Breakout
 - Zowe IntelliJ Squad
     - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
 
+- API ML Squad
+    - Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/96263739034?password=984cd8c8-b509-4885-8a0a-87486695fd5a<br>
+    
+
 </td>
                 <td></td>
     </tbody>
