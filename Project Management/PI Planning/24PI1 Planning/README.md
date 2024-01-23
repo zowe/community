@@ -268,10 +268,6 @@ Squad Breakout
 - Zowe Systems Squad<br>
 - LFX Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94763882669?password=a9debc28-7174-4a40-979f-262ccdcefa73<br>
 
-Squad Breakout
-- Zowe Explorer Squad
-    - Zoom/Webex Link: [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/96454909352?password=18589c9e-318d-4ce0-a820-28cff2d03a62)<br>
-
 </td>
                 <td></td>
     </tbody>
