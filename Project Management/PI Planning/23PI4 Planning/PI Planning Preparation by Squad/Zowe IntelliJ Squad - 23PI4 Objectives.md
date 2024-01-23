@@ -1,43 +1,20 @@
-# Zowe IntelliJ Squad - 23PI3  - (August 2023 - October 2023)
+# Zowe IntelliJ Squad - 23PI4 - (October 2023 - January 2024)
 
 ## Zowe Explorer plug-in for IntelliJ IDEA
 
-### Zowe Explorer plug-in for IntelliJ IDEA - become a core component
+### Zowe Explorer plug-in for IntelliJ IDEA - preparing to become a core component (v2 version of the plug-in)
 - _What problem are you solving?_
-    - The plug-in is already in a LTS state, the squad is already a GA squad, so it is the time to become a core component in the nearest future
+    - The plug-in is already in a LTS state, the squad is already a GA squad, so it is the time to become a core component in the Zowe v3 release
 - _What are you doing to solve it?_
-    - Define and meet the requirements for the plug-in to become a core component
+    - Meet the requirements for the plug-in to become a core component, define the breaking changes, move to Zowe Client Kotlin SDK GA version 
 - _When do you plan to start the work?_
     - **22Q4**
 - _When do you plan to deliver the solution?_
-    - **23Q3**
-
-### Zowe Explorer plug-in for IntelliJ IDEA v1.1.0 release
-- _What problem are you solving?_
-    - There are a plenty of features to introduce in the new minor version of the plug-in:
-        - Virtual files synchronization process rework
-        - “whoami” command before a connection is created
-        - Change password feature (z/OS 2.5 and later)
-        - “Edit” option instead of “Rename” for dataset and USS masks
-        - “Duplicate” option for a dataset member
-        - Dataset presets
-        - Defaults for a dataset allocation dialog window
-        - Hint after a connection is created
-        - Dataset organization options clarification
-        - Doubleclick for connection and working sets in Settings
-        - “No items found” for dataset and USS masks
-        - Full logging coverage
-        - Code coverage with tests increase
-- _What are you doing to solve it?_
-    - Prepare, test and release the new version of the plug-in
-- _When do you plan to start the work?_
-    - **23Q1**
-- _When do you plan to deliver the solution?_
-    - **23Q3**
+    - **24Q1**
  
-### Zowe Explorer plug-in for IntelliJ IDEA v1.1.1 and v1.1.2 release
+### Zowe Explorer plug-in for IntelliJ IDEA v1.1.1, v1.1.2 and v1.1.3 releases
 - _What problem are you solving?_
-    - After the next minor version of the plug-in is released, we are expecting some new bugs to arise
+    - After the next minor version of the plug-in is released, there are some new bugs arose
 - _What are you doing to solve it?_
     - Together with some old ones, fix new bugs after v1.1.0 release
 - _When do you plan to start the work?_
@@ -47,9 +24,9 @@
  
 ### Feature to use API ML in Zowe Explorer plug-in for IntelliJ IDEA
 - _What problem are you solving?_
-    - We've discovered some ways to work with the API ML, but we don't have prepared structure to work with it in our plug-in
+    - We've discovered some ways to work with the API ML, but the plug-in is missing some structure to work with it
 - _What are you doing to solve it?_
-    - Investigate, how to introduce possibility to work with a mainframe using API ML
+    - Investigate, how to introduce possibility to work with a mainframe using API Mediation Layer
 - _When do you plan to start the work?_
     - **22Q4**
 - _When do you plan to deliver the solution?_
@@ -62,6 +39,18 @@
     - Cover the code with autotests for at least 50% coverage
 - _When do you plan to start the work?_
     - **22Q3**
+- _When do you plan to deliver the solution?_
+    - **23Q4**
+
+## Zowe Client Kotlin SDK
+
+### Zowe Client Kotlins SDK release v0.5.0 - propose as the GA solution
+- _What problem are you solving?_
+    - The SDK needs to move to the GA stage with all the essentials ready to be used as the stable features
+- _What are you doing to solve it?_
+    - Prepare the final structure of the SDK, introduce the only correct way to use the SDK
+- _When do you plan to start the work?_
+    - **23Q3**
 - _When do you plan to deliver the solution?_
     - **23Q4**
 
@@ -80,9 +69,9 @@
 - _When do you plan to deliver the solution?_
     - **23Q4**
 
-### Migration to LSP since IntelliJ IDEA v2023.2
+### Introduce LSP support since IntelliJ IDEA v2023.2
 - _What problem are you solving?_
-    - Starting from IntelliJ IDEA v2023.2, JetBrains team announced that there will be LSP support. We need to switch up to the LSP instead of defining our own ANTLR/PSI logics in the code highlighting plug-ins
+    - Starting from IntelliJ IDEA v2023.2, JetBrains team announced that there will be LSP support. We need to start using it in the plug-in instead of our own ANTLR/PSI logics in the code highlighting plug-ins
 - _What are you doing to solve it?_
     - Investigate and implement a new version of the Zowe JCL plug-in for IntelliJ IDEA with LSP support
 - _When do you plan to start the work?_
@@ -100,20 +89,29 @@
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **23Q3**
-
-## Zowe CICS plug-in for IntelliJ IDEA
-
-### CICS Plugin MVP - basic interactions + tree for CICS resources
+    - **23Q4**
+ 
+### Increase code coverage up to 60%
 - _What problem are you solving?_
-    - As an IntelliJ Platform user, I want to have access to CICS resources and to be able to work with them through the
-IntelliJ IDEA IDEs
+    - The codebase of the plug-in is instantly growing, as well as the code coverage of it. The unit tests that cover our code should be increased before being in the GA stage
 - _What are you doing to solve it?_
-    - Set up the environment to work with CICS, implement the new plugin as an extension to the Zowe Explorer plug-in for IntelliJ IDEA, implement a connection to the CICS through CMCI API, implement tree view of the CICS resources
+    - Increase code coverage on the existing functions up to at least 60%
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
     - **23Q4**
+
+## Zowe CICS plug-in for IntelliJ IDEA
+
+### CICS Plugin MVP - continue to develop basic interactions
+- _What problem are you solving?_
+    - As an IntelliJ Platform user, I want to have access to CICS resources and to be able to work with them through the IntelliJ IDEA IDEs
+- _What are you doing to solve it?_
+    - Set up the environment to work with CICS, implement the new plugin as an extension to the Zowe Explorer plug-in for IntelliJ IDEA, implement a connection to the CICS through CMCI API
+- _When do you plan to start the work?_
+    - **23Q1**
+- _When do you plan to deliver the solution?_
+    - **24Q1**
 
 ## UI plug-in for Jenkins in IntelliJ IDEA IDEs
 
@@ -125,9 +123,10 @@ IntelliJ IDEA IDEs
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **24Q1**
+    - **24Q3**
 
 ## COBOL language support in IntelliJ IDEA
+
 ### COBOL plug-in MVP
 - _What problem are you solving?_
     - There is no COBOL language support plug-in in IntelliJ yet
@@ -136,4 +135,4 @@ IntelliJ IDEA IDEs
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **23Q4**
+    - **24Q2**
