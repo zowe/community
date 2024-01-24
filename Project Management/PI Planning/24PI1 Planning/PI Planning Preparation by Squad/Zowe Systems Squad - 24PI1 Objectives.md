@@ -23,9 +23,6 @@ The primary goals for the system squad this PI continue - maintaining release op
 ### Zen
 - See App Framework Squad
 
-## Issue Triage
-- Continue reviewing issues in the backlog and prioritizing them.
-
 ### Dependencies, Risks
 - No dependencies on other teams this PI. 
 - No newly identified risks.
