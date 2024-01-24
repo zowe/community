@@ -3,12 +3,22 @@
 
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The intention is for the SCG to fully replace the existing gateway with the release of V3.  
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. 
+
+The intention is for Spring Cloud Gateway to be available with 3.0 and to become default during the V3 release stream for those coming to later versions, once we have enough testing to prove it handles everything at least to the same level. 
 
 Impact on other Zowe components: POSSIBLE
 
-API ML Squad Plan:  
+**API ML Squad Plan:**
+
 [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
+- [Protect endpoints with SAF, Security Admin, To limit access to the information  #3165](https://github.com/zowe/api-layer/issues/3165)
+- [Provide the list of available services, Michelle, To simplify the CLI configuration #3109](https://github.com/zowe/api-layer/issues/3109)
+- [SCG supports AT-TLS, Tyler, To unify configuration with other z/OS products #3282](https://github.com/zowe/api-layer/issues/3282)
+- [SCG properly routes websockets, Michelle, To limit communication for long running connection #3088](https://github.com/zowe/api-layer/issues/3088)
+- [Clean up the current API Gateway, API ML Engineer, To serve only as authentication service #3110](https://github.com/zowe/api-layer/issues/3110)
+- [SCG provides health information, Tyler and Michelle, To integrate into automation #3111](https://github.com/zowe/api-layer/issues/3111)
+- [Validate SCG provides all the previous functionality, API ML Developer, To prove we can move #3112](https://github.com/zowe/api-layer/issues/3112)
 
 ## Improve logging for the API ML #1796
 
@@ -24,29 +34,15 @@ Impact on other Zowe components: NONE
 
 **API ML Squad plan:**  
 
-[Unify and differentiate logging between platforms. #1181](https://github.com/zowe/api-layer/issues/1181) 
-- [Validation of certificate between DS#2913](https://github.com/zowe/api-layer/issues/2913)  
-- [Fix log message about change password](https://github.com/zowe/api-layer/issues/2912)  
-- [Log meaningful messages when debugging API ML #2892](https://github.com/zowe/api-layer/issues/2892)
-- [Improve logging about Keyring / keystore #2971](https://github.com/zowe/api-layer/issues/2971)
-- [Improve logging about eureka communication #2973](https://github.com/zowe/api-layer/issues/2973)
-- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/2822)       
-- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
+[Improve logging relate to the API ML #3283](https://github.com/zowe/api-layer/issues/3283)
+- [Log Errors and Stop, Tyler, To limit resource consumption #3284](https://github.com/zowe/api-layer/issues/3284)
+- [Warn when something is wrong, Tyler, Update Configuration #3285](https://github.com/zowe/api-layer/issues/3285)
+- [Log only successful startup, Tyler, Validate Zowe is Up #3286](https://github.com/zowe/api-layer/issues/3286)
+- [Improve debug logs and sharing of them, Support Provider, To help understand and replicate #3287](https://github.com/zowe/api-layer/issues/3287)
 
-# Stretch
+# Bugs to be fixed
 
-## Multiple services within infrastructure #3129
-
-Zowe will improve the experience for users that have many instances of one service with different purposes. 
-
-**Use Case**
-- As a service provider, I have an infrastructure that contains different customers running different services in different versions, and I want to have a meaningful view of the APIs in the Catalog.
-- As a larger z/OS user, I have multiple instances of the service that is intended for different purposes e.g. dev, test and production on the same set of the LPARs e.g. using the same Zowe
-- As a larger z/OS user, I have services that are specific for specific LPARs e.g. Sysview running on specific LPAR and I need to access the specific LPAR
-
-Impact on other Zowe components: CLI, VS Code Explorer, Intellij Explorer
-
-[Multiple services/instances of one product within infrastructure ](https://github.com/zowe/api-layer/issues/3129)
+- [High Priority Bugs](https://github.com/zowe/api-layer/issues?q=is%3Aopen+is%3Aissue+label%3Abug+label%3A%22Priority%3A+High%22)
 
 # Roadmap
 
@@ -71,6 +67,17 @@ Impact on other Zowe components: CLI, VS Code Explorer, Intellij Explorer
   - 24PI1
 - When do you plan to deliver the solution?
   - 24PI1
+
+### Multiple services within infrastructure
+
+- What problem are you solving?
+  - It's unclear how do you handle services on different lpars that are lpar specific as well as how do you handle the different maturity level of service instances e.g. dev, qa, prod in sysplex
+- What are you doing to solve it?
+  - Change the implementation to clearly distinguish between the concept of lpar and maturity and simplify what clients can do to use that fact
+- When do you plan to start the work?
+  - 24PI2
+- When do you plan to deliver the solution?
+  - 24PI2
 
 ### Improve testing
 
