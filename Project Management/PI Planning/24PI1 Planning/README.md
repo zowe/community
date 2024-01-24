@@ -183,7 +183,7 @@ Squad Breakout
 
 Squad Breakout
 - WebUI Squad
-    - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+    - Zoom/Webex Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/98395552666?password=32ec80b2-f30c-4f7e-8228-63aad8285f4e<br>
 <br>
 
 </td>
