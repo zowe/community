@@ -11,6 +11,7 @@
 - PILOT the use of GITHUB DISCUSSIONS as a means to collect feedback on where Zowe users are struggling
 
 ## (2) Goal:  Community Growth: Prepare for new and next rev Conformance programs  
+- Launch v3 conformance program (communicate early submission plan) for day-1 conformance
 - Launch NEW conformance programs:  SDK, Explorer for Intelli J
 - Host & Post V3 Office Hours for Consumers
 
