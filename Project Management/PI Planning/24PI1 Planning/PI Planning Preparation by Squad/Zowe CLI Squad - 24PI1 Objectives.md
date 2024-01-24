@@ -23,19 +23,16 @@ Ensure that extenders have access to the tools they need to interact with team c
 
 ## High Priority and Upvoted Defects and Enhancements
 Continue to responsibly address backlog items according to perceived priority and community interest.
-- [ ] [Add an option or environment variable to hide the progress bar #1845](https://github.com/zowe/zowe-cli/issues/1845)
-- [ ] [Fix overrides.CredentialManager:false inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469) - 6 upvotes
-- [ ] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566) - 6 upvotes
+- [ ] [Stretch] [Fix overrides.CredentialManager:false inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
+- [ ] [Stretch] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
 - [ ] [Stretch] [v3: Enhance RestClient to support a key-value object of query parameters #1872](https://github.com/zowe/zowe-cli/issues/1872)
-- [ ] [Stretch] [zos-files - Error in handling GDG-based with relative generation numbering #1768](https://github.com/zowe/zowe-cli/issues/1768)
-- [ ] [Stretch] [files edit commands should support binary and encoding options #1725](https://github.com/zowe/zowe-cli/issues/1725)
 
 ## SDK Conformance and LTS status
 Work with the Onboarding Squad and the IntelliJ Explorer Squad to develop Zowe client SDK conformance criteria and ensure that the Node.JS and Python Zowe Client SDKs achieve conformance.
 - [ ] [Stretch] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
 
 ## OpenSSF Best Practices Badge
-This work may carry across 23PI4 & 24PI1:
+Support the ongoing Zowe OpenSSF Best Practices audit process.
 - [ ] [Zowe CII Badge items for Zowe CLI #1352](https://github.com/zowe/zowe-cli/issues/1352)
 - [ ] [OpenSSF Best Practices: Publish software architecture description #1760](https://github.com/zowe/zowe-cli/issues/1760)
 - [ ] [OpenSSF Best Practices: Determine and publish Zowe CLI security requirements #1761](https://github.com/zowe/zowe-cli/issues/1761)
@@ -63,11 +60,13 @@ This work may carry across 23PI4 & 24PI1:
 - _What problem are you solving?_
   - The Zowe Project has not earned the gold OpenSSF Best Practices Badge, a requirement from LF/OMP that ensures the Open Source project satisfies FLOSS (Free/Libre & Open Source Software) [Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
 - _What are you doing to solve it?_
-  - Review requirements and take necessary actions to satisfy them for the gold badge level
+  - Review requirements and take necessary actions to satisfy them for the gold badge level 
 - _When do you plan to start the work?_
   - **CY22Q3**
 - _When do you plan to deliver the solution?_
-  - **CY22Q4** (delayed until **TBD**)
+  - **CY24Q1** Achieve Passing Badge
+  - **CY24Q4** Achieve Silver Badge
+  - **CY25Q4** Achieve Gold Badge
 
 ## SDK Conformance and LTS Status
 - _What problem are you solving?_
@@ -77,9 +76,9 @@ This work may carry across 23PI4 & 24PI1:
     - New Services (like CICS SDK)
     - New Programming languages (like Kotlin SDK)
   - Prepare the SDKs technically and logistically for conformance
-  - Apply for (and achieve) conformance for existing SDKs
-  - Release the SDKs as LTS
+  - Determine if existing SDKs are conformant and communicate conformance gaps for prioritization
+  - Release the Zowe Client Node.js SDK as LTS
 - _When do you plan to start the work?_
   - **CY23Q2**
 - _When do you plan to deliver the solution?_
-  - **CY23Q4** (delayed until CY24Q1)
+  - **CY23Q4** (delayed until CY24Q2)
