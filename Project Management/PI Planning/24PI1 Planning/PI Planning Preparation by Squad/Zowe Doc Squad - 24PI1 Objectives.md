@@ -35,11 +35,13 @@ PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this sec
 
 Address the restructuring, additions, and deprecations that apply to Zowe v3.
 
-This relates to objective [#2970](https://github.com/zowe/docs-site/issues/2970) in the docs-site repo. 
+This relates to objectives [#3371](https://github.com/zowe/docs-site/issues/3371) and  [#2970](https://github.com/zowe/docs-site/issues/2970) in the docs-site repo. 
 
-Status: We have reviewed content with squads and SMEs to determine the scope of needed changes for V3 documentation. Some work is underway.
+Status: We have reviewed content with squads and SMEs to determine the scope of needed changes for V3 documentation. Articles have been labeled according to their readiness and writers are working with their respective squads to apply changes as needed.
 
-## Assist with Zen wizard doc
+## Assist with Zen wizard doc 
+
+This relates to issue [#3396](https://github.com/zowe/docs-site/issues/3396)
 
 Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
 
