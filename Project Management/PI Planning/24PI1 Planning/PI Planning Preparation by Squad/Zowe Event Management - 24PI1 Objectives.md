@@ -26,9 +26,9 @@ End-to-end Zowe Event Management solving a simple use case - end-of-job notifica
 
 ### Technical Preview 1 (Epic)
 - What problem are you solving? 
-  * <To be filled out>
+  * Letting users try out the technology so they can understand the value and provide us with feedback.
 - What are you doing to solve it?
-  * <To be filled out>
+  * Creating a minimum viable technical preview which customers can quickly setup in dev or test environments.
 - When do you plan to start the work? 
   * 24Q1
 - When do you plan to deliver the solution? 
