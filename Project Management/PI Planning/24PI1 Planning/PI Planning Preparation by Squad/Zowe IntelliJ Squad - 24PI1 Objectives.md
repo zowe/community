@@ -12,7 +12,7 @@
 - _When do you plan to deliver the solution?_
     - **24Q1**
 
-### Zowe Explorer plug-in for IntelliJ IDEA v1.1.2 release
+### Zowe Explorer plug-in for IntelliJ IDEA v1.1.3 release
 - _What problem are you solving?_
     - There is an intention to support the plug-in on 2022.x versions of IntelliJ IDEs, releasing patch version of the plug-in for the v1 of the plug-in
 - _What are you doing to solve it?_
