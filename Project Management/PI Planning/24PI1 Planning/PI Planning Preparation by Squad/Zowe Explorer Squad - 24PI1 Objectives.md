@@ -5,11 +5,11 @@
 #### Technical Debt
 
 - [Add profiles convert to team config capability  #2284](https://github.com/zowe/vscode-extension-for-zowe/issues/2284)
-- [Replace Gulp 4 with new solution #2253](https://github.com/zowe/vscode-extension-for-zowe/issues/2253)
 - [Replace Webpack 4 with newer bundler #2214](https://github.com/zowe/vscode-extension-for-zowe/issues/2214)
 - [Group common methods into Singleton classes #2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
 - [Use vscode.FileSystemProvider for content downloaded from mainframe #2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
 - [Remove code related to Theia support  #2647](https://github.com/zowe/vscode-extension-for-zowe/issues/2647) - stretch
+- ~[Replace Gulp 4 with new solution #2253](https://github.com/zowe/vscode-extension-for-zowe/issues/2253)~ completed
 
 #### Authentication
 
