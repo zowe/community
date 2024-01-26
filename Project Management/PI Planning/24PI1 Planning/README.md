@@ -145,10 +145,6 @@ Squad vision<br>
                 <td>11:05 AM</td>
 <td>
 
-Squad Breakout
-- Zowe Explorer Squad
-    - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
-
 - API ML Squad
     - Zoom Link: https://zoom.us/j/98404818292<br>
 
@@ -169,7 +165,7 @@ Squad Breakout
 
 Squad Breakout
 - Zowe CLI Squad
-    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
+    - Zoom/Webex Link:  [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99544067878?password=537d0836-2a4f-4d90-bdc3-909073ecee5c) <br>
 
 - Zowe Onboarding Squad
     - Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
@@ -187,7 +183,7 @@ Squad Breakout
 
 Squad Breakout
 - WebUI Squad
-    - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+    - Zoom/Webex Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/98395552666?password=32ec80b2-f30c-4f7e-8228-63aad8285f4e<br>
 <br>
 
 </td>
@@ -252,6 +248,10 @@ Squad Breakout
 - Zowe IntelliJ Squad
     - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
 
+- API ML Squad
+    - Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/96263739034?password=984cd8c8-b509-4885-8a0a-87486695fd5a<br>
+    
+
 </td>
                 <td></td>
     </tbody>
@@ -268,12 +268,24 @@ Squad Breakout
 - Zowe Systems Squad<br>
 - LFX Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94763882669?password=a9debc28-7174-4a40-979f-262ccdcefa73<br>
 
-
 </td>
                 <td></td>
     </tbody>
 
+<tbody>
+            <tr>
+                <td>Squad Breakout</td>
+                <td>2024-01-25</td>
+                <td>1:00 PM</td>
+<td>
 
+Squad Breakout
+- Zowe Explorer Squad
+    - Zoom/Webex Link: [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/96454909352?password=18589c9e-318d-4ce0-a820-28cff2d03a62)<br>
+
+</td>
+                <td></td>
+    </tbody>
 
 </tbody>
     <tbody>

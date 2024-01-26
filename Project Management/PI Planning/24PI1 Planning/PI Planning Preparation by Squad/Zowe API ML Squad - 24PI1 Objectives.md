@@ -1,42 +1,41 @@
 # Zowe API ML Squad - 24PI1 - (2024/01/23 - 2024/04/22)
-(August 2023 to October 2023)
+(January 2024 to April 2024)
 
+## Cleanup for V3
 
-## API ML in multi-domain / multi-tenant deployments #2651
+Cleanup for version 3
 
-As a Mainframe user, I want to be able to be correctly routed to the relevant sysplex based on the type of request and also get the information about the existing and available Sysplexes. I also want to be able to synchronize users between distributed Identity providers and ESMs.  
+**API ML Squad Plan:**
 
-Impact on other Zowe components: NONE 
-
-API ML Squad Plan:  
-[Identity Federation #2481](https://github.com/zowe/api-layer/issues/2481)  
-[Multi-tenancy APIML Deployments #2651](https://github.com/zowe/api-layer/issues/2651) 
-- [Register API service to multiple different API ML clusters](https://github.com/zowe/api-layer/issues/2425)  
-- [API ML validates distributed access tokens](https://github.com/zowe/api-layer/issues/2658)
-- [Central API ML registry](https://github.com/zowe/api-layer/issues/2883)
-- [Central API ML GW routing](https://github.com/zowe/api-layer/issues/2884)
-- [Authentication with Certificate from header](https://github.com/zowe/api-layer/issues/2885)
-- [Central GW services endpoint](https://github.com/zowe/api-layer/issues/2886) 
-
+- [Archive Jobs API](https://github.com/zowe/jobs/issues/246) (Remove from Pax, Update documentation)
+- [Archive Datasets API](https://github.com/zowe/data-sets/issues/310) (Remove from PAX, Update Documentation)
+- [Archive Metrics Service](https://github.com/zowe/api-layer/issues/3292) (Remove from PAX, Update Documentation)
+- [Remove JWT Autoconfiguration support](https://github.com/zowe/api-layer/issues/3090)
+- [Move to the ibmzosmf](https://github.com/zowe/api-layer/issues/3295)
 
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
-Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. The intention is for the SCG to fully replace the existing gateway with the release of V3.  
+Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. 
+
+The intention is for Spring Cloud Gateway to be available with 3.0 and to become default during the V3 release stream for those coming to later versions, once we have enough testing to prove it handles everything at least to the same level. 
 
 Impact on other Zowe components: POSSIBLE
 
-API ML Squad Plan:  
+**API ML Squad Plan:**
+
 [Build Spring Cloud Gateway as a replacement for the current Gateway #2029](https://github.com/zowe/api-layer/issues/2029)
-- [Refactor and review RouteLocator class #3000](https://github.com/zowe/api-layer/issues/3000)  
-- [Create ZAAS controller to handle login #3001](https://github.com/zowe/api-layer/issues/3001)
-- [Enable z/OSMF authentication scheme in SCG #3002](https://github.com/zowe/api-layer/issues/3002)
-- [Enable SAF IDT authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3003) 
-- [Enable zoweJwt authentication scheme in SCG #2394](https://github.com/zowe/api-layer/issues/3004) 
+- [Protect endpoints with SAF, Security Admin, To limit access to the information  #3165](https://github.com/zowe/api-layer/issues/3165)
+- [Provide the list of available services, Michelle, To simplify the CLI configuration #3109](https://github.com/zowe/api-layer/issues/3109)
+- [SCG supports AT-TLS, Tyler, To unify configuration with other z/OS products #3282](https://github.com/zowe/api-layer/issues/3282)
+- [SCG properly routes websockets, Michelle, To limit communication for long running connection #3088](https://github.com/zowe/api-layer/issues/3088)
+- [Clean up the current API Gateway, API ML Engineer, To serve only as authentication service #3110](https://github.com/zowe/api-layer/issues/3110)
+- [SCG provides health information, Tyler and Michelle, To integrate into automation #3111](https://github.com/zowe/api-layer/issues/3111)
+- [Validate SCG provides all the previous functionality, API ML Developer, To prove we can move #3112](https://github.com/zowe/api-layer/issues/3112)
+- [Authentication endpoint remain accessible through Gateway, Michelle, To Limit Change between versions
+#3291](https://github.com/zowe/api-layer/issues/3291)
+- [Limit access to internal service, API ML Engineer, To be able to evolve them as needed #3294](https://github.com/zowe/api-layer/issues/3294)
 
-
-# Stretch
-
-## Improve logging for the API ML #1796
+## {Stretch} Improve logging for the API ML #1796
 
 Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.  
 
@@ -50,38 +49,17 @@ Impact on other Zowe components: NONE
 
 **API ML Squad plan:**  
 
-[Unify and differentiate logging between platforms. #1181](https://github.com/zowe/api-layer/issues/1181) 
-- [Validation of certificate between DS#2913](https://github.com/zowe/api-layer/issues/2913)  
-- [Fix log message about change password](https://github.com/zowe/api-layer/issues/2912)  
-- [Log meaningful messages when debugging API ML #2892](https://github.com/zowe/api-layer/issues/2892)
-- [Improve logging about Keyring / keystore #2971](https://github.com/zowe/api-layer/issues/2971)
-- [Improve logging about eureka communication #2973](https://github.com/zowe/api-layer/issues/2973)
-- [All APIML services freeze during startup when unable to access a private key from a key ring](https://github.com/zowe/api-layer/issues/2822)       
-- [The missleading warning message in Gateway](https://github.com/zowe/api-layer/issues/2824)
+[Improve logging relate to the API ML #3283](https://github.com/zowe/api-layer/issues/3283)
+- [Log Errors and Stop, Tyler, To limit resource consumption #3284](https://github.com/zowe/api-layer/issues/3284)
+- [Warn when something is wrong, Tyler, Update Configuration #3285](https://github.com/zowe/api-layer/issues/3285)
+- [Log only successful startup, Tyler, Validate Zowe is Up #3286](https://github.com/zowe/api-layer/issues/3286)
+- [Improve debug logs and sharing of them, Support Provider, To help understand and replicate #3287](https://github.com/zowe/api-layer/issues/3287)
 
-## Roadmap
+# Bugs to be fixed
 
-### Multi-Tenancy API ML Deployments
+- [High Priority Bugs](https://github.com/zowe/api-layer/issues?q=is%3Aopen+is%3Aissue+label%3Abug+label%3A%22Priority%3A+High%22)
 
-- What problem are you solving?
-  - Authenticating Zowe users across Sysplex and security domains 
-- What are you doing to solve it?
-  - Route users to the relevant sysplex based on the type of request and retrieve data on existing and available Sysplexes
-- When do you plan to start the work?
-  - 23PI3
-- When do you plan to deliver the solution?
-  - 23PI3
-
-### API Catalog UI enhancements and templating
-
-- What problem are you solving?
-  - Adopters want to have easy access to the available APIs and easily find what they need. This includes their own internal APIs.
-- What are you doing to solve it?
-  - Update API Catalog, simplify deployment and support wider amount of ways to show the information about APIs
-- When do you plan to start the work?
-  - 22PI4
-- When do you plan to deliver the solution?
-  - 23PI3
+# Roadmap
 
 ### Build Spring Cloud Gateway proxy as a replacement for the current Gateway
 
@@ -92,29 +70,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI1
 - When do you plan to deliver the solution?
-  - 23PI4
-
-### V3 Support Java 17
-
-- What problem are you solving?
-  - API ML depends heavily on the spring framework. Spring 6 drops support for java versions prior to 17. 
-- What are you doing to solve it?
-  - API ML should reflect this and be able to compile and run on java 17. The objective for the API ML is to use java 17 in the toolchain and produce artifacts that run on this runtime.
-- When do you plan to start the work?
-  - 23PI3
-- When do you plan to deliver the solution?
-  - 23PI4
-
-### V3 Support SpringBoot 3.1
-
-- What problem are you solving?
-  - Zowe V3 must be on a Spring Boot baseline of 3.1 to be in support.  
-- What are you doing to solve it?
-  - The objective is to upgrade SpringBoot to at least 3.1.x version for Zowe V3.
-- When do you plan to start the work?
-  - 23PI3
-- When do you plan to deliver the solution?
-  - 23PI4
+  - 24PI1
 
 ### Improve Logging for the API ML
 
@@ -123,20 +79,31 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Provide good quality logs with meaningful and actionable information
 - When do you plan to start the work?
-  - 23PI2
+  - 24PI1
 - When do you plan to deliver the solution?
-  - 23PI4
+  - 24PI2
 
-### Improve Fault tolerance testing
+### Multiple services within infrastructure
+
+- What problem are you solving?
+  - It's unclear how do you handle services on different lpars that are lpar specific as well as how do you handle the different maturity level of service instances e.g. dev, qa, prod in sysplex
+- What are you doing to solve it?
+  - Change the implementation to clearly distinguish between the concept of lpar and maturity and simplify what clients can do to use that fact
+- When do you plan to start the work?
+  - 24PI2
+- When do you plan to deliver the solution?
+  - 24PI2
+
+### Improve testing
 
 - What problem are you solving?
   - The problems related to fault tolerance are found in the user's systems.
 - What are you doing to solve it?
   - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
 - When do you plan to start the work?
-  - 23PI4
+  - 24PI2
 - When do you plan to deliver the solution?
-  - 24PI1
+  - 24PI3
 
 ### SMF Records creation
 
@@ -145,9 +112,9 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
 - When do you plan to start the work?
-  - 24PI1
+  - 24PI3
 - When do you plan to deliver the solution?
-  - 24PI1
+  - 24PI3
 
 ### Observability for API ML
 
@@ -158,7 +125,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 23PI3
 - When do you plan to deliver the solution?
-  - 24PI2
+  - 24PI3
 
 ### Improve Onboarding of Internal APIs
 
@@ -167,8 +134,8 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
 - When do you plan to start the work?
-  - 24PI1
+  - 24PI4
 - When do you plan to deliver the solution?
-  - 24PI2
+  - 24PI4
 
 
