@@ -80,7 +80,7 @@ Impact on other Zowe components: NONE
 - When do you plan to start the work?
   - 24PI1
 - When do you plan to deliver the solution?
-  - 24PI1
+  - 24PI2
 
 ### Multiple services within infrastructure
 
@@ -100,9 +100,9 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
 - When do you plan to start the work?
-  - 24PI1
-- When do you plan to deliver the solution?
   - 24PI2
+- When do you plan to deliver the solution?
+  - 24PI3
 
 ### SMF Records creation
 
@@ -111,9 +111,9 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Create SMF records for each authentication with API ML JWT or PAT with details such as timestamp, mainframe identity, and form of the provided authentication(JWT, PAT,...)
 - When do you plan to start the work?
-  - 24PI2
+  - 24PI3
 - When do you plan to deliver the solution?
-  - 24PI2
+  - 24PI3
 
 ### Observability for API ML
 
@@ -133,8 +133,8 @@ Impact on other Zowe components: NONE
 - What are you doing to solve it?
   - Update wizard in the API Catalog, Add more functionality for the administrator about onboarded services.
 - When do you plan to start the work?
-  - 24PI3
+  - 24PI4
 - When do you plan to deliver the solution?
-  - 24PI3
+  - 24PI4
 
 
