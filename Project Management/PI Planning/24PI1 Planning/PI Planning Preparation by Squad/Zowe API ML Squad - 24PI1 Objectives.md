@@ -11,6 +11,7 @@ Cleanup for version 3
 - [Archive Datasets API](https://github.com/zowe/data-sets/issues/310) (Remove from PAX, Update Documentation)
 - [Archive Metrics Service](https://github.com/zowe/api-layer/issues/3292) (Remove from PAX, Update Documentation)
 - [Remove JWT Autoconfiguration support](https://github.com/zowe/api-layer/issues/3090)
+- [Move to the ibmzosmf](https://github.com/zowe/api-layer/issues/3295)
 
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
