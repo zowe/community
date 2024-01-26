@@ -16,7 +16,7 @@ Draft content to assist users with understanding breaking changes between v2 and
 
 ### Develop content for Troubleshooting Installation and Configuration 
 
-[#3164](https://github.com/zowe/docs-site/issues/3164) 
+Objective [#3164](https://github.com/zowe/docs-site/issues/3164) 
 
 This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
 
@@ -24,7 +24,7 @@ PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this sec
 
 ### Assist with Zen wizard doc 
 
-[#3396](https://github.com/zowe/docs-site/issues/3396)
+Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
 Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
 
@@ -61,18 +61,23 @@ Proposed structure:
 
 * **Extend API ML**
 
+### Document tips to assist with server side installation 
+(_stretch objective_)
+Objective [#3092](https://github.com/zowe/docs-site/issues/3092)
 
-## Question of the Month migration into Zowe Docs 
+Create tips that assist installers to look for specific message codes presented in logs during installation to help with installation verification.
+
+### Question of the Month migration into Zowe Docs 
 (_stretch objective_)
 
 Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe Docs and establish the practice for updating this question.
 
-## Assist with content development for encouraging community growth
+### Assist with content development for encouraging community growth
 (_stretch objective_)
 
 Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
 
-## Videos
+### Videos
 (_stretch objective_)
 
 Goal: Educate users through videos.
