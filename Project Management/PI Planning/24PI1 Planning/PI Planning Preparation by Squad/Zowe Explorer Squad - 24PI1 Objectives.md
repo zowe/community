@@ -25,21 +25,26 @@
 #### UI
 
 - [Forward all extra properties to the SDK calls #2399](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
+- [distinguish the different JES QUEUEs #2255](https://github.com/zowe/vscode-extension-for-zowe/issues/2255)
+- [sort jobs by timestamp #1685](https://github.com/zowe/vscode-extension-for-zowe/issues/1685)
 - [zowe profiles create zosmf-profile allow specification of --console-name  #1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667) - stretch
-- [distinguish the different JES QUEUEs #2255](https://github.com/zowe/vscode-extension-for-zowe/issues/2255)  - stretch
 - [Allow sorting of PDS members by date created #2565](https://github.com/zowe/vscode-extension-for-zowe/issues/2565) - stretch
-- [sort jobs by timestamp #1685](https://github.com/zowe/vscode-extension-for-zowe/issues/1685) - stretch
+
+#### Blogging
+
+- K8s Credential Manager
+- Zowe Explorer v3
 
 ### V2 maintenance readiness 
 
-#### High Severity Fixes
+#### High Priority Fixes
 
 - FTP profile upload issue [zftp: Members aren't saved, message "Saving data set..." but nothing happens and never ends. #2499](https://github.com/zowe/vscode-extension-for-zowe/issues/2499)
 - [Remote-SSH: Unable to load profiles on Zowe Explorer #2430](https://github.com/zowe/vscode-extension-for-zowe/issues/2430)
 - [Pull from Mainframe is adding extra characters to each record/line #2169](https://github.com/zowe/vscode-extension-for-zowe/issues/2169)
 - [Zowe Explorer causes a lot of rg.exe processes in the background #2463](https://github.com/zowe/vscode-extension-for-zowe/issues/2463)
-- [Update clipboard-related calls to use a Theia-compatible option #2219](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
 - [When the default profile has apiml token authentication, other profiles inaccessible #2111](https://github.com/zowe/vscode-extension-for-zowe/issues/2111)
+- ~[Update clipboard-related calls to use a Theia-compatible option #2219](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)~ - Closed as not planned
 
 #### Authentication
 
