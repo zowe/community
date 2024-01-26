@@ -1,6 +1,17 @@
 # Zowe API ML Squad - 24PI1 - (2024/01/23 - 2024/04/22)
 (January 2024 to April 2024)
 
+## Cleanup for V3
+
+Cleanup for version 3
+
+**API ML Squad Plan:**
+
+- [Archive Jobs API](https://github.com/zowe/jobs/issues/246) (Remove from Pax, Update documentation)
+- [Archive Datasets API](https://github.com/zowe/data-sets/issues/310) (Remove from PAX, Update Documentation)
+- [Archive Metrics Service](https://github.com/zowe/api-layer/issues/3292) (Remove from PAX, Update Documentation)
+- [Remove JWT Autoconfiguration support](https://github.com/zowe/api-layer/issues/3090)
+
 ## V3 Build Spring Cloud Gateway as a replacement for the current Gateway #2029
 
 Spring Cloud Zuul is in maintenance mode and not actively developed anymore. Spring Cloud has moved away from the Netflix Zuul OSS and will deprecate it at some point. The official replacement in the Spring Cloud ecosystem is the Spring Cloud Gateway (SCG). On completion of this Epic, the SCG application that will start properly and be able to take responsibility for the current API Gateway with respect to routing and authentication. 
@@ -19,8 +30,11 @@ Impact on other Zowe components: POSSIBLE
 - [Clean up the current API Gateway, API ML Engineer, To serve only as authentication service #3110](https://github.com/zowe/api-layer/issues/3110)
 - [SCG provides health information, Tyler and Michelle, To integrate into automation #3111](https://github.com/zowe/api-layer/issues/3111)
 - [Validate SCG provides all the previous functionality, API ML Developer, To prove we can move #3112](https://github.com/zowe/api-layer/issues/3112)
+- [Authentication endpoint remain accessible through Gateway, Michelle, To Limit Change between versions
+#3291](https://github.com/zowe/api-layer/issues/3291)
+- [Limit access to internal service, API ML Engineer, To be able to evolve them as needed #3294](https://github.com/zowe/api-layer/issues/3294)
 
-## Improve logging for the API ML #1796
+## {Stretch} Improve logging for the API ML #1796
 
 Zowe will enhance the support experience of Zowe with the aim to reduce the number of support cases opened. Where cases are opened this objective will reduce time taken to identify defects' root causes and more quickly address configuration problems.  
 
