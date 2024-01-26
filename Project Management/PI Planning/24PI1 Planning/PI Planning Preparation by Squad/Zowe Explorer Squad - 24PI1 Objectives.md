@@ -30,11 +30,6 @@
 - [zowe profiles create zosmf-profile allow specification of --console-name  #1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667) - stretch
 - [Allow sorting of PDS members by date created #2565](https://github.com/zowe/vscode-extension-for-zowe/issues/2565) - stretch
 
-#### Blogging
-
-- K8s Credential Manager
-- Zowe Explorer v3
-
 ### V2 maintenance readiness 
 
 #### High Priority Fixes
@@ -63,6 +58,11 @@
 #### DS Allocation 
 
 - ~[blksz to 0 after an Allocate Like #2610](https://github.com/zowe/vscode-extension-for-zowe/issues/2610)~ completed: solution delivered by the CLI team
+
+### Blogging
+
+- K8s Credential Manager
+- Zowe Explorer v3
 
 ## Roadmap
 
