@@ -53,8 +53,8 @@
 
 #### Jobs Tree
 
-- ~[Recent search JOB filter does not work #2562](https://github.com/zowe/vscode-extension-for-zowe/issues/2562)~ completed
 - [ZOWE JOB Data does not refresh #2561](https://github.com/zowe/vscode-extension-for-zowe/issues/2561)
+- ~[Recent search JOB filter does not work #2562](https://github.com/zowe/vscode-extension-for-zowe/issues/2562)~ completed
 
 #### Extenders
 
