@@ -10,7 +10,14 @@ Status: We have reviewed content with squads and SMEs to determine the scope of 
 
 ### Create content for migrating from V2 to V3
 
+Objective #[3405](https://github.com/zowe/docs-site/issues/3405)
+
 Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
+
+1. Dependent technology requirements / releases (i.e. node version x)
+2. Conversion requirements or recommendations (does the installer need to run a conversion?)
+3. Deprecated features (or technologies), potential impact, recommended mitigation
+4. Interoperability statement (will the release function with prior release extensions?)
 
 Draft content to assist users with understanding breaking changes between v2 and v3.
 
