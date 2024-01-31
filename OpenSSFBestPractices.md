@@ -206,7 +206,7 @@ The goal of this document is to cover where we as Zowe are with respect to our p
 | crypto_published | N/A | N/A | N/A | N/A | Within the context of the Secrets for Zowe SDK (keytar replacement), we simply interact via standard APIs with the Windows credential manager, MacOS keychain, and libsecret on Linux/BSD systems. Zowe CLI and the Secrets SDK do not do anything cryptographically. | N/A | N/A | N/A |
 | crypto_call | N/A | N/A | N/A | N/A | Zowe CLI and the Secrets SDK do not re-implement any cryptographic functions. | N/A | N/A | N/A |
 | crypto_floss | N/A | N/A | N/A | N/A | Zowe CLI does not rely on proprietary/closed source cryptographic functions. | N/A | N/A | N/A |
-| crypto_keylength | N/A |  | N/A | | According to https://www.npmjs.com/package/ssh2, the package we use for handling ssh comms, indicates that the default list of ciphers does not include CBC ciphers. We do not override the defaults, so I think we are fine. | | N/A | |
+| crypto_keylength | N/A | [Issue to support protocol](https://github.com/zowe/api-layer/issues/3300) | N/A | N/A | According to https://www.npmjs.com/package/ssh2, the package we use for handling ssh comms, indicates that the default list of ciphers does not include CBC ciphers. We do not override the defaults, so I think we are fine. | [Common Network Protocol](https://github.com/zowe/api-layer/tree/feat/use-networking-standard-config) | N/A | [Common Network Protocol](https://github.com/zowe/api-layer/tree/feat/use-networking-standard-config) |
 | crypto_working |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | crypto_weaknesses |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | crypto_pfs |  N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
