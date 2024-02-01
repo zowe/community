@@ -187,10 +187,10 @@ Sprint 6 - 2024/01/09 - 2024/01/22<br>
 - GA 2023/10/02<br>
 
 #### 1.28.6 <br/>
-- Code Freeze 2023/12/26<br>
-- RC Build 2023/12/27<br>
-- Testing 2023/12/27 - 2024/01/07<br>
-- GA 2024/01/08<br>
+- Code Freeze 2023/09/17<br>
+- RC Build 2023/09/18<br>
+- Testing 2023/09/18 - 2024/09/29<br>
+- GA 2024/09/30<br>
 
 ## Past releases
 
