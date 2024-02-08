@@ -283,7 +283,7 @@ This is talking about the vulnerabilities in the software and exploitable vulner
 
 | Name of the criteria | Zowe | API Mediation Layer | CLI | Intellij Plugin | Node.js Client SDK | Zowe Application Framework | Zowe Explorer | Zowe System Services (ZSS) |
 |----------------------|------|---------------------|-----|-----------------|--------------------|----------------------------|---------------|----------------------------|
-| contribution_requirements | | | | | | | | |
+| contribution_requirements | N/A | [Coding Standard](https://github.com/zowe/api-layer/blob/v2.x.x/CONTRIBUTING.md#file-naming-guidelines) | [Coding Standard](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zowe-explorer-intellij/blob/release/v1.0.3-221/CONTRIBUTING.md#coding-standards) | [Coding Standard](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zlux/blob/v1.x/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zowe-cli/blob/master/CONTRIBUTING.md#code-guidelines) | [Coding Standard](https://github.com/zowe/zss/blob/v2.x/staging/CONTRIBUTING.md#code-guidelines) |
 
 #### Project oversight
 
