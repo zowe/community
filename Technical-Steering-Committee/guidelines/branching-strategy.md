@@ -1,6 +1,6 @@
 # Branches Guideline
 
-This documentation introduces guideline for using branches in Zowe project, including all component projects. We try to keep consistent and apply the same branching model to all source code repositories. Subproject may use a different branch model to better suit its needs, but it should be properly documented. For example, Zowe CLI used a different [Versioning](https://github.com/zowe/zowe-cli/blob/master/docs/MaintainerVersioning.md) to better work with NPM package tags.
+This documentation introduces guideline for using branches in Zowe project, including all sub-projects. We try to keep consistent and apply the same branching model to all source code repositories. Subproject may use a different branch model to better suit its needs, but it should be properly documented. For example, Zowe CLI used a different [Versioning](https://github.com/zowe/zowe-cli/blob/master/docs/MaintainerVersioning.md) to better work with NPM package tags.
 
 Zowe project follows [Semantic Versioning](https://semver.org). So all versions mentioned in this documentation follows `[major].[minor].[patch]` version pattern.
 
@@ -12,7 +12,7 @@ Zowe project follows [Semantic Versioning](https://semver.org). So all versions 
 
   Branches listed below are mandatory and should exist all the time. These branches should be **protected** from updating. So any changes go into these branches should be through **Pull Request** and reviewed by other committers.
 
-  * **master** - this is the main release branch. It contains the most recent stable formal release. The release tag is created on this branch. If the component has dependencies, only static version of dependent artifacts should be listed. For example, a dependency on another sub-project version `~5.2.0` (which means latest patch release of `5.2.*`) is not acceptable. This _master_ branch should not be merged back into _staging_ branch. In certain circumstances, we will _cherry-pick_ hot fixes back into _staging_ branch.
+  * **main** - this is the main release branch. It contains the most recent stable formal release. The release tag is created on this branch. If the component has dependencies, only static version of dependent artifacts should be listed. For example, a dependency on another sub-project version `~5.2.0` (which means latest patch release of `5.2.*`) is not acceptable. This _master_ branch should not be merged back into _staging_ branch. In certain circumstances, we will _cherry-pick_ hot fixes back into _staging_ branch.
   * **staging** - this is the main development thread. It contains the most recent code for **next** (the coming) release. If the component has dependencies, dynamic patch-level version of dependent artifacts is recommended and acceptable. For example, `~5.2.0` is acceptable because it means `5.2.*`. But `^5.2.0` is not acceptable because it means `5.*`. This branch will be merged into _master_ branch during release process.
 
 - Optional Ephemeral Branches
@@ -38,7 +38,7 @@ With an example of main thread are ready for v2.x release, then v1.x became LTS 
 
 - Long-Lived Branches
 
-  * **v1.x/master** - branched out from _master_ branch.
+  * **v1.x/main** - branched out from _main_ branch.
   * **v1.x/staging** - branched out from _staging_ branch.
 
 - Optional Ephemeral Branches
