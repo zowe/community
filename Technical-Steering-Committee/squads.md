@@ -112,7 +112,6 @@ Squads currently in the proposal process include the following:
 
 Squads currently in an incubator stage include the following:
 
-- ZEEBRA
 - Zowe Chat
  
 ### Active
