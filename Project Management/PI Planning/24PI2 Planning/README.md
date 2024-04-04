@@ -5,8 +5,8 @@
 
 Day 1\
 When: Wednesday, January 24, 2024 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/96743700651?password=0ae2fcd8-854f-4ede-b94e-6732a1679eba<br>
-Meeting Recordings: [Day 1](https://zoom.us/rec/share/uffz3eSrZA72G3mK8A5AillihnWo83TWsZkq_la_f707kTGMFZhnJi7IQor7CTVi.kpshtsFKz-OhR52P)
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/92260164252?password=c5a4f28c-a624-48c4-8973-ee063355c271<br>
+Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
@@ -17,7 +17,7 @@ Meeting Recordings: Squads will manage recordings (if needed)
 
 Day 3\
 When: Friday, January 26, 2024 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/97792450807?password=2d9c9272-5e16-4b5f-a81a-a62afba50ab3<br>
+LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/99422501356?password=9b356f21-671f-4056-afef-f80f3b3d4c1d<br>
 Meeting Recordings: [Day 3]()
 <br>
 
