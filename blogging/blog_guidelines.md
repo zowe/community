@@ -10,8 +10,11 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - [When ready to publish](#when-ready-to-publish)
  - [Review Process](#review-process)
  - [Content Guidelines](#content-guidelines)
-   - [Zowe Core](#zowe-core)
-   - [Zowe Ecosystem](#zowe-ecosystem)
+   - [Zowe General](#zowe-general)
+   - [Zowe CLI](#zowe-command-line-interface-cli)
+   - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
+   - [Zowe Desktop](#zowe-desktop)
+   - [Zowe Explorer](#zowe-explorer)
    - [Zowe Incubation](#zowe-incubation)
  - [Personas](#personnas)
  - [Promotion](#promotion)
@@ -113,7 +116,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
 
  ## Content guidelines
 
- As a blog writer you can write about any topic that you're interested in and that will provide value to the Zowe community.  The content on our blog consists of:
+ As a blog writer you can write about any topic that you're interested in and that will provide value to the Zowe community. The content on our blog consists of:
 
  - Articles about core Zowe projects, Zowe incubation projects, or Zowe conformant offerings
  - Technical content and how-to's
@@ -125,44 +128,62 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  
  Blogs fall into one of three categories and are differentiated to avoid a user visiting a Zowe blogsite from misunderstanding the relationship between whether the content being described is free open source software included with a Long Term Support (LTS) Zowe release, a commercial vendor Zowe offerings, or a project in its incubation phase.
 
- - [Zowe Core](#zowe-core)
- - [Zowe Ecosystem](#zowe-ecosystem)
+ Posts are vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
+
+ - [Zowe General](#zowe-general)
+ - [Zowe CLI](#zowe-command-line-interface-cli)
+ - [Zowe API Mediation Layer](#zowe-api-mediation-layer)
+ - [Zowe Desktop](#zowe-desktop)
+ - [Zowe Explorer](#zowe-explorer)
  - [Zowe Incubation](#zowe-incubation)
 
+### Zowe General
  
-### Zowe Core
- 
- These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe](https://github.com/zowe) repositories.  Core Zowe content is available for a user to download on [https://www.zowe.org/#download](https://www.zowe.org/#download) as well as the Visual Studio Marketplace plugin [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe).
+ These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe](https://github.com/zowe) repository.
 
- Core Zowe articles may also reference other open source technologies such as [Visual Studio Code](https://code.visualstudio.com/), [Jenkins](https://www.jenkins.io/), and other products available under OSI approved licenses.
-
- Posts are be vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
-
- Core Zowe articles are published on [https://medium.com/zowe](https://medium.com/zowe).
+ Zowe General articles are published on [https://medium.com/zowe](https://medium.com/zowe/general/home).
 
  Blogs that meet the criteria for Core Zowe should have the word [`{Core}`](https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-core) as the first word of the first sentence of the article which should be a hyperlink to the URL https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-core.  This allows a reader to easily see that the content relates to core Zowe functionality. 
 
- An example of a Zowe core blog is [Installing Zowe on z/OS](https://medium.com/zowe/installing-zowe-on-z-os-de69ec5412ff) that discussed how to install, configure and launch a Zowe convenience build.  
+ An example of a Zowe General blog is [Installing Zowe on z/OS](https://medium.com/zowe/installing-zowe-on-z-os-de69ec5412ff) that discussed how to install, configure and launch a Zowe convenience build.  
 
-### Zowe ecosystem
+### Zowe Command Line Interface (CLI)
 
-Zowe is a tooling platform which includes a number of frameworks allowing it to be extended by Independent Software Vendors (ISVs) or System Integrators (SIs). Offerings that are proven to meet the acceptance criteria for interoperating with Zowe are awarded a Zowe conformance badge, see [Zowe conformance](https://www.openmainframeproject.org/projects/zowe/conformance).
+ These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe/zowe-cli](https://github.com/zowe/zowe-cli) repository.
 
-Articles written about the Zowe ecosystem are welcome as they show the diversity of the platform and the capabilities a mainframe user can enjoy when using Zowe alongside one or more of its conformant products.
+ Zowe CLI articles may reference other open source technologies such as [Visual Studio Code](https://code.visualstudio.com/), [Jenkins](https://www.jenkins.io/), and other products available under OSI approved licenses.
+ 
+ Posts are vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
+ 
+ An example of a blog about the Zowe CLI is [Setting up CA Endeavor for Zowe CLI](https://medium.com/zowe/setting-up-ca-endevor-for-zowe-cli-d8833a8312ee).
 
-The post may mention a vendor's name as it relates to Zowe, project deployments, adoption paths, their hosting of an in-person event or speaking at an event including virtual events, indications of meaningful participation in the community, but it shouldn't feel like an advertisement for services of your company.  
+### Zowe API Mediation Layer
 
-Content that discusses a vendor's commercial offering should be in relation to Zowe. Discussion of the commercial offering should be valuable to set the scene for the technical offering and its usage in relation to being exploited through use of the Zowe conformant scenarios.  Relevant descriptions of vendor technology with hyperlinks to further material hosted on other sites, including how a reader can find out more about the commercial offering, are encouraged as long as they do not become an advertisement. It is encouraged that the linked to sites hosted by companies for readers to find out more information on the vendor offering mention Zowe with correct trademark attribution.  
+ These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe/api-layer](https://github.com/zowe/api-layer) repository.
 
-Zowe ecosystem blogs should have the word [`{Ecosystem}`](https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-ecosystem) as the first word of the first sentence of the article that hyperlinks to the URL https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-ecosystem. 
+ An example of a Zowe API ML blog is [Two Peas in a Pod — Endevor and the Zowe API Mediation Layer](https://medium.com/zowe/two-peas-in-a-pod-endevor-and-the-zowe-api-mediation-layer-2b6c23306b33) that discussed one of the vendor solutions of Zowe and why users should integrate this solution with Zowe API ML.
 
-Zowe conformance logos can be found at https://github.com/openmainframeproject/artwork/tree/master/other/zowe-conformant.
+### Zowe Desktop
 
-An example of a blog about the Zowe Ecosystem is [Setting up CA Endeavor for Zowe CLI](https://medium.com/zowe/setting-up-ca-endevor-for-zowe-cli-d8833a8312ee).  This discusses the Computer Associates Endeavor source code management tool in relation to having a Zowe CLI that is a Zowe conformant offering.  Discussion of Endavor is included with links for CA hosted sites, and the author has focused on the value and knowledge required to learn, install, and operate the CA Endeavor Zowe CLI bridge plugin.  
+ These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe](https://github.com/zowe) repositories.
 
-### Zowe incubation
+ Zowe Desktop articles may reference Zowe Application Framework content including the Virtual Desktop, Editor, IP information, JES Explorer, SSH App, and TN3270 App. 
+ 
+ An example of a Zowe General blog is [How To Become A Zowe Desktop Application Developer](https://medium.com/zowe/how-to-become-zowe-desktop-application-developer-5c2bda12feba) that discussed how to become a Zowe Desktop developer and how the IP Explorer was born. 
 
-Zowe provides for projects to be in incubation that may not be currently in core Zowe.  There is value in promoting and sharing these projects with the Zowe community and articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
+### Zowe Explorer
+
+ These articles reference content that is owned and managed by the Open Mainframe Project residing as source code in [https://github.com/zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) repositories.
+
+ Zowe Explorer articles may reference other open source technologies such as [Visual Studio Code](https://code.visualstudio.com/), [Jenkins](https://www.jenkins.io/), and other products available under OSI approved licenses.
+ 
+ Posts are be vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
+
+ An example of a Zowe General blog is [Secrets for Zowe SDK](https://medium.com/zowe/secrets-for-zowe-sdk-d8f6a485c7ae) that discussed how Zowe Explorer extenders use the keyring module (using Secrets SDK).
+
+### Zowe Incubation
+
+Zowe provides for projects to be in incubation that may not be currently in core Zowe. There is value in promoting and sharing these projects with the Zowe community and articles written about technology in the incubation phase are welcome to be written about in the Zowe blogsite.  The definition of a Zowe incubation project is mediated by the Zowe Leadership Committee (ZLC).
 
 A reader of the Zowe blogsite should be able to recognize that the content relates to a Zowe incubation project that may be outside of the core Zowe Long Term Support (LTS).  Incubation blogs should have the word [`{Incubation}`](https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-incubation) as the first word of the first sentence of the article that hyperlinks to the URL https://github.com/zowe/community/blogging/blog_guidelines.html#zowe-incubation.  
 
