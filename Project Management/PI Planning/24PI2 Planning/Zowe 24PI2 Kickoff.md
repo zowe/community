@@ -1,5 +1,9 @@
 #  24PI2 Joint PI Planning Kickoff
 
+## LFX Meeting Invite
+When: Tuesday, April 14th, 2024<br> 9:00am to 10:30am (UTC-05:00) Eastern Time - New York<br>
+[Link to Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/93896564066?password=6663f449-6bba-4faf-a639-b2a14e3539f5)
+
 ## Meeting Recording
 [Link to Recording]()
 
