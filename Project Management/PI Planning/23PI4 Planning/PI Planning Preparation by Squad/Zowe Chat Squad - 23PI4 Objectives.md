@@ -1,6 +1,8 @@
-# Zowe Chat Squad - 23PI3 - (2023/07/25 - 2023/10/23)
+# Zowe Chat Squad - 23PI4 
 
-Requires further discussion with the squad, but expectation should be few deliverables.
+No updates to report for this PI
+
+
 
 
 
