@@ -8,9 +8,7 @@ As a Zowe community we have three types of releases:
 - Active - This release receives updates regularly according to the schedule, and it is for the users that are willing to invest a bit more time into upgrades to get the latest features.
 - Nightly - The Zowe publishes bleeding edge state of the project on the nightly basis. There are no guarantees around the stability of the build.
 
-The release will be active for 2 years. We will support release in the maintenance mode for 2.5 years. This means that at one point in time we will support one active release and up to two maintenance releases.
-
-We will provide upgrade path from maintenance release to the maintenance release so that the users will be able to remain only on the maintenance releases.
+The latest release line is in the active category for 2 years. We will support older release lines in maintenance mode for 2.5 years. This support timeline allows us to support one active and one maintenance release line, along with a small window where we support one active and up to two maintenance release lines in parallel. We will aim to provide an upgrade path from one maintenance line to the next during that window, so users can remain on maintenance releases.
 
 ![Schedule for the nearest releases](major_releases.png)
 
@@ -57,13 +55,13 @@ Each Squad decides if there will be a deliverable depending on the content that 
 
 Each squad is required to provide an older version of the component for release in case a stop-ship bug is found, and the fix cannot be delivered in time to meet the release date. The decision around the direction is taken by the release group.
 
-For each release a release group is established. The group contains at least one member from each of the server side squads. The goal of this group is to coordinate the release process and keep its members updated on the status of each server squad. The responsibility of this group is also to decide what to do with the found bugs. Once there is an RC which this group believes should be released, the release group passes the relevant release to vote on to the TSC. The daily updates are posted to the apprporiate channel so anyone can follow the curent status.
+For each release a release group is established. The group contains at least one member from each of the server side squads. The goal of this group is to coordinate the release process and keep its members updated on the status of each server squad. The responsibility of this group is also to decide what to do with the found bugs. Once there is an RC which this group believes should be released, the release group passes the relevant release to vote on to the TSC. The daily updates are posted to the appropriate channel so anyone can follow the current status.
 
 ## Release Approval Procedure
 
 ### Process when potential stop-ship was found
 
-When any of the squads find or are informed about a potential stop-ship, the highest priority for the squad is to analyse the found issue and, within a day's time, come up with proposal about next steps. The other squads can continue testing. This is happening in context of the release group.
+When any of the squads find or are informed about a potential stop-ship, the highest priority for the squad is to analyze the found issue and, within a day's time, come up with proposal about next steps. The other squads can continue testing. This is happening in context of the release group.
 
 Potential proposals for resolution:
 - Fix the issue and release a new version of the component. This contains info on when the fix will be available.
