@@ -168,9 +168,6 @@ Squad Breakout
 <td>
 
 Squad Breakout
-- Zowe CLI Squad
-    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
-
 - Zowe Onboarding Squad
     - Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
 
@@ -188,7 +185,9 @@ Squad Breakout
 Squad Breakout
 - WebUI Squad
     - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
-<br>
+
+- Zowe CLI Squad
+    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
 
 </td>
                 <td></td>
