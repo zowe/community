@@ -1,99 +1,68 @@
-# Zowe Doc Squad - 24PI1 - (2024/01/23 - 2024/04/22)
+# Zowe Doc Squad - 24PI2 - (2024/04/22 - 2024/07/22)
+### Continue to prepare Zowe Docs for Zowe v3 
 
-## Improve server-side installation documentation based on user feedback
+Address the restructuring, additions, and deprecations that apply to Zowe v3.
 
-- Create scenario-based articles by installation method:
-  Document four linear, co-located installations scenarios by method:
-    * Install Zowe via z/OSMF (from PSWI & SMP/E Workflow)
-    * Install Zowe via SMP/E
-    * Install Zowe via Convenience Build
-    * Install Zowe via Container 
-    
-    (Criteria defined in Issue [#2960](https://github.com/zowe/docs-site/issues/2960))
+Objectives [#3371](https://github.com/zowe/docs-site/issues/3371) and  [#2970](https://github.com/zowe/docs-site/issues/2970) in the docs-site repo. 
 
-- Create a detailed Zowe installation overview article.
-  Elements in this overview to include:
-    * End-to-end install/config flow diagram
-    * Roles & Responsibilities
-    * Zowe Key Terms & Concepts: Zowe runtime, Zowe Application Framework, Zowe API Mediation Layer, Z Secure Services (ZSS), Zowe Cross Memory Server
-    * Technology Needs: YAML, node.js, USS background details
-    * Install Methods Explained
+Key areas to address in doc:
+1. Zuul replacement technology
+2. Angular 12 upgrade
+3. Other day 1, new v3 features
 
-    (Criteria defined in Issue [#2961](https://github.com/zowe/docs-site/issues/2961)).
+### Create content for migrating from V2 to V3
 
-- Create Role-Based Zowe Prereq Articles   
-  Under a parent topic entitled 'Prepare for Installation' (formerly 'System requirements') define the specifc role(s) responsible behind these child topics:
-    * Address z/OS Requirements
-    * Address Security Requirements
-    * Address USS Requirements
-    * Address node.js Requirements
-    * Address Storage Requirements
-    * Address Network Requirements
+Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
 
-  This enhancement request comes directly from user feedback received during the Spring 2023 Zowe Server Installation Study. (Criteria defined in Issue [#2962](https://github.com/zowe/docs-site/issues/2962)).
+Draft content to assist users with understanding breaking changes between v2 and v3.
 
-- Consolidate and Summarize Security Requirements to one article: Address Security Requirements.
-    * List ALL security needs. For ex: user IDs, classes, resource setup, certs, keyrings, STC, USS permissions, passtickets, MFA, user IDs. 
-    * Note which security reqs that the admin can address before and/or during the installation.
-    * Include diagram showing the full security ecosystem + touch points.
-    * Include links to verify that configuration is complete. Include expected output. 
+### Complete restucturing of Extending section for API ML
 
-   (Criteria defined in Issue [#2963](https://github.com/zowe/docs-site/issues/2963)). 
+Part of Zowe v3 readiness. [#3269](https://github.com/zowe/docs-site/issues/3269) and [#3270](https://github.com/zowe/docs-site/issues/3270) 
 
-## Completion and validation of certificate configuration documentation
 
-Articles in the User Guide section include:
-  * Configuring Certificates 
-  * Certificate configuration scenarios 
-  * Generating and Importing Certificates
-  * Advanced/Enterprise Certificate Configuration
-  * Using Certificates
+### Develop content for Troubleshooting Installation and Configuration 
 
-Also additions to the getting-started section:
-  * Zowe Certificates Overview
-  * High Availability 
-  * Zowe User Authentication
-  * Zowe Security Overview
+Objective [#3164](https://github.com/zowe/docs-site/issues/3164) 
 
-  **Tasks:**
-  * Perform a review of [Zowe secure setup and configuration](https://docs.zowe.org/stable/getting-started/zowe-secure-setup/).
-  * Draft a chapter for Security Configuration in the user-guide section. 
-  * Include validation steps where possible.
-  * Draft an article 'Troubleshooting installation and configuration' with links to 
+This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
 
-  * Begin to explore creation of a migration guide (from v1 to v2)
+PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this section under review.
 
-## Consumer Awareness Section(s)
-Objective: Determine how best to communicate important changes (deprecations, eliminations or new introductions) to the Zowe technology that may have an impact on Zowe Consumers (and Extenders). This may be in the form of a general section that links to embedded alerts near the related / applicable technical documentation or something else.
+### Assist with Zen wizard doc 
 
-## Zowe Issue Triaging/Handling Guide (stretch)
+Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
-* Develop the Issue Triaging/Handling Guide to help contributors understand the criteria and process for triaging and assigning issues across repos. ([TSC Issue](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/issues.md#issues))
- 
- ## CII Badge standards
+Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to develop doc content about the Zen wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
+
+### CII Badge standards
 
 - Identify areas in Zowe CLI and Zowe Explorer documentation that need changes in order to meet  CII Badge standards.
 
 - Develop documentation strategy to make needed modifications.
 
-## Zowe CLI authentication mechanisms
+## Doc Squad Stretch Objectives 
 
-- Document order for authentication mechanisms used in Zowe CLI.
+## Assist with content development for encouraging community growth
+(_stretch objective_)
 
-## Videos
+Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
 
-Goal: Educate users through engaging content format - videos.
+## Question of the Month migration into Zowe Docs 
+(_stretch objective_)
 
-Create scenario-based demo videos for Zowe certificate configuration.
+Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe Docs and establish the practice for updating this question.
 
-Create scenario-based demo videos for Zowe security configuration.
+## MVP installation guide
+(_stretch objective_)
 
-Create demo videos for Zowe extensions. 
+Work with Web UI squad on developing doc for a minimum viable product installation of Zowe server side components
 
-## Dependency
+## Dependencies
 
-* Dependency on API ML squad and other contributors to finish the improvement in install and config documentation on doc site.
+* Dependency on SMEs from various squads for collaboration with v3 readiness.
+* Dependency on API ML squad to assist with API ML Extending section restructuring.  
+* Collaboration with Web UI on Zen Wizard and MVP Install doc.
 
-* Dependency on demo video input contributors.
 
-* Dependency on the developers who are involved with the legacy issues in doc site repository.
+
