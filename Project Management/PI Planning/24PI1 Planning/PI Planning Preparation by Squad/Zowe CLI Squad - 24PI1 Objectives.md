@@ -2,18 +2,18 @@
 
 ## V3 Preparation
 Implement planned changes for V3 and continue to publish pre-release versions to npm.
+- [ ] [v3: Remove V1 profile functionality in vNext (retaining the ability to convert from V1 to V2 configs) #1703](https://github.com/zowe/zowe-cli/issues/1703)
 - [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
-- [ ] [Stretch] [v3: Remove validation of RECFM and return z/OSMF error #1699](https://github.com/zowe/zowe-cli/issues/1699)
-- [ ] [Stretch] [zowe --show-inputs-only always reporting zowe version as v1 #1689](https://github.com/zowe/zowe-cli/issues/1689) - Consider functionality in V3
+- [ ] [v3: Remove validation of RECFM and return z/OSMF error #1699](https://github.com/zowe/zowe-cli/issues/1699)
+- [ ] [zowe --show-inputs-only always reporting zowe version as v1 #1689](https://github.com/zowe/zowe-cli/issues/1689) - Consider functionality in V3
 
 ## Config Usability
 Continue to improve team config robustness and flexibility.
 - [ ] [zowe auth login apiml creates a V1 profile #2005](https://github.com/zowe/zowe-cli/issues/2005)
 - [ ] [When accessing services via APIML, allow users to specify an instance ID #1858](https://github.com/zowe/zowe-cli/issues/1858)
-- [ ] [profInfo.updateProperty(propOpts) updates the default profile instead of the system profile in VSCode Extension #1864](https://github.com/zowe/zowe-cli/issues/1864)
 - [ ] [Dynamic config gathering  #1899](https://github.com/zowe/zowe-cli/issues/1899)
+- [ ] [Add --name-only as an alias for --root in zowe config list command #1797](https://github.com/zowe/zowe-cli/issues/1797)
 - [ ] [Stretch] [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
-- [ ] [Stretch] [Add --name-only as an alias for --root in zowe config list command #1797](https://github.com/zowe/zowe-cli/issues/1797)
 
 ## Extension Support
 Ensure that extenders have access to the tools they need to interact with team config and secure credential storage.
@@ -23,13 +23,13 @@ Ensure that extenders have access to the tools they need to interact with team c
 
 ## High Priority and Upvoted Defects and Enhancements
 Continue to responsibly address backlog items according to perceived priority and community interest.
+- [ ] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
 - [ ] [Stretch] [Fix overrides.CredentialManager:false inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
-- [ ] [Stretch] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
 - [ ] [Stretch] [v3: Enhance RestClient to support a key-value object of query parameters #1872](https://github.com/zowe/zowe-cli/issues/1872)
 
 ## SDK Conformance and LTS status
 Work with the Onboarding Squad and the IntelliJ Explorer Squad to develop Zowe client SDK conformance criteria and ensure that the Node.JS and Python Zowe Client SDKs achieve conformance.
-- [ ] [Stretch] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
+- [ ] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
 
 ## OpenSSF Best Practices Badge
 Support the ongoing Zowe OpenSSF Best Practices audit process.

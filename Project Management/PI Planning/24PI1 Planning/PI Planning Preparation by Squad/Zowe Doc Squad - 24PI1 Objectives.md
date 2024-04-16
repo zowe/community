@@ -12,11 +12,20 @@ Status: We have reviewed content with squads and SMEs to determine the scope of 
 
 Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
 
+Objective #[3405](https://github.com/zowe/docs-site/issues/3405)
+
+Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
+
+1. Dependent technology requirements / releases (i.e. node version x)
+2. Conversion requirements or recommendations (does the installer need to run a conversion?)
+3. Deprecated features (or technologies), potential impact, recommended mitigation
+4. Interoperability statement (will the release function with prior release extensions?)
+
 Draft content to assist users with understanding breaking changes between v2 and v3.
 
 ### Develop content for Troubleshooting Installation and Configuration 
 
-[#3164](https://github.com/zowe/docs-site/issues/3164) 
+Objective [#3164](https://github.com/zowe/docs-site/issues/3164) 
 
 This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
 
@@ -24,7 +33,7 @@ PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this sec
 
 ### Assist with Zen wizard doc 
 
-[#3396](https://github.com/zowe/docs-site/issues/3396)
+Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
 Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
 
@@ -73,6 +82,25 @@ Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe D
 Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
 
 ## Videos
+
+### Document tips to assist with server side installation 
+(_stretch objective_)
+Objective [#3092](https://github.com/zowe/docs-site/issues/3092)
+
+Create tips that assist installers to look for specific message codes presented in logs during installation to help with installation verification.
+
+### Question of the Month migration into Zowe Docs 
+(_stretch objective_)
+
+Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe Docs and establish the practice for updating this question.
+
+### Assist with content development for encouraging community growth
+(_stretch objective_)
+
+Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
+
+### Videos
+
 (_stretch objective_)
 
 Goal: Educate users through videos.
@@ -89,5 +117,4 @@ Goal: Educate users through videos.
 * Dependency on API ML squad to assist with API ML Use/Extending section restructuring.  
 * Collaboration with Web UI on Zen Wizard doc.
 * Dependency on demo video input contributors.
-
 
