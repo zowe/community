@@ -10,8 +10,6 @@ Key areas to address in doc:
 2. Angular 12 upgrade
 3. Other day 1, new v3 features
 
-Status: We have reviewed content with squads and SMEs to determine the scope of needed changes for V3 documentation. Articles have been labeled according to their readiness and writers are working with their respective squads to apply changes as needed.
-
 ### Create content for migrating from V2 to V3
 
 Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
@@ -35,9 +33,7 @@ PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this sec
 
 Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
-Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to begin developing content about the Zen wizard.
-
-
+Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to develop doc content about the Zen wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
 
 ### CII Badge standards
 
@@ -56,11 +52,17 @@ Collaborate with Onboarding squad to develop content describing how to get invol
 (_stretch objective_)
 
 Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe Docs and establish the practice for updating this question.
+
+## MVP installation guide
+(_stretch objective_)
+
+Work with Web UI squad on developing doc for a minimum viable product installation of Zowe server side components
+
 ## Dependencies
 
 * Dependency on SMEs from various squads for collaboration with v3 readiness.
-* Dependency on API ML squad to assist with API ML Use/Extending section restructuring.  
-* Collaboration with Web UI on Zen Wizard doc.
+* Dependency on API ML squad to assist with API ML Extending section restructuring.  
+* Collaboration with Web UI on Zen Wizard and MVP Install doc.
 
 
 
