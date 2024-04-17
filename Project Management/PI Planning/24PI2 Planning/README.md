@@ -146,8 +146,8 @@ Squad vision<br>
 <td>
 
 Squad Breakout
-- Zowe Explorer Squad
-    - Zoom/Webex Link: https://zoom.us/j/94312528890 <br>
+- Zowe Explorer Squad (11:15 breakout)
+    - Zoom/Webex Link: https://zoom.us/j/98602397925 <br>
 
 - API ML Squad
     - Zoom Link: https://zoom.us/j/98404818292<br>
@@ -187,7 +187,7 @@ Squad Breakout
     - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
 
 - Zowe CLI Squad
-    - Zoom/Webex Link:  https://zoom.us/j/99891777715 <br>
+    - Zoom/Webex Link:  https://zoom.us/j/98680819353 <br>
 
 </td>
                 <td></td>
