@@ -10,7 +10,7 @@ The embedded javascript feature has allowed almost all ZWE code to be uplifted f
 
 ### Network API's
 
-TCP Port open checks, HTTP(s) GET support, synchronous first and async later.
+TCP Port checks and HTTP(S) support is written.  Needs testing.
 
 ### Dataset API's
 
@@ -18,7 +18,7 @@ Dataset listing (catalog access) works, but create, copy, delete would be useful
 
 ### GSK services
 
-Loading certificates to keyrings, creating root CA's and server Certs.  
+Creation and usage of default tests.  Loading certificates to keyrings, creating root CA's and server Certs.  
 
 ## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
 

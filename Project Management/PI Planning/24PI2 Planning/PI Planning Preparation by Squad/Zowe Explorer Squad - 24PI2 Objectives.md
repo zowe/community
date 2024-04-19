@@ -1,94 +1,52 @@
-# Zowe Explorer Squad - 24PI1 - (2024/01/23 - 2024/04/22)
+# Zowe Explorer Squad - 24PI2 - (2024/04/23 - 2024/07/22)
 
-## Prepare Zowe Explorer extenders for upcoming v3 breaking changes and new features with v3 pre-releases and documentation.
+### Continue preparing for v3 GA with continued pre-release availability, wrapping up all breaking changes by end of PI.
 
-### v3 Pre-Release early availability
+- [Use vscode.FileSystemProvider for content downloaded from mainframe #2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207) - **Breaking change** *in progress* (24Q1 rollover)
+- [Support Certificate Authentication #2621](https://github.com/zowe/vscode-extension-for-zowe/issues/2621) - (24Q1 rollover)
+- [Provide Client Side z/OSMF Certificate Support Zowe Explorer #2373](https://github.com/zowe/vscode-extension-for-zowe/issues/2373) - (24Q1 rollover)
+- [Support logging in to multiple APIML instances per config file #2264](https://github.com/zowe/vscode-extension-for-zowe/issues/2264) - *stretch* (24Q1 rollover)
+- [next: Remove deprecated methods #2238](https://github.com/zowe/zowe-explorer-vscode/issues/2238) - **Breaking change**
+- [[vNext] DS Templates setting to be accessible and usable via workspace settings #2345](https://github.com/zowe/zowe-explorer-vscode/issues/2345) - **Breaking change**
+- [Double check scopes of settings for correctness #2303](https://github.com/zowe/zowe-explorer-vscode/issues/2303) - **Breaking change**
+- [VSC Readonly Mode feature used for spool files #2343](https://github.com/zowe/zowe-explorer-vscode/issues/2343)
+- [Update ZE to use imperative's APIs for updating imperative.json  #2622](https://github.com/zowe/zowe-explorer-vscode/issues/2622)
+- [Design and Implement a user friendly UI for setting up and editing config profiles #2265](https://github.com/zowe/zowe-explorer-vscode/issues/2265) - *stretch*
+- [Tabular display option for Jobs tree #2258](https://github.com/zowe/zowe-explorer-vscode/issues/2258) - *stretch*
+- [Full text search across all the members, like ISPF SrchFor utility does #449](https://github.com/zowe/zowe-explorer-vscode/issues/449) - *stretch*
+- [Notify extenders when changes to the vault have been made #2546](https://github.com/zowe/zowe-explorer-vscode/issues/2546) - *stretch*
+- [Consider adding integration tests using vscode-extension-tester #2322](https://github.com/zowe/zowe-explorer-vscode/issues/2322) - *stretch*
 
-- v3 pre-release UX cleanup [#2360](https://github.com/zowe/vscode-extension-for-zowe/issues/2360)
-- Write v3 pre-release blog with updates to users and extenders about breaking changes
-- Decide our Big WOWs for v3 per our [discussion](https://github.com/zowe/vscode-extension-for-zowe/discussions/2391#discussioncomment-6552494)
-- Issue UNIX command capability [#1326](https://github.com/zowe/vscode-extension-for-zowe/issues/1326)
-- [STRETCH] Group common methods into Singleton classes [#2109](https://github.com/zowe/vscode-extension-for-zowe/issues/2109)
-- [STRETCH] Minimize the activate() function to have less chance of failure [#1985](https://github.com/zowe/vscode-extension-for-zowe/issues/1985)
+###  Please users and extenders with continuous development of enhancements for upcoming v2.x releases.
 
-## Delight users with added functionality to the Jobs tree view, improved error handling, and by improvinging the user experience in regards to authenticating with the API Mediation Layer within the timeframe laid out in the Zowe Explorer roadmap.
+- [Cannot switch from basic auth. to token-based auth. #2590](https://github.com/zowe/vscode-extension-for-zowe/issues/2590) - *in progress* (24Q1 rollover)
+- [Investigate support for mutli-root workspaces for documentation purposes #2386](https://github.com/zowe/zowe-explorer-vscode/issues/2386)
+- [Add link to log file #2271](https://github.com/zowe/zowe-explorer-vscode/issues/2271)
 
-### Add more functionality to the Jobs tree view
+### Reduce Zowe Explorer reported bug count by 20% by the end of the PI. (82 total bugs in repo as of 4/8/2024)
 
-- Sort Jobs in Jobs tree [#2257](https://github.com/zowe/vscode-extension-for-zowe/issues/2257)
-- Local filtering of JOBS tree [#2256](https://github.com/zowe/vscode-extension-for-zowe/issues/2256)
-- sort jobs by timestamp [#1685](https://github.com/zowe/vscode-extension-for-zowe/issues/1685)
-- Job Class not accurately reflected in Zowe Explorer [#1951](https://github.com/zowe/vscode-extension-for-zowe/issues/1951)
- 
-### Improve error handling
+- ["Log out of authentication service" and "zowe auth logout apiml" Not working #2544](https://github.com/zowe/vscode-extension-for-zowe/issues/2544) - (24Q1 rollover)
+- [ZOWE JOB Data does not refresh #2561](https://github.com/zowe/vscode-extension-for-zowe/issues/2561) - (24Q1 rollover)
+- [ZE affecting multi select with VSC 1.87 #2798](https://github.com/zowe/zowe-explorer-vscode/issues/2798) 
+- [File keeps trying to be saved if not enough permissions #2627](https://github.com/zowe/zowe-explorer-vscode/issues/2627) 
+- [Repeated attempt to save member despite S913 #2406](https://github.com/zowe/zowe-explorer-vscode/issues/2406) 
+- [trying to create a new zosmf profile i now get "Error running command zowe.ds.addSession" #2800](https://github.com/zowe/zowe-explorer-vscode/issues/2800)
+- [Error when user clicks on favorited job #2618](https://github.com/zowe/zowe-explorer-vscode/issues/2618) 
+- [Unexpected behavior in TSO Commands #2528](https://github.com/zowe/zowe-explorer-vscode/issues/2528)
+- [Issue with credentials not being up to date accross views #2465](https://github.com/zowe/zowe-explorer-vscode/issues/2465)  
+- [FTP profiles throw error after new credentials entered after 401 #2337](https://github.com/zowe/zowe-explorer-vscode/issues/2337)  
+- ['Remote file has been modified' loop when working with VB recfm #2327](https://github.com/zowe/zowe-explorer-vscode/issues/2327)
+- [[zFTP] Data connection encryption field issue when updating a profile #1865](https://github.com/zowe/zowe-explorer-vscode/issues/1865)
+- [ZE's Delete keybindings broken with VSC 1.88 #2825](https://github.com/zowe/zowe-explorer-vscode/issues/2825)
+- [Zowe Explorer: Log in/out to/from Authentication Service Keyboard Shortcuts not working #2294](https://github.com/zowe/zowe-explorer-vscode/issues/2294)
+- [USS delete quick key broken #2796](https://github.com/zowe/zowe-explorer-vscode/issues/2796)
+- [copy/paste keybinding not working correctly in USS tree view #2823](https://github.com/zowe/zowe-explorer-vscode/issues/2823)
 
-- submitting JCL using command palette and following link causes "cannot set property 'dirty' of undefined" error [#1625](https://github.com/zowe/vscode-extension-for-zowe/issues/1625)
+## Roadmap
 
-### Improve experience for using API ML sessions in Zowe Explorer
+### [Add more functionality to the Jobs tree view](https://github.com/zowe/vscode-extension-for-zowe/issues/1597)
 
-- [STRETCH] Expand session does not prompt for login for APIML profile [#2261](https://github.com/zowe/vscode-extension-for-zowe/issues/2261)
-- [STRETCH] Search operation does not prompt for login for APIML profile [#2259](https://github.com/zowe/vscode-extension-for-zowe/issues/2259)
-
-## Address known and incoming high priority issues, interests, and technical debt.
-
-### Zowe Explorer VS Code extension
-
-#### Keytar shim in VSC removal in Aug release
-
-- Keytar Migration Plan [#2348](https://github.com/zowe/vscode-extension-for-zowe/issues/2348)
-- Write blog with updates to users and extenders about new credential manager
-
-#### High Priority bugs 
-
-- Zowe explorer writes logs into the wrong folder [#1926](https://github.com/zowe/vscode-extension-for-zowe/issues/1926)
-- Update clipboard-related calls to use a Theia-compatible option [#2219](https://github.com/zowe/vscode-extension-for-zowe/issues/2219)
-- VSC Compare function, not working with Favorites from Zowe Explorer [#2335](https://github.com/zowe/vscode-extension-for-zowe/issues/2335)
-
-#### Enhancements
- 
-- Add properties view for files in USS [#2254](https://github.com/zowe/vscode-extension-for-zowe/issues/2254)
-- [Stretch] Forward all extra properties to the SDK calls [#2399](https://github.com/zowe/vscode-extension-for-zowe/issues/2399)
-- [Stretch] zowe profiles create zosmf-profile allow specification of --console-name [#1667](https://github.com/zowe/vscode-extension-for-zowe/issues/1667)
-- [Stretch] Use vscode.FileSystemProvider for content downloaded from mainframe [#2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207)
-
-### zFTP VS Code extension
-
-- Frequently unable to create a new PDS member using the FTP Plugin in VSCode [#2350](https://github.com/zowe/vscode-extension-for-zowe/issues/2350)
-  
-### CICS VS Code extension
-
-- V2: Failed to initialize Credential manager vscode-extension-for-cics [#324](https://github.com/zowe/vscode-extension-for-cics/issues/324)
-- Complete move to [cics-for-zowe-client repository](https://github.com/zowe/cics-for-zowe-client) with CICS CLI plugin to be publish ready.
-
-### Kubernetes Credential Manager Plugin
-
-- Allow Zowe Explorer to install K8s credential manager via user acceptance [#2381](https://github.com/zowe/vscode-extension-for-zowe/issues/2381)
-- Update repository README with installation instructions and use cases [#19](https://github.com/zowe/zowe-cli-secrets-for-kubernetes/issues/19)
-
-### Golden CII Badge
-
-- Make sure internal and external documentation meet the CII Badge standard.
-- Determine what is left and complete the requirements of Passing level of CII badge [#2400](https://github.com/zowe/vscode-extension-for-zowe/issues/2400)
-  
-Helpful links for CII Badge criteria:
-[Passing](https://bestpractices.coreinfrastructure.org/en/criteria/0), 
-[Silver](https://bestpractices.coreinfrastructure.org/en/criteria/1), 
-[Gold](https://bestpractices.coreinfrastructure.org/en/criteria/2)
-
-# Roadmap
-
-## [v3 Pre-Release availability](https://github.com/zowe/vscode-extension-for-zowe/issues/2070)
-
-- *What problem are you solving?*
-  - Extenders will need to be aware of breaking changes in the upcoming major release of 3.0.0.
-- *What are you doing to solve it?*
-  - Publish a pre-release of v3 with documentation of breaking changes so Extenders will be able to begin their adoption early.
-- *When do you plan to start the work?*
-  - Work has already begun from pre-planning in 22Q2 and implementation began in 23Q1.
-- *When do you plan to deliver the solution?*
-  - 23Q3 
-
-## [Add more functionality to the Jobs tree view](https://github.com/zowe/vscode-extension-for-zowe/issues/1597)
+**COMPLETED**
 
 - *What problem are you solving?*
   - Users would like a comparable experience working with JES files, Zowe Explorer doesn't have a lot of functionality in that tree compared to others.
@@ -97,20 +55,9 @@ Helpful links for CII Badge criteria:
 - *When do you plan to start the work?*
   - 23Q1
 - *When do you plan to deliver the solution?*
-  - 23Q4
+  - 24Q1
 
-## [Improve error handling](https://github.com/zowe/vscode-extension-for-zowe/issues/1982)
-
-- *What problem are you solving?*
-  - Users would like error messages returned to be relevant to the error encountered and describe the issue clearly.
-- *What are you doing to solve it?*
-  - Make sure all errors are being handled appropriately and make sure the error message returned is helpful and understandable to the user.
-- *When do you plan to start the work?*
-  - 23Q1
-- *When do you plan to deliver the solution?*
-  - 23Q4
-
-## [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
+### [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
 
 - *What problem are you solving?*
   - Many users of Zowe Explorer aren't familiar with or are unaware of authentication methods supported by Zowe Explorer, like token authentication, SSO, & MFA. 
@@ -119,4 +66,17 @@ Helpful links for CII Badge criteria:
 - *When do you plan to start the work?*
   - 23Q3
 - *When do you plan to deliver the solution?*
-  - 24Q1
+  - 24Q2
+
+### [Zowe Explorer v3 GA](https://github.com/zowe/zowe-explorer-vscode/milestone/119)
+
+- *What problem are you solving?*
+  -  We have a great deal of items to complete for the v3 GA date and we don't want to miss anything important.
+- *What are you doing to solve it?
+  - Prepare a plan for dependency & engine updates, enhancements, migration tactics, and other items needed for our v3 GA release.
+- *When do you plan to start the work?*
+  - The work has been in progress since 23Q1
+- *When do you plan to deliver the solution?*
+  - 24Q3
+
+

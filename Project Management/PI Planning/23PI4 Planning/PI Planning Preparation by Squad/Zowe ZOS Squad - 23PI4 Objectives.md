@@ -1,8 +1,31 @@
 # Zowe ZOS Squad 23PI4 (2023/10/31 - 2023/01/22)
 
+## Engagement with IBM ZOS Team
+
+Continuing to try to get engagement with IBM on next release test access.  Will use Marist and/or Dallas Test systems.
+Will hopefully establish TDM (Technical Disclosure) and ICN access.  
+
+## Work with ZOSMF for better, simplified future
+
+Participation with ZOSMF team to end a near-decade of dysfunction.  Goals are to explore major simplification of back-end services while retaining compatibility with Zowe.  Considering APIML-like features in ZOSMF itself.   Maybe having ZSS server potentially as plugins to ZOSMF.   
+
 ## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
 
-Support for new auth type of using client side certificates transmitted thru GSK and approved by SAF (R_usermap) is in progress.  This will allow Zowe configurations for high-security low-user-interaction authentication.  The first phase is partially done and needs review and extensive testing.   Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
+The main work of supporting R_usermap is done, but this work exposed an issue in ZOS ESM security implementation.  The security context (ACEE) that is used to authorize calls uses the server/ASCB context rather than impersonated/thread/TCB context.  TSS and ACF2 implmented this in a different manner than RACF and implicity, SAF.  So there is the hope that this issue will be settled in Q4 202
+
+Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
+
+## Performance optimizations to ZIS PC Routines [#404](https://github.com/zowe/zowe-common-c/issues/404)
+
+The ZOS service IEALSQRY has been determined to be to expensive to be used in its current role and will be replaced by somthing more direct and simple
+
+## LPA Module Reuse in ZIS (Q4/Q1 ???) [#405](https://github.com/zowe/zowe-common-c/issues/405)
+
+Use of shared memory (LPA) for Zowe modules can consume too much precious 31 bit common storage and better reuse logic is planned.
+
+## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
+
+Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
 ## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626)
 
@@ -18,11 +41,7 @@ Dataset listing (catalog access) works, but create, copy, delete would be useful
 
 ### GSK services
 
-Loading certificates to keyrings, creating root CA's and server Certs.  
-
-## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
-
-Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
+Loading certificates to keyrings, creating root CA's and server Certs.
 
 ## QJS (Embedded JS updates) [#628](https://github.com/zowe/zss/issues/628)
 
@@ -49,7 +68,7 @@ The team lost a core developer in March 2022 and he has not been replaced.  The 
 
 A much more extensive guide to C programming on ZOS is started and drafts will be published.  
 
-## Dynamic ZIS Plugin Linkage (Due Q1)
+## Dynamic ZIS Plugin Linkage (Done)
 
 ZIS Plugins (although uncommon) are not well-behaved regarding EPL.  This project addresses that prrblem directly by introducing a dynamic linkage mechanism.  This is complex due to the fact that Metal C and Assembler do not have DLL's, but the work is almost done. 
 
@@ -59,7 +78,7 @@ Improved job submission and tracking API's are in progess.  The ability to remov
 
 Consumers:  VS Code Explorer, CLI (Fernando, Billie) - JES Explorer in desktop (Adarshdeep), 
 
-## Syslog (Due Q3 or Q4) 
+## Syslog (Due Q4) 
 
 Work is mostly complete:
 
@@ -70,7 +89,7 @@ Work is mostly complete:
   
 At this point we are done unless we find limitations with line-length logic of zcc wto
 
-## Comment-preservation in Yaml and JSON. (In progress, due Q2) 
+## Comment-preservation in Yaml and JSON. (In progress, due Q4) 
 
 Even though comments are not truly standard in Yaml and JSON and are thrown away in processing, the many uses of comments in Zowe configuration files requires that our processing of Yaml and JSON be enhanced to preserve comments through the many transformations that these documents go through.
 

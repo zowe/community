@@ -1,5 +1,8 @@
 #  23PI4 Joint PI Planning Kickoff
 
+## Meeting
+[Link to the meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96038553919?password=1de12d44-fdaa-4952-b748-15a67802a98b) Zowe 23PI4 PI Planning Kickoff
+
 ## Meeting Recording
 [Link to Recording](https://zoom.us/rec/share/BtjE44Vi2xtrDNkt_WJazzUKwf9Zc89EapiH_P0OP8xNrgAKXpJdET_et3rmRyp0.eQxzt9nhC5JU1cAM) Zowe 23PI4 PI Planning Kickoff
 

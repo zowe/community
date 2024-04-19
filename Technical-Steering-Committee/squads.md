@@ -112,13 +112,8 @@ Squads currently in the proposal process include the following:
 
 Squads currently in an incubator stage include the following:
 
-- ZEEBRA
-- Wizard Workflow
-- Zowe Mobile (Zowe on the go)
-- Intellij Plugin
 - Zowe Chat
-- zOS Squad
-
+ 
 ### Active
 
 Squads currently in the Active stage include the following:
@@ -126,10 +121,12 @@ Squads currently in the Active stage include the following:
 - API Mediation Layer
 - CLI
 - Documentation
-- Zowe Explorers
+- Intellij Idea
 - Onboarding
 - Systems
 - Web UI
+- zOS
+- Zowe Explorers
 
 ### Emeritus
 
