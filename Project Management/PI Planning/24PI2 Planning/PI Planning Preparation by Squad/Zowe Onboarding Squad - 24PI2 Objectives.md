@@ -1,7 +1,8 @@
 # Zowe Onboarding Squad - 24PI2 - (2024/04/xx - 2024/07/xx)
 
 ## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
-- Continue managing tracking Zowe blogs
+- Continue managing & tracking Zowe blogs
+- Continue managing & tracking relevant conferences for appropriate Zowe content
 - Quarterly Webinars (May)
 - Revise Roadmap Process & Deliver current (Next rev)
 - Roadmap (1st rev strategic) [24PI1 carry over]
@@ -16,7 +17,7 @@
   
 
 ## (3) Goal:  Education & Certification / Advance efforts
-- Finalize draft of course materials [Install, Configure, Admin & Troubleshoot Zowe z/OS components] 
+- [Stretch] Finalize draft of course materials [Install, Configure, Admin & Troubleshoot Zowe z/OS components] 
   
 
 ## Dependencies
