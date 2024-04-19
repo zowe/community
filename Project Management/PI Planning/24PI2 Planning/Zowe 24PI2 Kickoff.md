@@ -5,7 +5,7 @@ When: Tuesday, April 16th, 2024<br> 9:00am to 10:30am (UTC-05:00) Eastern Time -
 [Link to Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94718849157?password=eb774968-26da-4c97-b2d4-ff32405e74c2)
 
 ## Meeting Recording
-[Link to Recording]()
+[Link to Recording](https://zoom.us/rec/share/A_SNSaSO5NYEiy-JE1-jjuiuRgvwk0AJFFA2uRl5yEEWP3rGCDkr2lynNoK6ib4k.dWu5qLc2N7SdrDMH)
 
 ## Schedule
 ### 24PI2 - (2024/04/23 - 2024/07/22) <br>
