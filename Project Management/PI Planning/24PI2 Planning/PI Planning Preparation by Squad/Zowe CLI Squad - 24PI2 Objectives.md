@@ -2,6 +2,7 @@
 
 ## V3 Preparation
 Implement planned changes for V3 and continue to publish pre-release versions to npm.
+- [ ] [Message Zowe Daemon in use #1451](https://github.com/zowe/zowe-cli/issues/1451)
 - [ ] [Consolidate the Zowe client log files into the same directory #2116](https://github.com/zowe/zowe-cli/issues/2116)
 - [ ] [Display a reason why the CLI prompts for host, port, etc #2115](https://github.com/zowe/zowe-cli/issues/2115)
 - [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
@@ -24,6 +25,7 @@ These items require updates to documentation in GitHub.
 Continue to improve team config robustness and flexibility.
 - [ ] [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
 - [ ] [**_Stretch_**] [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
+- [ ] [**_Stretch_**] [Zowe requires password when using SSH key for SSH command  #1034](https://github.com/zowe/zowe-cli/issues/1034)
 
 ## Extension Support
 Ensure that extenders have access to the tools they need to interact with team config and secure credential storage.
@@ -44,6 +46,13 @@ Continue to responsibly address backlog items according to perceived priority an
 Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client Node.js SDK fulfills the criteria.
 - [ ] [Zowe SDK - Update SDK conformance documentation #1676](https://github.com/zowe/zowe-cli/issues/1676)
 - [ ] [**_Stretch_**] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
+
+## Stretch Issues - Added 4/19/2024
+- [ ] [Function to validate that credential manager will load successfully after ProfilesInfo constructor called #2111](https://github.com/zowe/zowe-cli/issues/2111)
+- [ ] [Deprecation of Commands Requires Replacement Command #2041](https://github.com/zowe/zowe-cli/issues/2041)
+- [ ] [How to make sure that a file is deleted with one command? #866](https://github.com/zowe/zowe-cli/issues/866)
+- [ ] [`zowe plugins validate` returns always RC=0 #1299](https://github.com/zowe/zowe-cli/issues/1299)
+- [ ] [Fix yargs parsing string arguments as numbers #1881](https://github.com/zowe/zowe-cli/issues/1881)
 
 # Zowe CLI / Zowe SDK Roadmap
 
