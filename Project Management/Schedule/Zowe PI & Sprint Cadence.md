@@ -67,8 +67,8 @@ Sprint 6 - 2024/01/21 - 2024/02/03<br>
 ### V3
 
 #### 3.0 </br>
-- System Demo TO BE ANNOUNCED<br>
-- GA TO BE ANNOUNCED<br>
+- System Demo 2024/10/06<br>
+- GA 2024/09/30<br>
 
 ### V2
 
@@ -79,26 +79,32 @@ Sprint 6 - 2024/01/21 - 2024/02/03<br>
 - Testing 2024/02/21 - 2024/03/03<br>
 - GA 2024/03/04<br>
 
-#### 2.15.1
+#### 2.16 </br>
 - Code Freeze 2024/05/14<br>
 - RC Build 2024/05/15<br>
 - System Demo 2024/06/03<br>
-- Testing 2024/05/15 - 2024/05/26<br>
+- Testing 2024/05/16 - 2024/05/26<br>
 - GA 2024/05/27<br>
 
-#### 2.15.2
-- Code Freeze 2024/08/06<br>
-- RC Build 2024/08/07<br>
-- System Demo 2024/08/26<br>
-- Testing 2024/08/07 - 2024/08/18<br>
-- GA 2024/08/19<br>
+#### 2.17 </br>
+- Code Freeze 2024/07/02<br>
+- RC Build 2024/07/03<br>
+- System Demo 2024/07/22<br>
+- Testing 2024/07/03 - 2024/07/14<br>
+- GA 2024/07/15<br>
 
-#### 2.15.3
-- Code Freeze 2024/10/29<br>
-- RC Build 2024/10/30<br>
-- System Demo 2024/11/18<br>
-- Testing 2024/10/30 - 2024/11/10<br>
-- GA 2024/11/11<br>
+#### 2.18 </br>
+- Code Freeze 2024/08/13<br>
+- RC Build 2024/08/14<br>
+- System Demo 2024/09/02<br>
+- Testing 2024/08/14 - 2024/08/25<br>
+- GA 2024/08/26<br>
+
+#### 2.18.1
+- Code Freeze 2024/01/02<br>
+- RC Build 2024/01/03<br>
+- Testing 2024/01/03 - 2024/01/14<br>
+- GA 2025/01/15<br>
 
 ### V1
 
@@ -109,9 +115,9 @@ Sprint 6 - 2024/01/21 - 2024/02/03<br>
 - GA 2024/04/10<br>
 
 #### 1.28.7
-- Code Freeze 2024/09/17<br>
-- RC Build 2024/09/18<br>
-- Testing 2024/09/18 - 2024/09/29<br>
-- GA 2024/09/30<br>
+- Code Freeze 2024/10/08<br>
+- RC Build 2024/10/09<br>
+- Testing 2024/10/09 - 2024/10/20<br>
+- GA 2024/10/21<br>
 
 #### No more V1.x releases planned
