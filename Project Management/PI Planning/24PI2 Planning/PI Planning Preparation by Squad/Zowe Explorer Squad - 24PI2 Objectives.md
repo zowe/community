@@ -2,7 +2,6 @@
 
 ### Continue preparing for v3 GA with continued pre-release availability, wrapping up all breaking changes by end of PI.
 
-- [Use vscode.FileSystemProvider for content downloaded from mainframe #2207](https://github.com/zowe/vscode-extension-for-zowe/issues/2207) - **Breaking change** *in progress* (24Q1 rollover)
 - [Support Certificate Authentication #2621](https://github.com/zowe/vscode-extension-for-zowe/issues/2621) - (24Q1 rollover)
 - [Provide Client Side z/OSMF Certificate Support Zowe Explorer #2373](https://github.com/zowe/vscode-extension-for-zowe/issues/2373) - (24Q1 rollover)
 - [Support logging in to multiple APIML instances per config file #2264](https://github.com/zowe/vscode-extension-for-zowe/issues/2264) - *stretch* (24Q1 rollover)
@@ -25,7 +24,6 @@
 
 ### Reduce Zowe Explorer reported bug count by 20% by the end of the PI. (82 total bugs in repo as of 4/8/2024)
 
-- ["Log out of authentication service" and "zowe auth logout apiml" Not working #2544](https://github.com/zowe/vscode-extension-for-zowe/issues/2544) - (24Q1 rollover)
 - [ZOWE JOB Data does not refresh #2561](https://github.com/zowe/vscode-extension-for-zowe/issues/2561) - (24Q1 rollover)
 - [ZE affecting multi select with VSC 1.87 #2798](https://github.com/zowe/zowe-explorer-vscode/issues/2798) 
 - [File keeps trying to be saved if not enough permissions #2627](https://github.com/zowe/zowe-explorer-vscode/issues/2627) 
