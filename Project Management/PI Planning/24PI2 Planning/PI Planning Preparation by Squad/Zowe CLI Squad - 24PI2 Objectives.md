@@ -39,6 +39,7 @@ Update the Zowe CLI Sample plug-in for V3 conformance/compatibility.
 ## High Priority and Upvoted Defects and Enhancements
 Continue to responsibly address backlog items according to perceived priority and community interest.
 - [ ] [Breaking Change in User/Password/Token Order of Precedence  #2109](https://github.com/zowe/zowe-cli/issues/2109)
+- [ ] [ConfigSecure.securePropsForProfile may return properties for wrong profile #1893](https://github.com/zowe/zowe-cli/issues/1893) - Added 4/19/2024
 - [ ] [**_Stretch_**] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
 - [ ] [**_Stretch_**] [Fix `overrides.CredentialManager:false` inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
 
