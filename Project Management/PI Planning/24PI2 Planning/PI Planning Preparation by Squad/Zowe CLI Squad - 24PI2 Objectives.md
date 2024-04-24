@@ -32,10 +32,6 @@ Ensure that extenders have access to the tools they need to interact with team c
 - [ ] [Regenerating schema after plugin install may not include all profile types #1882](https://github.com/zowe/zowe-cli/issues/1882)
 - [ ] [Notify extenders when changes to the vault have been made #1987](https://github.com/zowe/zowe-cli/issues/1987)
 
-## V3 Open Source CLI Plug-in Updates and Conformance
-Update the Zowe CLI Sample plug-in for V3 conformance/compatibility.
-- [ ] [**_Stretch_**] [Make V3 updates to the Zowe CLI Sample Plug-in](https://github.com/zowe/zowe-cli-sample-plugin/issues/96)
-
 ## High Priority and Upvoted Defects and Enhancements
 Continue to responsibly address backlog items according to perceived priority and community interest.
 - [ ] [Breaking Change in User/Password/Token Order of Precedence  #2109](https://github.com/zowe/zowe-cli/issues/2109)
