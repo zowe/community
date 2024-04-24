@@ -18,7 +18,7 @@ Draft content to assist users with understanding breaking changes between v2 and
 
 ### Complete restucturing of Extending section for API ML
 
-Part of Zowe v3 readiness. [#3269](https://github.com/zowe/docs-site/issues/3269) and [#3270](https://github.com/zowe/docs-site/issues/3270) 
+Part of Zowe v3 readiness. [#3270](https://github.com/zowe/docs-site/issues/3270) 
 
 
 ### Develop content for Troubleshooting Installation and Configuration 
@@ -27,13 +27,14 @@ Objective [#3164](https://github.com/zowe/docs-site/issues/3164)
 
 This is the final recommendation described in objectives the Zowe Server Install Study ([#2960](https://github.com/zowe/docs-site/issues/2960)) that remains to be addressed.
 
+Current content includes troubleshooting certificate configuration issues.
 PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this section under review.
 
-### Assist with Zen wizard doc 
+### Assist with Zowe server side component installation wizard doc 
 
 Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
-Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to develop doc content about the Zen wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
+Continue with the development of the Overview and Prerequisites sections. Complete wizard workflow diagram. Provide ad-hoc technical writing assistance to web UI squad to develop doc content relating to the Zowe server side component installation wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
 
 ### CII Badge standards
 
