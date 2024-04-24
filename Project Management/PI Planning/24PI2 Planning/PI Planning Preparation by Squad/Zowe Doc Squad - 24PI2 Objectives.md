@@ -34,7 +34,7 @@ PR [#3345](https://github.com/zowe/docs-site/pull/3345) that relates to this sec
 
 Objective [#3396](https://github.com/zowe/docs-site/issues/3396)
 
-Continue with the development of the Overview and Prerequisites sections. Provide ad-hoc technical writing assistance to web UI squad to develop doc content relating to the Zowe server side component installation wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
+Continue with the development of the Overview and Prerequisites sections. Complete wizard workflow diagram. Provide ad-hoc technical writing assistance to web UI squad to develop doc content relating to the Zowe server side component installation wizard. Add links to wizard from the doc and topics in the doc from the wizard UI.
 
 ### CII Badge standards
 
