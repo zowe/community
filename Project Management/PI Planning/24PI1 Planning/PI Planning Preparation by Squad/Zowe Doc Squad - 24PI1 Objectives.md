@@ -10,6 +10,8 @@ Status: We have reviewed content with squads and SMEs to determine the scope of 
 
 ### Create content for migrating from V2 to V3
 
+Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
+
 Objective #[3405](https://github.com/zowe/docs-site/issues/3405)
 
 Work with Onboarding squad with template creation for input from other Zowe squads that address technology changes, minimum requirements, deprecations, and changes in the installation process. 
@@ -68,6 +70,19 @@ Proposed structure:
 
 * **Extend API ML**
 
+
+## Question of the Month migration into Zowe Docs 
+(_stretch objective_)
+
+Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe Docs and establish the practice for updating this question.
+
+## Assist with content development for encouraging community growth
+(_stretch objective_)
+
+Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
+
+## Videos
+
 ### Document tips to assist with server side installation 
 (_stretch objective_)
 Objective [#3092](https://github.com/zowe/docs-site/issues/3092)
@@ -85,6 +100,7 @@ Collaborate with Onboarding/ZAC to migrate the Question of the Month into Zowe D
 Collaborate with Onboarding squad to develop content describing how to get involved with and contribute to the Zowe community. 
 
 ### Videos
+
 (_stretch objective_)
 
 Goal: Educate users through videos.
@@ -101,3 +117,4 @@ Goal: Educate users through videos.
 * Dependency on API ML squad to assist with API ML Use/Extending section restructuring.  
 * Collaboration with Web UI on Zen Wizard doc.
 * Dependency on demo video input contributors.
+

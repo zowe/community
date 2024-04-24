@@ -1,23 +1,23 @@
 <table>
     <thead>
         <tr>
-            <th colspan="5"><H1>24PI1 PI Planning</H1><br>
+            <th colspan="5"><H1>24PI2 PI Planning</H1><br>
 
 Day 1\
-When: Wednesday, January 24, 2024 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/96743700651?password=0ae2fcd8-854f-4ede-b94e-6732a1679eba<br>
-Meeting Recordings: [Day 1](https://zoom.us/rec/share/uffz3eSrZA72G3mK8A5AillihnWo83TWsZkq_la_f707kTGMFZhnJi7IQor7CTVi.kpshtsFKz-OhR52P)
+When: Wednesday, April 24, 2024 8:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/92260164252?password=c5a4f28c-a624-48c4-8973-ee063355c271)<br>
+Meeting Recordings: [Day 1]()
 <br>
 
 Day 2\
-When: Thursday, January 25, 2024 (UTC-05:00) Eastern Time - New York<br>
+When: Thursday, April 25, 2024 (UTC-05:00) Eastern Time - New York<br>
 Meeting: None. Squads will book breakouts (as needed)<br>
 Meeting Recordings: Squads will manage recordings (if needed)
 <br>
 
 Day 3\
-When: Friday, January 26, 2024 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
-LFX Meeting: https://zoom-lfx.platform.linuxfoundation.org/meeting/97792450807?password=2d9c9272-5e16-4b5f-a81a-a62afba50ab3<br>
+When: Friday, April 26, 2024 9:00am to 11:00am (UTC-05:00) Eastern Time - New York<br>
+LFX Meeting: [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99422501356?password=9b356f21-671f-4056-afef-f80f3b3d4c1d)<br>
 Meeting Recordings: [Day 3]()
 <br>
 
@@ -69,7 +69,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>8:00 AM</td>
             <td>5 mins</td>
             <td>Opening Announcement. Highlights of the PI Planning</td>
@@ -77,7 +77,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>8:05 AM</td>
             <td>50 mins</td>
             <td>Updates from the Zowe Advisory Council (ZAC) and the Technical Steering Committee (TSC)</td>
@@ -85,7 +85,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td></td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>8:55 AM</td>
             <td>5 mins</td>
             <td>5 min break / Switch to Squad Vision</td>
@@ -93,7 +93,7 @@ Workgroup Updates<br>
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>9:00 AM</td>
 <td>
 Squad vision<br>
@@ -119,7 +119,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>11:05 AM</td>
             <td>10 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -127,7 +127,7 @@ Squad vision<br>
     <tbody>
         <tr>
             <td>Squad Breakouts</td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>11:05 AM</td>
             <td>6 hrs</td>
 <td>Squad Breakouts (Squad Leads, Squad Members)<br>
@@ -141,9 +141,13 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2024-01-24</td>
+                <td>2024-04-24</td>
                 <td>11:05 AM</td>
 <td>
+
+Squad Breakout
+- Zowe Explorer Squad (11:15 breakout)
+    - Zoom/Webex Link: https://zoom.us/j/98602397925 <br>
 
 - API ML Squad
     - Zoom Link: https://zoom.us/j/98404818292<br>
@@ -159,14 +163,11 @@ Squad vision<br>
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2024-01-24</td>
+                <td>2024-04-24</td>
                 <td>12:00 PM</td>
 <td>
 
 Squad Breakout
-- Zowe CLI Squad
-    - Zoom/Webex Link:  [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99544067878?password=537d0836-2a4f-4d90-bdc3-909073ecee5c) <br>
-
 - Zowe Onboarding Squad
     - Zoom/Webex Link:  https://zoom.us/j/94312528890 <br>
 
@@ -176,15 +177,17 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2024-01-24</td>
+                <td>2024-04-24</td>
                 <td>1:00 PM</td>
 <td>
 
 
 Squad Breakout
 - WebUI Squad
-    - Zoom/Webex Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/98395552666?password=32ec80b2-f30c-4f7e-8228-63aad8285f4e<br>
-<br>
+    - Zoom/Webex Link: https://zoom.us/j/2627305486<br>
+
+- Zowe CLI Squad
+    - Zoom/Webex Link:  https://zoom.us/j/98680819353 <br>
 
 </td>
                 <td></td>
@@ -192,7 +195,7 @@ Squad Breakout
     <tbody>
             <tr>
                 <td>Squad Breakouts</td>
-                <td>2024-01-24</td>
+                <td>2024-04-24</td>
                 <td>3:00 PM</td>
 <td>
 
@@ -206,7 +209,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td></td>
-            <td>2024-01-24</td>
+            <td>2024-04-24</td>
             <td>5:00 PM</td>
             <td></td>
             <td>Day 1 End</td>
@@ -231,7 +234,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Breakouts (Optional)</td>
-            <td>2024-01-25</td>
+            <td>2024-04-25</td>
             <td>8:00 AM</td>
             <td>All Day</td>
             <td>Squads will hold breakouts and invite Stakeholders & Users using Slack</td>
@@ -240,7 +243,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2024-01-25</td>
+                <td>2024-04-25</td>
                 <td>8:00 AM</td>
 <td>
 
@@ -248,10 +251,6 @@ Squad Breakout
 - Zowe IntelliJ Squad
     - Zoom Link: https://us05web.zoom.us/j/4338910833?pwd=M3NGdDZMWkVyYk1pcnYzMmVtTUNTQT09<br>
 
-- API ML Squad
-    - Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/96263739034?password=984cd8c8-b509-4885-8a0a-87486695fd5a<br>
-    
-
 </td>
                 <td></td>
     </tbody>
@@ -260,7 +259,7 @@ Squad Breakout
 <tbody>
             <tr>
                 <td>Squad Breakout</td>
-                <td>2024-01-25</td>
+                <td>2024-04-25</td>
                 <td>11:00 AM</td>
 <td>
 
@@ -268,24 +267,12 @@ Squad Breakout
 - Zowe Systems Squad<br>
 - LFX Link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94763882669?password=a9debc28-7174-4a40-979f-262ccdcefa73<br>
 
-</td>
-                <td></td>
-    </tbody>
-
-<tbody>
-            <tr>
-                <td>Squad Breakout</td>
-                <td>2024-01-25</td>
-                <td>1:00 PM</td>
-<td>
-
-Squad Breakout
-- Zowe Explorer Squad
-    - Zoom/Webex Link: [link](https://zoom-lfx.platform.linuxfoundation.org/meeting/96454909352?password=18589c9e-318d-4ce0-a820-28cff2d03a62)<br>
 
 </td>
                 <td></td>
     </tbody>
+
+
 
 </tbody>
     <tbody>
@@ -299,7 +286,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>9:00 AM</td>
             <td>15 mins</td>
             <td>Explanation of Draft Readouts / Pre Q&A. Squad Members, Stakeholders & Users</td>
@@ -307,7 +294,7 @@ Squad Breakout
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>9:15 AM</td>
 <td>
 
@@ -332,7 +319,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Public Comment</td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>11:15 AM</td>
             <td>15 mins</td>
             <td>Questions and Answers. This time slot is available for the Community to ask questions</td>
@@ -340,7 +327,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>11:15 AM</td>
             <td>10 mins</td>
             <td>Break and Confidence Vote (see below). Squad Members, Stakeholders & Users</td>
@@ -348,7 +335,7 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td>Listen Only</td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Closing Comments </td>
@@ -356,14 +343,14 @@ During this session, all squads present their plans to the group. At the end of 
     <tbody>
         <tr>
             <td></td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>11:15 AM</td>
             <td></td>
             <td>Day 3 End</td>
     <tbody>
         <tr>
             <td></td>
-            <td>2024-01-26</td>
+            <td>2024-04-26</td>
             <td>11:30 AM</td>
             <td></td>
             <td></td>
@@ -383,5 +370,5 @@ A final vote of confidence for all members of Zowe to start the PI.  ANY votes 2
 
 
 [Closing Comments]()<br>
-[Confidence Vote Results](https://github.com/zowe/community/blob/master/Project%20Management/PI%20Planning/24PI1%20Planning/Zowe_24PI1_Confidence_Vote.png)<br>
+[Confidence Vote Results]()<br>
 
