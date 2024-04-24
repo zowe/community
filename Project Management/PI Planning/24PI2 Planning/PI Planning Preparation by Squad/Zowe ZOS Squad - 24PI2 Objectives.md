@@ -49,9 +49,9 @@ The team lost a core developer in March 2022 and he has not been replaced.  The 
 
 A much more extensive guide to C programming on ZOS is started and drafts will be published.  
 
-## Dynamic ZIS Plugin Linkage (Due Q1)
+## Common Module Registry
 
-ZIS Plugins (although uncommon) are not well-behaved regarding EPL.  This project addresses that prrblem directly by introducing a dynamic linkage mechanism.  This is complex due to the fact that Metal C and Assembler do not have DLL's, but the work is almost done. 
+Common module registry: the Zowe cross-memory server is intended to be a long running server application shared by multiple products; however, there are several cases when users may want to run multiple servers each of which loads its own copies of the ZIS core and plug-in modules to the LPA potentially wasting a lot of limited resources. A common module registry should solve this by providing ZIS with an API to 1) check whether a module it needs is already in the LPA and 2) load modules if they’re not in the LPA. There is an issue open for this: https://github.com/zowe/zowe-common-c/issues/405.
 
 ## JES API's (On hold, resources wait)
 
@@ -59,7 +59,19 @@ Improved job submission and tracking API's are in progess.  The ability to remov
 
 Consumers:  VS Code Explorer, CLI (Fernando, Billie) - JES Explorer in desktop (Adarshdeep), 
 
-## Syslog (Due Q3 or Q4) 
+## Port various zowe-common-c sources to LE 64-bit
+
+Currently, there is at least one source file which is not supported by ZSS64, and that makes it impossible for extenders, who rely on that functionality, to port their plug-ins to LE 64-bit. The related issue is https://github.com/zowe/zowe-common-c/issues/422.
+
+## Provide plug-ins with a way to check the version of ZSS
+
+3rd-party plug-ins need to have a way to check whether the host ZSS version is one they can support. The easiest solution is to expose that via a function which returns the current ZSS version, and which plug-ins can validate against their expected version. The related issue is https://github.com/zowe/zss/issues/680.
+
+## Support ZIS parameters longer than 128 chars
+
+Since ZIS has started to support line breaks recently, it would be useful to support loner parameter values; the current limit is 128 symbols. The related issue is https://github.com/zowe/zss/issues/684.
+
+## Syslog (Maybe no longer needed, needs re-eval)
 
 Work is mostly complete:
 
