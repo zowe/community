@@ -7,6 +7,7 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  - [Publishing steps](#publishing-steps)
    - [When ready to write](#when-ready-to-write)
    - [Include OMP Branding](#include-omp-branding)
+   - [Topic tagging](#topic-tagging)
    - [When ready to publish](#when-ready-to-publish)
  - [Review Process](#review-process)
  - [Content Guidelines](#content-guidelines)
@@ -77,6 +78,32 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    This blog describes how to obtain and install The [Open Mainfranme Project's](https://www.openmainframeproject.org/) [Zowe](https://www.openmainframeproject.org/all-projects/zowe) command line interface.  
    ```
 
+### Topic Tagging
+
+There are 5 topic tags allowed per article, and one of them must be used to categorize the blog as `Zowecore`, `Zoweincubation` or `Zoweecosystem`.  See [Zowe Core](#zowe-core), [Zowe Ecosystem](#zowe-ecosytstem), and [Zowe Incubation](#zowe-incubation).  To ensure the blog is included on the relevent feature pages to allow users to navigate to blogs related to Zowe components, decide which component the blog relates to and use the appropriate topic. A blog can belong to more than one topic.   
+
+ | Feature Page | Tag |
+ | ------------ | --- |
+ | Zowe API Mediation Layer | Zowe APIML |
+ | Zowe General | Zowe General | 
+ | Zowe Command Line Interface (CLI) | Zowe CLI |
+ | Zowe Desktop | Zowe Desktop |
+ | Zowe Community | zowe community | 
+ | Zowe Ecosystem | Zoweecosystem | 
+ | Zowe Explorer | Zowe Explorer |
+ | Zowe General | Zowe General |
+ | Zowe Incubation Projects | Zoweincubation |
+ | Zowe Core | Zowecore
+
+
+ <p align="center">
+<img src="./images/tagging.png" alt="Zowe Blog Categories" width="750px"/> 
+</p>
+
+The topic menu is available in edit mode for a blog by selecting the `...` on the top right banner.  
+
+Choosing the correct topic helps the blog to be include in the features pages available in the banner of medium.com/zowe.  
+
 **Please do not publish your own post.**
 
 ### When ready to publish
@@ -86,11 +113,6 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
    - compelling title and opening paragraph (discoverability is critical!)
    - featured image and visuals in place.  By default, the first image will be associated with the blog post, however you can choose to use a different headline image by navigating to the image while in edit mode, select it manually, and press `Shift + F`. 
    - appropriate links and tags
- - Include 4 tags like: `Zowe`, `Mainframe`, `DevOps`, `Open Source`, [specific technology like `COBOL`, `VSCode`], [specific roles like `Sysprog`], etc.  There are 5 tags allowed per article, and one of them must be used to categorize the blog as `Zowecore`, `Zoweincubation` or `Zoweecosystem`.  See [Zowe Core](#zowe-core), [Zowe Ecosystem](#zowe-ecosytstem), and [Zowe Incubation](#zowe-incubation).
-
- <p align="center">
-<img src="./images/choose_category.png" alt="Zowe Blog Categories" width="750px"/> 
-</p>
 
  - While editing the story, click “…”, click "Zowe" and click “Add to Publication”
  - If applicable, uncheck “Allow curators to recommend my story to interested readers.”
@@ -156,6 +178,8 @@ The blogsite https://medium.com/zowe is administered by the Open Mainframe Proje
  Posts are vendor-neutral, although the author is allowed to describe their bio in relation to their role at a commercial company, (e.g. Janet is lead systems programmer at mainframewidgets.com), including links to social media handles.
  
  An example of a blog about the Zowe CLI is [Setting up CA Endeavor for Zowe CLI](https://medium.com/zowe/setting-up-ca-endevor-for-zowe-cli-d8833a8312ee).
+
+ Articles for Zowe CLI should be tagged with 
 
 ### Zowe API Mediation Layer
 

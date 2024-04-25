@@ -2,20 +2,25 @@
 
 The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
 
+## Infrastructure
+- [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
+    * System planned to be online sometime this summer
+    * PI Goal: Defining and prioritizing our infrastructure requests
+- [Marist Mainframe - 3.1 Tracking](https://github.com/zowe/zowe-install-packaging/issues/3810)
+    * Planning for a 3.1 upgrade is underway. Expect work to begin in a future PI.
+
 ## Release and CICD
-- Currency, minor odds and ends improving gaps in automation
+- Currency and addressing gaps in automation
   - e.g. faster manifest.json.template error checking for RC process
+- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
 
 ## Community Onboarding
 - [Continue systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
 
-## Issue Triage
-- Continue reviewing issues in the backlog and prioritizing them.
-
 ## Adjacent work tracked in other squads
 
 ### Installation / Configuration
-- `zwe init generate` JCL refactor
+- `zwe init` JCL refactor
 - `zwe` Node.JS removal continuing under z/OS Squad.
 
 ### Zen
@@ -33,7 +38,6 @@ The primary goals for the system squad this PI continue - maintaining release op
 - [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
 - [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
 - [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
-- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
 - [Split release logic](https://github.com/zowe/zowe-install-packaging/issues/3285)
 
 ## Roadmap Items
