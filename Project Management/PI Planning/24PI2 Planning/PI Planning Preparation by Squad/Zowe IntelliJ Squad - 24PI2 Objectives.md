@@ -22,11 +22,11 @@
 - _When do you plan to deliver the solution?_
     - **24Q3 - 24Q4**
  
-### Feature to use API ML in Zowe Explorer plug-in for IntelliJ IDEA
+### Feature to use Zowe API ML in Zowe Explorer plug-in for IntelliJ IDEA
 - _What problem are you solving?_
-    - We've discovered some ways to work with the API ML, but we don't have prepared structure to work with it in our plug-in
+    - We've discovered some ways to work with the Zowe API ML, but we don't have prepared structure to work with it in our plug-in
 - _What are you doing to solve it?_
-    - Investigate, how to introduce possibility to work with a mainframe using API ML
+    - Investigate, how to introduce possibility to work with a mainframe using Zowe API ML
 - _When do you plan to start the work?_
     - **22Q4**
 - _When do you plan to deliver the solution?_
@@ -54,9 +54,9 @@
 - _When do you plan to deliver the solution?_
     - **24Q2**
 
-## Zowe CICS plug-in for IntelliJ IDEA
+## CICS extension for Zowe Explorer plug-in for IntelliJ IDEA
 
-### CICS Plugin MVP - basic interactions + tree for CICS resources
+### CICS extension MVP - basic interactions + tree for CICS resources
 - _What problem are you solving?_
     - As an IntelliJ Platform user, I want to have access to CICS resources and to be able to work with them through the
 IntelliJ IDEA IDEs
