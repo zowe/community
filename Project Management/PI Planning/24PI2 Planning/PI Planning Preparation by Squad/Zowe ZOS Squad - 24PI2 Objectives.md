@@ -1,10 +1,22 @@
 # Zowe ZOS Squad 24PI1 - (2024/01/23 - 2024/04/22)
 
-## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631)
+## Port various zowe-common-c sources to LE 64-bit [#422](https://github.com/zowe/zowe-common-c/issues/422) Due Q2 2024
 
-Support for new auth type of using client side certificates transmitted thru GSK and approved by SAF (R_usermap) is in progress.  This will allow Zowe configurations for high-security low-user-interaction authentication.  The first phase is partially done and needs review and extensive testing.   Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
+Currently, there is at least one source file which is not supported by ZSS64, and that makes it impossible for extenders, who rely on that functionality, to port their plug-ins to LE 64-bit.
 
-## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626)
+## Provide plug-ins with a way to check the version of ZSS [#680](https://github.com/zowe/zss/issues/680) Due Q2 2024
+ 
+3rd-party plug-ins need to have a way to check whether the host ZSS version is one they can support. The easiest solution is to expose that via a function which returns the current ZSS version, and which plug-ins can validate against their expected version.
+
+## Support ZIS parameters longer than 128 chars [684](https://github.com/zowe/zss/issues/684) Due Q2 2024
+
+Since ZIS has started to support line breaks recently, it would be useful to support loner parameter values; the current limit is 128 symbols. The related issue is .
+
+## Direct usage of ConfigManager by Launcher [#110](https://github.com/zowe/launcher/issues/110) Due Q2 2024
+
+More processes are made by running shell programs (forking) indirectly rather than by direct call.   The Launcher is one case and direct integration will help with Zowe start-up resource usage.
+
+## Embedded JavaScript Enhancements [#626](https://github.com/zowe/zss/issues/626) (ongoing, partially done)
 
 The embedded javascript feature has allowed almost all ZWE code to be uplifted from shell scripts and frequent calls to start up Node to a running well-structured TypeScript.  A few gaps persist and should be closed.  
 
@@ -20,24 +32,16 @@ Dataset listing (catalog access) works, but create, copy, delete would be useful
 
 Loading certificates to keyrings, creating root CA's and server Certs.  
 
-## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627)
+## Configuration Management Semantic Checks [#627](https://github.com/zowe/zss/issues/627) (ongoing, partially done)
 
 Annotation in JSONSchema.  Standard validations including file and dataset existence, network resources, security/resources.  Maybe custom validations using embedded javascript.
 
-## QJS (Embedded JS updates) [#628](https://github.com/zowe/zss/issues/628)
-
-QuickJS overdue for a rebase.   (Sean this might not be true).   Also the tracing and debuggability of QJS errors needs improvement.  Error's in the QJS pcode interpreter are hard to understand.   Ebcdic vs UTF8 issues still persist.   Improvements are needed.  
-
-## Yaml Comments [#3183](https://github.com/zowe/zowe-install-packaging/issues/3183) [#629](https://github.com/zowe/zss/issues/629)
+## Yaml Comments [#3183](https://github.com/zowe/zowe-install-packaging/issues/3183) [#629](https://github.com/zowe/zss/issues/629) (needs testing and integration)
 
 Prototyped. Fork of LibYaml.   It was suggested that we could offer this to upstream to the libyaml github project.   I have little hope that they will entertain the offer, but we
 should try, just to be exemplary OSS citizens.  
 
-## JavaScript/TypeScript top-layer in ZSS [#630](https://github.com/zowe/zss/issues/630)
-
-The top level of ZSS which mostly reads configuration data and initializes plugins could probably be done as a JavaScript Script using the new-ish (2022) Embedded JS facility. The relative surplus of JavaScript engineers available could make this code more flexible.  Also, this could allow service plugins to be written in TS/JS.  Considering the bulk of the service code is picking through URL's and a POST method's JSON body, this may speed development.  This would also engender a clearer separation of what is zowe-common-c from zss.   The actual low-level services (for example validating a certificate with R_usermap) can be written as a C API and exposed to Embedded JS.   This can enhance and standardize unit testing, because the service backend as the service can be called from standalone JavaScript programs as well as be in ZSS JavaScript-implemented services.   These tests can be done without having to stand up a full zss installation and driving tests through webservice calls.
-
-## Unit Test Automation
+## Unit Test Automation (resource wait)
 
 The zowe-common-c repo has a directory full of unit tests, but there little-to-no GitHub CI/CD integration.  A build script that builds all tests is needed and can be derived from the build for the configuration manager's build.   It would be good to get a volunteer to help with automation.  
 
@@ -57,19 +61,13 @@ Common module registry: the Zowe cross-memory server is intended to be a long ru
 
 Improved job submission and tracking API's are in progess.  The ability to remove a zOSMF, which currently provides API) dependency is helpful for other Zowe components and project.  Need to interface with consumers to validate requirements.
 
-Consumers:  VS Code Explorer, CLI (Fernando, Billie) - JES Explorer in desktop (Adarshdeep), 
+## JavaScript/TypeScript top-layer in ZSS [#630](https://github.com/zowe/zss/issues/630) (future)
 
-## Port various zowe-common-c sources to LE 64-bit
+The top level of ZSS which mostly reads configuration data and initializes plugins could probably be done as a JavaScript Script using the new-ish (2022) Embedded JS facility. The relative surplus of JavaScript engineers available could make this code more flexible.  Also, this could allow service plugins to be written in TS/JS.  Considering the bulk of the service code is picking through URL's and a POST method's JSON body, this may speed development.  This would also engender a clearer separation of what is zowe-common-c from zss.   The actual low-level services (for example validating a certificate with R_usermap) can be written as a C API and exposed to Embedded JS.   This can enhance and standardize unit testing, because the service backend as the service can be called from standalone JavaScript programs as well as be in ZSS JavaScript-implemented services.   These tests can be done without having to stand up a full zss installation and driving tests through webservice calls.
 
-Currently, there is at least one source file which is not supported by ZSS64, and that makes it impossible for extenders, who rely on that functionality, to port their plug-ins to LE 64-bit. The related issue is https://github.com/zowe/zowe-common-c/issues/422.
+## HTTP Authentication Refactoring and Client Cert Support [#631](https://github.com/zowe/zss/issues/631) (future)
 
-## Provide plug-ins with a way to check the version of ZSS
-
-3rd-party plug-ins need to have a way to check whether the host ZSS version is one they can support. The easiest solution is to expose that via a function which returns the current ZSS version, and which plug-ins can validate against their expected version. The related issue is https://github.com/zowe/zss/issues/680.
-
-## Support ZIS parameters longer than 128 chars
-
-Since ZIS has started to support line breaks recently, it would be useful to support loner parameter values; the current limit is 128 symbols. The related issue is https://github.com/zowe/zss/issues/684.
+Support for new auth type of using client side certificates transmitted thru GSK and approved by SAF (R_usermap) is in progress.  This will allow Zowe configurations for high-security low-user-interaction authentication.  The first phase is partially done and needs review and extensive testing.   Phase 2 is a long-overdue refactoring of zss httpserver authentication into plugins.  There are auth features for HTTP Basic, JWT, Certificates, SSH Tunnels (single user mode), etc.   This code is intertwined in ways that is getting hard to support.   This must be done in Zowe 3.0 to make a long term investment against achieving notoriety in CVE's (!).
 
 ## Syslog (Maybe no longer needed, needs re-eval)
 

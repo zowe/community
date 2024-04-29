@@ -12,14 +12,15 @@ Implement planned changes for V3 and continue to publish pre-release versions to
 
 ## Repo maintenance
 These items require updates to documentation in GitHub.
-- [ ] [Update contribution guidelines to include policy on new dependencies #62](https://github.com/zowe/zowe-cli/issues/62)
-- [ ] [Outdated doc about Zowe release timeline #712](https://github.com/zowe/zowe-cli/issues/712)
+- [ ] [**_Stretch_**] [Update contribution guidelines to include policy on new dependencies #62](https://github.com/zowe/zowe-cli/issues/62)
+- [ ] [**_Stretch_**] [Outdated doc about Zowe release timeline #712](https://github.com/zowe/zowe-cli/issues/712)
 
 ## Other:
-- [ ] [ADA sec. 508 Accessiblity Issue — Color Contrast Issue in Profiles List #1948](https://github.com/zowe/zowe-cli/issues/1948) - This may be resolved in the V3 docs
-- [ ] [`zowe plugins list` registry qualification  #63](https://github.com/zowe/zowe-cli/issues/63)
+- [ ] [`findJobByID` does not return `spoolFiles` zowe-cli-ftp-plugin#156](https://github.com/zowe/zowe-cli-ftp-plugin/issues/156 )
 - [ ] [Remove deprecated/unstable Utils functions #1947](https://github.com/zowe/zowe-cli/issues/1947)
-- [ ] [**_Stretch_**] [`findJobByID` does not return `spoolFiles` zowe-cli-ftp-plugin#156](https://github.com/zowe/zowe-cli-ftp-plugin/issues/156 )
+- [ ] [**_Stretch_**] [ADA sec. 508 Accessiblity Issue — Color Contrast Issue in Profiles List #1948](https://github.com/zowe/zowe-cli/issues/1948)
+- [ ] [**_Stretch_**] [`zowe plugins list` registry qualification  #63](https://github.com/zowe/zowe-cli/issues/63)
+
 
 ## Config Usability
 Continue to improve team config robustness and flexibility.
@@ -53,16 +54,6 @@ Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client No
 
 # Zowe CLI / Zowe SDK Roadmap
 
-## Ensure that Zowe VS Code Extensions can Share Access to zowe.schema.json with Zowe CLI
-- _What problem are you solving?_
-  - Zowe CLI overwrites team config profile entries contributed by Zowe Explorer extensions, preventing those extensions from being able to properly access profiles from a user's team config.
-- _What are you doing to solve it?_
-  - Schema profile additions will be synchronized in such a way that both VS Code extensions and Zowe CLI plug-ins can contribute to a schema without removing the profiles contributed by the other.
-- _When do you plan to start the work?_
-  - **CY23Q4**
-- _When do you plan to deliver the solution?_
-  - **CY24Q1** 
-
 ## Gold OpenSSF Best Practices Badge (Formerly CII Best Practices Badge)
 - _What problem are you solving?_
   - The Zowe Project has not earned the gold OpenSSF Best Practices Badge, a requirement from LF/OMP that ensures the Open Source project satisfies FLOSS (Free/Libre & Open Source Software) [Best Practices criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
@@ -89,3 +80,13 @@ Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client No
   - **CY23Q2**
 - _When do you plan to deliver the solution?_
   - **CY23Q4** (delayed until CY24Q2)
+
+## (Completed) Ensure that Zowe VS Code Extensions can Share Access to zowe.schema.json with Zowe CLI
+- _What problem are you solving?_
+  - Zowe CLI overwrites team config profile entries contributed by Zowe Explorer extensions, preventing those extensions from being able to properly access profiles from a user's team config.
+- _What are you doing to solve it?_
+  - Schema profile additions will be synchronized in such a way that both VS Code extensions and Zowe CLI plug-ins can contribute to a schema without removing the profiles contributed by the other.
+- _When do you plan to start the work?_
+  - **CY23Q4**
+- _When do you plan to deliver the solution?_
+  - **CY24Q1** 
