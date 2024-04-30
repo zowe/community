@@ -80,11 +80,11 @@ Sprint 6 - 2025/01/21 - 2025/02/03<br>
 - GA 2024/03/04<br>
 
 #### 2.16 </br>
-- Code Freeze 2024/05/14<br>
-- RC Build 2024/05/15<br>
-- System Demo 2024/06/03<br>
-- Testing 2024/05/16 - 2024/05/26<br>
-- GA 2024/05/27<br>
+- Code Freeze 2024/04/30<br>
+- RC Build 2024/05/01<br>
+- System Demo 2024/05/20<br>
+- Testing 2024/05/01 - 2024/05/13<br>
+- GA 2024/05/13<br>
 
 #### 2.17 </br>
 - Code Freeze 2024/07/02<br>
