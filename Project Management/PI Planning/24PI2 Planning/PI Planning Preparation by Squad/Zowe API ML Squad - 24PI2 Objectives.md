@@ -34,17 +34,6 @@ API ML Squad Plan:
 - When do you plan to deliver the solution?
   - 25PI2
 
-### Improve Fault tolerance testing
-
-- What problem are you solving?
-  - The problems related to fault tolerance are found in the user's systems.
-- What are you doing to solve it?
-  - Improve the test suite to contain more tests on how zowe behaves in different fault scenarios and then fixing the issues.
-- When do you plan to start the work?
-  - 24PI3
-- When do you plan to deliver the solution?
-  - 24PI4
-
 ### Report API ML State to the Programmer
 
 - What problem are you solving?
@@ -52,7 +41,7 @@ API ML Squad Plan:
 - What are you doing to solve it?
   - Provide correct WTO message when the API ML is actually started. 
 - When do you plan to start the work?
-  - 24PI3
+  - 24PI4
 - When do you plan to deliver the solution?
   - 24PI4
 
