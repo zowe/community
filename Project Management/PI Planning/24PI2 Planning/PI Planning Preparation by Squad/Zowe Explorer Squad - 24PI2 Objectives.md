@@ -58,6 +58,39 @@
 - *When do you plan to deliver the solution?*
   - 24Q1
 
+### Enable client certificate authentication in Zowe Explorer
+
+- *What problem are you solving?*
+  - Users are unable to configure Zowe Explorer to authenticate to z/OSMF and the Zowe API Mediation Layer using client certificates.
+- *What are you doing to solve it?
+  - Provide a UI that allows users to select certificate files and use those certificates for authentication to z/OSMF or the APIML.
+- *When do you plan to start the work?*
+  - 24Q1
+- *When do you plan to deliver the solution?*
+  - 24Q2
+
+### Allow users to access Zowe Explorer treeview resources in an interactive way
+
+- *What problem are you solving?*
+  - Users and extenders want to be able to see more information than the current treeviews can provide.
+- *What are you doing to solve it?
+  - Provide a way to view Zowe Explorer resources that provides more information, possibly as a table with sortable columns providing information about each resource, for example.
+- *When do you plan to start the work?*
+  - 24Q2
+- *When do you plan to deliver the solution?*
+  - 24Q3
+
+### Searching within data sets and jobs
+
+- *What problem are you solving?*
+  - Users that are accustomed to using Search-For in ISPF cannot search for a string in data sets or job spool files using Zowe Explorer.
+- *What are you doing to solve it?
+  - Give users the ability to search for a string in a filtered list of data sets and jobs, returning a list of data sets or jobs that contain the search term.
+- *When do you plan to start the work?*
+  - 24Q2
+- *When do you plan to deliver the solution?*
+  - 24Q3
+
 ### [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
 
 - *What problem are you solving?*
