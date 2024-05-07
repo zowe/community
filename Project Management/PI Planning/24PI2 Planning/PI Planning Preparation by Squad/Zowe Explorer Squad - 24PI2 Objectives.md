@@ -69,12 +69,12 @@
 - *When do you plan to deliver the solution?*
   - 24Q2
 
-### Option to display Zowe Explorer resources as a table
+### Allow users to access Zowe Explorer treeview resources in an interactive way
 
 - *What problem are you solving?*
-  - Users and extenders want to be able to see more information than the current tree views can provide.
+  - Users and extenders want to be able to see more information than the current treeviews can provide.
 - *What are you doing to solve it?
-  - Provide a way to view Zowe Explorer resources in a table with multiple, sortable columns providing information about the resource (e.g., for jobs a user might be able to see the system name, owner, status, condition code, submission and completion dates, etc.). Allow extenders to make use of this table view for their extensions.
+  - Provide a way to view Zowe Explorer resources that provides more information, possibly as a table with sortable columns providing information about each resource, for example. Allow extenders to make use of this functionality for their extensions.
 - *When do you plan to start the work?*
   - 24Q2
 - *When do you plan to deliver the solution?*
