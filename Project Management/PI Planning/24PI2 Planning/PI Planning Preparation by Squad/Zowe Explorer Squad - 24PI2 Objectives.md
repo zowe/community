@@ -74,7 +74,7 @@
 - *What problem are you solving?*
   - Users and extenders want to be able to see more information than the current treeviews can provide.
 - *What are you doing to solve it?
-  - Provide a way to view Zowe Explorer resources that provides more information, possibly as a table with sortable columns providing information about each resource, for example. Allow extenders to make use of this functionality for their extensions.
+  - Provide a way to view Zowe Explorer resources that provides more information, possibly as a table with sortable columns providing information about each resource, for example.
 - *When do you plan to start the work?*
   - 24Q2
 - *When do you plan to deliver the solution?*
