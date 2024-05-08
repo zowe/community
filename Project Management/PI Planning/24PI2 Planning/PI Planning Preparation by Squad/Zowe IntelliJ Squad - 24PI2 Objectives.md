@@ -65,7 +65,7 @@ IntelliJ IDEA IDEs
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **N/A**
+    - **25Q4**
 
 ## UI plug-in for Jenkins in IntelliJ IDEA IDEs
 
@@ -77,4 +77,4 @@ IntelliJ IDEA IDEs
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **N/A**
+    - **25Q4**
