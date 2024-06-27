@@ -2,21 +2,6 @@
 
 ## PI Schedule
 
-### 24PI1 - (2024/01/23 - 2024/04/22)
-
-Planning - 2024/01/23 - 2024/01/29<br>
-
-- Wednesday, January 24 - Opening (Day 1)<br>
-- Thursday, January 25 - Breakouts (Optional) (Day 2)<br>
-- Friday, January 26 - Final Readouts (Day 3)<br>
-
-Sprint 1 - 2024/01/30 - 2024/02/12 (Innovation Sprint)<br>
-Sprint 2 - 2024/02/13 - 2024/02/26<br>
-Sprint 3 - 2024/02/27 - 2024/03/11<br>
-Sprint 4 - 2024/03/12 - 2024/03/25<br>
-Sprint 5 - 2024/03/26 - 2024/04/08<br>
-Sprint 6 - 2024/04/09 - 2024/04/22<br>
-
 ### 24PI2 - (2024/04/23 - 2024/07/22)
 
 Planning - 2024/04/23 - 2024/04/29<br>
@@ -68,23 +53,22 @@ Sprint 6 - 2025/01/21 - 2025/02/03<br>
 
 #### 3.0 </br>
 - System Demo 2024/10/06<br>
-- GA 2024/09/30<br>
+- GA 2024/09/30<be>
+
+#### 3.0.1 </br>
+- Code Freeze 2025/11/26<br>
+- RC Build 2025/11/27<br>
+- Testing 2025/11/27 - 2025/12/08<br>
+- GA 2024/12/09<be>
+
+#### 3.1.0 </br>
+- Code Freeze 2024/01/02<br>
+- RC Build 2024/01/03<br>
+- System Demo 2024/02/11<br>
+- Testing 2024/01/03 - 2024/02/02<br>
+- GA 2025/02/03<br>
 
 ### V2
-
-#### 2.15 </br>
-- Code Freeze 2024/02/20<br>
-- RC Build 2024/02/21<br>
-- System Demo 2024/03/11<br>
-- Testing 2024/02/21 - 2024/03/03<br>
-- GA 2024/03/04<br>
-
-#### 2.16 </br>
-- Code Freeze 2024/04/30<br>
-- RC Build 2024/05/01<br>
-- System Demo 2024/05/20<br>
-- Testing 2024/05/01 - 2024/05/13<br>
-- GA 2024/05/13<br>
 
 #### 2.17 </br>
 - Code Freeze 2024/07/02<br>
@@ -108,16 +92,10 @@ Sprint 6 - 2025/01/21 - 2025/02/03<br>
 
 ### V1
 
-#### 1.28.6
-- Code Freeze 2024/03/27<br>
-- RC Build 2024/03/28<br>
-- Testing 2024/03/28 - 2024/04/09<br>
-- GA 2024/04/10<br>
-
-#### 1.28.7
-- Code Freeze 2024/05/14<br>
-- RC Build 2024/05/15<br>
-- Testing 2024/05/15 - 2024/05/26<br>
-- GA 2024/05/27<br>
+#### 1.28.8
+- Code Freeze 2024/10/01<br>
+- RC Build 2024/10/02<br>
+- Testing 2024/10/02 - 2024/10/14<br>
+- GA 2024/10/14<br>
 
 #### No more V1.x releases planned
