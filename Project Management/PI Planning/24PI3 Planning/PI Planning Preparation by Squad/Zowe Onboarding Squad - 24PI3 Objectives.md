@@ -3,27 +3,23 @@
 ## (1) Goal:  Community Outreach:  Support Existing practices and programs to facilitate & improve communication
 - Continue managing & tracking Zowe blogs
 - Continue managing & tracking relevant conferences for appropriate Zowe content
-- Quarterly Webinars (May)
-- Revise Roadmap Process & Deliver current (Next rev)
-- Roadmap (1st rev strategic) [24PI1 carry over]
-- Q o M transition to zowe docs [24PI1 carry over]
-- Introduce DISCORD Discussions Monitoring [Replaces the Pilot Github Discussions feedback loop]
+- Quarterly Webinars (August)
+- Deliver current Roadmap (24PI3) in new format
+- Publish Strategic Roadmap
+- Revise Zowe.org to minimize overlapping content with Zowe DOCS
+- Q o M transition to zowe docs [stretch]
 
 ## (2) Goal:  Community Growth: Onboard more Vendors & Prepare for new and next rev Conformance programs  
 - Host discussions & encourage participation with interested Vendors
-- Finalize existing conformance programs
-- Finalize NEW conformance programs:  SDK, Explorer for Intelli J
-- Schedule the "Repeat" of V3 Office Hours for Extenders & Consumers
-  
-
-## (3) Goal:  Education & Certification / Advance efforts
-- [Stretch] Finalize draft of course materials [Install, Configure, Admin & Troubleshoot Zowe z/OS components] 
+- Launch v3 conformance for all existing conformance programs
+- Finalize & launch NEW conformance programs:  SDK, Explorer for Intelli J
+- Host and post the "Repeat" of V3 Office Hours for Extenders & Consumers
   
 
 ## Dependencies
 - ZAC:  Collaborate on: Blogs, Quarterly Webinar, Roadmap 
 - DOC:  Consumer Awareness / Zowe.org updates
-- ALL:  Roadmap updates / Q of the MONTH input / Office Hours   
+- ALL:  Roadmap updates / Office Hours   
 - Explorer for IntelliJ:  Guide & support conformance program
 - CLI:  Guide & support SDK conformance program
 
