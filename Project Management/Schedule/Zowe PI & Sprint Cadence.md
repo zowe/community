@@ -4,13 +4,13 @@
 
 - 24PI3 - (July 23, 2024 - October 21, 2024)
 - 24PI4 - (October 22, 2024 - February 03, 2025)
-- 25PI1 - (February 3, 2025 - May 4, 2025)
-- 25PI2 - (May 5, 2025 - August 3, 2025)
-- 25PI3 - (August 4, 2025 - November 2, 2025)
-- 25PI4 - (November 3, 2025 - February 1, 2026)
-- 26PI1 - (February 2, 2026 - May 3, 2026)
-- 26PI2 - (May 4, 2026 - August 2, 2026)
-- 26PI3 - (August 3, 2026 - November 1, 2026)
+- 25PI1 - (February 4, 2025 - May 5, 2025)
+- 25PI2 - (May 6, 2025 - August 4, 2025)
+- 25PI3 - (August 5, 2025 - November 3, 2025)
+- 25PI4 - (November 4, 2025 - February 2, 2026)
+- 26PI1 - (February 3, 2026 - May 4, 2026)
+- 26PI2 - (May 5, 2026 - August 3, 2026)
+- 26PI3 - (August 4, 2026 - November 2, 2026)
 
 ## Releases
 
@@ -28,46 +28,46 @@
 - System Demo: February 11, 2024
 
 #### 3.2.0 
-- Code Freeze: April 6, 2025
-- RC Build: April 7, 2025
-- Testing: April 7, 2025 - May 3, 2025
-- GA: May 4, 2025
-- System Demo: May 12, 2025
+- Code Freeze: April 7, 2025
+- RC Build: April 8, 2025
+- Testing: April 8, 2025 - May 4, 2025
+- GA: May 5, 2025
+- System Demo: May 13, 2025
 
 #### 3.3.0 
-- Code Freeze: July 6, 2025
-- RC Build: July 7, 2025
-- Testing: July 7, 2025 - August 2, 2025
-- GA: August 3, 2025
-- System Demo: August 11, 2025
+- Code Freeze: July 7, 2025
+- RC Build: July 8, 2025
+- Testing: July 8, 2025 - August 3, 2025
+- GA: August 4, 2025
+- System Demo: August 12, 2025
 
 #### 3.4.0 
-- Code Freeze: October 5, 2025
-- RC Build: October 6, 2025
-- Testing: October 6, 2025 - November 1, 2025
-- GA: November 2, 2025
-- System Demo: November 10, 2025
+- Code Freeze: October 6, 2025
+- RC Build: October 7, 2025
+- Testing: October 7, 2025 - November 2, 2025
+- GA: November 3, 2025
+- System Demo: November 11, 2025
 
 #### 3.5.0 
-- Code Freeze: January 4, 2026
-- RC Build: January 5, 2026
-- Testing: January 5, 2026 - January 31, 2026
-- GA: February 1, 2026
-- System Demo: February 9, 2026
+- Code Freeze: January 5, 2026
+- RC Build: January 6, 2026
+- Testing: January 6, 2026 - February 1, 2026
+- GA: February 2, 2026
+- System Demo: February 10, 2026
 
 #### 3.6.0 
-- Code Freeze: April 5, 2026
-- RC Build: April 6, 2026
-- Testing: April 6, 2026 - May 2, 2026
-- GA: May 3, 2026
-- System Demo: May 11, 2026
+- Code Freeze: April 6, 2026
+- RC Build: April 7, 2026
+- Testing: April 7, 2026 - May 3, 2026
+- GA: May 4, 2026
+- System Demo: May 12, 2026
 
 #### 3.7.0 
-- Code Freeze: July 5, 2026
-- RC Build: July 6, 2026
-- Testing: July 6, 2026 - August 1, 2026
-- GA: August 2, 2026
-- System Demo: August 10, 2026
+- Code Freeze: July 6, 2026
+- RC Build: July 7, 2026
+- Testing: July 7, 2026 - August 2, 2026
+- GA: August 3, 2026
+- System Demo: August 11, 2026
 
 ### V2
 
