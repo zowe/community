@@ -79,10 +79,34 @@
 - System Demo: September 03, 2024
 
 #### 2.18.1
-- Code Freeze: February 11, 2025
-- RC Build: February 12, 2025
-- Testing: February 12, 2025 - February 23, 2025
+- Code Freeze: February 10, 2025
+- RC Build: February 11, 2025
+- Testing: February 11, 2025 - February 23, 2025
 - GA: February 24, 2025
+
+### 2.18.2
+- Code Freeze: August 15, 2025
+- RC Build: August 15, 2025
+- Testing: August 16, 2025 - August 28, 2025
+- GA: August 29, 2025
+
+### 2.18.3
+- Code Freeze: February 09, 2026
+- RC Build: February 10, 2026
+- Testing: February 10, 2026 - February 22, 2026
+- GA: February 23, 2026
+
+### 2.18.4
+- Code Freeze: August 17, 2026
+- RC Build: August 18, 2026
+- Testing: August 18, 2026 - August 30, 2026
+- GA: August 31, 2026
+
+### 2.18.5
+- Code Freeze: February 08, 2027
+- RC Build: February 09, 2027
+- Testing: February 09, 2027 - February 21, 2027
+- GA: February 22, 2027
 
 ### V1
 
