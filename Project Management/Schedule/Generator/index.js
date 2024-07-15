@@ -1,8 +1,8 @@
 const DAYS_IN_WEEK = 7
 const PI_LENGTH_IN_DAYS = 13 * DAYS_IN_WEEK;
 
-const startWith = process.argv[2] || "2025/02/04";
-const PIs = process.argv[3] || 7; // 2 years worth of the PI
+const startWith = process.argv[2] || "2025/02/04"; // Provide the first day of PI (E.g. Tuesday)
+const PIs = process.argv[3] || 8; // 2 years worth of the PI
 
 const previousDate = new Date(startWith)
 const date = new Date(startWith)
