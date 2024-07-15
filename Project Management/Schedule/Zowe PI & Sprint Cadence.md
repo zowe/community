@@ -1,101 +1,95 @@
 # Zowe PI Schedule and Releases
 
-## PI Schedule
+## Schedule
 
-### 24PI2 - (2024/04/23 - 2024/07/22)
-
-Planning - 2024/04/23 - 2024/04/29<br>
-
-- Wednesday, April 24 - Opening (Day 1)<br>
-- Thursday, April 25 - Breakouts (Optional) (Day 2)<br>
-- Friday, April 26 - Final Readouts (Day 3)<br>
-
-Sprint 1 - 2024/04/30 - 2024/05/13 (Innovation Sprint)<br>
-Sprint 2 - 2024/05/14 - 2024/05/27<br>
-Sprint 3 - 2024/05/28 - 2024/06/10<br>
-Sprint 4 - 2024/06/11 - 2024/06/24<br>
-Sprint 5 - 2024/06/25 - 2024/07/08<br>
-Sprint 6 - 2024/07/09 - 2024/07/22<br>
-
-### 24PI3 - (2024/07/23 - 2024/10/21)
-
-Planning - 2024/07/23 - 2024/07/29<br>
-
-- Wednesday, July 24 - Opening (Day 1)<br>
-- Thursday, July 25 - Breakouts (Optional) (Day 2)<br>
-- Friday, July 26 - Final Readouts (Day 3)<br>
-
-Sprint 1 - 2024/07/30 - 2024/08/12 (Innovation Sprint)<br>
-Sprint 2 - 2024/08/13 - 2024/08/26<br>
-Sprint 3 - 2024/08/27 - 2024/09/09<br>
-Sprint 4 - 2024/09/10 - 2024/09/23<br>
-Sprint 5 - 2024/09/24 - 2024/10/07<br>
-Sprint 6 - 2024/10/08 - 2024/10/21<br>
-
-### 24PI4 - (2024/10/22 - 2025/02/03)
-
-Planning - 2024/10/22 - 2024/10/28<br>
-
-- Wednesday, October 23 - Opening (Day 1)<br>
-- Thursday, October 24 - Breakouts (Optional) (Day 2)<br>
-- Friday, October 25 - Final Readouts (Day 3)<br>
-
-Sprint 1 - 2024/10/29 - 2024/11/11 (Innovation Sprint)<br>
-Sprint 2 - 2024/11/12 - 2024/11/25<br>
-Sprint 3 - 2024/11/26 - 2024/12/09<br>
-Sprint 4 - 2024/12/10 - 2024/12/23<br>
-Sprint 5 - 2025/01/06 - 2025/01/20<br>
-Sprint 6 - 2025/01/21 - 2025/02/03<br>
+- 24PI3 - (July 23, 2024 - October 21, 2024)
+- 24PI4 - (October 22, 2024 - February 03, 2025)
+- 25PI1 - (February 3, 2025 - May 4, 2025)
+- 25PI2 - (May 5, 2025 - August 3, 2025)
+- 25PI3 - (August 4, 2025 - November 2, 2025)
+- 25PI4 - (November 3, 2025 - February 1, 2026)
+- 26PI1 - (February 2, 2026 - May 3, 2026)
+- 26PI2 - (May 4, 2026 - August 2, 2026)
+- 26PI3 - (August 3, 2026 - November 1, 2026)
 
 ## Releases
 
 ### V3
 
-#### 3.0 </br>
-- System Demo 2024/10/06<br>
-- GA 2024/09/30<be>
+#### 3.0 
+- System Demo 2024, October 06
+- GA 2024, September 27
 
-#### 3.0.1 </br>
-- Code Freeze 2025/11/26<br>
-- RC Build 2025/11/27<br>
-- Testing 2025/11/27 - 2025/12/08<br>
-- GA 2024/12/09<be>
+#### 3.1.0 
+- Code Freeze: January 02, 2024
+- RC Build: January 03, 2024
+- Testing: January 03, 2024 - February 02, 2024
+- GA: February 03, 2025
+- System Demo: February 11, 2024
 
-#### 3.1.0 </br>
-- Code Freeze 2024/01/02<br>
-- RC Build 2024/01/03<br>
-- System Demo 2024/02/11<br>
-- Testing 2024/01/03 - 2024/02/02<br>
-- GA 2025/02/03<br>
+#### 3.2.0 
+- Code Freeze: April 6, 2025
+- RC Build: April 7, 2025
+- Testing: April 7, 2025 - May 3, 2025
+- GA: May 4, 2025
+- System Demo: May 12, 2025
+
+#### 3.3.0 
+- Code Freeze: July 6, 2025
+- RC Build: July 7, 2025
+- Testing: July 7, 2025 - August 2, 2025
+- GA: August 3, 2025
+- System Demo: August 11, 2025
+
+#### 3.4.0 
+- Code Freeze: October 5, 2025
+- RC Build: October 6, 2025
+- Testing: October 6, 2025 - November 1, 2025
+- GA: November 2, 2025
+- System Demo: November 10, 2025
+
+#### 3.5.0 
+- Code Freeze: January 4, 2026
+- RC Build: January 5, 2026
+- Testing: January 5, 2026 - January 31, 2026
+- GA: February 1, 2026
+- System Demo: February 9, 2026
+
+#### 3.6.0 
+- Code Freeze: April 5, 2026
+- RC Build: April 6, 2026
+- Testing: April 6, 2026 - May 2, 2026
+- GA: May 3, 2026
+- System Demo: May 11, 2026
+
+#### 3.7.0 
+- Code Freeze: July 5, 2026
+- RC Build: July 6, 2026
+- Testing: July 6, 2026 - August 1, 2026
+- GA: August 2, 2026
+- System Demo: August 10, 2026
 
 ### V2
 
-#### 2.17 </br>
-- Code Freeze 2024/07/02<br>
-- RC Build 2024/07/03<br>
-- System Demo 2024/07/23<br>
-- Testing 2024/07/03 - 2024/07/14<br>
-- GA 2024/07/15<br>
-
 #### 2.18 </br>
-- Code Freeze 2024/08/13<br>
-- RC Build 2024/08/14<br>
-- System Demo 2024/09/03<br>
-- Testing 2024/08/14 - 2024/08/25<br>
-- GA 2024/08/26<br>
+- Code Freeze: August 13, 2024
+- RC Build: August 14, 2024
+- Testing: August 14, 2024 - August 25, 2024
+- GA: August 26, 2024
+- System Demo: September 03, 2024
 
 #### 2.18.1
-- Code Freeze 2025/01/02<br>
-- RC Build 2025/01/03<br>
-- Testing 2025/01/03 - 2025/01/14<br>
-- GA 2025/01/15<br>
+- Code Freeze: February 11, 2025
+- RC Build: February 12, 2025
+- Testing: February 12, 2025 - February 23, 2025
+- GA: February 24, 2025
 
 ### V1
 
 #### 1.28.8
-- Code Freeze 2024/10/01<br>
-- RC Build 2024/10/02<br>
-- Testing 2024/10/02 - 2024/10/14<br>
-- GA 2024/10/14<br>
+- Code Freeze: October 1, 2024
+- RC Build: October 2, 2024
+- Testing: October 2, 2024 - October 14, 2024
+- GA: October 14, 2024
 
 #### No more V1.x releases planned
