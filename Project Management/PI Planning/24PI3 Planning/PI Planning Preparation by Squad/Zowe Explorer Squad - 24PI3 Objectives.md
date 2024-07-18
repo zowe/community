@@ -9,7 +9,6 @@
 - [File keeps trying to be saved if not enough permissions #2627](https://github.com/zowe/zowe-explorer-vscode/issues/2627) 
 - [Repeated attempt to save member despite S913 #2406](https://github.com/zowe/zowe-explorer-vscode/issues/2406)
 - [FTP profiles throw error after new credentials entered after 401 #2337](https://github.com/zowe/zowe-explorer-vscode/issues/2337)  
-- [Cannot switch from basic auth. to token-based auth. #2590](https://github.com/zowe/vscode-extension-for-zowe/issues/2590)
 - [Contribute z/OS console panel #2925](https://github.com/zowe/zowe-explorer-vscode/pull/2925)
 - [Unexpected behavior in TSO Commands #2528](https://github.com/zowe/zowe-explorer-vscode/issues/2528)
 - [Bearer token associated with PDS member opening is always the original even after new one is aquired #3001](https://github.com/zowe/zowe-explorer-vscode/issues/3001)
@@ -27,6 +26,8 @@
 - [issue updating credentials in v3 pre-release #3007](https://github.com/zowe/zowe-explorer-vscode/issues/3007)
 - [Updating credentials empties all tree views in the Activity Bar #2906](https://github.com/zowe/zowe-explorer-vscode/issues/2906)
 - [V3: Migrate away from @zowe/cli to @zowe/*-for-zowe-sdk packages #2719](https://github.com/zowe/zowe-explorer-vscode/issues/2719) - complete
+- [Support logging in to multiple APIML instances per config file #2264](https://github.com/zowe/zowe-explorer-vscode/issues/2264)
+- [Localize strings in webviews #2983](https://github.com/zowe/zowe-explorer-vscode/issues/2983)
 
 
 
