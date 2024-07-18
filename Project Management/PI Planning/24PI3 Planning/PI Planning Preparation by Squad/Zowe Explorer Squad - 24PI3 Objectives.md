@@ -1,5 +1,7 @@
 # Zowe Explorer Squad - 24PI3 - (2024/07/23 - 2024/10/21)
 
+[Zowe Explorer Github Roadmap](https://github.com/orgs/zowe/projects/15/views/9)
+
 ## Upcoming Release Plans 
 
 ### 2.18.0 Release
