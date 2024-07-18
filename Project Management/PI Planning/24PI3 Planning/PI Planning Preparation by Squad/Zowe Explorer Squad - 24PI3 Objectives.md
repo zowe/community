@@ -12,6 +12,7 @@
 - [Contribute z/OS console panel #2925](https://github.com/zowe/zowe-explorer-vscode/pull/2925)
 - [Unexpected behavior in TSO Commands #2528](https://github.com/zowe/zowe-explorer-vscode/issues/2528)
 - [Bearer token associated with PDS member opening is always the original even after new one is aquired #3001](https://github.com/zowe/zowe-explorer-vscode/issues/3001)
+- [Support VS Code proxy settings #3010](https://github.com/zowe/zowe-explorer-vscode/issues/3010)
 
 ### 3.0.0 GA Release
 
