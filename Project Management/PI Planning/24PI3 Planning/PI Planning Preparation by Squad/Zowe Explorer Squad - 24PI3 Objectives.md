@@ -26,7 +26,7 @@
 - [Warn users that v1 profiles are going away soon #2763](https://github.com/zowe/zowe-explorer-vscode/issues/2763)
 - [issue updating credentials in v3 pre-release #3007](https://github.com/zowe/zowe-explorer-vscode/issues/3007)
 - [Updating credentials empties all tree views in the Activity Bar #2906](https://github.com/zowe/zowe-explorer-vscode/issues/2906)
-- [V3: Migrate away from @zowe/cli to @zowe/*-for-zowe-sdk packages #2719](https://github.com/zowe/zowe-explorer-vscode/issues/2719)
+- [V3: Migrate away from @zowe/cli to @zowe/*-for-zowe-sdk packages #2719](https://github.com/zowe/zowe-explorer-vscode/issues/2719) - complete
 
 
 
