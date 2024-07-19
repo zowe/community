@@ -1,53 +1,39 @@
 # Zowe CLI Squad - 24PI3 - (2024/07/23 - 2024/10/21)
 
-## V2.18 Plans
+## V2.18.0
+- [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
+- [Support updating properties for typeless profiles in ProfileInfo API](https://github.com/zowe/zowe-cli/issues/2196)
 
+## V3.0.0
+- [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
+- [Provide way to identify versions of Zowe CLI included in published Zowe releases #2097](https://github.com/zowe/zowe-cli/issues/2097)
+- [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
 
-## V3 Plans
+### V3.0.0 Stretch items
+- [Migrate the TSO issueTsoCommand SDK to use the newer APIs (in z/OS 2.4)](https://github.com/zowe/zowe-cli/issues/2144)
+- [Fix `overrides.CredentialManager:false` inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
+- [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
+- [Deprecation of Commands Requires Replacement Command #2041](https://github.com/zowe/zowe-cli/issues/2041)
+- [`zowe plugins validate` returns always RC=0 #1299](https://github.com/zowe/zowe-cli/issues/1299)
+- [Fix yargs parsing string arguments as numbers #1881](https://github.com/zowe/zowe-cli/issues/1881)
 
-### V3 Preparation
-Implement planned changes for V3 and continue to publish pre-release versions to npm.
-- [ ] [Provide way to identify versions of Zowe CLI included in published Zowe releases #2097](https://github.com/zowe/zowe-cli/issues/2097)
-- [ ] [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
-
-### Repo maintenance
+## Repo maintenance
 These items require updates to documentation in GitHub.
-- [ ] [**_Stretch_**] [Update contribution guidelines to include policy on new dependencies #62](https://github.com/zowe/zowe-cli/issues/62)
-- [ ] [**_Stretch_**] [Outdated doc about Zowe release timeline #712](https://github.com/zowe/zowe-cli/issues/712)
+- [Update contribution guidelines to include policy on new dependencies #62](https://github.com/zowe/zowe-cli/issues/62)
+- [Outdated doc about Zowe release timeline #712](https://github.com/zowe/zowe-cli/issues/712)
 
-### Other:
-- [ ] [**_Stretch_**] [ADA sec. 508 Accessiblity Issue — Color Contrast Issue in Profiles List #1948](https://github.com/zowe/zowe-cli/issues/1948)
-- [ ] [**_Stretch_**] [`zowe plugins list` registry qualification  #63](https://github.com/zowe/zowe-cli/issues/63)
-
-### Config Usability
-Continue to improve team config robustness and flexibility.
-- [ ] [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
-- [ ] [**_Stretch_**] [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
-- [ ] [**_Stretch_**] [Zowe requires password when using SSH key for SSH command  #1034](https://github.com/zowe/zowe-cli/issues/1034)
-
-### High Priority and Upvoted Defects and Enhancements
-Continue to responsibly address backlog items according to perceived priority and community interest.
-- [ ] [**_Stretch_**] [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
-- [ ] [**_Stretch_**] [Fix `overrides.CredentialManager:false` inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
-
-### SDK Conformance and LTS status
+## SDK Conformance and LTS status
 Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client Node.js SDK fulfills the criteria.
-- [ ] [Zowe SDK - Update SDK conformance documentation #1676](https://github.com/zowe/zowe-cli/issues/1676)
-- [ ] [**_Stretch_**] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
-
-### Stretch Issues - Added 4/19/2024
-- [ ] [Deprecation of Commands Requires Replacement Command #2041](https://github.com/zowe/zowe-cli/issues/2041)
-- [ ] [How to make sure that a file is deleted with one command? #866](https://github.com/zowe/zowe-cli/issues/866)
-- [ ] [`zowe plugins validate` returns always RC=0 #1299](https://github.com/zowe/zowe-cli/issues/1299)
-- [ ] [Fix yargs parsing string arguments as numbers #1881](https://github.com/zowe/zowe-cli/issues/1881)
+- [Zowe SDK - Update SDK conformance documentation #1676](https://github.com/zowe/zowe-cli/issues/1676)
+- [**_Stretch_**] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
 
 # Zowe CLI / Zowe SDK Roadmap
 
-## Support connections to multiple APIML gateways through profile linking
+## Support connections to multiple APIML gateways for consumers of the ProfileInfo API
 - What problem are you solving?
-  - Users cannot use team config to access services behind multiple APIML gateways.
+  - Zowe Explorer (or other extensions using the ProfileInfo API) cannot access services behind multiple Zowe API ML gateways when using a team config.
 - What are you doing to solve it?
-  - Allow users to optionally specify explicit profile links in team configs - initially to link a service profile to a base (APIML) profile, so that Zowe CLI and Zowe Explorer can identify which APIML connection to use for a given service profile.
+  - Add functionality to the ProfileInfo API in Imperative to enable Zowe Explorer to allow users to specify multiple APIML connections using nested profiles in their team configs.
 - When do you plan to start the work?
   - **CY24Q2**
 - When do you plan to deliver the solution?
@@ -66,7 +52,7 @@ Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client No
 - When do you plan to start the work?
   - **CY23Q2**
 - When do you plan to deliver the solution?
-  - **CY23Q4** (delayed until CY24Q3)
+  - **CY23Q4** (delayed until CY24Q4)
 
 ## Gold OpenSSF Best Practices Badge (Formerly CII Best Practices Badge)
 - What problem are you solving?
@@ -99,13 +85,3 @@ Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client No
   - **CY24Q1**
 - When do you plan to deliver the solution?
   - **CY24Q2**
-
-## (Completed) Ensure that Zowe VS Code Extensions can Share Access to zowe.schema.json with Zowe CLI
-- What problem are you solving?
-  - Zowe CLI overwrites team config profile entries contributed by Zowe Explorer extensions, preventing those extensions from being able to properly access profiles from a user's team config.
-- What are you doing to solve it?
-  - Schema profile additions will be synchronized in such a way that both VS Code extensions and Zowe CLI plug-ins can contribute to a schema without removing the profiles contributed by the other.
-- When do you plan to start the work?
-  - **CY23Q4**
-- When do you plan to deliver the solution?
-  - **CY24Q1** 
