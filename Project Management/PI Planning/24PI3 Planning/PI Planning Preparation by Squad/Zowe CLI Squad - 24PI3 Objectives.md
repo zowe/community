@@ -1,31 +1,32 @@
 # Zowe CLI Squad - 24PI3 - (2024/07/23 - 2024/10/21)
 
 ## V2.18.0
-- [User not prompted for keyPassphrase if in secure array of ssh profile #1770](https://github.com/zowe/zowe-cli/issues/1770)
+- [Remove deprecated methods in V2](https://github.com/zowe/zowe-cli/issues/2191)
+- [User not prompted for keyPassphrase if in secure array of ssh profile](https://github.com/zowe/zowe-cli/issues/1770)
 - [Support updating properties for typeless profiles in ProfileInfo API](https://github.com/zowe/zowe-cli/issues/2196)
 
 ## V3.0.0
-- [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705) (Using a 'nested profiles' approach)
-- [Provide way to identify versions of Zowe CLI included in published Zowe releases #2097](https://github.com/zowe/zowe-cli/issues/2097)
-- [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
+- [Support logging in to multiple APIML instances per config file](https://github.com/zowe/zowe-cli/issues/1705) (Using a 'nested profiles' approach)
+- [Provide way to identify versions of Zowe CLI included in published Zowe releases](https://github.com/zowe/zowe-cli/issues/2097)
+- [Document v3 team config changes](https://github.com/zowe/zowe-cli/issues/1801)
 
 ### V3.0.0 Stretch items
 - [Migrate the TSO issueTsoCommand SDK to use the newer APIs (in z/OS 2.4)](https://github.com/zowe/zowe-cli/issues/2144)
-- [Fix `overrides.CredentialManager:false` inconsistencies #1469](https://github.com/zowe/zowe-cli/issues/1469)
-- [Support the message transmission/reception API for TSO. #1566](https://github.com/zowe/zowe-cli/issues/1566)
-- [Deprecation of Commands Requires Replacement Command #2041](https://github.com/zowe/zowe-cli/issues/2041)
-- [`zowe plugins validate` returns always RC=0 #1299](https://github.com/zowe/zowe-cli/issues/1299)
-- [Fix yargs parsing string arguments as numbers #1881](https://github.com/zowe/zowe-cli/issues/1881)
+- [Fix `overrides.CredentialManager:false` inconsistencies](https://github.com/zowe/zowe-cli/issues/1469)
+- [Support the message transmission/reception API for TSO.](https://github.com/zowe/zowe-cli/issues/1566)
+- [Deprecation of Commands Requires Replacement Command](https://github.com/zowe/zowe-cli/issues/2041)
+- [`zowe plugins validate` returns always RC=0](https://github.com/zowe/zowe-cli/issues/1299)
+- [Fix yargs parsing string arguments as numbers](https://github.com/zowe/zowe-cli/issues/1881)
 
 ## Repo maintenance
 These items require updates to documentation in GitHub.
-- [Update contribution guidelines to include policy on new dependencies #62](https://github.com/zowe/zowe-cli/issues/62)
-- [Outdated doc about Zowe release timeline #712](https://github.com/zowe/zowe-cli/issues/712)
+- [Update contribution guidelines to include policy on new dependencies](https://github.com/zowe/zowe-cli/issues/62)
+- [Outdated doc about Zowe release timeline](https://github.com/zowe/zowe-cli/issues/712)
 
 ## SDK Conformance and LTS status
 Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client Node.js SDK fulfills the criteria.
-- [Zowe SDK - Update SDK conformance documentation #1676](https://github.com/zowe/zowe-cli/issues/1676)
-- [**_Stretch_**] [Zowe SDK - Develop and publish sample Node.js SDK #1675](https://github.com/zowe/zowe-cli/issues/1675)
+- [Zowe SDK - Update SDK conformance documentation](https://github.com/zowe/zowe-cli/issues/1676)
+- [**_Stretch_**] [Zowe SDK - Develop and publish sample Node.js SDK](https://github.com/zowe/zowe-cli/issues/1675)
 
 # Zowe CLI / Zowe SDK Roadmap
 
