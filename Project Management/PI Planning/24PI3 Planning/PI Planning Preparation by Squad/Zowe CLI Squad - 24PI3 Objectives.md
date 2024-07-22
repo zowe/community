@@ -5,7 +5,7 @@
 - [Support updating properties for typeless profiles in ProfileInfo API](https://github.com/zowe/zowe-cli/issues/2196)
 
 ## V3.0.0
-- [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705)
+- [Support logging in to multiple APIML instances per config file #1705](https://github.com/zowe/zowe-cli/issues/1705) (Using a 'nested profiles' approach)
 - [Provide way to identify versions of Zowe CLI included in published Zowe releases #2097](https://github.com/zowe/zowe-cli/issues/2097)
 - [Document v3 team config changes #1801](https://github.com/zowe/zowe-cli/issues/1801)
 
