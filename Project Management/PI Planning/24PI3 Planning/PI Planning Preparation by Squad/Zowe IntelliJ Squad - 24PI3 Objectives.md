@@ -32,6 +32,16 @@
 - _When do you plan to deliver the solution?_
     - **24Q3**
 
+### Zowe Client SDKs: Java and Kotlin SDKs GA
+- _What problem are you solving?_
+    - Zowe Client Java and Kotlin SDKs are need to be promoted to the GA state
+- _What are you doing to solve it?_
+    - Prepare all the necessary steps to promote the SDKs to the GA states
+- _When do you plan to start the work?_
+    - **24Q2**
+- _When do you plan to deliver the solution?_
+    - **24Q3**
+
 ## Zowe mainframe-specific languages support in IntelliJ IDEA
 - _What problem are you solving?_
     - We released Zowe COBOL Language Support plug-in for IntelliJ IDEA in 24Q2. It needs to be maintained, as well as other mainframe-specific languages support we developed
