@@ -2,23 +2,23 @@
 
 ## Zowe Explorer plug-in for IntelliJ IDEA
 
-### Zowe Explorer plug-in for IntelliJ IDEA - prepare v2.0.0 (Zowe v3 component) as a preview
+### Zowe Explorer plug-in for IntelliJ IDEA - finzalize v2.0.0 (Zowe v3 component)
 - _What problem are you solving?_
-    - Before the plug-in's GA as v2.0.0 (Zowe v3) we need to prepare a preview of the plug-in, so the users would be able to try the features to appear in the version
+    - There are a few things to finalize before the plug-in's GA as v2.0.0 (Zowe v3)
 - _What are you doing to solve it?_
-    - Preparing the shape of the plug-in before the preview
+    - Preparing the shape of the plug-in before the GA
 - _When do you plan to start the work?_
-    - **22Q4**
-- _When do you plan to deliver the solution?_
     - **24Q2**
+- _When do you plan to deliver the solution?_
+    - **24Q3**
  
-### Zowe Explorer plug-in for IntelliJ IDEA v1.2.1 and v1.2.2 release
+### Zowe Explorer plug-in for IntelliJ IDEA v1.2.* releases
 - _What problem are you solving?_
-    - After the next minor version of the plug-in is released, the plug-in stability and issues must be maintained
+    - For the 1.2.0 minor release of the plug-in, there are still old known bugs to be fixed until we end the support of the v1.2.0
 - _What are you doing to solve it?_
     - Together with some old ones, fix new bugs after v1.2.0 release
 - _When do you plan to start the work?_
-    - **24Q2**
+    - **24Q3**
 - _When do you plan to deliver the solution?_
     - **24Q3 - 24Q4**
  
@@ -30,17 +30,27 @@
 - _When do you plan to start the work?_
     - **22Q4**
 - _When do you plan to deliver the solution?_
-    - **24Q2**
+    - **24Q3**
 
 ## Zowe mainframe-specific languages support in IntelliJ IDEA
 - _What problem are you solving?_
-    - There are some solutions to adopt in the IntelliJ IDEA platform to support the mainframe-specific languages, such as COBOL, HLASM, PL/I, etc.
+    - We released Zowe COBOL Language Support plug-in for IntelliJ IDEA in 24Q2. It needs to be maintained, as well as other mainframe-specific languages support we developed
 - _What are you doing to solve it?_
-    - Investigate and implement plug-ins that will support TextMate grammar and LSP support in IntelliJ IDEA
+    - Continue to support plug-ins for COBOL, JCL, prepare a plug-in for PL/I and HLASM
 - _When do you plan to start the work?_
     - **24Q1**
 - _When do you plan to deliver the solution?_
     - **24Q4**
+
+## Plug-in and/or extension for Galasa
+- _What problem are you solving?_
+    - There are small PoCs both as extension for VSCode and as a plug-in for IntelliJ IDEA in development
+- _What are you doing to solve it?_
+    - Prepare MVPs of an extension and a plug-in by Zowe
+- _When do you plan to start the work?_
+    - **24Q3**
+- _When do you plan to deliver the solution?_
+    - **25Q1**
 
 ## Zowe zDevOps plug-in for Jenkins
 
@@ -52,7 +62,7 @@
 - _When do you plan to start the work?_
     - **23Q1**
 - _When do you plan to deliver the solution?_
-    - **24Q2**
+    - **24Q3**
 
 ## CICS extension for Zowe Explorer plug-in for IntelliJ IDEA
 
