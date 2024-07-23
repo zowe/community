@@ -20,7 +20,7 @@ The primary goals for the system squad this PI continue - maintaining release op
   - **Stretch** [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
 
 ## Install / Configuration
-- Research installation and configuration for an APIML only scenario.
+- Research standalone component installation and configuration options.
 
 ## Community Onboarding
 - [Continue systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
