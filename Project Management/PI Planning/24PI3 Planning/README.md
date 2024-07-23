@@ -18,7 +18,10 @@ When: Tuesday, July 23, 2024 9:00 AM to 11:30 AM
 
 | Squad               | Time         | Description                                                                                                                                                                          |
 |---------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| API Mediation Layer | 9:30 - 9:40 | Request Connection Timeout, Optional protection of health endpoint, PAT Documentation, ATTLS - ICSF Improvements, Timeout and buffer size for Websockets, Improved protocol handling |
+| API Mediation Layer | 9:30 - 9:40  | Request Connection Timeout, Optional protection of health endpoint, PAT Documentation, ATTLS - ICSF Improvements, Timeout and buffer size for Websockets, Improved protocol handling |
+| Zowe Explorer       | 9:40 - 9:45  | Ability to switch between basic authentication and token-based authentication |
+| Zowe CLI            | 9:45 - 9:55  | Ability to submit local files and stdin as jobs using different codepages. Ability to download job spool using different codepages. Quick slide on other features/bugfixes included in this release. |
+
 
 ## 2.18 Plans (6 to 7 minutes per squad)
 
