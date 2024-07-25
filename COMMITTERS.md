@@ -31,8 +31,8 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 | Andrew Harn | @awharn | andrew.harn@broadcom.com | Developer |
 | Eugene Johnston | @gejohnston | eugene.johnston@broadcom.com | Developer |
 | Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Developer |
+| Jace Roell | @jace-roell | jace.roell@broadcom.com | Developer |
 | Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
-| Kevin Loesch | @KevinLoesch1 | kevin.loesch@broadcom.com | Developer |
 | Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
 | Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
 
