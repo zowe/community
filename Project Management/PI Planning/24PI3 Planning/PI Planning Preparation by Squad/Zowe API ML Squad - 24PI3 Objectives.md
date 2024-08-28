@@ -6,8 +6,11 @@
 
 #### OIDC
 
-- Validate OIDC Access token with ZAAS Client [#3645](https://github.com/zowe/api-layer/issues/3645)
 - Validate Entra ID Access Token [#3644](https://github.com/zowe/api-layer/issues/3644)
+
+#### Operations
+
+- Allow customization of logback files
 
 #### Mentorship
 

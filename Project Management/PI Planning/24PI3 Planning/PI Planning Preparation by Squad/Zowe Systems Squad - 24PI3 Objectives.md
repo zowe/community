@@ -1,18 +1,26 @@
 # Zowe Systems Squad - 24PI3 - (2024/07/23 - 2024/10/21)
 
-The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements where time allows.
+The primary goals for the system squad this PI continue - maintaining release operations, responding to high priority issues, and making tactical improvements to systems and automation where time allows.
 
 ## Infrastructure
 - [Open Mainframe - track mainframe environment](https://github.com/zowe/zowe-install-packaging/issues/3241)
-    * System planned to be online sometime this summer
-    * PI Goal: Defining and prioritizing our infrastructure requests
+    * Goal: Staying in touch with OMP progress
 - [Marist Mainframe - 3.1 Tracking](https://github.com/zowe/zowe-install-packaging/issues/3810)
-    * Planning for a 3.1 upgrade is underway. Expect work to begin in a future PI.
+    * Transition to 3.1 systems without disrupting Zowe v3 release.
 
 ## Release and CICD
-- Currency and addressing gaps in automation
-  - e.g. faster manifest.json.template error checking for RC process
-- [Remove server-bundle from 2.x](https://github.com/zowe/zowe-install-packaging/issues/3473)
+- Test Framework and Coverage Improvements
+  - [Test Framework: ZWE Integration](https://github.com/zowe/zowe-install-packaging/issues/3922)
+  - [Testing default variables / envs](https://github.com/zowe/zowe-install-packaging/issues/3406)
+  - [Testing: Merged Zowe YAMLs](https://github.com/zowe/zowe-install-packaging/issues/3407)
+  - [Java 11 Cases](https://github.com/zowe/zowe-install-packaging/issues/3329)
+  - [Testing Minor Version Upgrades](https://github.com/zowe/zowe-install-packaging/issues/3315)
+- HOLDDATA
+  - [Process: How to add ++HOLD data to Zowe PTFs](https://github.com/zowe/zowe-install-packaging/issues/3854)
+  - **Stretch** [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
+
+## Install / Configuration
+- Research standalone component installation and configuration options.
 
 ## Community Onboarding
 - [Continue systems squad onboarding materials](https://github.com/zowe/zowe-install-packaging/issues/3234)
@@ -23,9 +31,6 @@ The primary goals for the system squad this PI continue - maintaining release op
 - `zwe init` JCL refactor
 - `zwe` Node.JS removal continuing under z/OS Squad.
 
-### Zen
-- See App Framework Squad
-
 ## Issue Triage
 - Continue reviewing issues in the backlog and prioritizing them.
 
@@ -33,12 +38,10 @@ The primary goals for the system squad this PI continue - maintaining release op
 - No dependencies on other teams this PI. 
 - No newly identified risks.
 
-
 ## In need of capacity
 - [Release automation should open license PR on docs-site](https://github.com/zowe/zowe-install-packaging/issues/716)
-- [Add SMP/e HOLDDATA automation](https://github.com/zowe/zowe-install-packaging/issues/3119)
 - [Define optional binaryDependencies](https://github.com/zowe/zowe-install-packaging/issues/2940)
-- [Split release logic](https://github.com/zowe/zowe-install-packaging/issues/3285)
+- [Fine-grained release logic](https://github.com/zowe/zowe-install-packaging/issues/3285)
 
 ## Roadmap Items
 
@@ -48,6 +51,16 @@ The primary goals for the system squad this PI continue - maintaining release op
 - What are you doing to solve it?
   * Working with OMP to define and validate systems.
 - When do you plan to start the work? 
-  * ASAP
+  * In Progress
 - When do you plan to deliver the solution? 
   * CY24Q4  (External dependency)
+
+### Remove Node.JS Dependency from Zowe z/OS Configuration
+- What problem are you solving? 
+  * Zowe installation and configuration scripts pre-req a Node.JS installation which may not be available in some user environments and could negatively impact their installation and configuration experience.
+- What are you doing to solve it?
+  * Replacing usage of Node.JS with no pre-req alternatives.
+- When do you plan to start the work? 
+  * In Progress
+- When do you plan to deliver the solution? 
+  * CY24Q4-CY25Q1
