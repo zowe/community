@@ -21,11 +21,11 @@
 - GA 2024, September 27
 
 #### 3.1.0 
-- Code Freeze: January 02, 2024
-- RC Build: January 03, 2024
-- Testing: January 03, 2024 - February 02, 2024
+- Code Freeze: January 02, 2025
+- RC Build: January 03, 2025
+- Testing: January 03, 2025 - February 02, 2025
 - GA: February 03, 2025
-- System Demo: February 11, 2024
+- System Demo: February 11, 2025
 
 #### 3.2.0 
 - Code Freeze: April 7, 2025
