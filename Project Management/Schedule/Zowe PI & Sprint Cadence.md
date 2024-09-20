@@ -17,8 +17,8 @@
 ### V3
 
 #### 3.0 
-- System Demo 2024, October 06
-- GA 2024, September 27
+- System Demo 2024, October 08
+- GA 2024, September 30
 
 #### 3.1.0 
 - Code Freeze: January 02, 2025
