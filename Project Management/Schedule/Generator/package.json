@@ -1,0 +1,11 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "Generate Schedule starting from any date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Balhar <jakub@balhar.net>",
+  "license": "EPL-2.0"
+}
