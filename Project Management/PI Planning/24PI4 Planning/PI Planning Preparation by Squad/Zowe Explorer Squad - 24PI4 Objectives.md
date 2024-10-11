@@ -4,57 +4,33 @@
 
 ## Upcoming Release Plans 
 
-### 2.18.0 Release
+### 2.18.1 Release
 
-- [File keeps trying to be saved if not enough permissions #2627](https://github.com/zowe/zowe-explorer-vscode/issues/2627) 
+- [ZE's Delete keybindings broken with VSC 1.88 #2825](https://github.com/zowe/zowe-explorer-vscode/issues/2825)
+- [FTP profiles throw error after new credentials entered after 401 #2337](https://github.com/zowe/zowe-explorer-vscode/issues/2337)
 - [Repeated attempt to save member despite S913 #2406](https://github.com/zowe/zowe-explorer-vscode/issues/2406)
-- [FTP profiles throw error after new credentials entered after 401 #2337](https://github.com/zowe/zowe-explorer-vscode/issues/2337)  
-- [Contribute z/OS console panel #2925](https://github.com/zowe/zowe-explorer-vscode/pull/2925)
-- [Unexpected behavior in TSO Commands #2528](https://github.com/zowe/zowe-explorer-vscode/issues/2528)
-- [Bearer token associated with PDS member opening is always the original even after new one is aquired #3001](https://github.com/zowe/zowe-explorer-vscode/issues/3001)
-- [Support VS Code proxy settings #3010](https://github.com/zowe/zowe-explorer-vscode/issues/3010)
+- [File keeps trying to be saved if not enough permissions #2627](https://github.com/zowe/zowe-explorer-vscode/issues/2627)
+- [[v2] fix(profiles): Pass homeDir, projectDir when creating ProfileInfo instance #3170](https://github.com/zowe/zowe-explorer-vscode/pull/3170)
 
-### 3.0.0 GA Release
+### 3.0.2 Release
 
-- [Investigate support for mutli-root workspaces for documentation purposes #2386](https://github.com/zowe/zowe-explorer-vscode/issues/2386)
-- [Strange behavior when running SSH command if credentials are not yet stored #2762](https://github.com/zowe/zowe-explorer-vscode/issues/2762)
-- [Support globs/wildcard patterns in resource URIs #2939](https://github.com/zowe/zowe-explorer-vscode/issues/2939)
-- [Review inconsistent capitalization across translation strings #2935](https://github.com/zowe/zowe-explorer-vscode/issues/2935)
-- [Remote lookup functionality for URIs that do not yet exist #2938](https://github.com/zowe/zowe-explorer-vscode/issues/2938)
-- [Remove zFTP pop up on startup #2862](https://github.com/zowe/zowe-explorer-vscode/issues/2862)
-- [v3 - Should handle SSH profile credentials vs throw error #2901](https://github.com/zowe/zowe-explorer-vscode/issues/2901)
-- [Warn users that v1 profiles are going away soon #2763](https://github.com/zowe/zowe-explorer-vscode/issues/2763)
-- [issue updating credentials in v3 pre-release #3007](https://github.com/zowe/zowe-explorer-vscode/issues/3007)
-- [Updating credentials empties all tree views in the Activity Bar #2906](https://github.com/zowe/zowe-explorer-vscode/issues/2906)
-- [V3: Migrate away from @zowe/cli to @zowe/*-for-zowe-sdk packages #2719](https://github.com/zowe/zowe-explorer-vscode/issues/2719) - complete
-- [Support logging in to multiple APIML instances per config file #2264](https://github.com/zowe/zowe-explorer-vscode/issues/2264)
 - [Localize strings in webviews #2983](https://github.com/zowe/zowe-explorer-vscode/issues/2983)
+
+### 3.1.0 Release
+
+- [Support the Delete Profile option for team config files #3037](https://github.com/zowe/zowe-explorer-vscode/issues/3037)
+- [Review inconsistent capitalization across translation strings #2935](https://github.com/zowe/zowe-explorer-vscode/issues/2935)
+- [Support globs/wildcard patterns in resource URIs #2939](https://github.com/zowe/zowe-explorer-vscode/issues/2939)
+- [Investigate support for mutli-root workspaces for documentation purposes #2386](https://github.com/zowe/zowe-explorer-vscode/issues/2386)
+- [Support VS Code proxy settings #3010](https://github.com/zowe/zowe-explorer-vscode/issues/3010)
+- [Add support for integrated terminals (MVS, SSH, TSO) #3071](https://github.com/zowe/zowe-explorer-vscode/issues/3071)
+- [Full text search across all the members, like ISPF SrchFor utility does #449](https://github.com/zowe/zowe-explorer-vscode/issues/449)
+- [Provide Client Side z/OSMF Certificate Support Zowe Explorer #2373](https://github.com/zowe/zowe-explorer-vscode/issues/2373)
+- [characters transformed in the result of JOBS #1941](https://github.com/zowe/zowe-explorer-vscode/issues/1941)
 
 
 
 ## Roadmap
-
-### [Zowe Explorer v3 GA](https://github.com/zowe/zowe-explorer-vscode/milestone/119)
-
-- *What problem are you solving?*
-  -  We have a great deal of items to complete for the v3 GA date and we don't want to miss anything important.
-- *What are you doing to solve it?
-  - Prepare a plan for dependency & engine updates, enhancements, migration tactics, and other items needed for our v3 GA release.
-- *When do you plan to start the work?*
-  - The work has been in progress since 23Q1
-- *When do you plan to deliver the solution?*
-  - 24Q3
- 
-### [Improve experience for using API ML sessions in Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe/issues/2252)
-
-- *What problem are you solving?*
-  - Many users of Zowe Explorer aren't familiar with or are unaware of authentication methods supported by Zowe Explorer, like token authentication, SSO, & MFA. 
-- *What are you doing to solve it?
-  - For users of the API ML with SSO and MFA, there are enhancements we could make to provide a more first-class experience.
-- *When do you plan to start the work?*
-  - 23Q2
-- *When do you plan to deliver the solution?*
-  - 24Q3
  
 ### Allow users to access Zowe Explorer treeview resources in an interactive way
 
