@@ -12,12 +12,12 @@
 
 This is the first demo for Zowe 3.x release streams. The news and important information were shared already within the [Office Hours](https://docs.zowe.org/stable/whats-new/zowe-v3-office-hours). 
 
-| Squad               | Presenter       | Time          | Description                 |
-|---------------------|-----------------|---------------|-----------------------------|
-| API Mediation Layer | Olha Kishkinova | 09:30 - 09:35 | GraphQL Support             |
-| API Mediation Layer | Jakub Balhar    | 09:35 - 09:40 | V2 to V3 Migration concerns |
-|                     |                 |               |                             |
-|                     |                 |               |                             |
+| Squad               | Presenter       | Time          | Description                     |
+|---------------------|-----------------|---------------|---------------------------------|
+| API Mediation Layer | Olha Kishkinova | 09:30 - 09:35 | GraphQL Support                 |
+| API Mediation Layer | Jakub Balhar    | 09:35 - 09:40 | V2 to V3 Migration concerns     |
+|      CLI Squad      | Andrew Harn     | 09:40 - 09:45 | Search Functionality            |
+|      ZE Squad       | Trae            | 09:45 - 09:55 | FileSystemProvider and Webviews |
 |
 
 # 3.1 Planning
