@@ -13,11 +13,14 @@
 - [Support the message transmission/reception API for TSO.](https://github.com/zowe/zowe-cli/issues/1566)
 - [Add SDK method to determine if a JWT is expired](https://github.com/zowe/zowe-cli/pull/2298)
 - [Add `encoding` support to `zowe files search ds` command](https://github.com/zowe/zowe-cli/issues/2161)
-- [Change password SDK](https://github.com/zowe/zowe-cli/issues/1185)
 - [Add `--ignore-not-found` option for deleting data sets and files](https://github.com/zowe/zowe-cli/issues/866)
+- [Add --attributes flag to zowe zos-files upload file-to-uss](https://github.com/zowe/zowe-cli/issues/2274)
 - [fix: Binary spool files corrupted by the newline normalization](https://github.com/zowe/zowe-cli/issues/2282)
 - [fix: DS list API may return invalid response when data sets archived with CA Disk](https://github.com/zowe/zowe-cli/issues/2285)
 - [fix: Imperative package should not have top-level import of Secrets SDK](https://github.com/zowe/zowe-cli/issues/2276)
+
+### V3.1.0 Stretch Items
+- [Change password SDK](https://github.com/zowe/zowe-cli/issues/1185)
 
 ## SDK Conformance and LTS status
 Finalize Zowe Client SDK conformance criteria and ensure that the Zowe Client Node.js SDK fulfills the criteria.
