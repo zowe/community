@@ -15,6 +15,10 @@
 ### 3.0.2 Release
 
 - [Localize strings in webviews #2983](https://github.com/zowe/zowe-explorer-vscode/issues/2983)
+- [Element with id No jobs found is already registered #3201](https://github.com/zowe/zowe-explorer-vscode/issues/3201)
+- [V3 doesn't prompt for credentials when opening file in editor #3197](https://github.com/zowe/zowe-explorer-vscode/issues/3197)
+- [Team conf file creation will add global_base if base already included in config #3141](https://github.com/zowe/zowe-explorer-vscode/issues/3141)
+- [Token related operations may cause invalid profiles when multiple layers are involved #3011](https://github.com/zowe/zowe-explorer-vscode/issues/3011)
 
 ### 3.1.0 Release
 
@@ -27,6 +31,9 @@
 - [Full text search across all the members, like ISPF SrchFor utility does #449](https://github.com/zowe/zowe-explorer-vscode/issues/449)
 - [Provide Client Side z/OSMF Certificate Support Zowe Explorer #2373](https://github.com/zowe/zowe-explorer-vscode/issues/2373)
 - [characters transformed in the result of JOBS #1941](https://github.com/zowe/zowe-explorer-vscode/issues/1941)
+- [[z/OSMF profiles] Data Set and USS list API calls do not pass responseTimeout #3225](https://github.com/zowe/zowe-explorer-vscode/issues/3225)
+- [Handle PDS members with invalid name errors in V3 #3047](https://github.com/zowe/zowe-explorer-vscode/issues/3047)
+- [Filtering large datasets doesn't return expected results #2978](https://github.com/zowe/zowe-explorer-vscode/issues/2978)
 
 
 
