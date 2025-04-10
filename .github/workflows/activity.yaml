@@ -1,0 +1,29 @@
+name: Create User Activity Report
+
+on:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Number of days to collect information for'
+        required: false
+        type: number
+        default: 365
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Analyze User Activity
+        id: analyze_user_activity
+        uses: peter-murray/inactive-users-action@v1
+        with:
+          token: ${{ secrets.ZOWE_ROBOT_TOKEN }}
+          organization: zowe
+          activity_days: ${{ inputs.days || 365 }}
+
+      - name: Save User Activity Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports
+          path: ${{ steps.analyze_user_activity.outputs.report_csv }}
