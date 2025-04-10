@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Analyze User Activity
         id: analyze_user_activity
-        uses: peter-murray/inactive-users-action@v1
+        uses: t1m0thyj/inactive-users-action@main
         with:
           token: ${{ secrets.ZOWE_ROBOT_TOKEN }}
           organization: zowe
