@@ -101,7 +101,7 @@ The current situation with respect to the major Zowe versions
 | CLI - CICS Plugin                            | Long Term Support (LTS) | CLI                 |
 | CLI - DB2 Plugin                             | Long Term Support (LTS) | CLI                 |
 | CLI - FTP Plugin                             | Long Term Support (LTS) | CLI                 |
-| CLI - IMS Plugin                             | Long Term Support (LTS) | CLI                 |
+| CLI - IMS Plugin                             | Deprecated              | CLI                 |
 | CLI - MQ Plugin                              | Long Term Support (LTS) | CLI                 |
 | Client SDK - Kotlin                          | Under Development       | CLI                 |
 | Client SDK - Python                          | Under Development       | CLI                 |
