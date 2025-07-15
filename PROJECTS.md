@@ -49,6 +49,7 @@ The current situation with respect to the major Zowe versions
 | CLI - DB2 Plugin                             | Long Term Support (LTS) | CLI                 |
 | CLI - FTP Plugin                             | Long Term Support (LTS) | CLI                 |
 | CLI - MQ Plugin                              | Long Term Support (LTS) | CLI                 |
+| Client SDK - Java                            | Generally Available     | IntelliJ            |
 | Client SDK - Kotlin                          | Generally Available     | IntelliJ            |
 | Client SDK - Python                          | Generally Available     | CLI                 |
 | Client SDK - SWIFT                           | Under Development       | CLI                 |
