@@ -35,11 +35,11 @@
 - System Demo: May 13, 2025
 
 #### 3.3.0 
-- Code Freeze: July 7, 2025
-- RC Build: July 8, 2025
-- Testing: July 8, 2025 - August 3, 2025
-- GA: August 4, 2025
-- System Demo: August 12, 2025
+- Code Freeze: July 24, 2025
+- RC Build: July 25, 2025
+- Testing: July 25, 2025 - August 17, 2025
+- GA: August 18, 2025
+- System Demo: August 26, 2025
 
 #### 3.4.0 
 - Code Freeze: October 6, 2025
