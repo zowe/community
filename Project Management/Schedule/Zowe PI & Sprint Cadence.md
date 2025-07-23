@@ -85,16 +85,16 @@
 - GA: February 24, 2025
 
 ### 2.18.2
-- Code Freeze: August 15, 2025
-- RC Build: August 15, 2025
-- Testing: August 16, 2025 - August 28, 2025
-- GA: August 29, 2025
+- Code Freeze: June 15, 2025
+- RC Build: June 15, 2025
+- Testing: June 16, 2025 - July 22, 2025
+- GA: July 22, 2025
 
 ### 2.18.3
-- Code Freeze: February 09, 2026
-- RC Build: February 10, 2026
-- Testing: February 10, 2026 - February 22, 2026
-- GA: February 23, 2026
+- Code Freeze: November 17, 2025
+- RC Build: November 18, 2025
+- Testing: November 18, 2025 - December 1, 2025
+- GA: December 2, 2025
 
 ### 2.18.4
 - Code Freeze: August 17, 2026
