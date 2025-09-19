@@ -54,10 +54,10 @@
 ### V2
 
 ### 2.18.3
-- Code Freeze: January 12, 2026</li>
-- RC Build: January 13, 2026</li>
-- Testing: January 13, 2026 - February 1, 2026</li>
-- GA: February 2, 2026</li>
+- Code Freeze: September 18, 2025</li>
+- RC Build: September 19, 2025</li>
+- Testing: September 19, 2025 - October 1, 2025</li>
+- GA: October 2, 2025</li>
 
 ### 2.18.4
 - Code Freeze: August 17, 2026
