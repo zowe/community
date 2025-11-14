@@ -22,24 +22,11 @@ The list of contributors is here: [https://github.com/orgs/zowe/teams/api-mediat
 
 ### Zowe CLI Squad
 
-| Name | GitHub ID | Email | Roles |
-|-|-|-|-|
-| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Lead, TSC Rep, Security Squad Rep |
-| Amanda D'Errico | @AmandaDErrico | amanda.derrico@ibm.com | Developer |
-| Amber Torrise | @ATorrise | amber.torrise@broadcom.com | Developer |
-| Ana X. Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
-| Andrew Harn | @awharn | andrew.harn@broadcom.com | Developer |
-| Eugene Johnston | @gejohnston | eugene.johnston@broadcom.com | Developer |
-| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Developer |
-| Jace Roell | @jace-roell | jace.roell@broadcom.com | Developer |
-| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
-| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | Developer |
-| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
+The list of administrators is here: https://github.com/orgs/zowe/teams/zowe-cli-administrators
 
-See the full lists below:
-- https://github.com/orgs/zowe/teams/zowe-cli-administrators
-- https://github.com/orgs/zowe/teams/zowe-cli-committers
-- https://github.com/orgs/zowe/teams/zowe-cli-contributors
+The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cli-committers
+
+The list of contributers is here: https://github.com/orgs/zowe/teams/zowe-cli-contributors
 
 ### Zowe Web UI Squad
 Committers are tracked via github teams, for permission management
@@ -54,26 +41,16 @@ Our definition of Lead, Committers and Contributors roughly follows https://gith
 
 ### Zowe Explorer Squad
 
-| Name | GitHub ID | Email | Roles |
-|-|-|-|-|
-| Billie Jean Simmons | @JillieBeanSim | BillieJean.Simmons@ibm.com | Co-Lead, Developer |
-| Fernando Rijo Cedeno | @zFernand0 | fernando.rijocedeno@broadcom.com | Developer, Security Squad Rep |
-| Jessica Tonda | @JTonda | jessica.tonda@broadcom.com | Scrum Master |
-| Ana X. Ceron | @anaxceron | ana.ceron@broadcom.com | Tech Writer |
-| Rudy Flores | @rudyflores | rudyflores@ibm.com | Developer |
-| Trae Yelovich | @traeok | trae.yelovich@broadcom.com | Developer |
-| Timothy Johnson | @t1m0thyj | timothy.johnson@broadcom.com | TSC Rep, Developer |
-| Adam Wolfe | @adam-wolfe | adam.wolfe@broadcom.com | Co-Lead |
-| Na Tian (Tina) | @tiantn | tiantn@cn.ibm.com | Developer |
-| Qi Liang | @std4lqi | liangqi@cn.ibm.com | Developer |
-| Santhoshi Boyina | @SanthoshiBoyina | santhoshi.boyina1@ibm.com | Developer |
-| Likhitha Nimma | @likhithanimma1 | Likhitha.Nimma@ibm.com | Developer |
-| Andrew W. Harn | @awharn | andrew.harn@broadcom.com | Developer |
+The list of administrators is here: https://github.com/orgs/zowe/teams/zowe-explorer-administrators
 
-See the full lists below:
-- https://github.com/orgs/zowe/teams/zowe-explorer-administrators
-- https://github.com/orgs/zowe/teams/zowe-explorer-committers
-- https://github.com/orgs/zowe/teams/zowe-explorer-contributors
+The list of committers is here: https://github.com/orgs/zowe/teams/zowe-explorer-committers
+
+The list of contributers in here: https://github.com/orgs/zowe/teams/zowe-explorer-contributors
+
+#### CICS Explorer
+
+The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cics-explorer-committers
+
 
 ## Zowe Operations Squads
 
