@@ -28,17 +28,6 @@ The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cli-comm
 
 The list of contributers is here: https://github.com/orgs/zowe/teams/zowe-cli-contributors
 
-### Zowe Web UI Squad
-Committers are tracked via github teams, for permission management
-Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
-Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
-
-- Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
-- JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
-- Server framework committers - https://github.com/orgs/zowe/teams/committers-app-server-framework
-- UI framework committers - https://github.com/orgs/zowe/teams/committers-app-ui-framework
-- App committers - https://github.com/orgs/zowe/teams/committers-apps
-
 ### Zowe Explorer Squad
 
 The list of administrators is here: https://github.com/orgs/zowe/teams/zowe-explorer-administrators
@@ -50,6 +39,17 @@ The list of contributers in here: https://github.com/orgs/zowe/teams/zowe-explor
 #### CICS Explorer
 
 The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cics-explorer-committers
+
+### Zowe Web UI Squad
+Committers are tracked via github teams, for permission management
+Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
+Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
+
+- Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
+- JP Linardon (Scrum Master) - @jplinardon (jlinardon@rocketsoftware.com)
+- Server framework committers - https://github.com/orgs/zowe/teams/committers-app-server-framework
+- UI framework committers - https://github.com/orgs/zowe/teams/committers-app-ui-framework
+- App committers - https://github.com/orgs/zowe/teams/committers-apps
 
 
 ## Zowe Operations Squads
