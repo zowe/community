@@ -26,7 +26,7 @@ The list of administrators is here: https://github.com/orgs/zowe/teams/zowe-cli-
 
 The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cli-committers
 
-The list of contributers is here: https://github.com/orgs/zowe/teams/zowe-cli-contributors
+The list of contributors is here: https://github.com/orgs/zowe/teams/zowe-cli-contributors
 
 ### Zowe Explorer Squad
 
@@ -34,7 +34,7 @@ The list of administrators is here: https://github.com/orgs/zowe/teams/zowe-expl
 
 The list of committers is here: https://github.com/orgs/zowe/teams/zowe-explorer-committers
 
-The list of contributers in here: https://github.com/orgs/zowe/teams/zowe-explorer-contributors
+The list of contributors in here: https://github.com/orgs/zowe/teams/zowe-explorer-contributors
 
 #### CICS Explorer
 
@@ -42,7 +42,7 @@ The list of committers is here: https://github.com/orgs/zowe/teams/zowe-cics-exp
 
 ### Zowe Web UI Squad
 Committers are tracked via github teams, for permission management
-Contributers are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
+Contributors are informally tracked via one github team, https://github.com/orgs/zowe/teams/web-ui-squad
 Our definition of Lead, Committers and Contributors roughly follows https://github.com/zowe/zlc/blob/master/process/roles.md
 
 - Sean Grady (Lead) - @1000TurquoisePogs (sgrady@rocketsoftware.com)
