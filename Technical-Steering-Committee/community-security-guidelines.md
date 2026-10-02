@@ -256,7 +256,7 @@ To join and remain on the list, organizations must:
 
 ### Confidentiality Instrument
 - Handled via a **standard, one-page community acknowledgement form** approved by the TSC.
-- [TODO: Link to standard community one-page confidentiality acknowledgement form]
+- Form: [`confidentiality-acknowledgement.md`](confidentiality-acknowledgement.md) (v1.0, submitted for TSC approval) with the [CRA Coordination Protocol](confidentiality-acknowledgement.md#cra-coordination-protocol) annex.
 - Not an NDA. All parties operate under the same rules.
 
 ### Transparent Membership
@@ -372,7 +372,7 @@ Within 3 to 5 business days after Phase 4 (public CVE publication), the Fix Lead
 
 To enact this policy across the Zowe community, the Zowe Technical Steering Committee (TSC) has identified the following action item to resolve prior to final policy lock:
 
-1. **Standard Confidentiality Instrument Authoring & CRA Coordination Protocol:** Author the finalized text of the community one-page confidentiality agreement (replacing the TODO stub) and confirm CRA statutory reporting coordination protocols across participating corporate legal teams.
+1. **Standard Confidentiality Instrument Authoring & CRA Coordination Protocol:** The form text is proposed in [`confidentiality-acknowledgement.md`](confidentiality-acknowledgement.md) with the CRA Coordination Protocol annex. Remaining before final policy lock: TSC approval of the form text, legal review across participating corporate legal teams, and vendor confirmation of the coordination protocol.
 
 ---
 
