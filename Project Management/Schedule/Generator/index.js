@@ -1,3 +1,8 @@
+// DEPRECATED: generates the old PI-based cadence (Code Freeze = GA - 28 days,
+// System Demo = GA + 8 days) which no longer matches the Zowe release schedule.
+// The authoritative schedule is published on https://www.zowe.org/vnext
+// (source: zowe/zowe.github.io). See README.md.
+
 const DAYS_IN_WEEK = 7
 const PI_LENGTH_IN_DAYS = 13 * DAYS_IN_WEEK;
 
