@@ -114,6 +114,7 @@ To prevent continuous release churn, overlapping embargoes, and version conflict
    - Can otherwise be used if there is no need for batched security releases.
 
 ### Phase 0: Intake and Triage
+- **Reporting Channel:** Vulnerabilities are reported to the Zowe Security Response Committee at **zowe-security@lists.openmainframeproject.org** — the same address published on [zowe.org/security](https://zowe.org/security) and in the `SECURITY.md` of every `zowe/*` repository.
 - **Turnaround Guidance & EU CRA Timelines:**
   - **Standard Turnaround:** Initial intake and triage should happen as quickly as reasonable given the severity and impact of the reported issue. The committee aims for an initial response and preliminary assessment within a few business days, and ideally no longer than one week turnaround.
   - **Active Exploits (Emergency Timeline):** If an incoming report shows an **actively exploited vulnerability in the wild**, emergency timelines apply. The Linux Foundation acts as an Open Source Software Steward under the EU Cyber Resilience Act (CRA). The SRC immediately alerts Linux Foundation counsel and vendor partners, following strict timelines:
@@ -151,7 +152,7 @@ To prevent continuous release churn, overlapping embargoes, and version conflict
 
 ### Phase 4: Full Disclosure and CVE Publication
 
-### Phase 4a: Public Release of Artifacts
+#### Phase 4a: Public Release of Artifacts
 - **Public GA:** The restricted artifacts are promoted to public download mirrors (`zowe.org/download`) and public package registries.
   - **Server:** Byte-for-bit identical copy from the restricted channel.
   - **Client:** Merged/rebased onto active branch (e.g. `main`, `v3.x/staging`) and published as the next release number.
