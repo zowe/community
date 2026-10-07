@@ -1,6 +1,6 @@
 # Zowe Version Release Schedule
 
-We release Zowe on a regular schedule. Major versions every two years. Minor versions on a schedule published in [Community repository](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md). The minor changes shouldn't introduce breaking changes. We introduce the breaking changes only on the border of the major releases.
+We release Zowe on a regular schedule. Major versions every two years. Minor versions on a schedule published on [zowe.org/vnext](https://www.zowe.org/vnext). The minor changes shouldn't introduce breaking changes. We introduce the breaking changes only on the border of the major releases.
 
 As a Zowe community we have three types of releases:
 
@@ -21,7 +21,7 @@ The maintenance release is not a regularly planned release. Unless absolutely re
 
 ## Active release
 
-This release gets updates every 6 weeks according to the published schedule. The release contains fixes and new functionalities. The community focuses on not introducing breaking changes during an Active phase of release. On top of what is considered critical for Maintenance release this is considered critical for Active release:
+This release gets updates according to the published schedule. The release contains fixes and new functionalities. The community focuses on not introducing breaking changes during an Active phase of release. On top of what is considered critical for Maintenance release this is considered critical for Active release:
 
 - Unexpected downtime occurs or unacceptable performance
 - No viable workaround can be provided through configuration workarounds
@@ -49,7 +49,7 @@ Development branch of the Zowe, which contains the code currently being worked o
 
 ## Milestones and Release Candidates
 
-Zowe Milestones are time-based releases with a schedule published on: [https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence). The schedule also contains dates for Code Freeze, RC builds, System Demo, and the expected publishing.
+Zowe Milestones are time-based releases with a schedule published on [zowe.org/vnext](https://www.zowe.org/vnext). The schedule contains dates for Code Freeze, RC builds, Testing, GA, and System Demo. Since the Zowe 3.6.0 release, the client-side components (CLI, Zowe Explorer, SDKs) and the server-side components are released on separate dates; see the schedule for both.
 
 Each Squad decides if there will be a deliverable depending on the content that went into the Release. Squads are self-governing and are free to have their own schedules as long as they meet the requirements of the release as defined by the community.
 
@@ -139,7 +139,7 @@ This list identifies the specific Zowe V1 components designated as Core:
 
 ## System demo
 
-At release time, each Squad presents its work during the System demo. The System demo is open. Squads present new functionality introduced in the upcoming release. The schedule is presnted in the following document:[https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence](https://github.com/zowe/community/blob/master/Project%20Management/Schedule/Zowe%20PI%20%26%20Sprint%20Cadence.md#sprint-cadence) The meeting is recorded, and the recording is subsequently published.
+At release time, each Squad presents its work during the System demo. The System demo is open. Squads present new functionality introduced in the upcoming release. The schedule is presented on [zowe.org/vnext](https://www.zowe.org/vnext). The meeting is recorded, and the recording is subsequently published.
 
 ## Post Release Activities
 
